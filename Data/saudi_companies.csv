@@ -1,0 +1,271 @@
+﻿symbol,ticker,name_en,name_ar,market,status
+1010,1010.SR,RIBL,الرياض,TASI,active
+1020,1020.SR,BJAZ,الجزيرة,TASI,active
+1030,1030.SR,SAIB,الإستثمار,TASI,active
+1050,1050.SR,BSF,بي اس اف,TASI,active
+1060,1060.SR,SAB,الأول,TASI,active
+1080,1080.SR,ANB,العربي,TASI,active
+1111,1111.SR,TADAWUL GROUP,مجموعة تداول,TASI,active
+1120,1120.SR,ALRAJHI,الراجحي,TASI,active
+1140,1140.SR,ALBILAD,البلاد,TASI,active
+1150,1150.SR,ALINMA,الإنماء,TASI,active
+1180,1180.SR,SNB,الأهلي,TASI,active
+1182,1182.SR,AMLAK,أملاك,TASI,active
+1183,1183.SR,SHL,سهل,TASI,active
+1201,1201.SR,TAKWEEN,تكوين,TASI,active
+1202,1202.SR,MEPCO,مبكو,TASI,active
+1210,1210.SR,BCI,بي سي آي,TASI,active
+1211,1211.SR,MAADEN,معادن,TASI,active
+1212,1212.SR,ASTRA INDUSTRIAL,أسترا الصناعية,TASI,active
+1213,1213.SR,NASEEJ,نسيج,TASI,active
+1214,1214.SR,SHAKER,شاكر,TASI,active
+1301,1301.SR,ASLAK,أسلاك,TASI,active
+1302,1302.SR,BAWAN,بوان,TASI,active
+1303,1303.SR,EIC,الصناعات الكهربائية,TASI,active
+1304,1304.SR,ALYAMAMAH STEEL,اليمامة للحديد,TASI,active
+1320,1320.SR,SSP,أنابيب السعودية,TASI,active
+1321,1321.SR,EAST PIPES,أنابيب الشرق,TASI,active
+1322,1322.SR,AMAK,أماك,TASI,active
+1323,1323.SR,UCIC,يو سي آي سي,TASI,active
+1324,1324.SR,SALEH ALRASHED,صالح الراشد,TASI,active
+1810,1810.SR,SEERA,سيرا,TASI,active
+1820,1820.SR,BAAN,بان,TASI,active
+1830,1830.SR,LEEJAM SPORTS,لجام للرياضة,TASI,active
+1831,1831.SR,MAHARAH,مهارة,TASI,active
+1832,1832.SR,SADR,صدر,TASI,active
+1833,1833.SR,ALMAWARID,الموارد,TASI,active
+1834,1834.SR,SMASCO,سماسكو,TASI,active
+1835,1835.SR,TAMKEEN,تمكين,TASI,active
+2001,2001.SR,CHEMANOL,كيمانول,TASI,active
+2010,2010.SR,SABIC,سابك,TASI,active
+2020,2020.SR,SABIC AGRI-NUTRIENTS,سابك للمغذيات الزراعية,TASI,active
+2030,2030.SR,SARCO,المصافي,TASI,active
+2040,2040.SR,SAUDI CERAMICS,الخزف السعودي,TASI,active
+2050,2050.SR,SAVOLA GROUP,مجموعة صافولا,TASI,active
+2060,2060.SR,TASNEE,التصنيع,TASI,active
+2070,2070.SR,SPIMACO,الدوائية,TASI,active
+2080,2080.SR,GASCO,الغاز,TASI,active
+2081,2081.SR,AWPT,الخريف,TASI,active
+2082,2082.SR,ACWA,أكوا,TASI,active
+2083,2083.SR,MARAFIQ,مرافق,TASI,active
+2084,2084.SR,MIAHONA,مياهنا,TASI,active
+2090,2090.SR,NGC,جبسكو,TASI,active
+2100,2100.SR,WAFRAH,وفرة,TASI,active
+2110,2110.SR,SAUDI CABLE,الكابلات السعودية,TASI,active
+2120,2120.SR,SAIC,متطورة,TASI,active
+2130,2130.SR,SIDC,صدق,TASI,active
+2140,2140.SR,AYYAN,أيان,TASI,active
+2150,2150.SR,ZOUJAJ,زجاج,TASI,active
+2160,2160.SR,AMIANTIT,أميانتيت,TASI,active
+2170,2170.SR,ALUJAIN,اللجين,TASI,active
+2180,2180.SR,FIPCO,فيبكو,TASI,active
+2190,2190.SR,SISCO HOLDING,سيسكو القابضة,TASI,active
+2200,2200.SR,APC,أنابيب,TASI,active
+2210,2210.SR,NAMA CHEMICALS,نماء للكيماويات,TASI,active
+2220,2220.SR,MAADANIYAH,معدنية,TASI,active
+2222,2222.SR,SAUDI ARAMCO,أرامكو السعودية,TASI,active
+2223,2223.SR,LUBEREF,لوبريف,TASI,active
+2230,2230.SR,CHEMICAL,الكيميائية,TASI,active
+2240,2240.SR,SENAAT,صناعات,TASI,active
+2250,2250.SR,SIIG,المجموعة السعودية,TASI,active
+2270,2270.SR,SADAFCO,سدافكو,TASI,active
+2280,2280.SR,ALMARAI,المراعي,TASI,active
+2281,2281.SR,TANMIAH,تنمية,TASI,active
+2282,2282.SR,NAQI,نقي,TASI,active
+2283,2283.SR,FIRST MILLS,المطاحن الأولى,TASI,active
+2284,2284.SR,MODERN MILLS,المطاحن الحديثة,TASI,active
+2285,2285.SR,ARABIAN MILLS,المطاحن العربية,TASI,active
+2286,2286.SR,FOURTH MILLING,المطاحن الرابعة,TASI,active
+2287,2287.SR,ENTAJ,إنتاج,TASI,active
+2288,2288.SR,NOFOTH,نفوذ,TASI,active
+2290,2290.SR,YANSAB,ينساب,TASI,active
+2300,2300.SR,SPM,صناعة الورق,TASI,active
+2310,2310.SR,SIPCHEM,سبكيم العالمية,TASI,active
+2320,2320.SR,ALBABTAIN,البابطين,TASI,active
+2330,2330.SR,ADVANCED,المتقدمة,TASI,active
+2340,2340.SR,ARTEX,ارتيكس,TASI,active
+2350,2350.SR,SAUDI KAYAN,كيان السعودية,TASI,active
+2360,2360.SR,SVCP,الفخارية,TASI,active
+2370,2370.SR,MESC,مسك,TASI,active
+2380,2380.SR,PETRO RABIGH,بترو رابغ,TASI,active
+2381,2381.SR,ARABIAN DRILLING,الحفر العربية,TASI,active
+2382,2382.SR,ADES,أديس,TASI,active
+3002,3002.SR,NAJRAN CEMENT,أسمنت نجران,TASI,active
+3003,3003.SR,CITY CEMENT,أسمنت المدينة,TASI,active
+3004,3004.SR,NORTHERN CEMENT,أسمنت الشمالية,TASI,active
+3005,3005.SR,UACC,أسمنت ام القرى,TASI,active
+3007,3007.SR,OASIS,الواحة,TASI,active
+3008,3008.SR,ALKATHIRI,الكثيري,TASI,active
+3010,3010.SR,ACC,أسمنت العربية,TASI,active
+3020,3020.SR,YC,أسمنت اليمامة,TASI,active
+3030,3030.SR,SAUDI CEMENT,أسمنت السعودية,TASI,active
+3040,3040.SR,QACCO,أسمنت القصيم,TASI,active
+3050,3050.SR,SPCC,أسمنت الجنوب,TASI,active
+3060,3060.SR,YCC,أسمنت ينبع,TASI,active
+3080,3080.SR,EPCCO,أسمنت الشرقية,TASI,active
+3090,3090.SR,TCC,أسمنت تبوك,TASI,active
+3091,3091.SR,JOUF CEMENT,أسمنت الجوف,TASI,active
+3092,3092.SR,RIYADH CEMENT,أسمنت الرياض,TASI,active
+4001,4001.SR,A.OTHAIM MARKET,أسواق ع العثيم,TASI,active
+4002,4002.SR,MOUWASAT,المواساة,TASI,active
+4003,4003.SR,EXTRA,إكسترا,TASI,active
+4004,4004.SR,DALLAH HEALTH,دله الصحية,TASI,active
+4005,4005.SR,CARE,رعاية,TASI,active
+4006,4006.SR,FARM SUPERSTORES,أسواق المزرعة,TASI,active
+4007,4007.SR,ALHAMMADI,الحمادي,TASI,active
+4008,4008.SR,SACO,ساكو,TASI,active
+4009,4009.SR,SAUDI GERMAN HEALTH,السعودي الألماني الصحية,TASI,active
+4011,4011.SR,LAZURDE,لازوردي,TASI,active
+4012,4012.SR,ALASEEL,الأصيل,TASI,active
+4013,4013.SR,SULAIMAN ALHABIB,سليمان الحبيب,TASI,active
+4014,4014.SR,EQUIPMENT HOUSE,دار المعدات,TASI,active
+4015,4015.SR,JAMJOOM PHARMA,جمجوم فارما,TASI,active
+4016,4016.SR,AVALON PHARMA,أفالون فارما,TASI,active
+4017,4017.SR,FAKEEH CARE,فقيه الطبية,TASI,active
+4018,4018.SR,ALMOOSA,الموسى,TASI,active
+4019,4019.SR,SMC HEALTHCARE,اس ام سي للرعاية الصحية,TASI,active
+4020,4020.SR,ALAKARIA,العقارية,TASI,active
+4021,4021.SR,CMCER,المركز الكندي الطبي,TASI,active
+4030,4030.SR,BAHRI,البحري,TASI,active
+4031,4031.SR,SGS,الخدمات الأرضية,TASI,active
+4040,4040.SR,SAPTCO,سابتكو,TASI,active
+4050,4050.SR,SASCO,ساسكو,TASI,active
+4051,4051.SR,BAAZEEM,باعظيم,TASI,active
+4061,4061.SR,ANAAM HOLDING,أنعام القابضة,TASI,active
+4070,4070.SR,TAPRCO,تهامة,TASI,active
+4071,4071.SR,ALARABIA,العربية,TASI,active
+4072,4072.SR,MBC GROUP,مجموعة إم بي سي,TASI,active
+4080,4080.SR,SINAD HOLDING,سناد القابضة,TASI,active
+4081,4081.SR,NAYIFAT,النايفات,TASI,active
+4082,4082.SR,MRNA,مرنة,TASI,active
+4083,4083.SR,TASHEEL,تسهيل,TASI,active
+4084,4084.SR,DERAYAH,دراية,TASI,active
+4090,4090.SR,TAIBA,طيبة,TASI,active
+4100,4100.SR,MCDC,مكة,TASI,active
+4110,4110.SR,BATIC,باتك,TASI,active
+4130,4130.SR,SAUDI DARB,درب السعودية,TASI,active
+4140,4140.SR,SIECO,صادرات,TASI,active
+4141,4141.SR,ALOMRAN,العمران,TASI,active
+4142,4142.SR,RIYADH CABLES,كابلات الرياض,TASI,active
+4143,4143.SR,TALCO,تالكو,TASI,active
+4144,4144.SR,RAOOM,رؤوم,TASI,active
+4145,4145.SR,OGC,أو جي سي,TASI,active
+4146,4146.SR,GAS,جاز,TASI,active
+4147,4147.SR,CGS,سي جي إس,TASI,active
+4148,4148.SR,ALWASAIL INDUSTRIAL,الوسائل الصناعية,TASI,active
+4150,4150.SR,ARDCO,التعمير,TASI,active
+4160,4160.SR,THIMAR,ثمار,TASI,active
+4161,4161.SR,BINDAWOOD,بن داود,TASI,active
+4162,4162.SR,ALMUNAJEM,المنجم,TASI,active
+4163,4163.SR,ALDAWAA,الدواء,TASI,active
+4164,4164.SR,NAHDI,النهدي,TASI,active
+4165,4165.SR,ALMAJED OUD,الماجد للعود,TASI,active
+4170,4170.SR,TECO,شمس,TASI,active
+4180,4180.SR,FITAIHI GROUP,مجموعة فتيحي,TASI,active
+4190,4190.SR,JARIR,جرير,TASI,active
+4191,4191.SR,ABO MOATI,أبو معطي,TASI,active
+4192,4192.SR,ALSAIF GALLERY,السيف غاليري,TASI,active
+4193,4193.SR,NICE ONE,نايس ون,TASI,active
+4194,4194.SR,BUILD STATION,محطة البناء,TASI,active
+4200,4200.SR,ALDREES,الدريس,TASI,active
+4210,4210.SR,SRMG,الأبحاث والإعلام,TASI,active
+4220,4220.SR,EMAAR EC,إعمار,TASI,active
+4230,4230.SR,RED SEA,البحر الأحمر,TASI,active
+4240,4240.SR,CENOMI RETAIL,سينومي ريتيل,TASI,active
+4250,4250.SR,JABAL OMAR,جبل عمر,TASI,active
+4260,4260.SR,BUDGET SAUDI,بدجت السعودية,TASI,active
+4261,4261.SR,THEEB,ذيب,TASI,active
+4262,4262.SR,LUMI,لومي,TASI,active
+4263,4263.SR,SAL,سال,TASI,active
+4264,4264.SR,FLYNAS,طيران ناس,TASI,active
+4265,4265.SR,CHERRY,شري,TASI,active
+4270,4270.SR,SPPC,طباعة وتغليف,TASI,active
+4280,4280.SR,KINGDOM,المملكة,TASI,active
+4290,4290.SR,ALKHALEEJ TRNG,الخليج للتدريب,TASI,active
+4291,4291.SR,NCLE,الوطنية للتعليم,TASI,active
+4292,4292.SR,ATAA,عطاء,TASI,active
+4300,4300.SR,DAR ALARKAN,دار الأركان,TASI,active
+4310,4310.SR,KEC,مدينة المعرفة,TASI,active
+4320,4320.SR,ALANDALUS,الأندلس,TASI,active
+4321,4321.SR,CENOMI CENTERS,سينومي سنترز,TASI,active
+4322,4322.SR,RETAL,رتال,TASI,active
+4323,4323.SR,SUMOU,سمو,TASI,active
+4324,4324.SR,BANAN,بنان,TASI,active
+4325,4325.SR,MASAR,مسار,TASI,active
+4326,4326.SR,ALMAJDIAH,الماجدية,TASI,active
+4327,4327.SR,ALRAMZ,الرمز,TASI,active
+4330,4330.SR,RIYAD REIT,الرياض ريت,TASI,active
+4331,4331.SR,ALJAZIRA REIT,الجزيرة ريت,TASI,active
+4332,4332.SR,JADWA REIT ALHARAMAIN,جدوى ريت الحرمين,TASI,active
+4333,4333.SR,TALEEM REIT,تعليم ريت,TASI,active
+4334,4334.SR,AL MAATHER REIT,المعذر ريت,TASI,active
+4335,4335.SR,MUSHARAKA REIT,مشاركة ريت,TASI,active
+4336,4336.SR,MULKIA REIT,ملكية ريت,TASI,active
+4337,4337.SR,AL AZIZIAH REIT,العزيزية ريت,TASI,active
+4338,4338.SR,ALAHLI REIT 1,الأهلي ريت 1,TASI,active
+4339,4339.SR,DERAYAH REIT,دراية ريت,TASI,active
+4340,4340.SR,Al RAJHI REIT,الراجحي ريت,TASI,active
+4342,4342.SR,JADWA REIT SAUDI,جدوى ريت السعودية,TASI,active
+4344,4344.SR,SEDCO CAPITAL REIT,سدكو كابيتال ريت,TASI,active
+4345,4345.SR,ALINMA RETAIL REIT,الإنماء ريت للتجزئة,TASI,active
+4346,4346.SR,MEFIC REIT,ميفك ريت,TASI,active
+4347,4347.SR,BONYAN REIT,بنيان ريت,TASI,active
+4348,4348.SR,ALKHABEER REIT,الخبير ريت,TASI,active
+4349,4349.SR,ALINMA HOSPITALITY REIT,الإنماء ريت الفندقي,TASI,active
+4350,4350.SR,ALISTITHMAR REIT,الاستثمار ريت,TASI,active
+5110,5110.SR,SAUDI ENERGY,السعودية للطاقة,TASI,active
+6001,6001.SR,HB,حلواني إخوان,TASI,active
+6002,6002.SR,HERFY FOODS,هرفي للأغذية,TASI,active
+6004,6004.SR,CATRION,كاتريون,TASI,active
+6010,6010.SR,NADEC,نادك,TASI,active
+6012,6012.SR,RAYDAN,ريدان,TASI,active
+6013,6013.SR,DWF,التطويرية الغذائية,TASI,active
+6014,6014.SR,ALAMAR,الآمار,TASI,active
+6015,6015.SR,AMERICANA,أمريكانا,TASI,active
+6016,6016.SR,BURGERIZZR,برغرايززر,TASI,active
+6017,6017.SR,JAHEZ,جاهز,TASI,active
+6018,6018.SR,SPORT CLUBS,الأندية للرياضة,TASI,active
+6019,6019.SR,ALMASAR ALSHAMIL,المسار الشامل,TASI,active
+6020,6020.SR,GACO,جاكو,TASI,active
+6040,6040.SR,TADCO,تبوك الزراعية,TASI,active
+6050,6050.SR,SFICO,الأسماك,TASI,active
+6060,6060.SR,SHARQIYAH DEV,الشرقية للتنمية,TASI,active
+6070,6070.SR,ALJOUF,الجوف,TASI,active
+6090,6090.SR,JAZADCO,جازادكو,TASI,active
+7010,7010.SR,STC,اس تي سي,TASI,active
+7020,7020.SR,ETIHAD ETISALAT,إتحاد إتصالات,TASI,active
+7030,7030.SR,ZAIN KSA,زين السعودية,TASI,active
+7040,7040.SR,GO TELECOM,قو للإتصالات,TASI,active
+7200,7200.SR,MIS,إم آي إس,TASI,active
+7201,7201.SR,ARAB SEA,بحر العرب,TASI,active
+7202,7202.SR,SOLUTIONS,سلوشنز,TASI,active
+7203,7203.SR,ELM,علم,TASI,active
+7204,7204.SR,2P,توبي,TASI,active
+7205,7205.SR,Shrkh Dar Al Bld Lhlwl Al Aamal,دار البلد,TASI,active
+7211,7211.SR,AZM,عزم,TASI,active
+8010,8010.SR,TAWUNIYA,التعاونية,TASI,active
+8012,8012.SR,JAZIRA TAKAFUL,جزيرة تكافل,TASI,active
+8020,8020.SR,MALATH INSURANCE,ملاذ للتأمين,TASI,active
+8030,8030.SR,MEDGULF,ميدغلف للتأمين,TASI,active
+8040,8040.SR,MUTAKAMELA,متكاملة,TASI,active
+8050,8050.SR,SALAMA,سلامة,TASI,active
+8060,8060.SR,WALAA,ولاء,TASI,active
+8070,8070.SR,ARABIAN SHIELD,الدرع العربي,TASI,active
+8100,8100.SR,SAICO,سايكو,TASI,active
+8120,8120.SR,GULF UNION ALAHLIA,إتحاد الخليج الأهلية,TASI,active
+8150,8150.SR,ACIG,أسيج,TASI,active
+8160,8160.SR,AICC,التأمين العربية,TASI,active
+8170,8170.SR,ALETIHAD,الاتحاد,TASI,active
+8180,8180.SR,ALSAGR INSURANCE,الصقر للتأمين,TASI,active
+8190,8190.SR,UCA,المتحدة للتأمين,TASI,active
+8200,8200.SR,SAUDI RE,الإعادة السعودية,TASI,active
+8210,8210.SR,BUPA ARABIA,بوبا العربية,TASI,active
+8230,8230.SR,ALRAJHI TAKAFUL,تكافل الراجحي,TASI,active
+8240,8240.SR,CHUBB,تْشب,TASI,active
+8250,8250.SR,GIG,جي آي جي,TASI,active
+8260,8260.SR,GULF GENERAL,الخليجية العامة,TASI,active
+8280,8280.SR,LIVA,ليفا,TASI,active
+8300,8300.SR,WATANIYA,الوطنية,TASI,active
+8310,8310.SR,AMANA INSURANCE,أمانة للتأمين,TASI,active
+8311,8311.SR,ENAYA,عناية,TASI,active
+8313,8313.SR,RASAN,رسن,TASI,active
