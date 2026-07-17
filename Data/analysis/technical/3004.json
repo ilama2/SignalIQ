@@ -1,0 +1,41 @@
+{
+    "symbol": "3004",
+    "company_name": "أسمنت الشمالية",
+    "indicators": {
+        "sma20": 6.698499989509583,
+        "sma50": 6.841000003814697,
+        "sma200": 7.16470002412796,
+        "ema20": 6.697271406558949,
+        "ema50": 6.802601749840011,
+        "rsi": 27.67970492254507,
+        "macd": -0.0718069172616076,
+        "macd_signal": -0.06570180309765188,
+        "macd_histogram": -0.006105114163955719,
+        "stochastic_k": 4.545346173269784,
+        "stochastic_d": 3.03023078217987,
+        "upper_band": 6.845098145463998,
+        "middle_band": 6.698499989509583,
+        "lower_band": 6.551901833555167,
+        "atr": 0.059901466651253246,
+        "adx": 29.186160391039255,
+        "obv": 28606729.0,
+        "current_price": 6.579999923706055,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Oversold",
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

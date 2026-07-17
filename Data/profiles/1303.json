@@ -1,0 +1,29 @@
+{
+    "symbol": "1303",
+    "name": "الصناعات الكهربائية",
+    "name_en": "Electrical Industries Company",
+    "price": 13.84,
+    "change": -0.95,
+    "change_percent": -6.42,
+    "open": 14.65,
+    "high": 14.75,
+    "low": 13.77,
+    "previous_close": 14.79,
+    "volume": 5939373,
+    "value": 83680529.32,
+    "bid": 13.84,
+    "ask": 13.85,
+    "bid_size": 54085,
+    "ask_size": 8241,
+    "liquidity": {
+        "inflow_value": 32500591.18,
+        "inflow_volume": 2313181,
+        "inflow_trades": 4972,
+        "outflow_value": 51179938.08,
+        "outflow_volume": 3626192,
+        "outflow_trades": 5469,
+        "net_value": -18679346.9
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

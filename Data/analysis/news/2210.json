@@ -1,0 +1,25 @@
+{
+    "symbol": "2210",
+    "company_name": "نماء للكيماويات",
+    "generated_at": "2026-07-17T13:21:38.377686",
+    "article_count": 0,
+    "articles": [],
+    "score": {
+        "score": 50,
+        "rating": "Neutral",
+        "positive_articles": 0,
+        "neutral_articles": 0,
+        "negative_articles": 0,
+        "average_sentiment": 0.0,
+        "confidence": 0.0,
+        "strengths": [],
+        "risks": []
+    },
+    "summary": {
+        "summary": "No relevant recent news articles were found for نماء للكيماويات.",
+        "key_events": [],
+        "opportunities": [],
+        "risks": [],
+        "expected_impact": "Unknown"
+    }
+}

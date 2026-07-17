@@ -1,0 +1,48 @@
+{
+    "symbol": "4110",
+    "company_name": "4110",
+    "sector": "Industrials",
+    "ratios": {
+        "roe": -0.14240364000736763,
+        "roa": -0.037438842519746766,
+        "gross_margin": 0.1276016833652154,
+        "operating_margin": 0.045821531277768855,
+        "net_margin": -0.11728703457682813,
+        "current_ratio": 0.8219727669800122,
+        "quick_ratio": 0.8114280706888328,
+        "operating_cash_flow_ratio": 0.27690232130609194,
+        "debt_ratio": 0.7309908398674011,
+        "debt_to_equity": 2.780421332584104,
+        "equity_multiplier": 3.8036336174725003,
+        "asset_turnover": 0.31920700062735996,
+        "cash_conversion_ratio": -1.800632532362604,
+        "free_cash_flow": 56296953.0,
+        "revenue_growth": 0.0034047562486565364,
+        "net_income_growth": 3.071511930473404
+    },
+    "valuation": {
+        "dcf_value": 1.3806157521428568,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 1.3806157521428568,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 13,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt"
+        ]
+    }
+}

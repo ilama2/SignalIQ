@@ -1,0 +1,47 @@
+{
+    "symbol": "4327",
+    "company_name": "4327",
+    "sector": "Real Estate",
+    "ratios": {
+        "roe": 0.15126673681595618,
+        "roa": 0.10003904992201489,
+        "gross_margin": 0.26122036471563465,
+        "operating_margin": 0.20139745035757126,
+        "net_margin": 0.2365609784418552,
+        "current_ratio": 3.129804969708116,
+        "quick_ratio": 1.1285517806716743,
+        "operating_cash_flow_ratio": -1.450627605394629,
+        "debt_ratio": 0.3386579757866345,
+        "debt_to_equity": 0.5120769033080149,
+        "equity_multiplier": 1.512076903308015,
+        "asset_turnover": 0.42288906049060704,
+        "cash_conversion_ratio": -2.705225652570107,
+        "free_cash_flow": -760129959.0,
+        "revenue_growth": 0.24800475572988115,
+        "net_income_growth": 0.7744581053405081
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 45810.44695659009,
+        "lynch_value": 22866.038478295046,
+        "pe_value": 138.3,
+        "intrinsic_value": 22938.26181162838,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 72,
+        "rating": "Buy",
+        "strengths": [
+            "High Net Margin",
+            "Strong Liquidity",
+            "Strong Revenue Growth",
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Negative Free Cash Flow"
+        ]
+    }
+}

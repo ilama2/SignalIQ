@@ -1,0 +1,44 @@
+{
+    "symbol": "1323",
+    "company_name": "يو سي آي سي",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.13449369265764896,
+        "roa": 0.07341048572856354,
+        "gross_margin": 0.1405812043920683,
+        "operating_margin": 0.05389026654165291,
+        "net_margin": 0.05626137146233496,
+        "current_ratio": 1.5423088924111479,
+        "quick_ratio": 1.004884641990234,
+        "operating_cash_flow_ratio": 0.45233737868379786,
+        "debt_ratio": 0.45417153564644486,
+        "debt_to_equity": 0.832077411324338,
+        "equity_multiplier": 1.832077411324338,
+        "asset_turnover": 1.3048115220175414,
+        "cash_conversion_ratio": 2.135798401168586,
+        "free_cash_flow": 94798757.0,
+        "revenue_growth": 0.04604021247619963,
+        "net_income_growth": -0.3654605511630181
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 1840.0224140575056,
+        "lynch_value": 911.5962070287527,
+        "pe_value": 29.7,
+        "intrinsic_value": 927.1062070287527,
+        "current_price": 25.079999923706055,
+        "margin_of_safety": 0.9729480832578136,
+        "upside": 35.96595733050364,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 48,
+        "rating": "Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Net Income Declining"
+        ]
+    }
+}

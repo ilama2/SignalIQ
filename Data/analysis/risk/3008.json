@@ -1,0 +1,30 @@
+{
+    "symbol": "3008",
+    "company_name": "الكثيري",
+    "generated_at": "2026-07-17T13:30:41.787514",
+    "risk_score": 38.08,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 41.87,
+    "fundamental_safety_score": 26.72,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 33.5335,
+        "downside_volatility": 20.2417,
+        "max_drawdown": 67.3709,
+        "value_at_risk_95": 2.7976,
+        "conditional_var_95": 4.2919,
+        "sharpe_ratio": -0.5108,
+        "debt_to_equity": 3.3908,
+        "current_ratio": 1.2239,
+        "interest_coverage": null
+    },
+    "volatility": 33.5335,
+    "max_drawdown": 67.3709,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio"
+    ],
+    "summary": "الكثيري received a safety score of 38.1/100 and a high investment risk classification. Annualized volatility was 33.5%. Maximum drawdown was 67.4%. Main risk: Large historical maximum drawdown."
+}

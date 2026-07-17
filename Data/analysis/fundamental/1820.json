@@ -1,0 +1,49 @@
+{
+    "symbol": "1820",
+    "company_name": "بان",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -72.30884987459692,
+        "roa": -0.12445830781744996,
+        "gross_margin": 0.172849131024282,
+        "operating_margin": -0.0773049426845803,
+        "net_margin": -0.31094231480340195,
+        "current_ratio": 0.34772197711180797,
+        "quick_ratio": 0.32629692772268615,
+        "operating_cash_flow_ratio": 0.3395699520772436,
+        "debt_ratio": 0.9982787956379711,
+        "debt_to_equity": 579.988534575421,
+        "equity_multiplier": 580.988534575421,
+        "asset_turnover": 0.40026172666830706,
+        "cash_conversion_ratio": -1.0441842488628144,
+        "free_cash_flow": 185491000.0,
+        "revenue_growth": -0.043695557362943054,
+        "net_income_growth": -39.00640301318268
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 2.0199999809265137,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 5,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

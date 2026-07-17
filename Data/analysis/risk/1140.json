@@ -1,0 +1,31 @@
+{
+    "symbol": "1140",
+    "company_name": "البلاد",
+    "generated_at": "2026-07-17T13:30:41.600482",
+    "risk_score": 49.75,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 64.67,
+    "fundamental_safety_score": 5.0,
+    "metrics": {
+        "observations": 1247,
+        "annualized_volatility": 27.7668,
+        "downside_volatility": 17.4016,
+        "max_drawdown": 36.7908,
+        "value_at_risk_95": 2.473,
+        "conditional_var_95": 3.6332,
+        "sharpe_ratio": 0.3939,
+        "debt_to_equity": 7.0995,
+        "current_ratio": 0.0,
+        "interest_coverage": null
+    },
+    "volatility": 27.7668,
+    "max_drawdown": 36.7908,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "البلاد received a safety score of 49.8/100 and a medium investment risk classification. Annualized volatility was 27.8%. Maximum drawdown was 36.8%. Main risk: Large historical maximum drawdown."
+}

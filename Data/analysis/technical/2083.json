@@ -1,0 +1,37 @@
+{
+    "symbol": "2083",
+    "company_name": "مرافق",
+    "indicators": {
+        "sma20": 38.05300025939941,
+        "sma50": 38.60520004272461,
+        "sma200": 35.36275185585022,
+        "ema20": 37.943648737147036,
+        "ema50": 37.57900054706641,
+        "rsi": 37.81637120563261,
+        "macd": -0.25913848987726595,
+        "macd_signal": -0.0702751018699605,
+        "macd_histogram": -0.18886338800730545,
+        "stochastic_k": 2.8168351941199856,
+        "stochastic_d": 6.203093421135331,
+        "upper_band": 39.26930755242251,
+        "middle_band": 38.05300025939941,
+        "lower_band": 36.83669296637631,
+        "atr": 0.7050089930083124,
+        "adx": 18.733206043275665,
+        "obv": 46423524.0,
+        "current_price": 36.65999984741211,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 50,
+        "rating": "Sell",
+        "strengths": [
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

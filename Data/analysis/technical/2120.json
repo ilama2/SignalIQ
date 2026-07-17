@@ -1,0 +1,39 @@
+{
+    "symbol": "2120",
+    "company_name": "متطورة",
+    "indicators": {
+        "sma20": 16.70250024795532,
+        "sma50": 16.773600006103514,
+        "sma200": 17.961950001716612,
+        "ema20": 16.769629090760848,
+        "ema50": 16.7437922811009,
+        "rsi": 44.896663145411004,
+        "macd": -0.00996192158189757,
+        "macd_signal": 0.012465310894417226,
+        "macd_histogram": -0.0224272324763148,
+        "stochastic_k": 35.784275226544295,
+        "stochastic_d": 45.75160098783161,
+        "upper_band": 17.521716309612827,
+        "middle_band": 16.70250024795532,
+        "lower_band": 15.883284186297816,
+        "atr": 0.4391646777537092,
+        "adx": 18.494218332083392,
+        "obv": 136559239.0,
+        "current_price": 16.479999542236328,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 40,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

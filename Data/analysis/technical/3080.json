@@ -1,0 +1,41 @@
+{
+    "symbol": "3080",
+    "company_name": "أسمنت الشرقية",
+    "indicators": {
+        "sma20": 26.59900007247925,
+        "sma50": 25.7046000289917,
+        "sma200": 24.225340566635133,
+        "ema20": 26.394409513180513,
+        "ema50": 25.725657776264097,
+        "rsi": 60.06497539897733,
+        "macd": 0.24803876654927492,
+        "macd_signal": 0.30860928893434664,
+        "macd_histogram": -0.06057052238507171,
+        "stochastic_k": 55.555503227773805,
+        "stochastic_d": 49.291360386035684,
+        "upper_band": 27.463173535826947,
+        "middle_band": 26.59900007247925,
+        "lower_band": 25.734826609131552,
+        "atr": 0.4355596324953331,
+        "adx": 27.527586620691913,
+        "obv": 3244172.0,
+        "current_price": 26.719999313354492,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 85,
+        "rating": "Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

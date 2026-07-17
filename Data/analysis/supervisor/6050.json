@@ -1,0 +1,38 @@
+{
+    "symbol": "6050",
+    "company_name": "6050",
+    "generated_at": "2026-07-17T13:46:13.869178",
+    "final_score": 34.27,
+    "recommendation": "Sell",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 16.0,
+        "technical": 45.0,
+        "news": 50.0,
+        "risk": 34.5
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Positive Free Cash Flow",
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "6050 received a final investment score of 34.3/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Positive Free Cash Flow. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

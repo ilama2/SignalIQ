@@ -1,0 +1,48 @@
+{
+    "symbol": "2250",
+    "company_name": "المجموعة السعودية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.012058023013200763,
+        "roa": -0.011750535292466167,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.0,
+        "current_ratio": 5.297656166003655,
+        "quick_ratio": 5.297656166003655,
+        "operating_cash_flow_ratio": 1.6464418401844485,
+        "debt_ratio": 0.022769779072209596,
+        "debt_to_equity": 0.0233656180952227,
+        "equity_multiplier": 1.0261679755927153,
+        "asset_turnover": 0.0,
+        "cash_conversion_ratio": -2.6588085500424414,
+        "free_cash_flow": 224966000.0,
+        "revenue_growth": 0.0,
+        "net_income_growth": -1.5151582912200672
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 13.350000381469728,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Net Income Declining"
+        ]
+    }
+}

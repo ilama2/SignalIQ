@@ -21,3 +21,6 @@ pytest-asyncio
 ruff 
 black 
 mypy
+transformers
+torch
+sentencepiece

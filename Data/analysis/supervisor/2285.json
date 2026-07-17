@@ -1,0 +1,41 @@
+{
+    "symbol": "2285",
+    "company_name": "المطاحن العربية",
+    "generated_at": "2026-07-17T13:46:13.778599",
+    "final_score": 72.81,
+    "recommendation": "Buy",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 80.0,
+        "technical": 80.0,
+        "news": 50.0,
+        "risk": 72.07
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "High Net Margin",
+        "Strong Liquidity",
+        "Positive Free Cash Flow",
+        "Bullish Trend",
+        "Price Above SMA200",
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Positive Stochastic",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "المطاحن العربية received a final investment score of 72.8/100, resulting in a Buy recommendation. The recommendation has high confidence based on the available agent reports. Main strength: High Net Margin. Main risk: Large historical maximum drawdown.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

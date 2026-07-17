@@ -1,0 +1,32 @@
+{
+    "symbol": "8150",
+    "company_name": "8150",
+    "generated_at": "2026-07-17T13:30:42.096550",
+    "risk_score": 28.38,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 36.18,
+    "fundamental_safety_score": 5.0,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 36.3955,
+        "downside_volatility": 24.2831,
+        "max_drawdown": 80.1521,
+        "value_at_risk_95": 3.5201,
+        "conditional_var_95": 5.1013,
+        "sharpe_ratio": -0.5851,
+        "debt_to_equity": 3.4768,
+        "current_ratio": 0.0,
+        "interest_coverage": null
+    },
+    "volatility": 36.3955,
+    "max_drawdown": 80.1521,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "8150 received a safety score of 28.4/100 and a high investment risk classification. Annualized volatility was 36.4%. Maximum drawdown was 80.2%. Main risk: High historical price volatility."
+}

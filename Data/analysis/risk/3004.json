@@ -1,0 +1,33 @@
+{
+    "symbol": "3004",
+    "company_name": "أسمنت الشمالية",
+    "generated_at": "2026-07-17T13:30:41.781361",
+    "risk_score": 63.42,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 63.06,
+    "fundamental_safety_score": 64.49,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 16.068,
+        "downside_volatility": 11.2268,
+        "max_drawdown": 58.9649,
+        "value_at_risk_95": 1.6085,
+        "conditional_var_95": 2.3574,
+        "sharpe_ratio": -1.0415,
+        "debt_to_equity": 0.635,
+        "current_ratio": 0.9064,
+        "interest_coverage": null
+    },
+    "volatility": 16.068,
+    "max_drawdown": 58.9649,
+    "strengths": [
+        "Relatively low historical volatility",
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "أسمنت الشمالية received a safety score of 63.4/100 and a medium investment risk classification. Annualized volatility was 16.1%. Maximum drawdown was 59.0%. Main risk: Large historical maximum drawdown."
+}

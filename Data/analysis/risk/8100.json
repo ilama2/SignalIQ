@@ -1,0 +1,31 @@
+{
+    "symbol": "8100",
+    "company_name": "8100",
+    "generated_at": "2026-07-17T13:30:42.092369",
+    "risk_score": 32.38,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 41.51,
+    "fundamental_safety_score": 5.0,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 31.8181,
+        "downside_volatility": 23.1526,
+        "max_drawdown": 64.8164,
+        "value_at_risk_95": 2.9184,
+        "conditional_var_95": 4.6847,
+        "sharpe_ratio": -0.3174,
+        "debt_to_equity": 4.3571,
+        "current_ratio": 0.0,
+        "interest_coverage": null
+    },
+    "volatility": 31.8181,
+    "max_drawdown": 64.8164,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "8100 received a safety score of 32.4/100 and a high investment risk classification. Annualized volatility was 31.8%. Maximum drawdown was 64.8%. Main risk: Large historical maximum drawdown."
+}

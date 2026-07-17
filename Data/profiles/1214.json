@@ -1,0 +1,29 @@
+{
+    "symbol": "1214",
+    "name": "شاكر",
+    "name_en": "Al Hassan Ghazi Ibrahim Shaker ",
+    "price": 13.27,
+    "change": -0.02,
+    "change_percent": -0.15,
+    "open": 13.27,
+    "high": 13.3,
+    "low": 13.02,
+    "previous_close": 13.29,
+    "volume": 290030,
+    "value": 3829723.84,
+    "bid": 13.27,
+    "ask": 13.28,
+    "bid_size": 556,
+    "ask_size": 5946,
+    "liquidity": {
+        "inflow_value": 1620162.72,
+        "inflow_volume": 122474,
+        "inflow_trades": 448,
+        "outflow_value": 2209561.13,
+        "outflow_volume": 167556,
+        "outflow_trades": 627,
+        "net_value": -589398.4099999999
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

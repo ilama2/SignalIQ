@@ -1,0 +1,39 @@
+{
+    "symbol": "2281",
+    "company_name": "تنمية",
+    "indicators": {
+        "sma20": 57.630000305175784,
+        "sma50": 59.30299995422363,
+        "sma200": 61.81919996261597,
+        "ema20": 58.58058982848103,
+        "ema50": 58.908810445304034,
+        "rsi": 56.65707678261213,
+        "macd": 0.29489346548034234,
+        "macd_signal": -0.387362032032283,
+        "macd_histogram": 0.6822554975126254,
+        "stochastic_k": 58.5470052029842,
+        "stochastic_d": 60.25640189634939,
+        "upper_band": 61.93341794237604,
+        "middle_band": 57.630000305175784,
+        "lower_band": 53.32658266797553,
+        "atr": 2.410147020841292,
+        "adx": 28.872877975291395,
+        "obv": 37570964.0,
+        "current_price": 60.95000076293945,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 55,
+        "rating": "Hold",
+        "strengths": [
+            "Healthy RSI",
+            "Bullish MACD",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend"
+        ]
+    }
+}

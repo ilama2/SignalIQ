@@ -1,0 +1,32 @@
+{
+    "symbol": "4014",
+    "company_name": "دار المعدات",
+    "generated_at": "2026-07-17T13:30:41.837981",
+    "risk_score": 60.05,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 49.07,
+    "fundamental_safety_score": 92.99,
+    "metrics": {
+        "observations": 1086,
+        "annualized_volatility": 29.2942,
+        "downside_volatility": 19.3255,
+        "max_drawdown": 54.6211,
+        "value_at_risk_95": 2.9555,
+        "conditional_var_95": 4.1085,
+        "sharpe_ratio": -0.1895,
+        "debt_to_equity": 0.8503,
+        "current_ratio": 2.4427,
+        "interest_coverage": null
+    },
+    "volatility": 29.2942,
+    "max_drawdown": 54.6211,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "دار المعدات received a safety score of 60.1/100 and a medium investment risk classification. Annualized volatility was 29.3%. Maximum drawdown was 54.6%. Main risk: Large historical maximum drawdown."
+}

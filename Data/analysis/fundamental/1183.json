@@ -1,0 +1,50 @@
+{
+    "symbol": "1183",
+    "company_name": "سهل",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.029165690659278362,
+        "roa": 0.010697237117023249,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.2518287349924465,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.633225311137277,
+        "debt_to_equity": 1.7264694930305877,
+        "equity_multiplier": 2.7264694930305877,
+        "asset_turnover": 0.04247822281815499,
+        "cash_conversion_ratio": 1.1770463335701318,
+        "free_cash_flow": 56919000.0,
+        "revenue_growth": 0.38797919741761044,
+        "net_income_growth": 0.9102834740651388
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 3961.7228136596264,
+        "lynch_value": 1978.6939068298132,
+        "pe_value": 7.65,
+        "intrinsic_value": 1982.6889068298133,
+        "current_price": 15.050000190734863,
+        "margin_of_safety": 0.992409298231865,
+        "upside": 130.74012503005838,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 28,
+        "rating": "Strong Sell",
+        "strengths": [
+            "High Net Margin",
+            "Strong Revenue Growth",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt"
+        ]
+    }
+}

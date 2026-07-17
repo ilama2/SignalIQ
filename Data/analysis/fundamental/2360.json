@@ -1,0 +1,46 @@
+{
+    "symbol": "2360",
+    "company_name": "الفخارية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.47043073705322996,
+        "roa": -0.2128844516790033,
+        "gross_margin": -0.22774982402207283,
+        "operating_margin": -0.6670400208705317,
+        "net_margin": -0.4759515387073439,
+        "current_ratio": 1.5562050538232948,
+        "quick_ratio": 0.9659747385561267,
+        "operating_cash_flow_ratio": -0.48487554230969276,
+        "debt_ratio": 0.5474690854332609,
+        "debt_to_equity": 1.2097937794093412,
+        "equity_multiplier": 2.209793779409341,
+        "asset_turnover": 0.4472817805299776,
+        "cash_conversion_ratio": 0.6904510579364469,
+        "free_cash_flow": -56354406.0,
+        "revenue_growth": 0.1672420992461677,
+        "net_income_growth": -0.7003790388430671
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 17.950000762939453,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 17,
+        "rating": "Strong Sell",
+        "strengths": [],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "High Debt",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

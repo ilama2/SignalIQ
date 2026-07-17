@@ -1,0 +1,39 @@
+{
+    "symbol": "1120",
+    "company_name": "الراجحي",
+    "indicators": {
+        "sma20": 65.76249961853027,
+        "sma50": 66.36599960327149,
+        "sma200": 67.1941312789917,
+        "ema20": 65.58434423497557,
+        "ema50": 66.393542012379,
+        "rsi": 32.875905650430155,
+        "macd": -0.5861879352317203,
+        "macd_signal": -0.4537161153065162,
+        "macd_histogram": -0.13247181992520413,
+        "stochastic_k": 13.043305192974309,
+        "stochastic_d": 8.1089864023972,
+        "upper_band": 67.29998994468467,
+        "middle_band": 65.76249961853027,
+        "lower_band": 64.22500929237587,
+        "atr": 0.6736239504617665,
+        "adx": 24.89660473296181,
+        "obv": 530932323.0,
+        "current_price": 64.44999694824219,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

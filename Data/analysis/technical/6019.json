@@ -1,0 +1,38 @@
+{
+    "symbol": "6019",
+    "company_name": "6019",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 23.478565074020523,
+        "ema50": 22.699259548840384,
+        "rsi": 53.34146898047905,
+        "macd": 0.41627374149721064,
+        "macd_signal": 0.4872692343039418,
+        "macd_histogram": -0.07099549280673118,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 26331826.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

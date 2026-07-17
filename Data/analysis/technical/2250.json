@@ -1,0 +1,39 @@
+{
+    "symbol": "2250",
+    "company_name": "المجموعة السعودية",
+    "indicators": {
+        "sma20": 13.481999921798707,
+        "sma50": 13.942799949645996,
+        "sma200": 13.895606727600098,
+        "ema20": 13.500754846874143,
+        "ema50": 13.710848588388812,
+        "rsi": 43.248157697747864,
+        "macd": -0.1912981156569611,
+        "macd_signal": -0.19865995882680904,
+        "macd_histogram": 0.007361843169847948,
+        "stochastic_k": 46.15388377410188,
+        "stochastic_d": 34.70758930229649,
+        "upper_band": 13.942373835990242,
+        "middle_band": 13.481999921798707,
+        "lower_band": 13.021626007607171,
+        "atr": 0.2564796809099248,
+        "adx": 18.176772687037648,
+        "obv": -17317670.0,
+        "current_price": 13.350000381469728,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Weak Volume Trend"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "symbol": "1832",
+    "company_name": "صدر",
+    "indicators": {
+        "sma20": 2.6600000143051146,
+        "sma50": 2.6720000457763673,
+        "sma200": 2.7341000127792356,
+        "ema20": 2.6513760514045113,
+        "ema50": 2.666828945116995,
+        "rsi": 43.59611031018049,
+        "macd": -0.018887740082739413,
+        "macd_signal": -0.011514683058386578,
+        "macd_histogram": -0.0073730570243528346,
+        "stochastic_k": 23.999977111816406,
+        "stochastic_d": 32.00000127156574,
+        "upper_band": 2.757159760739073,
+        "middle_band": 2.6600000143051146,
+        "lower_band": 2.562840267871156,
+        "atr": 0.05846009461510878,
+        "adx": 14.668944975910113,
+        "obv": 564601264.0,
+        "current_price": 2.609999895095825,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

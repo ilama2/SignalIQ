@@ -1,0 +1,31 @@
+{
+    "symbol": "8200",
+    "company_name": "8200",
+    "generated_at": "2026-07-17T13:30:42.108519",
+    "risk_score": 45.84,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 46.89,
+    "fundamental_safety_score": 42.69,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 36.0684,
+        "downside_volatility": 19.404,
+        "max_drawdown": 49.4557,
+        "value_at_risk_95": 3.2004,
+        "conditional_var_95": 4.193,
+        "sharpe_ratio": 0.5752,
+        "debt_to_equity": 1.1157,
+        "current_ratio": 0.0,
+        "interest_coverage": null
+    },
+    "volatility": 36.0684,
+    "max_drawdown": 49.4557,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "8200 received a safety score of 45.8/100 and a medium investment risk classification. Annualized volatility was 36.1%. Maximum drawdown was 49.5%. Main risk: High historical price volatility."
+}

@@ -1,0 +1,39 @@
+{
+    "symbol": "1180",
+    "company_name": "الأهلي",
+    "generated_at": "2026-07-17T13:46:13.719511",
+    "final_score": 35.35,
+    "recommendation": "Sell",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 18.0,
+        "technical": 40.0,
+        "news": 50.0,
+        "risk": 47.0
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "High Net Margin",
+        "Positive Free Cash Flow",
+        "Positive Stochastic",
+        "Strong Trend",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "الأهلي received a final investment score of 35.4/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: High Net Margin. Main risk: Large historical maximum drawdown.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

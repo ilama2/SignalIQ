@@ -1,0 +1,49 @@
+{
+    "symbol": "8260",
+    "company_name": "8260",
+    "sector": "Financial Services",
+    "ratios": {
+        "roe": -0.7297261286141696,
+        "roa": -0.34519529112458924,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": -0.40404419778340406,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.526952266626175,
+        "debt_to_equity": 1.1139515728526956,
+        "equity_multiplier": 2.1139515728526956,
+        "asset_turnover": 0.8543503235990981,
+        "cash_conversion_ratio": 1.0323434698891176,
+        "free_cash_flow": -126019000.0,
+        "revenue_growth": -0.226157111865392,
+        "net_income_growth": 0.2789707771184731
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": null,
+        "margin_of_safety": 0.0,
+        "upside": null,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 19,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Revenue Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

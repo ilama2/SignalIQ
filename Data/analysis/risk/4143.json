@@ -1,0 +1,32 @@
+{
+    "symbol": "4143",
+    "company_name": "4143",
+    "generated_at": "2026-07-17T13:30:41.875246",
+    "risk_score": 56.56,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 42.07,
+    "fundamental_safety_score": 100.0,
+    "metrics": {
+        "observations": 522,
+        "annualized_volatility": 34.7247,
+        "downside_volatility": 22.2918,
+        "max_drawdown": 56.5857,
+        "value_at_risk_95": 2.9144,
+        "conditional_var_95": 4.5714,
+        "sharpe_ratio": -0.2417,
+        "debt_to_equity": 0.4411,
+        "current_ratio": 3.2599,
+        "interest_coverage": null
+    },
+    "volatility": 34.7247,
+    "max_drawdown": 56.5857,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "4143 received a safety score of 56.6/100 and a medium investment risk classification. Annualized volatility was 34.7%. Maximum drawdown was 56.6%. Main risk: Large historical maximum drawdown."
+}

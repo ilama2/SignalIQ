@@ -1,0 +1,29 @@
+{
+    "symbol": "2170",
+    "name": "اللجين",
+    "name_en": "Alujain Holding",
+    "price": 27.7,
+    "change": 0.04,
+    "change_percent": 0.14,
+    "open": 27.46,
+    "high": 27.86,
+    "low": 27.36,
+    "previous_close": 27.66,
+    "volume": 150139,
+    "value": 4157958.5,
+    "bid": 27.7,
+    "ask": 27.8,
+    "bid_size": 273,
+    "ask_size": 3111,
+    "liquidity": {
+        "inflow_value": 2298568.54,
+        "inflow_volume": 82927,
+        "inflow_trades": 439,
+        "outflow_value": 1859389.96,
+        "outflow_volume": 67212,
+        "outflow_trades": 543,
+        "net_value": 439178.5800000001
+    },
+    "updated_at": "2026-07-16T12:19:52+00:00",
+    "is_delayed": true
+}

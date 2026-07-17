@@ -1,0 +1,29 @@
+{
+    "symbol": "2200",
+    "name": "أنابيب",
+    "name_en": "Arabian Pipes Co.",
+    "price": 6.92,
+    "change": -0.03,
+    "change_percent": -0.43,
+    "open": 6.97,
+    "high": 6.99,
+    "low": 6.88,
+    "previous_close": 6.95,
+    "volume": 1764581,
+    "value": 12203453.17,
+    "bid": 6.92,
+    "ask": 6.93,
+    "bid_size": 27838,
+    "ask_size": 2808,
+    "liquidity": {
+        "inflow_value": 5123920.25,
+        "inflow_volume": 740481,
+        "inflow_trades": 608,
+        "outflow_value": 7079532.87,
+        "outflow_volume": 1024100,
+        "outflow_trades": 926,
+        "net_value": -1955612.62
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

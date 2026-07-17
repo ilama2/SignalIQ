@@ -1,0 +1,29 @@
+{
+    "symbol": "1213",
+    "name": "نسيج",
+    "name_en": "Naseej International Trading Co",
+    "price": 24.48,
+    "change": -1.18,
+    "change_percent": -4.6,
+    "open": 25.8,
+    "high": 26.56,
+    "low": 24.0,
+    "previous_close": 25.66,
+    "volume": 890965,
+    "value": 22361873.89,
+    "bid": 24.46,
+    "ask": 24.48,
+    "bid_size": 10,
+    "ask_size": 84,
+    "liquidity": {
+        "inflow_value": 10488650.4,
+        "inflow_volume": 417791,
+        "inflow_trades": 1845,
+        "outflow_value": 11873223.5,
+        "outflow_volume": 473174,
+        "outflow_trades": 2142,
+        "net_value": -1384573.0999999996
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,37 @@
+{
+    "symbol": "7203",
+    "company_name": "7203",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 672.001768097763,
+        "ema50": 671.579217665343,
+        "rsi": 30.195237269820197,
+        "macd": -10.708945112624974,
+        "macd_signal": -6.605663814269137,
+        "macd_histogram": -4.103281298355837,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 42740662.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

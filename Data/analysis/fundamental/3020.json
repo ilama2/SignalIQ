@@ -1,0 +1,46 @@
+{
+    "symbol": "3020",
+    "company_name": "أسمنت اليمامة",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.09716448156877502,
+        "roa": 0.06461875112563169,
+        "gross_margin": 0.37493384459972806,
+        "operating_margin": 0.29487973511796045,
+        "net_margin": 0.33928635996908796,
+        "current_ratio": 1.3842973033217587,
+        "quick_ratio": 0.7048143541121608,
+        "operating_cash_flow_ratio": 0.7052457217414739,
+        "debt_ratio": 0.33495501563610774,
+        "debt_to_equity": 0.503657682579906,
+        "equity_multiplier": 1.503657682579906,
+        "asset_turnover": 0.19045490402714402,
+        "cash_conversion_ratio": 1.2409107904554282,
+        "free_cash_flow": 182930375.0,
+        "revenue_growth": 0.213333719597631,
+        "net_income_growth": 0.1477790722368237
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 10174.915052847235,
+        "lynch_value": 5077.3425264236175,
+        "pe_value": 35.699999999999996,
+        "intrinsic_value": 5095.985859756951,
+        "current_price": 24.549999237060547,
+        "margin_of_safety": 0.9951824828575503,
+        "upside": 206.57580521892962,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 67,
+        "rating": "Hold",
+        "strengths": [
+            "High Net Margin",
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity"
+        ]
+    }
+}

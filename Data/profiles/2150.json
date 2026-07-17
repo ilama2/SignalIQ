@@ -1,0 +1,29 @@
+{
+    "symbol": "2150",
+    "name": "زجاج",
+    "name_en": "ZOUJAJ",
+    "price": 35.92,
+    "change": 0.12,
+    "change_percent": 0.34,
+    "open": 35.66,
+    "high": 36.14,
+    "low": 35.64,
+    "previous_close": 35.8,
+    "volume": 45942,
+    "value": 1649832.94,
+    "bid": 35.9,
+    "ask": 35.92,
+    "bid_size": 32,
+    "ask_size": 1095,
+    "liquidity": {
+        "inflow_value": 1106040.91,
+        "inflow_volume": 30800,
+        "inflow_trades": 156,
+        "outflow_value": 543792.01,
+        "outflow_volume": 15142,
+        "outflow_trades": 194,
+        "net_value": 562248.8999999999
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

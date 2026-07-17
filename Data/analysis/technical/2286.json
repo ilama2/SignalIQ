@@ -1,0 +1,39 @@
+{
+    "symbol": "2286",
+    "company_name": "المطاحن الرابعة",
+    "indicators": {
+        "sma20": 4.1745000123977665,
+        "sma50": 4.1699999952316285,
+        "sma200": 3.7822677731513976,
+        "ema20": 4.153443707066083,
+        "ema50": 4.130034578187949,
+        "rsi": 45.95383220784574,
+        "macd": -0.02450418064669968,
+        "macd_signal": -0.015160049437752707,
+        "macd_histogram": -0.009344131208946973,
+        "stochastic_k": 44.44444444444444,
+        "stochastic_d": 36.35160024298478,
+        "upper_band": 4.32687789743339,
+        "middle_band": 4.1745000123977665,
+        "lower_band": 4.022122127362143,
+        "atr": 0.06645048475395228,
+        "adx": 19.55082164355403,
+        "obv": 310345423.0,
+        "current_price": 4.119999885559082,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 70,
+        "rating": "Hold",
+        "strengths": [
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

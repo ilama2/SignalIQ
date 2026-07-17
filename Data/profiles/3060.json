@@ -1,0 +1,29 @@
+{
+    "symbol": "3060",
+    "name": "أسمنت ينبع",
+    "name_en": "Yanbu Cement Company SJSC",
+    "price": 15.16,
+    "change": -0.02,
+    "change_percent": -0.13,
+    "open": 15.15,
+    "high": 15.2,
+    "low": 15.1,
+    "previous_close": 15.18,
+    "volume": 178785,
+    "value": 2708274.02,
+    "bid": 15.14,
+    "ask": 15.16,
+    "bid_size": 10,
+    "ask_size": 18186,
+    "liquidity": {
+        "inflow_value": 1353850.06,
+        "inflow_volume": 89334,
+        "inflow_trades": 223,
+        "outflow_value": 1354423.96,
+        "outflow_volume": 89451,
+        "outflow_trades": 796,
+        "net_value": -573.8999999999069
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

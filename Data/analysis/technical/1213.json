@@ -1,0 +1,39 @@
+{
+    "symbol": "1213",
+    "company_name": "نسيج",
+    "indicators": {
+        "sma20": 26.96399974822998,
+        "sma50": 24.278999938964844,
+        "sma200": 34.792150001525876,
+        "ema20": 26.435567870047418,
+        "ema50": 25.464436685293567,
+        "rsi": 42.90604803764509,
+        "macd": 0.4769354123039058,
+        "macd_signal": 1.0694542447754676,
+        "macd_histogram": -0.5925188324715618,
+        "stochastic_k": 5.783127546483009,
+        "stochastic_d": 12.385351242957052,
+        "upper_band": 32.58916227991065,
+        "middle_band": 26.96399974822998,
+        "lower_band": 21.338837216549308,
+        "atr": 1.4815045736234498,
+        "adx": 27.49134484086974,
+        "obv": 80523202.0,
+        "current_price": 24.479999542236328,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 55,
+        "rating": "Hold",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "symbol": "8070",
+    "company_name": "8070",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 12.101924905592481,
+        "ema50": 11.943451595706291,
+        "rsi": 51.18621132530162,
+        "macd": 0.026632822087595542,
+        "macd_signal": 0.0373726802837831,
+        "macd_histogram": -0.010739858196187557,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 84180010.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

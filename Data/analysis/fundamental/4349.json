@@ -1,0 +1,48 @@
+{
+    "symbol": "4349",
+    "company_name": "4349",
+    "sector": "Real Estate",
+    "ratios": {
+        "roe": 0.048233939646216015,
+        "roa": 0.047772298125014184,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.6989894552384786,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.009570885658270025,
+        "debt_to_equity": 0.009663372693391726,
+        "equity_multiplier": 1.0096633726933917,
+        "asset_turnover": 0.06834480515691815,
+        "cash_conversion_ratio": 1.265391220781973,
+        "free_cash_flow": 61954979.0,
+        "revenue_growth": 0.003353761929184831,
+        "net_income_growth": 0.0023233057860443528
+    },
+    "valuation": {
+        "dcf_value": 8.937298961772074,
+        "graham_value": null,
+        "lynch_value": null,
+        "pe_value": null,
+        "intrinsic_value": 8.937298961772074,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Strong Sell",
+        "strengths": [
+            "High Net Margin",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity"
+        ]
+    }
+}

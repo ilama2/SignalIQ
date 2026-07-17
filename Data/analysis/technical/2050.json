@@ -1,0 +1,40 @@
+{
+    "symbol": "2050",
+    "company_name": "مجموعة صافولا",
+    "indicators": {
+        "sma20": 28.25299987792969,
+        "sma50": 28.20779983520508,
+        "sma200": 24.251904439926147,
+        "ema20": 27.83005366092288,
+        "ema50": 27.657337680911425,
+        "rsi": 40.89816693926458,
+        "macd": -0.4812381006001125,
+        "macd_signal": -0.24800962989674233,
+        "macd_histogram": -0.2332284707033702,
+        "stochastic_k": 24.223614625685876,
+        "stochastic_d": 13.67002216239389,
+        "upper_band": 30.56080518393868,
+        "middle_band": 28.25299987792969,
+        "lower_band": 25.945194571920698,
+        "atr": 0.7009052748832988,
+        "adx": 31.283228136080773,
+        "obv": 161024693.0,
+        "current_price": 26.920000076293945,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 75,
+        "rating": "Buy",
+        "strengths": [
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

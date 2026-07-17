@@ -1,0 +1,47 @@
+{
+    "symbol": "2287",
+    "company_name": "إنتاج",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.38462265714734817,
+        "roa": -0.07324874496838653,
+        "gross_margin": 0.07923225799925276,
+        "operating_margin": -0.06725435097020864,
+        "net_margin": -0.09107188956997775,
+        "current_ratio": 0.8145300296708317,
+        "quick_ratio": 0.3794606983488036,
+        "operating_cash_flow_ratio": 0.13880566318935111,
+        "debt_ratio": 0.8095568640920572,
+        "debt_to_equity": 4.25091122466805,
+        "equity_multiplier": 5.25091122466805,
+        "asset_turnover": 0.8042958734495533,
+        "cash_conversion_ratio": -0.6651937537977383,
+        "free_cash_flow": -3691733.0,
+        "revenue_growth": 0.05583097790140202,
+        "net_income_growth": -5.541333500639855
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 27.84000015258789,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 3,
+        "rating": "Strong Sell",
+        "strengths": [],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

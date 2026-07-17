@@ -1,0 +1,39 @@
+{
+    "symbol": "4148",
+    "company_name": "4148",
+    "generated_at": "2026-07-17T13:46:13.822810",
+    "final_score": 48.45,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 48.0,
+        "technical": 45.0,
+        "news": 50.0,
+        "risk": 54.33
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Strong Liquidity",
+        "Low Debt",
+        "Positive Free Cash Flow",
+        "Short-Term Uptrend",
+        "Bullish MACD",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "4148 received a final investment score of 48.4/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Strong Liquidity. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

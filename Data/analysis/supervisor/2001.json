@@ -1,0 +1,43 @@
+{
+    "symbol": "2001",
+    "company_name": "كيمانول",
+    "generated_at": "2026-07-17T13:46:13.747369",
+    "final_score": 39.95,
+    "recommendation": "Sell",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 10.0,
+        "technical": 80.0,
+        "news": 50.0,
+        "risk": 16.35
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Strong Earnings Growth",
+        "Positive Free Cash Flow",
+        "Bullish Trend",
+        "Price Above SMA200",
+        "Short-Term Uptrend",
+        "Bullish MACD",
+        "Strong Trend",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "كيمانول received a final investment score of 40.0/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Strong Earnings Growth. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

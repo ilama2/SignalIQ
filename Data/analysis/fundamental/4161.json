@@ -1,0 +1,46 @@
+{
+    "symbol": "4161",
+    "company_name": "4161",
+    "sector": "Consumer Defensive",
+    "ratios": {
+        "roe": 0.17642164629222262,
+        "roa": 0.043955323484341155,
+        "gross_margin": 0.341172403930264,
+        "operating_margin": 0.06233933040515177,
+        "net_margin": 0.0425226000532426,
+        "current_ratio": 1.1722700287215055,
+        "quick_ratio": 0.4035377998150822,
+        "operating_cash_flow_ratio": 0.34988990206826986,
+        "debt_ratio": 0.7290411400689919,
+        "debt_to_equity": 2.9261219790942983,
+        "equity_multiplier": 4.0136582399415595,
+        "asset_turnover": 1.0336932226464197,
+        "cash_conversion_ratio": 2.485171951179281,
+        "free_cash_flow": 509463192.0,
+        "revenue_growth": 0.1180538820034824,
+        "net_income_growth": -0.00818131525930433
+    },
+    "valuation": {
+        "dcf_value": 9.455477059514545,
+        "graham_value": 568.6986336167155,
+        "lynch_value": 283.32931680835776,
+        "pe_value": 3.5999999999999996,
+        "intrinsic_value": 216.27085687114695,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 34,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "High Debt",
+            "Net Income Declining"
+        ]
+    }
+}

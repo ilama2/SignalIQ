@@ -1,0 +1,48 @@
+{
+    "symbol": "2200",
+    "company_name": "أنابيب",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.22632503006426685,
+        "roa": 0.1521590319030691,
+        "gross_margin": 0.21940266916841616,
+        "operating_margin": 0.16901224751302835,
+        "net_margin": 0.12639250390421655,
+        "current_ratio": 2.3991481035032622,
+        "quick_ratio": 1.3085854518132531,
+        "operating_cash_flow_ratio": 1.2708338963994399,
+        "debt_ratio": 0.3276968444017779,
+        "debt_to_equity": 0.487424224731163,
+        "equity_multiplier": 1.4874242247311629,
+        "asset_turnover": 1.2038612038129972,
+        "cash_conversion_ratio": 2.1281296956750007,
+        "free_cash_flow": 212474000.0,
+        "revenue_growth": -0.23212181963377854,
+        "net_income_growth": -0.34310874852090356
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 334.675,
+        "lynch_value": 165.0,
+        "pe_value": 8.25,
+        "intrinsic_value": 169.30833333333334,
+        "current_price": 6.920000076293945,
+        "margin_of_safety": 0.959127823539141,
+        "upside": 23.4665218882494,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 81,
+        "rating": "Buy",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Strong Liquidity",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "symbol": "6004",
+    "company_name": "6004",
+    "sector": "Industrials",
+    "ratios": {
+        "roe": 0.19914320352781242,
+        "roa": 0.0908631258914964,
+        "gross_margin": 0.28340555004811585,
+        "operating_margin": 0.13636370896668415,
+        "net_margin": 0.12847831820238104,
+        "current_ratio": 1.7913495602499618,
+        "quick_ratio": 1.6901420562057294,
+        "operating_cash_flow_ratio": 0.3460916789886942,
+        "debt_ratio": 0.543729716697028,
+        "debt_to_equity": 1.1916833872259465,
+        "equity_multiplier": 2.1916833872259462,
+        "asset_turnover": 0.7072253681618668,
+        "cash_conversion_ratio": 1.0210470369333593,
+        "free_cash_flow": -228217751.0,
+        "revenue_growth": 0.061665426458061515,
+        "net_income_growth": -0.11097542312173457
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 4743.7085813959,
+        "lynch_value": 2355.61929069795,
+        "pe_value": 57.3,
+        "intrinsic_value": 2385.542624031283,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 47,
+        "rating": "Sell",
+        "strengths": [],
+        "weaknesses": [
+            "High Debt",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "symbol": "4146",
+    "company_name": "4146",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 16.878355333787553,
+        "ema50": 16.1033797302681,
+        "rsi": 52.42889807875736,
+        "macd": 0.31713632815267445,
+        "macd_signal": 0.4102642496301854,
+        "macd_histogram": -0.09312792147751092,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 25919298.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

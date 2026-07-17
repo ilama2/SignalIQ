@@ -1,0 +1,38 @@
+{
+    "symbol": "2382",
+    "company_name": "أديس",
+    "indicators": {
+        "sma20": 18.816000270843507,
+        "sma50": 19.104600257873535,
+        "sma200": 17.649219646453858,
+        "ema20": 18.894112403933004,
+        "ema50": 18.8740432320748,
+        "rsi": 41.21326937712379,
+        "macd": -0.04570086071737478,
+        "macd_signal": -0.019708236084257254,
+        "macd_histogram": -0.025992624633117526,
+        "stochastic_k": 18.604647724265188,
+        "stochastic_d": 29.198967172385533,
+        "upper_band": 19.43339487568202,
+        "middle_band": 18.816000270843507,
+        "lower_band": 18.198605666004994,
+        "atr": 0.4465556629170795,
+        "adx": 13.497568604899936,
+        "obv": 315226591.0,
+        "current_price": 18.510000228881836,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 65,
+        "rating": "Hold",
+        "strengths": [
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

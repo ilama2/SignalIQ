@@ -1,0 +1,29 @@
+{
+    "symbol": "3090",
+    "name": "أسمنت تبوك",
+    "name_en": "TCC",
+    "price": 7.74,
+    "change": 0.01,
+    "change_percent": 0.13,
+    "open": 7.73,
+    "high": 7.74,
+    "low": 7.7,
+    "previous_close": 7.73,
+    "volume": 100042,
+    "value": 771719.86,
+    "bid": 7.73,
+    "ask": 7.74,
+    "bid_size": 101,
+    "ask_size": 28288,
+    "liquidity": {
+        "inflow_value": 381624.9,
+        "inflow_volume": 49465,
+        "inflow_trades": 103,
+        "outflow_value": 390094.95,
+        "outflow_volume": 50577,
+        "outflow_trades": 204,
+        "net_value": -8470.049999999988
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

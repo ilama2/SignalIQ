@@ -1,0 +1,49 @@
+{
+    "symbol": "8030",
+    "company_name": "8030",
+    "sector": "Financial Services",
+    "ratios": {
+        "roe": 0.025779269983909538,
+        "roa": 0.010866691630533014,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.010026453644103015,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.578471708573765,
+        "debt_to_equity": 1.3723200087389484,
+        "equity_multiplier": 2.3723200087389484,
+        "asset_turnover": 1.0838021115196776,
+        "cash_conversion_ratio": 0.12093612254340891,
+        "free_cash_flow": -27293000.0,
+        "revenue_growth": 0.22197927973786083,
+        "net_income_growth": -0.5973978861501656
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 1334.425678427165,
+        "lynch_value": 665.9378392135824,
+        "pe_value": 4.5,
+        "intrinsic_value": 668.2878392135825,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 16,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Revenue Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

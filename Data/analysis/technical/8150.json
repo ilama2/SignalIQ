@@ -1,0 +1,38 @@
+{
+    "symbol": "8150",
+    "company_name": "8150",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 7.0130074285481,
+        "ema50": 6.687508135390906,
+        "rsi": 58.72911136457384,
+        "macd": 0.2750584980163824,
+        "macd_signal": 0.2640729247818845,
+        "macd_histogram": 0.010985573234497892,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 55468549.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 55,
+        "rating": "Hold",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "symbol": "2380",
+    "company_name": "بترو رابغ",
+    "indicators": {
+        "sma20": 13.101000022888183,
+        "sma50": 14.259000015258788,
+        "sma200": 9.930750021934509,
+        "ema20": 13.624378415099754,
+        "ema50": 13.41740571505604,
+        "rsi": 61.16767707312059,
+        "macd": 0.1716024487433927,
+        "macd_signal": -0.07489358052331237,
+        "macd_histogram": 0.24649602926670505,
+        "stochastic_k": 85.66978091338231,
+        "stochastic_d": 79.33539299254382,
+        "upper_band": 14.76515014365594,
+        "middle_band": 13.101000022888183,
+        "lower_band": 11.436849902120425,
+        "atr": 0.6810319943413662,
+        "adx": 25.696288839966538,
+        "obv": -256496949.0,
+        "current_price": 14.5600004196167,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 85,
+        "rating": "Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Strong Trend"
+        ],
+        "weaknesses": [
+            "Weak Volume Trend"
+        ]
+    }
+}

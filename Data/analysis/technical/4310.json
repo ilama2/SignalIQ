@@ -1,0 +1,38 @@
+{
+    "symbol": "4310",
+    "company_name": "4310",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 12.322691295720167,
+        "ema50": 12.088461897231934,
+        "rsi": 48.24953725353545,
+        "macd": 0.14753660194763007,
+        "macd_signal": 0.1829395135083007,
+        "macd_histogram": -0.03540291156067063,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 48668636.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

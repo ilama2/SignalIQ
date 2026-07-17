@@ -1,0 +1,32 @@
+{
+    "symbol": "4340",
+    "company_name": "4340",
+    "generated_at": "2026-07-17T13:30:41.994668",
+    "risk_score": 80.74,
+    "risk_level": "very low",
+    "higher_is_riskier": false,
+    "market_safety_score": 83.3,
+    "fundamental_safety_score": 73.03,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 13.7927,
+        "downside_volatility": 10.3058,
+        "max_drawdown": 32.8387,
+        "value_at_risk_95": 1.2788,
+        "conditional_var_95": 1.9992,
+        "sharpe_ratio": -0.0654,
+        "debt_to_equity": 0.4129,
+        "current_ratio": 1.1011,
+        "interest_coverage": null
+    },
+    "volatility": 13.7927,
+    "max_drawdown": 32.8387,
+    "strengths": [
+        "Relatively low historical volatility",
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "No major risk signal was identified"
+    ],
+    "summary": "4340 received a safety score of 80.7/100 and a very low investment risk classification. Annualized volatility was 13.8%. Maximum drawdown was 32.8%. Main risk: No major risk signal was identified."
+}

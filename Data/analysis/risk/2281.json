@@ -1,0 +1,30 @@
+{
+    "symbol": "2281",
+    "company_name": "تنمية",
+    "generated_at": "2026-07-17T13:30:41.736809",
+    "risk_score": 35.2,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 39.47,
+    "fundamental_safety_score": 22.4,
+    "metrics": {
+        "observations": 1154,
+        "annualized_volatility": 34.9243,
+        "downside_volatility": 21.2872,
+        "max_drawdown": 68.5408,
+        "value_at_risk_95": 3.1941,
+        "conditional_var_95": 4.4831,
+        "sharpe_ratio": 0.0675,
+        "debt_to_equity": 3.981,
+        "current_ratio": 1.08,
+        "interest_coverage": null
+    },
+    "volatility": 34.9243,
+    "max_drawdown": 68.5408,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio"
+    ],
+    "summary": "تنمية received a safety score of 35.2/100 and a high investment risk classification. Annualized volatility was 34.9%. Maximum drawdown was 68.5%. Main risk: Large historical maximum drawdown."
+}

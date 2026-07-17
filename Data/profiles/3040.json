@@ -1,0 +1,29 @@
+{
+    "symbol": "3040",
+    "name": "أسمنت القصيم",
+    "name_en": "Qassim Cement Company SJSC",
+    "price": 45.58,
+    "change": 0.52,
+    "change_percent": 1.15,
+    "open": 45.02,
+    "high": 45.8,
+    "low": 45.0,
+    "previous_close": 45.06,
+    "volume": 106161,
+    "value": 4818627.62,
+    "bid": 45.58,
+    "ask": 45.7,
+    "bid_size": 196,
+    "ask_size": 505,
+    "liquidity": {
+        "inflow_value": 3380894.64,
+        "inflow_volume": 74430,
+        "inflow_trades": 453,
+        "outflow_value": 1437732.98,
+        "outflow_volume": 31731,
+        "outflow_trades": 275,
+        "net_value": 1943161.6600000001
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

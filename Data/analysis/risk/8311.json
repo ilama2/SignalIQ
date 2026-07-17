@@ -1,0 +1,34 @@
+{
+    "symbol": "8311",
+    "company_name": "8311",
+    "generated_at": "2026-07-17T13:30:42.127407",
+    "risk_score": 33.13,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 25.84,
+    "fundamental_safety_score": 55.0,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 44.9902,
+        "downside_volatility": 29.0873,
+        "max_drawdown": 85.7368,
+        "value_at_risk_95": 4.146,
+        "conditional_var_95": 6.356,
+        "sharpe_ratio": -0.5296,
+        "debt_to_equity": 0.4716,
+        "current_ratio": 0.0,
+        "interest_coverage": null
+    },
+    "volatility": 44.9902,
+    "max_drawdown": 85.7368,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "Elevated one-day Value at Risk",
+        "Weak short-term liquidity"
+    ],
+    "summary": "8311 received a safety score of 33.1/100 and a high investment risk classification. Annualized volatility was 45.0%. Maximum drawdown was 85.7%. Main risk: High historical price volatility."
+}

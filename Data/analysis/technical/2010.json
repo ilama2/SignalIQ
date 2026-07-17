@@ -1,0 +1,41 @@
+{
+    "symbol": "2010",
+    "company_name": "سابك",
+    "indicators": {
+        "sma20": 52.49749984741211,
+        "sma50": 55.337000122070314,
+        "sma200": 55.77560453414917,
+        "ema20": 52.81008460071283,
+        "ema50": 54.54883784465018,
+        "rsi": 42.61716347526586,
+        "macd": -0.8812897437071712,
+        "macd_signal": -1.0829394264838925,
+        "macd_histogram": 0.20164968277672135,
+        "stochastic_k": 50.00010038689108,
+        "stochastic_d": 36.550448712180504,
+        "upper_band": 54.030952292348445,
+        "middle_band": 52.49749984741211,
+        "lower_band": 50.96404740247577,
+        "atr": 0.8036577687594322,
+        "adx": 33.92878298859477,
+        "obv": 31920169.0,
+        "current_price": 52.400001525878906,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 50,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend"
+        ]
+    }
+}

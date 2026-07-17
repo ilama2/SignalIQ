@@ -1,0 +1,29 @@
+{
+    "symbol": "4012",
+    "name": "الأصيل",
+    "name_en": "Thob Al Aseel Co SJSC",
+    "price": 3.64,
+    "change": -0.02,
+    "change_percent": -0.55,
+    "open": 3.66,
+    "high": 3.66,
+    "low": 3.63,
+    "previous_close": 3.66,
+    "volume": 140039,
+    "value": 510249.6,
+    "bid": 3.63,
+    "ask": 3.64,
+    "bid_size": 25455,
+    "ask_size": 30678,
+    "liquidity": {
+        "inflow_value": 179345.77,
+        "inflow_volume": 49172,
+        "inflow_trades": 121,
+        "outflow_value": 330903.84,
+        "outflow_volume": 90867,
+        "outflow_trades": 175,
+        "net_value": -151558.07000000004
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

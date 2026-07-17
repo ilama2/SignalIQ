@@ -1,0 +1,29 @@
+{
+    "symbol": "4009",
+    "name": "السعودي الألماني الصحية",
+    "name_en": "Middle East Health care Co.",
+    "price": 31.86,
+    "change": 0.06,
+    "change_percent": 0.19,
+    "open": 31.94,
+    "high": 32.22,
+    "low": 31.86,
+    "previous_close": 31.8,
+    "volume": 99718,
+    "value": 3189209.34,
+    "bid": 31.84,
+    "ask": 31.86,
+    "bid_size": 1290,
+    "ask_size": 1050,
+    "liquidity": {
+        "inflow_value": 1404483.43,
+        "inflow_volume": 43858,
+        "inflow_trades": 275,
+        "outflow_value": 1784725.89,
+        "outflow_volume": 55860,
+        "outflow_trades": 366,
+        "net_value": -380242.45999999996
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

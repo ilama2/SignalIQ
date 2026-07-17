@@ -1,0 +1,32 @@
+{
+    "symbol": "4260",
+    "company_name": "4260",
+    "generated_at": "2026-07-17T13:30:41.934126",
+    "risk_score": 49.43,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 47.62,
+    "fundamental_safety_score": 54.87,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 28.6936,
+        "downside_volatility": 18.3102,
+        "max_drawdown": 58.5395,
+        "value_at_risk_95": 2.7974,
+        "conditional_var_95": 3.7603,
+        "sharpe_ratio": 0.1346,
+        "debt_to_equity": 0.7839,
+        "current_ratio": 0.6849,
+        "interest_coverage": null
+    },
+    "volatility": 28.6936,
+    "max_drawdown": 58.5395,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4260 received a safety score of 49.4/100 and a medium investment risk classification. Annualized volatility was 28.7%. Maximum drawdown was 58.5%. Main risk: Large historical maximum drawdown."
+}

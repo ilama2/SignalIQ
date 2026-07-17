@@ -1,0 +1,32 @@
+{
+    "symbol": "6070",
+    "company_name": "6070",
+    "generated_at": "2026-07-17T13:30:42.048137",
+    "risk_score": 62.74,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 51.92,
+    "fundamental_safety_score": 95.2,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 29.0555,
+        "downside_volatility": 18.8064,
+        "max_drawdown": 51.8756,
+        "value_at_risk_95": 2.7173,
+        "conditional_var_95": 3.9936,
+        "sharpe_ratio": -0.2773,
+        "debt_to_equity": 0.6265,
+        "current_ratio": 1.9242,
+        "interest_coverage": null
+    },
+    "volatility": 29.0555,
+    "max_drawdown": 51.8756,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "6070 received a safety score of 62.7/100 and a medium investment risk classification. Annualized volatility was 29.1%. Maximum drawdown was 51.9%. Main risk: Large historical maximum drawdown."
+}

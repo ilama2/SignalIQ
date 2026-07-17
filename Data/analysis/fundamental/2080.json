@@ -1,0 +1,43 @@
+{
+    "symbol": "2080",
+    "company_name": "الغاز",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.1265711519522576,
+        "roa": 0.08933291867355019,
+        "gross_margin": 0.12447824635383663,
+        "operating_margin": 0.05914752492452621,
+        "net_margin": 0.0765128291493626,
+        "current_ratio": 1.140976989594149,
+        "quick_ratio": 0.6932272153627185,
+        "operating_cash_flow_ratio": 0.5387807795285476,
+        "debt_ratio": 0.29420790365211824,
+        "debt_to_equity": 0.41684782979930746,
+        "equity_multiplier": 1.4168478297993075,
+        "asset_turnover": 1.16755477044459,
+        "cash_conversion_ratio": 1.4526185862754393,
+        "free_cash_flow": 135028665.0,
+        "revenue_growth": 0.13761151053396092,
+        "net_income_growth": 0.0015368489289603372
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 9165.624299455005,
+        "lynch_value": 4568.702149727503,
+        "pe_value": 49.8,
+        "intrinsic_value": 4594.708816394169,
+        "current_price": 69.1500015258789,
+        "margin_of_safety": 0.9849500796918517,
+        "upside": 65.44553456263672,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 54,
+        "rating": "Sell",
+        "strengths": [
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

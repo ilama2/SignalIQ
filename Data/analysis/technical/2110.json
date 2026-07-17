@@ -1,0 +1,37 @@
+{
+    "symbol": "2110",
+    "company_name": "الكابلات السعودية",
+    "indicators": {
+        "sma20": 165.64999923706054,
+        "sma50": 162.14199981689453,
+        "sma200": 152.9875003051758,
+        "ema20": 163.75160834000297,
+        "ema50": 162.92769094290492,
+        "rsi": 38.19081237796812,
+        "macd": -1.6787530922852625,
+        "macd_signal": -0.41412836757143795,
+        "macd_histogram": -1.2646247247138245,
+        "stochastic_k": 13.043449416268196,
+        "stochastic_d": 36.213815435278946,
+        "upper_band": 178.22418268635795,
+        "middle_band": 165.64999923706054,
+        "lower_band": 153.07581578776313,
+        "atr": 5.830130435404714,
+        "adx": 20.495623793198558,
+        "obv": 15132226.0,
+        "current_price": 154.5,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 55,
+        "rating": "Hold",
+        "strengths": [
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

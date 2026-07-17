@@ -1,0 +1,29 @@
+{
+    "symbol": "1050",
+    "name": "بي اس اف",
+    "name_en": "BSF",
+    "price": 19.46,
+    "change": 0.05,
+    "change_percent": 0.26,
+    "open": 19.45,
+    "high": 19.6,
+    "low": 19.32,
+    "previous_close": 19.41,
+    "volume": 1361817,
+    "value": 26511459.89,
+    "bid": 19.46,
+    "ask": 19.51,
+    "bid_size": 50979,
+    "ask_size": 1634,
+    "liquidity": {
+        "inflow_value": 11044811.59,
+        "inflow_volume": 567283,
+        "inflow_trades": 1134,
+        "outflow_value": 15466648.0,
+        "outflow_volume": 794534,
+        "outflow_trades": 1141,
+        "net_value": -4421836.41
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

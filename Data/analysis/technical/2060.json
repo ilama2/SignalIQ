@@ -1,0 +1,40 @@
+{
+    "symbol": "2060",
+    "company_name": "التصنيع",
+    "indicators": {
+        "sma20": 9.2260000705719,
+        "sma50": 9.613200016021729,
+        "sma200": 9.787249989509583,
+        "ema20": 9.303416275396167,
+        "ema50": 9.48743374282185,
+        "rsi": 45.870082615439664,
+        "macd": -0.11100379349540823,
+        "macd_signal": -0.1394011961909465,
+        "macd_histogram": 0.028397402695538282,
+        "stochastic_k": 65.00011920940324,
+        "stochastic_d": 51.74800910722852,
+        "upper_band": 9.42015472236213,
+        "middle_band": 9.2260000705719,
+        "lower_band": 9.03184541878167,
+        "atr": 0.17430149060919256,
+        "adx": 16.713331622595287,
+        "obv": 264655455.0,
+        "current_price": 9.270000457763672,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "symbol": "4321",
+    "company_name": "4321",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 17.03379230504859,
+        "ema50": 17.113666760603525,
+        "rsi": 38.78222521478353,
+        "macd": -0.04349352442349996,
+        "macd_signal": -0.0012829017027362547,
+        "macd_histogram": -0.04221062272076371,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 26115525.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

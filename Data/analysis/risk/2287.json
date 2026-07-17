@@ -1,0 +1,33 @@
+{
+    "symbol": "2287",
+    "company_name": "إنتاج",
+    "generated_at": "2026-07-17T13:30:41.747389",
+    "risk_score": 29.3,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 34.25,
+    "fundamental_safety_score": 14.44,
+    "metrics": {
+        "observations": 334,
+        "annualized_volatility": 36.9707,
+        "downside_volatility": 25.0566,
+        "max_drawdown": 63.5498,
+        "value_at_risk_95": 4.0667,
+        "conditional_var_95": 5.5272,
+        "sharpe_ratio": -1.5261,
+        "debt_to_equity": 4.2509,
+        "current_ratio": 0.8145,
+        "interest_coverage": null
+    },
+    "volatility": 36.9707,
+    "max_drawdown": 63.5498,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "Elevated one-day Value at Risk",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "إنتاج received a safety score of 29.3/100 and a high investment risk classification. Annualized volatility was 37.0%. Maximum drawdown was 63.5%. Main risk: High historical price volatility."
+}

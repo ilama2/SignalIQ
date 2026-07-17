@@ -1,0 +1,38 @@
+{
+    "symbol": "4142",
+    "company_name": "4142",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 118.09384752668801,
+        "ema50": 119.44530321764172,
+        "rsi": 28.37656151778934,
+        "macd": -2.1429952739841127,
+        "macd_signal": -1.1567880292936266,
+        "macd_histogram": -0.9862072446904862,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 40101311.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Oversold",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

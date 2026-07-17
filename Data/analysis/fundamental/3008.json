@@ -1,0 +1,48 @@
+{
+    "symbol": "3008",
+    "company_name": "الكثيري",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.5827321346435261,
+        "roa": -0.13267493454694318,
+        "gross_margin": 0.047793858805554944,
+        "operating_margin": -0.04304326036126105,
+        "net_margin": -0.1490312138741824,
+        "current_ratio": 1.2238789379140302,
+        "quick_ratio": 1.1911517142962118,
+        "operating_cash_flow_ratio": 0.009059270920475796,
+        "debt_ratio": 0.7720151409256929,
+        "debt_to_equity": 3.390829116177746,
+        "equity_multiplier": 4.392179552478643,
+        "asset_turnover": 0.8902493048130994,
+        "cash_conversion_ratio": -0.02844914044482182,
+        "free_cash_flow": -8346762.0,
+        "revenue_growth": 0.49032206629860947,
+        "net_income_growth": 1.1488709392941496
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 1.3899999856948853,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 24,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Revenue Growth",
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "High Debt",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

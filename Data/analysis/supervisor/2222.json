@@ -1,0 +1,40 @@
+{
+    "symbol": "2222",
+    "company_name": "أرامكو السعودية",
+    "generated_at": "2026-07-17T13:31:31.371054",
+    "final_score": 69.55,
+    "recommendation": "Buy",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 82.0,
+        "technical": 65.0,
+        "news": 42.0,
+        "risk": 86.35
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Excellent Return on Equity",
+        "High Net Margin",
+        "Positive Free Cash Flow",
+        "Price Above SMA200",
+        "Healthy RSI",
+        "Bullish MACD",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Meta Platforms surpasses Saudi Aramco in market cap, reclaiming top 10 status",
+        "No major risk signal was identified"
+    ],
+    "summary": "أرامكو السعودية received a final investment score of 69.6/100, resulting in a Buy recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Excellent Return on Equity. Main risk: Meta Platforms surpasses Saudi Aramco in market cap, reclaiming top 10 status.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

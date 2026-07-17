@@ -1,0 +1,39 @@
+{
+    "symbol": "4230",
+    "company_name": "4230",
+    "generated_at": "2026-07-17T13:46:13.832169",
+    "final_score": 39.32,
+    "recommendation": "Sell",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 24.0,
+        "technical": 55.0,
+        "news": 50.0,
+        "risk": 29.45
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Positive Free Cash Flow",
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Bullish MACD",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio"
+    ],
+    "summary": "4230 received a final investment score of 39.3/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Positive Free Cash Flow. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

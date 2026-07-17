@@ -1,0 +1,45 @@
+{
+    "symbol": "4191",
+    "company_name": "4191",
+    "sector": "Consumer Cyclical",
+    "ratios": {
+        "roe": 0.10018219013885458,
+        "roa": 0.07164877614595583,
+        "gross_margin": 0.32706929106920035,
+        "operating_margin": 0.12160284875278135,
+        "net_margin": 0.09483983179110456,
+        "current_ratio": 1.9248135668927788,
+        "quick_ratio": 0.900255710481883,
+        "operating_cash_flow_ratio": 0.5111453191765574,
+        "debt_ratio": 0.28481523465748615,
+        "debt_to_equity": 0.3982400750959556,
+        "equity_multiplier": 1.3982400750959556,
+        "asset_turnover": 0.7554713541012004,
+        "cash_conversion_ratio": 1.684139007822354,
+        "free_cash_flow": 38480157.0,
+        "revenue_growth": -0.03925082320904909,
+        "net_income_growth": 0.11224969119156561
+    },
+    "valuation": {
+        "dcf_value": 28.31040122142856,
+        "graham_value": null,
+        "lynch_value": null,
+        "pe_value": null,
+        "intrinsic_value": 28.31040122142856,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 63,
+        "rating": "Hold",
+        "strengths": [
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Revenue Declining"
+        ]
+    }
+}

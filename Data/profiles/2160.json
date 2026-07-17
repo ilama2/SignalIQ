@@ -1,0 +1,29 @@
+{
+    "symbol": "2160",
+    "name": "أميانتيت",
+    "name_en": "Saudi Arabian Amiantit Co.",
+    "price": 12.9,
+    "change": -0.13,
+    "change_percent": -1.0,
+    "open": 13.08,
+    "high": 13.12,
+    "low": 12.9,
+    "previous_close": 13.03,
+    "volume": 167560,
+    "value": 2173304.54,
+    "bid": 12.9,
+    "ask": 12.95,
+    "bid_size": 4306,
+    "ask_size": 101,
+    "liquidity": {
+        "inflow_value": 859889.65,
+        "inflow_volume": 66289,
+        "inflow_trades": 307,
+        "outflow_value": 1313414.87,
+        "outflow_volume": 101271,
+        "outflow_trades": 420,
+        "net_value": -453525.2200000001
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

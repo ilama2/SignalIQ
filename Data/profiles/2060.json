@@ -1,0 +1,29 @@
+{
+    "symbol": "2060",
+    "name": "التصنيع",
+    "name_en": "National Industrialization Company SJSC",
+    "price": 9.27,
+    "change": 0.05,
+    "change_percent": 0.54,
+    "open": 9.28,
+    "high": 9.34,
+    "low": 9.22,
+    "previous_close": 9.22,
+    "volume": 530622,
+    "value": 4932191.12,
+    "bid": 9.27,
+    "ask": 9.3,
+    "bid_size": 2043,
+    "ask_size": 10200,
+    "liquidity": {
+        "inflow_value": 2302498.62,
+        "inflow_volume": 247499,
+        "inflow_trades": 567,
+        "outflow_value": 2629692.56,
+        "outflow_volume": 283123,
+        "outflow_trades": 762,
+        "net_value": -327193.93999999994
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

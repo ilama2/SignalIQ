@@ -1,0 +1,44 @@
+{
+    "symbol": "1834",
+    "company_name": "سماسكو",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.23578246151768623,
+        "roa": 0.12328260811438078,
+        "gross_margin": 0.14243216849376578,
+        "operating_margin": 0.0834681772912553,
+        "net_margin": 0.0719185500048374,
+        "current_ratio": 2.473646458817205,
+        "quick_ratio": 2.473646458817205,
+        "operating_cash_flow_ratio": 0.4652846163476144,
+        "debt_ratio": 0.47713410352562097,
+        "debt_to_equity": 0.9125362865370987,
+        "equity_multiplier": 1.9125362865370987,
+        "asset_turnover": 1.7141976319890837,
+        "cash_conversion_ratio": 1.17156173702076,
+        "free_cash_flow": 143065699.0,
+        "revenue_growth": 0.10655865380270584,
+        "net_income_growth": 0.19154880023603146
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 813.0757689005644,
+        "lynch_value": 404.9228844502822,
+        "pe_value": 5.7,
+        "intrinsic_value": 407.8995511169489,
+        "current_price": 6.449999809265137,
+        "margin_of_safety": 0.9841872838751522,
+        "upside": 62.24024235334385,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 64,
+        "rating": "Hold",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Strong Liquidity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

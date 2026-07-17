@@ -1,0 +1,29 @@
+{
+    "symbol": "4001",
+    "name": "أسواق ع العثيم",
+    "name_en": "Abdullah Al Othaim Markets Co.",
+    "price": 5.34,
+    "change": -0.04,
+    "change_percent": -0.74,
+    "open": 5.35,
+    "high": 5.38,
+    "low": 5.34,
+    "previous_close": 5.38,
+    "volume": 1150233,
+    "value": 6167146.95,
+    "bid": 5.34,
+    "ask": 5.37,
+    "bid_size": 64839,
+    "ask_size": 2395,
+    "liquidity": {
+        "inflow_value": 2389779.89,
+        "inflow_volume": 445251,
+        "inflow_trades": 420,
+        "outflow_value": 3777367.09,
+        "outflow_volume": 704982,
+        "outflow_trades": 1008,
+        "net_value": -1387587.1999999997
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

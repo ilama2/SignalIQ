@@ -1,0 +1,39 @@
+{
+    "symbol": "2030",
+    "company_name": "المصافي",
+    "indicators": {
+        "sma20": 50.73649997711182,
+        "sma50": 47.095399703979496,
+        "sma200": 51.067399997711185,
+        "ema20": 50.558392156096446,
+        "ema50": 48.57090024575012,
+        "rsi": 51.726515342794066,
+        "macd": 1.3745459747457431,
+        "macd_signal": 1.7629397262424022,
+        "macd_histogram": -0.3883937514966591,
+        "stochastic_k": 39.189180829734575,
+        "stochastic_d": 44.29430038327974,
+        "upper_band": 57.24220309284544,
+        "middle_band": 50.73649997711182,
+        "lower_band": 44.230796861378195,
+        "atr": 1.9676361504115916,
+        "adx": 39.82383495716948,
+        "obv": 29189579.0,
+        "current_price": 50.349998474121094,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 55,
+        "rating": "Hold",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

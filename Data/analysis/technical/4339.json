@@ -1,0 +1,38 @@
+{
+    "symbol": "4339",
+    "company_name": "4339",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 5.520817615612294,
+        "ema50": 5.473982310444082,
+        "rsi": 41.041045040928694,
+        "macd": -0.01672381345128482,
+        "macd_signal": 0.00629117241109948,
+        "macd_histogram": -0.023014985862384298,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": -5808966.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD",
+            "Weak Volume Trend"
+        ]
+    }
+}

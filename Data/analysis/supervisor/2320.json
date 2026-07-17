@@ -1,0 +1,39 @@
+{
+    "symbol": "2320",
+    "company_name": "البابطين",
+    "generated_at": "2026-07-17T13:46:13.784135",
+    "final_score": 54.73,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 66.0,
+        "technical": 45.0,
+        "news": 50.0,
+        "risk": 54.19
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Excellent Return on Equity",
+        "Strong Earnings Growth",
+        "Positive Free Cash Flow",
+        "Oversold",
+        "Positive Stochastic",
+        "Strong Trend",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "البابطين received a final investment score of 54.7/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Excellent Return on Equity. Main risk: Large historical maximum drawdown.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

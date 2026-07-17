@@ -1,0 +1,29 @@
+{
+    "symbol": "4003",
+    "name": "إكسترا",
+    "name_en": "United Electronics Company JSC",
+    "price": 68.85,
+    "change": 0.15,
+    "change_percent": 0.22,
+    "open": 68.65,
+    "high": 68.85,
+    "low": 68.4,
+    "previous_close": 68.7,
+    "volume": 138499,
+    "value": 9514865.25,
+    "bid": 68.6,
+    "ask": 68.85,
+    "bid_size": 26,
+    "ask_size": 2807,
+    "liquidity": {
+        "inflow_value": 5699284.84,
+        "inflow_volume": 82926,
+        "inflow_trades": 1374,
+        "outflow_value": 3815580.31,
+        "outflow_volume": 55573,
+        "outflow_trades": 790,
+        "net_value": 1883704.5299999998
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,30 @@
+{
+    "symbol": "1060",
+    "company_name": "الأول",
+    "generated_at": "2026-07-17T13:30:41.590675",
+    "risk_score": 54.44,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 70.91,
+    "fundamental_safety_score": 5.0,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 26.25,
+        "downside_volatility": 17.4859,
+        "max_drawdown": 29.4861,
+        "value_at_risk_95": 2.4761,
+        "conditional_var_95": 3.6138,
+        "sharpe_ratio": 0.3537,
+        "debt_to_equity": 4.728,
+        "current_ratio": 0.0,
+        "interest_coverage": null
+    },
+    "volatility": 26.25,
+    "max_drawdown": 29.4861,
+    "strengths": [],
+    "risks": [
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "الأول received a safety score of 54.4/100 and a medium investment risk classification. Annualized volatility was 26.3%. Maximum drawdown was 29.5%. Main risk: High debt-to-equity ratio."
+}

@@ -1,0 +1,37 @@
+{
+    "symbol": "2082",
+    "company_name": "أكوا",
+    "indicators": {
+        "sma20": 193.43499908447265,
+        "sma50": 190.7399996948242,
+        "sma200": 189.70999984741212,
+        "ema20": 191.5316526855692,
+        "ema50": 189.30467681257414,
+        "rsi": 38.632686734574335,
+        "macd": -1.310514732017424,
+        "macd_signal": 0.3463955691278807,
+        "macd_histogram": -1.6569103011453046,
+        "stochastic_k": 1.21949404069632,
+        "stochastic_d": 6.591011301325334,
+        "upper_band": 202.7836397837021,
+        "middle_band": 193.43499908447265,
+        "lower_band": 184.0863583852432,
+        "atr": 4.703843411518034,
+        "adx": 18.820389288643987,
+        "obv": 120401019.0,
+        "current_price": 183.6999969482422,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

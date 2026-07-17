@@ -1,0 +1,32 @@
+{
+    "symbol": "6013",
+    "company_name": "6013",
+    "generated_at": "2026-07-17T13:30:42.026198",
+    "risk_score": 25.65,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 32.49,
+    "fundamental_safety_score": 5.13,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 39.4039,
+        "downside_volatility": 27.4754,
+        "max_drawdown": 72.0957,
+        "value_at_risk_95": 3.3941,
+        "conditional_var_95": 5.4889,
+        "sharpe_ratio": -0.0778,
+        "debt_to_equity": 3.1058,
+        "current_ratio": 0.5042,
+        "interest_coverage": null
+    },
+    "volatility": 39.4039,
+    "max_drawdown": 72.0957,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "6013 received a safety score of 25.7/100 and a high investment risk classification. Annualized volatility was 39.4%. Maximum drawdown was 72.1%. Main risk: High historical price volatility."
+}

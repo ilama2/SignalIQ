@@ -1,0 +1,37 @@
+{
+    "symbol": "8010",
+    "company_name": "8010",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 143.0619221029439,
+        "ema50": 142.46597497869718,
+        "rsi": 33.70475563225382,
+        "macd": -2.5914394257237348,
+        "macd_signal": -1.3781950773521965,
+        "macd_histogram": -1.2132443483715383,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 14352387.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

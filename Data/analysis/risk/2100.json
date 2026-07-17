@@ -1,0 +1,32 @@
+{
+    "symbol": "2100",
+    "company_name": "وفرة",
+    "generated_at": "2026-07-17T13:30:41.695494",
+    "risk_score": 44.33,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 34.75,
+    "fundamental_safety_score": 73.08,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 37.8015,
+        "downside_volatility": 24.1805,
+        "max_drawdown": 73.4608,
+        "value_at_risk_95": 3.7119,
+        "conditional_var_95": 5.289,
+        "sharpe_ratio": -0.4147,
+        "debt_to_equity": 0.7249,
+        "current_ratio": 1.2525,
+        "interest_coverage": null
+    },
+    "volatility": 37.8015,
+    "max_drawdown": 73.4608,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "وفرة received a safety score of 44.3/100 and a high investment risk classification. Annualized volatility was 37.8%. Maximum drawdown was 73.5%. Main risk: High historical price volatility."
+}

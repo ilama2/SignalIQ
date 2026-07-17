@@ -1,0 +1,47 @@
+{
+    "symbol": "1831",
+    "company_name": "مهارة",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.31136337682045245,
+        "roa": 0.13963466097307553,
+        "gross_margin": 0.1052182358085601,
+        "operating_margin": 0.06400085232315714,
+        "net_margin": 0.08763705621054328,
+        "current_ratio": 1.9685147426456415,
+        "quick_ratio": 1.9685147426456415,
+        "operating_cash_flow_ratio": -0.02972855840809225,
+        "debt_ratio": 0.5515379412987425,
+        "debt_to_equity": 1.2298430393331197,
+        "equity_multiplier": 2.2298430393331197,
+        "asset_turnover": 1.593328975332202,
+        "cash_conversion_ratio": -0.07219950106513043,
+        "free_cash_flow": -30734894.0,
+        "revenue_growth": 0.3923325049082938,
+        "net_income_growth": 0.5562205543979419
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 3793.2598375544,
+        "lynch_value": 1894.5775895271997,
+        "pe_value": 7.243515,
+        "intrinsic_value": 1898.3603140271998,
+        "current_price": 5.510000228881836,
+        "margin_of_safety": 0.9970974950391831,
+        "upside": 343.5299882342184,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 47,
+        "rating": "Sell",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Strong Revenue Growth",
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "High Debt",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

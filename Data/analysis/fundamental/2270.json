@@ -1,0 +1,46 @@
+{
+    "symbol": "2270",
+    "company_name": "سدافكو",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.2739350057869673,
+        "roa": 0.1774957428297355,
+        "gross_margin": 0.31137694205507765,
+        "operating_margin": 0.12380942855237714,
+        "net_margin": 0.15916149896645995,
+        "current_ratio": 2.103513332507202,
+        "quick_ratio": 1.4045992311408828,
+        "operating_cash_flow_ratio": 0.6226561423099468,
+        "debt_ratio": 0.35205162144275315,
+        "debt_to_equity": 0.5433328226341863,
+        "equity_multiplier": 1.5433328226341863,
+        "asset_turnover": 1.1151927066679557,
+        "cash_conversion_ratio": 0.9367538841489854,
+        "free_cash_flow": 319329000.0,
+        "revenue_growth": 0.049602960752393926,
+        "net_income_growth": -0.013020817181359019
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 14928.343488514349,
+        "lynch_value": 7400.7617442571745,
+        "pe_value": 223.8,
+        "intrinsic_value": 7517.6350775905075,
+        "current_price": 217.5,
+        "margin_of_safety": 0.9710680290071074,
+        "upside": 33.563839437197736,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 73,
+        "rating": "Buy",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Strong Liquidity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Net Income Declining"
+        ]
+    }
+}

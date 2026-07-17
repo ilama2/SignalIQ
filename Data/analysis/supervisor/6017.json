@@ -1,0 +1,36 @@
+{
+    "symbol": "6017",
+    "company_name": "6017",
+    "generated_at": "2026-07-17T13:46:13.866507",
+    "final_score": 35.41,
+    "recommendation": "Sell",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 38.0,
+        "technical": 25.0,
+        "news": 50.0,
+        "risk": 30.75
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Positive Free Cash Flow",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "6017 received a final investment score of 35.4/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Positive Free Cash Flow. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

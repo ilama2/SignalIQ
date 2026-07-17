@@ -1,0 +1,39 @@
+{
+    "symbol": "2288",
+    "company_name": "نفوذ",
+    "generated_at": "2026-07-17T13:46:13.781951",
+    "final_score": 55.29,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 86.0,
+        "technical": 25.0,
+        "news": 50.0,
+        "risk": 51.29
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Excellent Return on Equity",
+        "Strong Liquidity",
+        "Low Debt",
+        "Positive Free Cash Flow",
+        "Oversold",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "نفوذ received a final investment score of 55.3/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Excellent Return on Equity. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

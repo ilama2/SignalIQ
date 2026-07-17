@@ -1,0 +1,47 @@
+{
+    "symbol": "4310",
+    "company_name": "4310",
+    "sector": "Real Estate",
+    "ratios": {
+        "roe": -0.011821134100996517,
+        "roa": -0.0061886100827078395,
+        "gross_margin": 0.2973585239547892,
+        "operating_margin": -0.07664380263786084,
+        "net_margin": -0.10931322605937756,
+        "current_ratio": 1.390063387683759,
+        "quick_ratio": 1.140338030412797,
+        "operating_cash_flow_ratio": -0.36337288677877894,
+        "debt_ratio": 0.4598146852266034,
+        "debt_to_equity": 0.8783120899568538,
+        "equity_multiplier": 1.9101436256304185,
+        "asset_turnover": 0.05661355268525572,
+        "cash_conversion_ratio": 4.017180392240086,
+        "free_cash_flow": -310248972.0,
+        "revenue_growth": 1.0086689087918035,
+        "net_income_growth": 0.6638917212016777
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": null,
+        "margin_of_safety": 0.0,
+        "upside": null,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 43,
+        "rating": "Sell",
+        "strengths": [
+            "Strong Revenue Growth",
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

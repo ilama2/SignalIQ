@@ -1,0 +1,45 @@
+{
+    "symbol": "4265",
+    "company_name": "4265",
+    "sector": "Industrials",
+    "ratios": {
+        "roe": 0.12138688773366846,
+        "roa": 0.04010096478431405,
+        "gross_margin": 0.29806247691569615,
+        "operating_margin": 0.26101958127468583,
+        "net_margin": 0.13716493743964184,
+        "current_ratio": 0.6183928176021228,
+        "quick_ratio": 0.6070146794731582,
+        "operating_cash_flow_ratio": -0.04061067144199214,
+        "debt_ratio": 0.6696433566012628,
+        "debt_to_equity": 2.0270316035176874,
+        "equity_multiplier": 3.0270316035176874,
+        "asset_turnover": 0.2923557983027558,
+        "cash_conversion_ratio": -0.3514665505119994,
+        "free_cash_flow": -31988601.0,
+        "revenue_growth": 0.1390813816425017,
+        "net_income_growth": 0.12661592477051029
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": null,
+        "lynch_value": null,
+        "pe_value": null,
+        "intrinsic_value": 0.0,
+        "current_price": null,
+        "margin_of_safety": 0.0,
+        "upside": null,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 27,
+        "rating": "Strong Sell",
+        "strengths": [],
+        "weaknesses": [
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "symbol": "1834",
+    "name": "سماسكو",
+    "name_en": "SMASCO",
+    "price": 6.45,
+    "change": 0.13,
+    "change_percent": 2.06,
+    "open": 6.31,
+    "high": 6.48,
+    "low": 6.31,
+    "previous_close": 6.32,
+    "volume": 2283851,
+    "value": 14683709.33,
+    "bid": 6.43,
+    "ask": 6.45,
+    "bid_size": 10000,
+    "ask_size": 92732,
+    "liquidity": {
+        "inflow_value": 7317764.25,
+        "inflow_volume": 1138030,
+        "inflow_trades": 1299,
+        "outflow_value": 7365944.93,
+        "outflow_volume": 1145821,
+        "outflow_trades": 1586,
+        "net_value": -48180.6799999997
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

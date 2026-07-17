@@ -1,0 +1,32 @@
+{
+    "symbol": "4141",
+    "company_name": "4141",
+    "generated_at": "2026-07-17T13:30:41.870957",
+    "risk_score": 58.78,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 45.09,
+    "fundamental_safety_score": 99.83,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 30.0638,
+        "downside_volatility": 18.8215,
+        "max_drawdown": 72.1608,
+        "value_at_risk_95": 2.8891,
+        "conditional_var_95": 3.9871,
+        "sharpe_ratio": -0.6845,
+        "debt_to_equity": 0.5084,
+        "current_ratio": 2.7098,
+        "interest_coverage": null
+    },
+    "volatility": 30.0638,
+    "max_drawdown": 72.1608,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "4141 received a safety score of 58.8/100 and a medium investment risk classification. Annualized volatility was 30.1%. Maximum drawdown was 72.2%. Main risk: Large historical maximum drawdown."
+}

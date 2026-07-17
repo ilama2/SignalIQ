@@ -1,0 +1,38 @@
+{
+    "symbol": "4262",
+    "company_name": "4262",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 32.71888198819022,
+        "ema50": 34.326810359924785,
+        "rsi": 29.43729132604612,
+        "macd": -0.8321434912973231,
+        "macd_signal": -0.7666663193242629,
+        "macd_histogram": -0.06547717197306024,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 24101231.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Oversold",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

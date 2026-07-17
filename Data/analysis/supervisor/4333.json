@@ -1,0 +1,38 @@
+{
+    "symbol": "4333",
+    "company_name": "4333",
+    "generated_at": "2026-07-17T13:46:13.851744",
+    "final_score": 61.12,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 67.0,
+        "technical": 45.0,
+        "news": 50.0,
+        "risk": 94.5
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "High Net Margin",
+        "Strong Liquidity",
+        "Positive Free Cash Flow",
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "No major risk signal was identified"
+    ],
+    "summary": "4333 received a final investment score of 61.1/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: High Net Margin. Main risk: No major risk signal was identified.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

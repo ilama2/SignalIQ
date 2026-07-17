@@ -1,0 +1,40 @@
+{
+    "symbol": "1140",
+    "company_name": "البلاد",
+    "indicators": {
+        "sma20": 24.352000045776368,
+        "sma50": 24.492599906921388,
+        "sma200": 25.611941709518433,
+        "ema20": 24.305298740213704,
+        "ema50": 24.5663470921278,
+        "rsi": 46.51580032175541,
+        "macd": -0.1580418954066367,
+        "macd_signal": -0.15536178872849105,
+        "macd_histogram": -0.002680106678145666,
+        "stochastic_k": 55.69620558780071,
+        "stochastic_d": 33.416908825050626,
+        "upper_band": 25.082139577788897,
+        "middle_band": 24.352000045776368,
+        "lower_band": 23.62186051376384,
+        "atr": 0.30498330891385833,
+        "adx": 13.556293027504058,
+        "obv": 166089347.0,
+        "current_price": 24.239999771118164,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

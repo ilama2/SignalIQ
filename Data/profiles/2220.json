@@ -1,0 +1,29 @@
+{
+    "symbol": "2220",
+    "name": "معدنية",
+    "name_en": "National Metal Manufacturing nd Cstng Co",
+    "price": 12.18,
+    "change": -0.12,
+    "change_percent": -0.98,
+    "open": 12.18,
+    "high": 12.25,
+    "low": 12.13,
+    "previous_close": 12.3,
+    "volume": 35463,
+    "value": 431906.34,
+    "bid": 12.18,
+    "ask": 12.2,
+    "bid_size": 859,
+    "ask_size": 449,
+    "liquidity": {
+        "inflow_value": 150130.24,
+        "inflow_volume": 12317,
+        "inflow_trades": 68,
+        "outflow_value": 281776.1,
+        "outflow_volume": 23146,
+        "outflow_trades": 100,
+        "net_value": -131645.86
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

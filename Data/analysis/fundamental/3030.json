@@ -1,0 +1,47 @@
+{
+    "symbol": "3030",
+    "company_name": "أسمنت السعودية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.1638318719015431,
+        "roa": 0.11799729407909465,
+        "gross_margin": 0.3608025840083964,
+        "operating_margin": 0.2410528469927633,
+        "net_margin": 0.2176176189353531,
+        "current_ratio": 1.6673712048038543,
+        "quick_ratio": 0.7123229684281575,
+        "operating_cash_flow_ratio": 0.8086167971977517,
+        "debt_ratio": 0.2797659410861969,
+        "debt_to_equity": 0.3884375330821157,
+        "equity_multiplier": 1.3884375330821157,
+        "asset_turnover": 0.5422230730047077,
+        "cash_conversion_ratio": 1.528479472507651,
+        "free_cash_flow": 384198000.0,
+        "revenue_growth": -0.0027479298033723453,
+        "net_income_growth": -0.13793454917819065
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 1448.23,
+        "lynch_value": 714.0,
+        "pe_value": 35.699999999999996,
+        "intrinsic_value": 732.6433333333333,
+        "current_price": 30.0,
+        "margin_of_safety": 0.9590523811040388,
+        "upside": 23.421444444444443,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 75,
+        "rating": "Buy",
+        "strengths": [
+            "High Net Margin",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

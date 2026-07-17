@@ -1,0 +1,49 @@
+{
+    "symbol": "2001",
+    "company_name": "كيمانول",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -1.6817601205918657,
+        "roa": -0.37373111879690374,
+        "gross_margin": 0.0129440855089003,
+        "operating_margin": -0.25879258494458385,
+        "net_margin": -0.771243639727572,
+        "current_ratio": 0.5292282242789141,
+        "quick_ratio": 0.4000981055162019,
+        "operating_cash_flow_ratio": 0.05862127177166632,
+        "debt_ratio": 0.8389911011884531,
+        "debt_to_equity": 3.7753928012533606,
+        "equity_multiplier": 4.499919958513764,
+        "asset_turnover": 0.48458243225048514,
+        "cash_conversion_ratio": -0.08565979710777075,
+        "free_cash_flow": 7202513.0,
+        "revenue_growth": -0.11853094975080147,
+        "net_income_growth": 0.7217540771598839
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": null,
+        "lynch_value": null,
+        "pe_value": null,
+        "intrinsic_value": 0.0,
+        "current_price": 39.88309097290039,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 10,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Revenue Declining"
+        ]
+    }
+}

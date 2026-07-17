@@ -1,0 +1,39 @@
+{
+    "symbol": "3010",
+    "company_name": "أسمنت العربية",
+    "indicators": {
+        "sma20": 23.122999954223634,
+        "sma50": 22.965799865722655,
+        "sma200": 21.728779678344726,
+        "ema20": 23.105527415166343,
+        "ema50": 22.966235228394044,
+        "rsi": 61.776242595514574,
+        "macd": 0.06537721688323472,
+        "macd_signal": 0.039759525982603544,
+        "macd_histogram": 0.02561769090063118,
+        "stochastic_k": 86.11104488366487,
+        "stochastic_d": 76.31304532878066,
+        "upper_band": 23.48283862581242,
+        "middle_band": 23.122999954223634,
+        "lower_band": 22.763161282634847,
+        "atr": 0.248894412685639,
+        "adx": 20.568096525756406,
+        "obv": 910972.0,
+        "current_price": 23.399999618530273,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 90,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": []
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "symbol": "2250",
+    "name": "المجموعة السعودية",
+    "name_en": "Saudi Industrial Investment Group SJSC",
+    "price": 13.35,
+    "change": -0.02,
+    "change_percent": -0.15,
+    "open": 13.48,
+    "high": 13.52,
+    "low": 13.3,
+    "previous_close": 13.37,
+    "volume": 332360,
+    "value": 4446778.86,
+    "bid": 13.35,
+    "ask": 13.39,
+    "bid_size": 9316,
+    "ask_size": 100,
+    "liquidity": {
+        "inflow_value": 1901609.8,
+        "inflow_volume": 142124,
+        "inflow_trades": 418,
+        "outflow_value": 2545169.06,
+        "outflow_volume": 190236,
+        "outflow_trades": 614,
+        "net_value": -643559.26
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

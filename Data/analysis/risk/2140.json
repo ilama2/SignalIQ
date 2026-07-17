@@ -1,0 +1,32 @@
+{
+    "symbol": "2140",
+    "company_name": "أيان",
+    "generated_at": "2026-07-17T13:30:41.703891",
+    "risk_score": 55.81,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 41.08,
+    "fundamental_safety_score": 100.0,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 32.2624,
+        "downside_volatility": 22.4728,
+        "max_drawdown": 64.6392,
+        "value_at_risk_95": 3.1307,
+        "conditional_var_95": 4.7377,
+        "sharpe_ratio": -0.4132,
+        "debt_to_equity": 0.0934,
+        "current_ratio": 8.8199,
+        "interest_coverage": null
+    },
+    "volatility": 32.2624,
+    "max_drawdown": 64.6392,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "أيان received a safety score of 55.8/100 and a medium investment risk classification. Annualized volatility was 32.3%. Maximum drawdown was 64.6%. Main risk: Large historical maximum drawdown."
+}

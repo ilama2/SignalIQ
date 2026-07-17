@@ -1,0 +1,49 @@
+{
+    "symbol": "4348",
+    "company_name": "4348",
+    "sector": "Real Estate",
+    "ratios": {
+        "roe": 0.036588664019208,
+        "roa": 0.022185311555197616,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.4361166201290056,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.3936561459704852,
+        "debt_to_equity": 0.649229217636835,
+        "equity_multiplier": 1.649229217636835,
+        "asset_turnover": 0.0508701354895282,
+        "cash_conversion_ratio": 2.9697562492451395,
+        "free_cash_flow": 111108893.0,
+        "revenue_growth": -0.20822457039998865,
+        "net_income_growth": -0.36861412227874646
+    },
+    "valuation": {
+        "dcf_value": 11.59422277529705,
+        "graham_value": null,
+        "lynch_value": null,
+        "pe_value": null,
+        "intrinsic_value": 11.59422277529705,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 32,
+        "rating": "Strong Sell",
+        "strengths": [
+            "High Net Margin",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

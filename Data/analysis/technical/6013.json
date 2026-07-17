@@ -1,0 +1,38 @@
+{
+    "symbol": "6013",
+    "company_name": "6013",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 97.84383112331383,
+        "ema50": 95.9641635903108,
+        "rsi": 51.36348171587195,
+        "macd": 1.1032285862178526,
+        "macd_signal": 1.4323010523443507,
+        "macd_histogram": -0.3290724661264981,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 31963778.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

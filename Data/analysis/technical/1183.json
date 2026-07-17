@@ -1,0 +1,39 @@
+{
+    "symbol": "1183",
+    "company_name": "سهل",
+    "indicators": {
+        "sma20": 14.98662872314453,
+        "sma50": 14.888579006195068,
+        "sma200": 16.29909975528717,
+        "ema20": 14.970230657595765,
+        "ema50": 14.915563753136794,
+        "rsi": 52.620998097064515,
+        "macd": 0.04558954029815787,
+        "macd_signal": 0.035996282731943885,
+        "macd_histogram": 0.009593257566213986,
+        "stochastic_k": 31.818167743885184,
+        "stochastic_d": 33.549747224694165,
+        "upper_band": 15.287319017969146,
+        "middle_band": 14.98662872314453,
+        "lower_band": 14.685938428319915,
+        "atr": 0.38930278685120684,
+        "adx": 26.975449473922026,
+        "obv": 61312141.0,
+        "current_price": 15.050000190734863,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 65,
+        "rating": "Hold",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200"
+        ]
+    }
+}

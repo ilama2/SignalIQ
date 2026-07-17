@@ -1,0 +1,29 @@
+{
+    "symbol": "1010",
+    "name": "الرياض",
+    "name_en": "Riyad Bank SJSC",
+    "price": 20.7,
+    "change": 0.13,
+    "change_percent": 0.63,
+    "open": 20.54,
+    "high": 20.7,
+    "low": 20.43,
+    "previous_close": 20.57,
+    "volume": 4078511,
+    "value": 84092654.46,
+    "bid": 20.62,
+    "ask": 20.7,
+    "bid_size": 50,
+    "ask_size": 889,
+    "liquidity": {
+        "inflow_value": 47777387.36,
+        "inflow_volume": 2317947,
+        "inflow_trades": 2048,
+        "outflow_value": 36315268.45,
+        "outflow_volume": 1760564,
+        "outflow_trades": 1511,
+        "net_value": 11462118.909999996
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

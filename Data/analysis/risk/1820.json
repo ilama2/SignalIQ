@@ -1,0 +1,32 @@
+{
+    "symbol": "1820",
+    "company_name": "بان",
+    "generated_at": "2026-07-17T13:30:41.648268",
+    "risk_score": 29.71,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 37.94,
+    "fundamental_safety_score": 5.0,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 36.044,
+        "downside_volatility": 22.187,
+        "max_drawdown": 69.9828,
+        "value_at_risk_95": 3.2971,
+        "conditional_var_95": 4.7233,
+        "sharpe_ratio": -0.3293,
+        "debt_to_equity": 579.9885,
+        "current_ratio": 0.3477,
+        "interest_coverage": null
+    },
+    "volatility": 36.044,
+    "max_drawdown": 69.9828,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "بان received a safety score of 29.7/100 and a high investment risk classification. Annualized volatility was 36.0%. Maximum drawdown was 70.0%. Main risk: High historical price volatility."
+}

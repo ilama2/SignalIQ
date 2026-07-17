@@ -1,0 +1,48 @@
+{
+    "symbol": "8310",
+    "company_name": "8310",
+    "sector": "Financial Services",
+    "ratios": {
+        "roe": -0.042715742000649794,
+        "roa": -0.024563220835915316,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": -0.0466743760171246,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.4249609234098834,
+        "debt_to_equity": 0.7390122527495504,
+        "equity_multiplier": 1.7390122527495504,
+        "asset_turnover": 0.5262677925657365,
+        "cash_conversion_ratio": -2.050304992845847,
+        "free_cash_flow": 22869000.0,
+        "revenue_growth": 0.2585342764499533,
+        "net_income_growth": -2.1040991103350795
+    },
+    "valuation": {
+        "dcf_value": 19.39707733578277,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 19.39707733578277,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 27,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "Net Income Declining"
+        ]
+    }
+}

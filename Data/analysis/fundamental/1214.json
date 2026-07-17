@@ -1,0 +1,46 @@
+{
+    "symbol": "1214",
+    "company_name": "شاكر",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.0959664260139696,
+        "roa": 0.04515613719458473,
+        "gross_margin": 0.248802839921776,
+        "operating_margin": 0.06960087973344191,
+        "net_margin": 0.05860277798487134,
+        "current_ratio": 1.1534293598608532,
+        "quick_ratio": 0.6849568778206744,
+        "operating_cash_flow_ratio": -0.13610605461887307,
+        "debt_ratio": 0.5295855030179031,
+        "debt_to_equity": 1.1254821858308388,
+        "equity_multiplier": 2.1252133591594764,
+        "asset_turnover": 0.7705460175666428,
+        "cash_conversion_ratio": -1.5210216638735643,
+        "free_cash_flow": -134771000.0,
+        "revenue_growth": -0.014787704833512959,
+        "net_income_growth": 0.0019978917951609344
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 746.93375,
+        "lynch_value": 368.25,
+        "pe_value": 18.4125,
+        "intrinsic_value": 377.8654166666667,
+        "current_price": 13.270000457763672,
+        "margin_of_safety": 0.96488167513496,
+        "upside": 27.47516229327595,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 17,
+        "rating": "Strong Sell",
+        "strengths": [],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "High Debt",
+            "Revenue Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "symbol": "1324",
+    "company_name": "1324",
+    "generated_at": "2026-07-17T13:30:41.643711",
+    "risk_score": 43.84,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 41.78,
+    "fundamental_safety_score": 50.0,
+    "metrics": {
+        "observations": 87,
+        "annualized_volatility": 46.312,
+        "downside_volatility": 24.4731,
+        "max_drawdown": 38.5137,
+        "value_at_risk_95": 4.3328,
+        "conditional_var_95": 5.2788,
+        "sharpe_ratio": -1.0299,
+        "debt_to_equity": null,
+        "current_ratio": null,
+        "interest_coverage": null
+    },
+    "volatility": 46.312,
+    "max_drawdown": 38.5137,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "Elevated one-day Value at Risk"
+    ],
+    "summary": "1324 received a safety score of 43.8/100 and a high investment risk classification. Annualized volatility was 46.3%. Maximum drawdown was 38.5%. Main risk: High historical price volatility."
+}

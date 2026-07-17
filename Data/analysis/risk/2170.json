@@ -1,0 +1,32 @@
+{
+    "symbol": "2170",
+    "company_name": "اللجين",
+    "generated_at": "2026-07-17T13:30:41.710595",
+    "risk_score": 58.93,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 45.25,
+    "fundamental_safety_score": 100.0,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 29.626,
+        "downside_volatility": 19.5136,
+        "max_drawdown": 69.9835,
+        "value_at_risk_95": 2.811,
+        "conditional_var_95": 4.0881,
+        "sharpe_ratio": -0.2836,
+        "debt_to_equity": 0.1689,
+        "current_ratio": 3.6482,
+        "interest_coverage": null
+    },
+    "volatility": 29.626,
+    "max_drawdown": 69.9835,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "اللجين received a safety score of 58.9/100 and a medium investment risk classification. Annualized volatility was 29.6%. Maximum drawdown was 70.0%. Main risk: Large historical maximum drawdown."
+}

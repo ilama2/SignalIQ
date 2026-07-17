@@ -1,0 +1,47 @@
+{
+    "symbol": "4346",
+    "company_name": "4346",
+    "sector": "Real Estate",
+    "ratios": {
+        "roe": 0.0006918381551671209,
+        "roa": 0.0003837855224918263,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.010331761573904369,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.44526690292309934,
+        "debt_to_equity": 0.8026687163058771,
+        "equity_multiplier": 1.802668716305877,
+        "asset_turnover": 0.037146184583002714,
+        "cash_conversion_ratio": 101.17407497708987,
+        "free_cash_flow": 36101844.0,
+        "revenue_growth": 0.16241339223749426,
+        "net_income_growth": -0.9560441414977826
+    },
+    "valuation": {
+        "dcf_value": 12.468847029998594,
+        "graham_value": null,
+        "lynch_value": null,
+        "pe_value": null,
+        "intrinsic_value": 12.468847029998594,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 27,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "Net Income Declining"
+        ]
+    }
+}

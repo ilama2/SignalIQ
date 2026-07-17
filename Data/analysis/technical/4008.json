@@ -1,0 +1,40 @@
+{
+    "symbol": "4008",
+    "company_name": "ساكو",
+    "indicators": {
+        "sma20": 23.17500009536743,
+        "sma50": 23.220599975585937,
+        "sma200": 25.68928503036499,
+        "ema20": 23.117530158488517,
+        "ema50": 23.43370771827512,
+        "rsi": 46.567022646021634,
+        "macd": -0.1404989345604939,
+        "macd_signal": -0.11225487584549397,
+        "macd_histogram": -0.028244058714999923,
+        "stochastic_k": 49.20638124379345,
+        "stochastic_d": 47.08996364262662,
+        "upper_band": 23.82816139338326,
+        "middle_band": 23.17500009536743,
+        "lower_band": 22.5218387973516,
+        "atr": 0.6054107678078756,
+        "adx": 15.75353847103977,
+        "obv": 31185808.0,
+        "current_price": 22.93000030517578,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

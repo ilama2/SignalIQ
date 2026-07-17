@@ -1,0 +1,35 @@
+{
+    "symbol": "4321",
+    "company_name": "4321",
+    "generated_at": "2026-07-17T13:46:13.845479",
+    "final_score": 44.64,
+    "recommendation": "Sell",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 47.0,
+        "technical": 25.0,
+        "news": 50.0,
+        "risk": 71.29
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "High Net Margin",
+        "Positive Free Cash Flow",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "No major risk signal was identified"
+    ],
+    "summary": "4321 received a final investment score of 44.6/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: High Net Margin. Main risk: No major risk signal was identified.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

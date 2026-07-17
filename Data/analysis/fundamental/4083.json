@@ -1,0 +1,48 @@
+{
+    "symbol": "4083",
+    "company_name": "4083",
+    "sector": "Financial Services",
+    "ratios": {
+        "roe": 0.19482247289941518,
+        "roa": 0.08510525212506137,
+        "gross_margin": 0.8462704374499275,
+        "operating_margin": 0.5242433362811137,
+        "net_margin": 0.3536931583479734,
+        "current_ratio": 2.7220404347453258,
+        "quick_ratio": 2.7220404347453258,
+        "operating_cash_flow_ratio": -0.47219177897408554,
+        "debt_ratio": 0.561336344932177,
+        "debt_to_equity": 1.285008059047883,
+        "equity_multiplier": 2.289194474309592,
+        "asset_turnover": 0.24061888141283302,
+        "cash_conversion_ratio": -1.1241523839834062,
+        "free_cash_flow": -313880983.0,
+        "revenue_growth": 0.23377438635024925,
+        "net_income_growth": 0.22381290716246655
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 17727.591398125758,
+        "lynch_value": 8847.71063056288,
+        "pe_value": 56.77083,
+        "intrinsic_value": 8877.35761956288,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 61,
+        "rating": "Hold",
+        "strengths": [
+            "High Net Margin",
+            "Strong Liquidity",
+            "Strong Revenue Growth",
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "High Debt",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

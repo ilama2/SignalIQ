@@ -1,0 +1,38 @@
+{
+    "symbol": "8311",
+    "company_name": "8311",
+    "generated_at": "2026-07-17T13:46:13.894874",
+    "final_score": 33.77,
+    "recommendation": "Sell",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 28.0,
+        "technical": 30.0,
+        "news": 50.0,
+        "risk": 33.13
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Low Debt",
+        "Oversold",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "Elevated one-day Value at Risk",
+        "Weak short-term liquidity"
+    ],
+    "summary": "8311 received a final investment score of 33.8/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Low Debt. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

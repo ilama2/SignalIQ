@@ -1,0 +1,34 @@
+{
+    "symbol": "4324",
+    "company_name": "4324",
+    "generated_at": "2026-07-17T13:30:41.968297",
+    "risk_score": 29.46,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 18.64,
+    "fundamental_safety_score": 61.9,
+    "metrics": {
+        "observations": 1210,
+        "annualized_volatility": 49.2919,
+        "downside_volatility": 37.5865,
+        "max_drawdown": 63.4808,
+        "value_at_risk_95": 3.9457,
+        "conditional_var_95": 6.808,
+        "sharpe_ratio": -0.0039,
+        "debt_to_equity": 0.5356,
+        "current_ratio": 0.7536,
+        "interest_coverage": null
+    },
+    "volatility": 49.2919,
+    "max_drawdown": 63.4808,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4324 received a safety score of 29.5/100 and a high investment risk classification. Annualized volatility was 49.3%. Maximum drawdown was 63.5%. Main risk: High historical price volatility."
+}

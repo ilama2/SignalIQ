@@ -1,0 +1,29 @@
+{
+    "symbol": "3007",
+    "name": "الواحة",
+    "name_en": "Zahrat Al Waha for Trading Co.",
+    "price": 2.79,
+    "change": -0.03,
+    "change_percent": -1.06,
+    "open": 2.81,
+    "high": 2.85,
+    "low": 2.78,
+    "previous_close": 2.82,
+    "volume": 1507717,
+    "value": 4235739.51,
+    "bid": 2.79,
+    "ask": 2.8,
+    "bid_size": 17588,
+    "ask_size": 8723,
+    "liquidity": {
+        "inflow_value": 1541594.84,
+        "inflow_volume": 547869,
+        "inflow_trades": 283,
+        "outflow_value": 2694144.59,
+        "outflow_volume": 959848,
+        "outflow_trades": 1643,
+        "net_value": -1152549.7499999998
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

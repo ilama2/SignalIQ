@@ -1,0 +1,46 @@
+{
+    "symbol": "7030",
+    "company_name": "7030",
+    "sector": "Communication Services",
+    "ratios": {
+        "roe": 0.05552105280539863,
+        "roa": 0.020989971134794498,
+        "gross_margin": 0.5985021392547789,
+        "operating_margin": 0.12019669198518765,
+        "net_margin": 0.05495005856182643,
+        "current_ratio": 1.2790992027254158,
+        "quick_ratio": 1.250742550420929,
+        "operating_cash_flow_ratio": 0.27898546569579646,
+        "debt_ratio": 0.6217495082217163,
+        "debt_to_equity": 1.6446038470479543,
+        "equity_multiplier": 2.645122875531873,
+        "asset_turnover": 0.3819826890844506,
+        "cash_conversion_ratio": 2.94251496609122,
+        "free_cash_flow": 1283539000.0,
+        "revenue_growth": 0.059602076550189134,
+        "net_income_growth": 0.01200934320865102
+    },
+    "valuation": {
+        "dcf_value": 23.82048324904854,
+        "graham_value": 804.3628257725344,
+        "lynch_value": 399.3339128862672,
+        "pe_value": 10.05,
+        "intrinsic_value": 309.39180547696253,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 34,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "High Debt"
+        ]
+    }
+}

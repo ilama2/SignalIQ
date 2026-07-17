@@ -1,0 +1,29 @@
+{
+    "symbol": "3005",
+    "name": "أسمنت ام القرى",
+    "name_en": "Umm Al Qura Cement Company SJSC",
+    "price": 13.99,
+    "change": -0.11,
+    "change_percent": -0.78,
+    "open": 13.98,
+    "high": 14.2,
+    "low": 13.87,
+    "previous_close": 14.1,
+    "volume": 59405,
+    "value": 832212.2,
+    "bid": 13.89,
+    "ask": 13.99,
+    "bid_size": 3,
+    "ask_size": 1287,
+    "liquidity": {
+        "inflow_value": 485380.76,
+        "inflow_volume": 34575,
+        "inflow_trades": 138,
+        "outflow_value": 346831.44,
+        "outflow_volume": 24830,
+        "outflow_trades": 207,
+        "net_value": 138549.32
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

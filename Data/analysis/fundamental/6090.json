@@ -1,0 +1,48 @@
+{
+    "symbol": "6090",
+    "company_name": "6090",
+    "sector": "Consumer Defensive",
+    "ratios": {
+        "roe": 0.009361614990651274,
+        "roa": 0.005409569573597419,
+        "gross_margin": 0.30295328982796316,
+        "operating_margin": 0.019970612789706476,
+        "net_margin": 0.026885998297809462,
+        "current_ratio": 0.37995696785019983,
+        "quick_ratio": 0.22157829675688648,
+        "operating_cash_flow_ratio": 0.12943963979196574,
+        "debt_ratio": 0.4213398666450613,
+        "debt_to_equity": 0.7291562772378457,
+        "equity_multiplier": 1.7305655955221784,
+        "asset_turnover": 0.20120396920646103,
+        "cash_conversion_ratio": 8.01088091621798,
+        "free_cash_flow": 7182366.0,
+        "revenue_growth": 0.3702999195191013,
+        "net_income_growth": -1.0189172074964927
+    },
+    "valuation": {
+        "dcf_value": 7.7973307085718755,
+        "graham_value": 444.86990342292154,
+        "lynch_value": 222.17995171146077,
+        "pe_value": 0.8999999999999999,
+        "intrinsic_value": 168.93679646073855,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 32,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "Net Income Declining"
+        ]
+    }
+}

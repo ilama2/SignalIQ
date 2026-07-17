@@ -1,0 +1,46 @@
+{
+    "symbol": "2100",
+    "company_name": "وفرة",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.24470951599787813,
+        "roa": -0.14187253919459944,
+        "gross_margin": 0.0774527302365341,
+        "operating_margin": -0.34933236434001536,
+        "net_margin": -0.3796629907663961,
+        "current_ratio": 1.2525178728835487,
+        "quick_ratio": 0.9303727666287601,
+        "operating_cash_flow_ratio": 0.023687871380361387,
+        "debt_ratio": 0.4202410208034999,
+        "debt_to_equity": 0.7248546997683771,
+        "equity_multiplier": 1.7248546997683771,
+        "asset_turnover": 0.37368019176220574,
+        "cash_conversion_ratio": -0.05897641343783479,
+        "free_cash_flow": -5476152.0,
+        "revenue_growth": -0.21525266174267163,
+        "net_income_growth": -10.933051883430885
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 22.030000686645508,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 22,
+        "rating": "Strong Sell",
+        "strengths": [],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

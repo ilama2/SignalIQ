@@ -1,0 +1,29 @@
+{
+    "symbol": "1030",
+    "name": "الإستثمار",
+    "name_en": "Saudi Investment Bank",
+    "price": 13.55,
+    "change": 0.14,
+    "change_percent": 1.04,
+    "open": 13.41,
+    "high": 13.55,
+    "low": 13.39,
+    "previous_close": 13.41,
+    "volume": 345449,
+    "value": 4670401.43,
+    "bid": 13.49,
+    "ask": 13.55,
+    "bid_size": 45,
+    "ask_size": 5988,
+    "liquidity": {
+        "inflow_value": 3397516.04,
+        "inflow_volume": 251160,
+        "inflow_trades": 396,
+        "outflow_value": 1272885.41,
+        "outflow_volume": 94289,
+        "outflow_trades": 234,
+        "net_value": 2124630.63
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

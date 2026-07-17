@@ -1,0 +1,48 @@
+{
+    "symbol": "4160",
+    "company_name": "4160",
+    "sector": "Consumer Defensive",
+    "ratios": {
+        "roe": -1.1799706550779676,
+        "roa": -0.2142863922173839,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.0,
+        "current_ratio": 0.7847923649764269,
+        "quick_ratio": 0.7847923649764269,
+        "operating_cash_flow_ratio": -0.7585991135933643,
+        "debt_ratio": 0.8183968463154495,
+        "debt_to_equity": 4.5065123028481455,
+        "equity_multiplier": 5.5065123028481455,
+        "asset_turnover": 0.0,
+        "cash_conversion_ratio": 1.7639512714816148,
+        "free_cash_flow": -22991801.0,
+        "revenue_growth": 0.0,
+        "net_income_growth": 0.6256932278219821
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": null,
+        "margin_of_safety": 0.0,
+        "upside": null,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 13,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

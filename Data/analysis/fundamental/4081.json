@@ -1,0 +1,47 @@
+{
+    "symbol": "4081",
+    "company_name": "4081",
+    "sector": "Financial Services",
+    "ratios": {
+        "roe": -0.10192437860876455,
+        "roa": -0.058411307854413036,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": -0.42360708286251725,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.42691524194987623,
+        "debt_to_equity": 0.7449425865074863,
+        "equity_multiplier": 1.7449425865074863,
+        "asset_turnover": 0.13789030027472554,
+        "cash_conversion_ratio": 0.3112864798119316,
+        "free_cash_flow": -43578000.0,
+        "revenue_growth": -0.06577809798270894,
+        "net_income_growth": -1.9626703038800328
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": null,
+        "margin_of_safety": 0.0,
+        "upside": null,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 14,
+        "rating": "Strong Sell",
+        "strengths": [],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "Revenue Declining",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

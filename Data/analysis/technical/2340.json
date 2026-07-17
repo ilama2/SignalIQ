@@ -1,0 +1,39 @@
+{
+    "symbol": "2340",
+    "company_name": "ارتيكس",
+    "indicators": {
+        "sma20": 11.870499992370606,
+        "sma50": 11.049999961853027,
+        "sma200": 11.094649987220764,
+        "ema20": 11.944435330285497,
+        "ema50": 11.333117004064864,
+        "rsi": 65.87096968217597,
+        "macd": 0.4142620764379341,
+        "macd_signal": 0.40884559164367784,
+        "macd_histogram": 0.005416484794256271,
+        "stochastic_k": 69.40639667093721,
+        "stochastic_d": 68.4795984463971,
+        "upper_band": 13.201837307754143,
+        "middle_band": 11.870499992370606,
+        "lower_band": 10.539162676987068,
+        "atr": 0.43541243939085433,
+        "adx": 46.45080137342993,
+        "obv": 79888380.0,
+        "current_price": 12.5,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 85,
+        "rating": "Buy",
+        "strengths": [
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": []
+    }
+}

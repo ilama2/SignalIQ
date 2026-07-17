@@ -1,0 +1,45 @@
+{
+    "symbol": "1303",
+    "company_name": "الصناعات الكهربائية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.4853055579975295,
+        "roa": 0.24270739851683892,
+        "gross_margin": 0.3746425205467887,
+        "operating_margin": 0.291445225630718,
+        "net_margin": 0.2743305399750485,
+        "current_ratio": 1.8611826151518713,
+        "quick_ratio": 1.0929338726960585,
+        "operating_cash_flow_ratio": 0.5924096999842853,
+        "debt_ratio": 0.49988745334321016,
+        "debt_to_equity": 0.9995499146840358,
+        "equity_multiplier": 1.9995499146840356,
+        "asset_turnover": 0.8847261356278966,
+        "cash_conversion_ratio": 1.0691687658012141,
+        "free_cash_flow": 497951112.0,
+        "revenue_growth": 0.15559210636667434,
+        "net_income_growth": 0.5680376150569216
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 1747.3915913067526,
+        "lynch_value": 871.3157956533763,
+        "pe_value": 8.4,
+        "intrinsic_value": 875.7024623200431,
+        "current_price": 13.84000015258789,
+        "margin_of_safety": 0.9841955450074665,
+        "upside": 62.27329860298439,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 82,
+        "rating": "Buy",
+        "strengths": [
+            "Excellent Return on Equity",
+            "High Net Margin",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "symbol": "2380",
+    "company_name": "بترو رابغ",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.299213956908077,
+        "roa": -0.06658756053689806,
+        "gross_margin": -0.05014051875926222,
+        "operating_margin": -0.07281447390494644,
+        "net_margin": -0.11136451946103479,
+        "current_ratio": 0.4036624271941684,
+        "quick_ratio": 0.23378647479384793,
+        "operating_cash_flow_ratio": 0.09344957394997366,
+        "debt_ratio": 0.7774583738506732,
+        "debt_to_equity": 3.493541353602736,
+        "equity_multiplier": 4.493541353602736,
+        "asset_turnover": 0.597924373572108,
+        "cash_conversion_ratio": -0.5518980153404823,
+        "free_cash_flow": -1630748000.0,
+        "revenue_growth": -0.09450181682930857,
+        "net_income_growth": -0.14211005897863518
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 14.5600004196167,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 3,
+        "rating": "Strong Sell",
+        "strengths": [],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Revenue Declining",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

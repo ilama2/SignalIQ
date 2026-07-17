@@ -1,0 +1,38 @@
+{
+    "symbol": "4291",
+    "company_name": "4291",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 129.71299079538096,
+        "ema50": 127.1216307664107,
+        "rsi": 45.511681750047806,
+        "macd": 0.4267553540596225,
+        "macd_signal": 1.1422867558397367,
+        "macd_histogram": -0.7155314017801142,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 17143776.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

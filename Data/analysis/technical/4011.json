@@ -1,0 +1,40 @@
+{
+    "symbol": "4011",
+    "company_name": "لازوردي",
+    "indicators": {
+        "sma20": 11.071500062942505,
+        "sma50": 11.174999961853027,
+        "sma200": 11.663949971199036,
+        "ema20": 11.072808532090344,
+        "ema50": 11.179481477869722,
+        "rsi": 50.1588939231663,
+        "macd": -0.04845918843497543,
+        "macd_signal": -0.04569574999232882,
+        "macd_histogram": -0.002763438442646614,
+        "stochastic_k": 30.303109118994303,
+        "stochastic_d": 12.121282179846538,
+        "upper_band": 11.236457453813589,
+        "middle_band": 11.071500062942505,
+        "lower_band": 10.90654267207142,
+        "atr": 0.16079531056773275,
+        "adx": 15.703849898434076,
+        "obv": 78180536.0,
+        "current_price": 11.100000381469728,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

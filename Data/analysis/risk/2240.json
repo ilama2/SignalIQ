@@ -1,0 +1,31 @@
+{
+    "symbol": "2240",
+    "company_name": "صناعات",
+    "generated_at": "2026-07-17T13:30:41.727618",
+    "risk_score": 31.52,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 35.24,
+    "fundamental_safety_score": 20.38,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 37.995,
+        "downside_volatility": 23.5812,
+        "max_drawdown": 63.5976,
+        "value_at_risk_95": 3.542,
+        "conditional_var_95": 5.0301,
+        "sharpe_ratio": 0.0299,
+        "debt_to_equity": 9.5383,
+        "current_ratio": 1.0125,
+        "interest_coverage": null
+    },
+    "volatility": 37.995,
+    "max_drawdown": 63.5976,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio"
+    ],
+    "summary": "صناعات received a safety score of 31.5/100 and a high investment risk classification. Annualized volatility was 38.0%. Maximum drawdown was 63.6%. Main risk: High historical price volatility."
+}

@@ -1,0 +1,34 @@
+{
+    "symbol": "2130",
+    "company_name": "صدق",
+    "generated_at": "2026-07-17T13:30:41.701846",
+    "risk_score": 47.34,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 30.5,
+    "fundamental_safety_score": 97.85,
+    "metrics": {
+        "observations": 1247,
+        "annualized_volatility": 39.7818,
+        "downside_volatility": 31.2742,
+        "max_drawdown": 87.1159,
+        "value_at_risk_95": 3.2922,
+        "conditional_var_95": 5.3633,
+        "sharpe_ratio": -0.5195,
+        "debt_to_equity": 0.6073,
+        "current_ratio": 3.1289,
+        "interest_coverage": null
+    },
+    "volatility": 39.7818,
+    "max_drawdown": 87.1159,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "صدق received a safety score of 47.3/100 and a medium investment risk classification. Annualized volatility was 39.8%. Maximum drawdown was 87.1%. Main risk: High historical price volatility."
+}

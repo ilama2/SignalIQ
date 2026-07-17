@@ -1,0 +1,48 @@
+{
+    "symbol": "2030",
+    "company_name": "المصافي",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.21242682951274483,
+        "roa": -0.19729324726337003,
+        "gross_margin": 0.0,
+        "operating_margin": -1.8958490144388358,
+        "net_margin": -14.187063202879894,
+        "current_ratio": 11.573684518733147,
+        "quick_ratio": 11.573684518733147,
+        "operating_cash_flow_ratio": -0.3503250790000506,
+        "debt_ratio": 0.07124138831280191,
+        "debt_to_equity": 0.07670603256467647,
+        "equity_multiplier": 1.0767060325646765,
+        "asset_turnover": 0.013906560113394053,
+        "cash_conversion_ratio": 0.12435383074825754,
+        "free_cash_flow": -7971812.0,
+        "revenue_growth": -0.5594823781569938,
+        "net_income_growth": 0.1251737946391672
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 50.349998474121094,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 37,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

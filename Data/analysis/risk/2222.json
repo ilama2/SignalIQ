@@ -1,0 +1,33 @@
+{
+    "symbol": "2222",
+    "company_name": "أرامكو السعودية",
+    "generated_at": "2026-07-17T13:28:30.374966",
+    "risk_score": 86.35,
+    "risk_level": "very low",
+    "higher_is_riskier": false,
+    "market_safety_score": 84.81,
+    "fundamental_safety_score": 90.97,
+    "metrics": {
+        "observations": 1247,
+        "annualized_volatility": 15.8927,
+        "downside_volatility": 10.9425,
+        "max_drawdown": 28.501,
+        "value_at_risk_95": 1.5358,
+        "conditional_var_95": 2.2468,
+        "sharpe_ratio": 0.279,
+        "debt_to_equity": 0.5564,
+        "current_ratio": 1.7367,
+        "interest_coverage": null
+    },
+    "volatility": 15.8927,
+    "max_drawdown": 28.501,
+    "strengths": [
+        "Relatively low historical volatility",
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "No major risk signal was identified"
+    ],
+    "summary": "أرامكو السعودية received a safety score of 86.4/100 and a very low investment risk classification. Annualized volatility was 15.9%. Maximum drawdown was 28.5%. Main risk: No major risk signal was identified."
+}

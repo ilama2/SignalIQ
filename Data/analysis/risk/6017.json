@@ -1,0 +1,33 @@
+{
+    "symbol": "6017",
+    "company_name": "6017",
+    "generated_at": "2026-07-17T13:30:42.034623",
+    "risk_score": 30.75,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 19.39,
+    "fundamental_safety_score": 64.83,
+    "metrics": {
+        "observations": 1033,
+        "annualized_volatility": 46.9529,
+        "downside_volatility": 39.8179,
+        "max_drawdown": 79.6415,
+        "value_at_risk_95": 3.9232,
+        "conditional_var_95": 7.0498,
+        "sharpe_ratio": -0.4922,
+        "debt_to_equity": 0.7738,
+        "current_ratio": 1.0101,
+        "interest_coverage": null
+    },
+    "volatility": 46.9529,
+    "max_drawdown": 79.6415,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "6017 received a safety score of 30.8/100 and a high investment risk classification. Annualized volatility was 47.0%. Maximum drawdown was 79.6%. Main risk: High historical price volatility."
+}

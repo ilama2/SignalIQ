@@ -1,0 +1,47 @@
+{
+    "symbol": "6015",
+    "company_name": "6015",
+    "sector": "Consumer Cyclical",
+    "ratios": {
+        "roe": 0.44811345835293154,
+        "roa": 0.1263593302908785,
+        "gross_margin": 0.5440376176698138,
+        "operating_margin": 0.11532867430558019,
+        "net_margin": 0.0873410259241293,
+        "current_ratio": 0.7881534646969786,
+        "quick_ratio": 0.5783792411713702,
+        "operating_cash_flow_ratio": 0.7967267754314723,
+        "debt_ratio": 0.7174519037255656,
+        "debt_to_equity": 2.544330149900816,
+        "equity_multiplier": 3.5463424609910223,
+        "asset_turnover": 1.4467351276666172,
+        "cash_conversion_ratio": 2.687974334049826,
+        "free_cash_flow": 480221000.0,
+        "revenue_growth": 0.14205979649036235,
+        "net_income_growth": 0.38022411327861727
+    },
+    "valuation": {
+        "dcf_value": 1.3353756225122715,
+        "graham_value": 74.34856680867107,
+        "lynch_value": 37.06340090433554,
+        "pe_value": 0.39135,
+        "intrinsic_value": 28.28467333387972,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 51,
+        "rating": "Sell",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Weak Liquidity",
+            "High Debt"
+        ]
+    }
+}

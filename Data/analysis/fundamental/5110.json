@@ -1,0 +1,48 @@
+{
+    "symbol": "5110",
+    "company_name": "5110",
+    "sector": "Utilities",
+    "ratios": {
+        "roe": 0.05035172208890625,
+        "roa": 0.02040631847707278,
+        "gross_margin": 0.2033494230974411,
+        "operating_margin": 0.18755274889451232,
+        "net_margin": 0.12693301249678848,
+        "current_ratio": 0.41931209588901286,
+        "quick_ratio": 0.4038497879030797,
+        "operating_cash_flow_ratio": 0.49651098948009637,
+        "debt_ratio": 0.5947245172460784,
+        "debt_to_equity": 1.467457427241381,
+        "equity_multiplier": 2.467457427241381,
+        "asset_turnover": 0.16076446998048738,
+        "cash_conversion_ratio": 3.825495569839129,
+        "free_cash_flow": -38738084000.0,
+        "revenue_growth": 0.15284546355447878,
+        "net_income_growth": 0.8894595455357646
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 2942.7929002459923,
+        "lynch_value": 1467.3164501229962,
+        "pe_value": 14.399999999999999,
+        "intrinsic_value": 1474.8364501229962,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

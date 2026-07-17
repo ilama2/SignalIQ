@@ -1,0 +1,47 @@
+{
+    "symbol": "1810",
+    "company_name": "سيرا",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.008056200738963452,
+        "roa": 0.004148396611161669,
+        "gross_margin": 0.38385358151898696,
+        "operating_margin": 0.062276470985715884,
+        "net_margin": 0.009837081978871325,
+        "current_ratio": 0.9467826155595217,
+        "quick_ratio": 0.9449754916377234,
+        "operating_cash_flow_ratio": 0.04519534553949061,
+        "debt_ratio": 0.4459796536731053,
+        "debt_to_equity": 0.8660940484371431,
+        "equity_multiplier": 1.9420035001685834,
+        "asset_turnover": 0.4217100782601837,
+        "cash_conversion_ratio": 3.516245520667924,
+        "free_cash_flow": 54436005.0,
+        "revenue_growth": 0.1529201128286879,
+        "net_income_growth": -1.2331728310114691
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 564.0278602019666,
+        "lynch_value": 281.2323211009833,
+        "pe_value": 2.7586199999999996,
+        "intrinsic_value": 282.67293376764997,
+        "current_price": 21.739999771118164,
+        "margin_of_safety": 0.9230913286201363,
+        "upside": 12.00243499280916,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 33,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "Net Income Declining"
+        ]
+    }
+}

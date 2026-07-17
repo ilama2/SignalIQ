@@ -1,0 +1,47 @@
+{
+    "symbol": "4193",
+    "company_name": "4193",
+    "sector": "Consumer Defensive",
+    "ratios": {
+        "roe": 0.00783436029688438,
+        "roa": 0.004569043305215457,
+        "gross_margin": 0.24101027288161667,
+        "operating_margin": 0.016358039119819413,
+        "net_margin": 0.0029315961267691,
+        "current_ratio": 2.14661805749904,
+        "quick_ratio": 1.0131161462971399,
+        "operating_cash_flow_ratio": 0.04963267515113146,
+        "debt_ratio": 0.4167943352014964,
+        "debt_to_equity": 0.7146609855813009,
+        "equity_multiplier": 1.7146609855813009,
+        "asset_turnover": 1.558551419649671,
+        "cash_conversion_ratio": 3.704467872799733,
+        "free_cash_flow": -21073967.0,
+        "revenue_growth": 0.013100234357030236,
+        "net_income_growth": -0.9584580629563076
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 18.255,
+        "lynch_value": 9.0,
+        "pe_value": 0.44999999999999996,
+        "intrinsic_value": 9.235,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 41,
+        "rating": "Sell",
+        "strengths": [
+            "Strong Liquidity"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

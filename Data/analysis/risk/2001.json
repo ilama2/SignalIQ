@@ -1,0 +1,32 @@
+{
+    "symbol": "2001",
+    "company_name": "كيمانول",
+    "generated_at": "2026-07-17T13:30:41.663324",
+    "risk_score": 16.35,
+    "risk_level": "very high",
+    "higher_is_riskier": false,
+    "market_safety_score": 19.84,
+    "fundamental_safety_score": 5.88,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 160.4865,
+        "downside_volatility": 21.9495,
+        "max_drawdown": 87.7538,
+        "value_at_risk_95": 3.0932,
+        "conditional_var_95": 4.5707,
+        "sharpe_ratio": 0.3177,
+        "debt_to_equity": 3.7754,
+        "current_ratio": 0.5292,
+        "interest_coverage": null
+    },
+    "volatility": 160.4865,
+    "max_drawdown": 87.7538,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "كيمانول received a safety score of 16.3/100 and a very high investment risk classification. Annualized volatility was 160.5%. Maximum drawdown was 87.8%. Main risk: High historical price volatility."
+}

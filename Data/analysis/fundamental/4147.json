@@ -1,0 +1,47 @@
+{
+    "symbol": "4147",
+    "company_name": "4147",
+    "sector": "Industrials",
+    "ratios": {
+        "roe": 0.23285660435340425,
+        "roa": 0.1383716188680001,
+        "gross_margin": 0.2184057356925327,
+        "operating_margin": 0.11747835611607783,
+        "net_margin": 0.09766976886084736,
+        "current_ratio": 2.487660069122707,
+        "quick_ratio": 1.8048631266754769,
+        "operating_cash_flow_ratio": 0.3346859649571293,
+        "debt_ratio": 0.40576467971681485,
+        "debt_to_equity": 0.6828350080628767,
+        "equity_multiplier": 1.6828350080628767,
+        "asset_turnover": 1.416729254936005,
+        "cash_conversion_ratio": 0.7877386282822326,
+        "free_cash_flow": 31551058.0,
+        "revenue_growth": -0.05392033030159505,
+        "net_income_growth": -0.29624013220431145
+    },
+    "valuation": {
+        "dcf_value": 4.6425128199999985,
+        "graham_value": null,
+        "lynch_value": null,
+        "pe_value": null,
+        "intrinsic_value": 4.6425128199999985,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 61,
+        "rating": "Hold",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Strong Liquidity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

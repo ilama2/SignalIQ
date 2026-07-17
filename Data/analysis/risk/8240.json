@@ -1,0 +1,33 @@
+{
+    "symbol": "8240",
+    "company_name": "8240",
+    "generated_at": "2026-07-17T13:30:42.114723",
+    "risk_score": 37.07,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 32.14,
+    "fundamental_safety_score": 51.86,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 40.4449,
+        "downside_volatility": 25.5855,
+        "max_drawdown": 63.4188,
+        "value_at_risk_95": 3.6404,
+        "conditional_var_95": 5.2719,
+        "sharpe_ratio": 0.0205,
+        "debt_to_equity": 0.6569,
+        "current_ratio": 0.0,
+        "interest_coverage": null
+    },
+    "volatility": 40.4449,
+    "max_drawdown": 63.4188,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "8240 received a safety score of 37.1/100 and a high investment risk classification. Annualized volatility was 40.4%. Maximum drawdown was 63.4%. Main risk: High historical price volatility."
+}

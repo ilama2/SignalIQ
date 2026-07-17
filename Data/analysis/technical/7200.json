@@ -1,0 +1,38 @@
+{
+    "symbol": "7200",
+    "company_name": "7200",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 224.49783538392418,
+        "ema50": 208.28956117825257,
+        "rsi": 62.46205815839182,
+        "macd": 8.852746229262522,
+        "macd_signal": 9.556794498379857,
+        "macd_histogram": -0.7040482691173349,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 21601100.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

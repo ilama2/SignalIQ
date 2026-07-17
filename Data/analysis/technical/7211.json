@@ -1,0 +1,38 @@
+{
+    "symbol": "7211",
+    "company_name": "7211",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 21.385392645365283,
+        "ema50": 22.04465386950138,
+        "rsi": 45.10708023538855,
+        "macd": -0.396665894854749,
+        "macd_signal": -0.4123922976552989,
+        "macd_histogram": 0.015726402800549877,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 20660921.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend"
+        ]
+    }
+}

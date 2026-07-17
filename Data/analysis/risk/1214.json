@@ -1,0 +1,30 @@
+{
+    "symbol": "1214",
+    "company_name": "شاكر",
+    "generated_at": "2026-07-17T13:30:41.625923",
+    "risk_score": 43.23,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 36.94,
+    "fundamental_safety_score": 62.09,
+    "metrics": {
+        "observations": 1247,
+        "annualized_volatility": 35.961,
+        "downside_volatility": 23.9881,
+        "max_drawdown": 63.6691,
+        "value_at_risk_95": 3.3816,
+        "conditional_var_95": 4.9669,
+        "sharpe_ratio": -0.3018,
+        "debt_to_equity": 1.1255,
+        "current_ratio": 1.1534,
+        "interest_coverage": null
+    },
+    "volatility": 35.961,
+    "max_drawdown": 63.6691,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "شاكر received a safety score of 43.2/100 and a high investment risk classification. Annualized volatility was 36.0%. Maximum drawdown was 63.7%. Main risk: High historical price volatility."
+}

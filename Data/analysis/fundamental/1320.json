@@ -1,0 +1,45 @@
+{
+    "symbol": "1320",
+    "company_name": "أنابيب السعودية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.22460840543185293,
+        "roa": 0.11075326121360965,
+        "gross_margin": 0.2451522135571668,
+        "operating_margin": 0.17229944348333143,
+        "net_margin": 0.13562279890312862,
+        "current_ratio": 1.7426745041988043,
+        "quick_ratio": 0.9466616053374296,
+        "operating_cash_flow_ratio": 0.6966977859453372,
+        "debt_ratio": 0.32661032342563706,
+        "debt_to_equity": 0.6623680705954643,
+        "equity_multiplier": 2.0280071482378386,
+        "asset_turnover": 0.816627160841279,
+        "cash_conversion_ratio": 1.865074923740099,
+        "free_cash_flow": 325490052.0,
+        "revenue_growth": -0.1336870561214465,
+        "net_income_growth": 0.060361701083445726
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 2285.526,
+        "lynch_value": 1126.8,
+        "pe_value": 56.339999999999996,
+        "intrinsic_value": 1156.222,
+        "current_price": 49.36000061035156,
+        "margin_of_safety": 0.9573092359336256,
+        "upside": 22.42427037485737,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 64,
+        "rating": "Hold",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Revenue Declining"
+        ]
+    }
+}

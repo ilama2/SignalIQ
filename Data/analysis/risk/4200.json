@@ -1,0 +1,30 @@
+{
+    "symbol": "4200",
+    "company_name": "4200",
+    "generated_at": "2026-07-17T13:30:41.918842",
+    "risk_score": 52.79,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 67.69,
+    "fundamental_safety_score": 8.1,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 30.5385,
+        "downside_volatility": 19.2272,
+        "max_drawdown": 27.6837,
+        "value_at_risk_95": 2.617,
+        "conditional_var_95": 3.8729,
+        "sharpe_ratio": 0.7196,
+        "debt_to_equity": 4.5991,
+        "current_ratio": 0.6034,
+        "interest_coverage": null
+    },
+    "volatility": 30.5385,
+    "max_drawdown": 27.6837,
+    "strengths": [],
+    "risks": [
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4200 received a safety score of 52.8/100 and a medium investment risk classification. Annualized volatility was 30.5%. Maximum drawdown was 27.7%. Main risk: High debt-to-equity ratio."
+}

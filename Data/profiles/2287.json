@@ -1,0 +1,29 @@
+{
+    "symbol": "2287",
+    "name": "إنتاج",
+    "name_en": "ENTAJ",
+    "price": 27.84,
+    "change": 0.72,
+    "change_percent": 2.65,
+    "open": 27.3,
+    "high": 29.5,
+    "low": 27.3,
+    "previous_close": 27.12,
+    "volume": 1452081,
+    "value": 41523224.48,
+    "bid": 27.84,
+    "ask": 28.0,
+    "bid_size": 11660,
+    "ask_size": 200,
+    "liquidity": {
+        "inflow_value": 20410320.09,
+        "inflow_volume": 713507,
+        "inflow_trades": 3272,
+        "outflow_value": 21112904.48,
+        "outflow_volume": 738574,
+        "outflow_trades": 3120,
+        "net_value": -702584.3900000006
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

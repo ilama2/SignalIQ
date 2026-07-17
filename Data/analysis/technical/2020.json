@@ -1,0 +1,38 @@
+{
+    "symbol": "2020",
+    "company_name": "سابك للمغذيات الزراعية",
+    "indicators": {
+        "sma20": 124.96000061035156,
+        "sma50": 131.39599990844727,
+        "sma200": 126.04621013641358,
+        "ema20": 125.76399409394391,
+        "ema50": 129.73119657895012,
+        "rsi": 40.6203894879698,
+        "macd": -1.6229929263458018,
+        "macd_signal": -2.1420617634045467,
+        "macd_histogram": 0.5190688370587448,
+        "stochastic_k": 39.28567049453492,
+        "stochastic_d": 50.985184824475766,
+        "upper_band": 128.23865975862023,
+        "middle_band": 124.96000061035156,
+        "lower_band": 121.68134146208288,
+        "atr": 2.317103489362156,
+        "adx": 23.891143667371757,
+        "obv": 77106847.0,
+        "current_price": 124.0,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 50,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "symbol": "3002",
+    "name": "أسمنت نجران",
+    "name_en": "Najran Cement Company",
+    "price": 5.69,
+    "change": -0.01,
+    "change_percent": -0.18,
+    "open": 5.71,
+    "high": 5.72,
+    "low": 5.68,
+    "previous_close": 5.7,
+    "volume": 336247,
+    "value": 1915749.07,
+    "bid": 5.69,
+    "ask": 5.71,
+    "bid_size": 6967,
+    "ask_size": 2450,
+    "liquidity": {
+        "inflow_value": 360557.94,
+        "inflow_volume": 63283,
+        "inflow_trades": 91,
+        "outflow_value": 1555191.1,
+        "outflow_volume": 272964,
+        "outflow_trades": 209,
+        "net_value": -1194633.1600000001
+    },
+    "updated_at": "2026-07-16T12:19:47+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,45 @@
+{
+    "symbol": "4002",
+    "company_name": "المواساة",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.21758613417661601,
+        "roa": 0.13732117634995625,
+        "gross_margin": 0.4224813210992564,
+        "operating_margin": 0.2698031981132221,
+        "net_margin": 0.2550879340784247,
+        "current_ratio": 1.7388831630502657,
+        "quick_ratio": 1.5018562804141087,
+        "operating_cash_flow_ratio": 1.1783556254230234,
+        "debt_ratio": 0.34507813086909706,
+        "debt_to_equity": 0.5467781334275115,
+        "equity_multiplier": 1.5845053178259154,
+        "asset_turnover": 0.538328780018807,
+        "cash_conversion_ratio": 1.4326746573294358,
+        "free_cash_flow": 750371243.0,
+        "revenue_growth": 0.119195313198294,
+        "net_income_growth": 0.27298454572319475
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 9832.789744899768,
+        "lynch_value": 4898.9273724498835,
+        "pe_value": 61.650000000000006,
+        "intrinsic_value": 4931.122372449884,
+        "current_price": 60.900001525878906,
+        "margin_of_safety": 0.9876498701662473,
+        "upside": 79.97080868470009,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 90,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Excellent Return on Equity",
+            "High Net Margin",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "symbol": "2190",
+    "company_name": "سيسكو القابضة",
+    "indicators": {
+        "sma20": 34.71700038909912,
+        "sma50": 34.71388427734375,
+        "sma200": 32.116703844070436,
+        "ema20": 35.08083519618669,
+        "ema50": 34.46043037379967,
+        "rsi": 60.42869835734533,
+        "macd": 0.32777601152591274,
+        "macd_signal": 0.10492364969558303,
+        "macd_histogram": 0.2228523618303297,
+        "stochastic_k": 69.04764283540946,
+        "stochastic_d": 62.53967965631398,
+        "upper_band": 36.799355520291364,
+        "middle_band": 34.71700038909912,
+        "lower_band": 32.634645257906875,
+        "atr": 0.8786839638000062,
+        "adx": 22.91137450535836,
+        "obv": 93098482.0,
+        "current_price": 36.20000076293945,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 90,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": []
+    }
+}

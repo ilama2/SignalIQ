@@ -1,0 +1,34 @@
+{
+    "symbol": "6070",
+    "company_name": "6070",
+    "generated_at": "2026-07-17T13:46:13.870700",
+    "final_score": 46.16,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 55.0,
+        "technical": 25.0,
+        "news": 50.0,
+        "risk": 62.74
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Strong Revenue Growth",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "6070 received a final investment score of 46.2/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Strong Revenue Growth. Main risk: Large historical maximum drawdown.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

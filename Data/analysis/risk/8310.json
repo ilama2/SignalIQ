@@ -1,0 +1,34 @@
+{
+    "symbol": "8310",
+    "company_name": "8310",
+    "generated_at": "2026-07-17T13:30:42.125382",
+    "risk_score": 32.16,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 26.15,
+    "fundamental_safety_score": 50.22,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 43.5248,
+        "downside_volatility": 32.0353,
+        "max_drawdown": 91.2541,
+        "value_at_risk_95": 3.8257,
+        "conditional_var_95": 5.9557,
+        "sharpe_ratio": -0.7676,
+        "debt_to_equity": 0.739,
+        "current_ratio": 0.0,
+        "interest_coverage": null
+    },
+    "volatility": 43.5248,
+    "max_drawdown": 91.2541,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "8310 received a safety score of 32.2/100 and a high investment risk classification. Annualized volatility was 43.5%. Maximum drawdown was 91.3%. Main risk: High historical price volatility."
+}

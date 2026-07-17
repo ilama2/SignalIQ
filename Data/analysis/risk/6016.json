@@ -1,0 +1,33 @@
+{
+    "symbol": "6016",
+    "company_name": "6016",
+    "generated_at": "2026-07-17T13:30:42.032561",
+    "risk_score": 24.79,
+    "risk_level": "very high",
+    "higher_is_riskier": false,
+    "market_safety_score": 21.12,
+    "fundamental_safety_score": 35.81,
+    "metrics": {
+        "observations": 1198,
+        "annualized_volatility": 50.4194,
+        "downside_volatility": 30.378,
+        "max_drawdown": 70.2027,
+        "value_at_risk_95": 4.0711,
+        "conditional_var_95": 6.2823,
+        "sharpe_ratio": 0.0747,
+        "debt_to_equity": 1.7573,
+        "current_ratio": 0.6987,
+        "interest_coverage": null
+    },
+    "volatility": 50.4194,
+    "max_drawdown": 70.2027,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown",
+        "Elevated one-day Value at Risk",
+        "Weak short-term liquidity"
+    ],
+    "summary": "6016 received a safety score of 24.8/100 and a very high investment risk classification. Annualized volatility was 50.4%. Maximum drawdown was 70.2%. Main risk: High historical price volatility."
+}

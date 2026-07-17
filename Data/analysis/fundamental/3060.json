@@ -1,0 +1,49 @@
+{
+    "symbol": "3060",
+    "company_name": "أسمنت ينبع",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.04158155828520466,
+        "roa": 0.03433574999577574,
+        "gross_margin": 0.26136755644453125,
+        "operating_margin": 0.12476924099097075,
+        "net_margin": 0.09637583872928347,
+        "current_ratio": 2.6122541904997183,
+        "quick_ratio": 0.7248650918560002,
+        "operating_cash_flow_ratio": 0.983059420848959,
+        "debt_ratio": 0.1742553330909461,
+        "debt_to_equity": 0.2110281059921617,
+        "equity_multiplier": 1.2110281059921617,
+        "asset_turnover": 0.35626927296813177,
+        "cash_conversion_ratio": 3.7142591292371114,
+        "free_cash_flow": 359296480.0,
+        "revenue_growth": 0.23634453398125402,
+        "net_income_growth": -0.33510925071291625
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 3125.357848552553,
+        "lynch_value": 1559.8739242762765,
+        "pe_value": 9.9,
+        "intrinsic_value": 1565.0439242762766,
+        "current_price": 15.15999984741211,
+        "margin_of_safety": 0.9903133710100677,
+        "upside": 102.23508839239452,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 57,
+        "rating": "Hold",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt",
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Net Income Declining"
+        ]
+    }
+}

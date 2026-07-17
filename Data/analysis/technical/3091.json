@@ -1,0 +1,39 @@
+{
+    "symbol": "3091",
+    "company_name": "أسمنت الجوف",
+    "indicators": {
+        "sma20": 5.012999963760376,
+        "sma50": 4.993999996185303,
+        "sma200": 5.826150012016297,
+        "ema20": 5.00418692601701,
+        "ema50": 5.030884641801902,
+        "rsi": 46.411306999689565,
+        "macd": -0.0028869556860131595,
+        "macd_signal": 0.004658442879498934,
+        "macd_histogram": -0.007545398565512094,
+        "stochastic_k": 10.0,
+        "stochastic_d": 13.01586580745168,
+        "upper_band": 5.112418247158143,
+        "middle_band": 5.012999963760376,
+        "lower_band": 4.91358168036261,
+        "atr": 0.058538285792581544,
+        "adx": 18.657037269042352,
+        "obv": 15435071.0,
+        "current_price": 4.980000019073486,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

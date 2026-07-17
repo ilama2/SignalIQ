@@ -1,0 +1,37 @@
+{
+    "symbol": "1111",
+    "company_name": "مجموعة تداول",
+    "generated_at": "2026-07-17T13:46:13.716741",
+    "final_score": 42.24,
+    "recommendation": "Sell",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 49.0,
+        "technical": 25.0,
+        "news": 50.0,
+        "risk": 50.63
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "High Net Margin",
+        "Positive Free Cash Flow",
+        "Oversold",
+        "Positive Stochastic",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "مجموعة تداول received a final investment score of 42.2/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: High Net Margin. Main risk: Large historical maximum drawdown.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

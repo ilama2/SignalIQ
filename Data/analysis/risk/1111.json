@@ -1,0 +1,29 @@
+{
+    "symbol": "1111",
+    "company_name": "مجموعة تداول",
+    "generated_at": "2026-07-17T13:30:41.595879",
+    "risk_score": 50.63,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 46.19,
+    "fundamental_safety_score": 63.96,
+    "metrics": {
+        "observations": 1147,
+        "annualized_volatility": 32.9194,
+        "downside_volatility": 21.2774,
+        "max_drawdown": 53.3598,
+        "value_at_risk_95": 2.9404,
+        "conditional_var_95": 4.4575,
+        "sharpe_ratio": 0.2045,
+        "debt_to_equity": 1.5089,
+        "current_ratio": 1.4713,
+        "interest_coverage": null
+    },
+    "volatility": 32.9194,
+    "max_drawdown": 53.3598,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "مجموعة تداول received a safety score of 50.6/100 and a medium investment risk classification. Annualized volatility was 32.9%. Maximum drawdown was 53.4%. Main risk: Large historical maximum drawdown."
+}

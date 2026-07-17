@@ -1,0 +1,30 @@
+{
+    "symbol": "7205",
+    "company_name": "7205",
+    "generated_at": "2026-07-17T13:30:42.070897",
+    "risk_score": 55.16,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 56.88,
+    "fundamental_safety_score": 50.0,
+    "metrics": {
+        "observations": 40,
+        "annualized_volatility": 40.6396,
+        "downside_volatility": 20.3421,
+        "max_drawdown": 27.1418,
+        "value_at_risk_95": 4.0042,
+        "conditional_var_95": 4.9037,
+        "sharpe_ratio": -2.7034,
+        "debt_to_equity": null,
+        "current_ratio": null,
+        "interest_coverage": null
+    },
+    "volatility": 40.6396,
+    "max_drawdown": 27.1418,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "Elevated one-day Value at Risk"
+    ],
+    "summary": "7205 received a safety score of 55.2/100 and a medium investment risk classification. Annualized volatility was 40.6%. Maximum drawdown was 27.1%. Main risk: High historical price volatility."
+}

@@ -1,0 +1,29 @@
+{
+    "symbol": "2340",
+    "name": "ارتيكس",
+    "name_en": "ARTEX",
+    "price": 12.5,
+    "change": 0.0,
+    "change_percent": 0.0,
+    "open": 12.55,
+    "high": 12.72,
+    "low": 12.37,
+    "previous_close": 12.5,
+    "volume": 102139,
+    "value": 1280260.51,
+    "bid": 12.42,
+    "ask": 12.5,
+    "bid_size": 78,
+    "ask_size": 1397,
+    "liquidity": {
+        "inflow_value": 424771.37,
+        "inflow_volume": 33972,
+        "inflow_trades": 222,
+        "outflow_value": 855489.14,
+        "outflow_volume": 68167,
+        "outflow_trades": 273,
+        "net_value": -430717.77
+    },
+    "updated_at": "2026-07-16T13:00:00+00:00",
+    "is_delayed": true
+}

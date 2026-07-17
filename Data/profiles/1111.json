@@ -1,0 +1,29 @@
+{
+    "symbol": "1111",
+    "name": "مجموعة تداول",
+    "name_en": "TADAWUL GROUP",
+    "price": 125.7,
+    "change": -0.4,
+    "change_percent": -0.32,
+    "open": 126.2,
+    "high": 126.5,
+    "low": 125.2,
+    "previous_close": 126.1,
+    "volume": 458165,
+    "value": 57607355.5,
+    "bid": 125.7,
+    "ask": 125.9,
+    "bid_size": 1327,
+    "ask_size": 69,
+    "liquidity": {
+        "inflow_value": 37456905.15,
+        "inflow_volume": 297911,
+        "inflow_trades": 918,
+        "outflow_value": 20150449.66,
+        "outflow_volume": 160254,
+        "outflow_trades": 1577,
+        "net_value": 17306455.49
+    },
+    "updated_at": "2026-07-16T12:19:29+00:00",
+    "is_delayed": true
+}

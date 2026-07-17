@@ -1,0 +1,29 @@
+{
+    "symbol": "2283",
+    "name": "المطاحن الأولى",
+    "name_en": "FIRST MILLS",
+    "price": 52.3,
+    "change": 0.3,
+    "change_percent": 0.58,
+    "open": 52.2,
+    "high": 52.35,
+    "low": 52.05,
+    "previous_close": 52.0,
+    "volume": 14675,
+    "value": 765370.6,
+    "bid": 52.15,
+    "ask": 52.3,
+    "bid_size": 1400,
+    "ask_size": 19,
+    "liquidity": {
+        "inflow_value": 374107.35,
+        "inflow_volume": 7172,
+        "inflow_trades": 114,
+        "outflow_value": 391263.25,
+        "outflow_volume": 7503,
+        "outflow_trades": 100,
+        "net_value": -17155.900000000023
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

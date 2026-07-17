@@ -1,0 +1,29 @@
+{
+    "symbol": "2084",
+    "name": "مياهنا",
+    "name_en": "MIAHONA",
+    "price": 14.0,
+    "change": -0.1,
+    "change_percent": -0.71,
+    "open": 14.1,
+    "high": 14.12,
+    "low": 13.96,
+    "previous_close": 14.1,
+    "volume": 320110,
+    "value": 4486726.69,
+    "bid": 13.99,
+    "ask": 14.0,
+    "bid_size": 480,
+    "ask_size": 15448,
+    "liquidity": {
+        "inflow_value": 1716204.67,
+        "inflow_volume": 122423,
+        "inflow_trades": 377,
+        "outflow_value": 2770522.03,
+        "outflow_volume": 197687,
+        "outflow_trades": 583,
+        "net_value": -1054317.3599999999
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

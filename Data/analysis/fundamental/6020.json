@@ -1,0 +1,49 @@
+{
+    "symbol": "6020",
+    "company_name": "6020",
+    "sector": "Consumer Defensive",
+    "ratios": {
+        "roe": 0.013430659124363734,
+        "roa": 0.010330762251448041,
+        "gross_margin": 0.8680736953438888,
+        "operating_margin": -0.2966721908639555,
+        "net_margin": 0.4486096958910037,
+        "current_ratio": 1.6069550590737403,
+        "quick_ratio": 1.6064781709962124,
+        "operating_cash_flow_ratio": -0.10414008573912475,
+        "debt_ratio": 0.2308075012709063,
+        "debt_to_equity": 0.3000646803657867,
+        "equity_multiplier": 1.3000646803657867,
+        "asset_turnover": 0.023028397170350174,
+        "cash_conversion_ratio": -1.7743460344032453,
+        "free_cash_flow": -7409451.0,
+        "revenue_growth": -0.07431560791408727,
+        "net_income_growth": -0.5925064504584475
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 84.5815,
+        "lynch_value": 41.7,
+        "pe_value": 2.085,
+        "intrinsic_value": 42.788833333333336,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 41,
+        "rating": "Sell",
+        "strengths": [
+            "High Net Margin",
+            "Low Debt"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

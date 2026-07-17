@@ -1,0 +1,29 @@
+{
+    "symbol": "1304",
+    "name": "اليمامة للحديد",
+    "name_en": "Al Yamamah Steel Industries Company CJSC",
+    "price": 39.9,
+    "change": -0.6,
+    "change_percent": -1.48,
+    "open": 40.6,
+    "high": 40.62,
+    "low": 39.82,
+    "previous_close": 40.5,
+    "volume": 199531,
+    "value": 7997194.98,
+    "bid": 39.9,
+    "ask": 39.96,
+    "bid_size": 15067,
+    "ask_size": 512,
+    "liquidity": {
+        "inflow_value": 3057045.29,
+        "inflow_volume": 76278,
+        "inflow_trades": 554,
+        "outflow_value": 4940149.72,
+        "outflow_volume": 123253,
+        "outflow_trades": 846,
+        "net_value": -1883104.4299999997
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

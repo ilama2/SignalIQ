@@ -1,0 +1,33 @@
+{
+    "symbol": "4240",
+    "company_name": "4240",
+    "generated_at": "2026-07-17T13:30:41.929278",
+    "risk_score": 35.78,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 29.38,
+    "fundamental_safety_score": 55.0,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 43.5826,
+        "downside_volatility": 25.4911,
+        "max_drawdown": 82.2567,
+        "value_at_risk_95": 3.8231,
+        "conditional_var_95": 5.5061,
+        "sharpe_ratio": -0.3397,
+        "debt_to_equity": -3.758,
+        "current_ratio": 0.3977,
+        "interest_coverage": null
+    },
+    "volatility": 43.5826,
+    "max_drawdown": 82.2567,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4240 received a safety score of 35.8/100 and a high investment risk classification. Annualized volatility was 43.6%. Maximum drawdown was 82.3%. Main risk: High historical price volatility."
+}

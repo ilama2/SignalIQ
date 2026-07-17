@@ -1,0 +1,31 @@
+{
+    "symbol": "4270",
+    "company_name": "4270",
+    "generated_at": "2026-07-17T13:30:41.944708",
+    "risk_score": 32.18,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 41.24,
+    "fundamental_safety_score": 5.0,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 33.3889,
+        "downside_volatility": 20.7451,
+        "max_drawdown": 79.2258,
+        "value_at_risk_95": 3.0414,
+        "conditional_var_95": 4.4407,
+        "sharpe_ratio": -0.7219,
+        "debt_to_equity": 70.1226,
+        "current_ratio": 0.3758,
+        "interest_coverage": null
+    },
+    "volatility": 33.3889,
+    "max_drawdown": 79.2258,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4270 received a safety score of 32.2/100 and a high investment risk classification. Annualized volatility was 33.4%. Maximum drawdown was 79.2%. Main risk: Large historical maximum drawdown."
+}

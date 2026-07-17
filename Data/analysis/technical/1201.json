@@ -1,0 +1,39 @@
+{
+    "symbol": "1201",
+    "company_name": "تكوين",
+    "indicators": {
+        "sma20": 4.953500032424927,
+        "sma50": 5.014999990463257,
+        "sma200": 5.876349999904632,
+        "ema20": 4.902626912660519,
+        "ema50": 5.037639648598641,
+        "rsi": 28.43577963792987,
+        "macd": -0.09534631484573097,
+        "macd_signal": -0.06251057357817918,
+        "macd_histogram": -0.03283574126755179,
+        "stochastic_k": 3.636362060041632,
+        "stochastic_d": 4.464151315919749,
+        "upper_band": 5.258411501851626,
+        "middle_band": 4.953500032424927,
+        "lower_band": 4.648588562998228,
+        "atr": 0.1182346588573582,
+        "adx": 14.91516583219242,
+        "obv": 51899744.0,
+        "current_price": 4.650000095367432,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Oversold",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

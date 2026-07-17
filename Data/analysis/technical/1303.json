@@ -1,0 +1,37 @@
+{
+    "symbol": "1303",
+    "company_name": "الصناعات الكهربائية",
+    "indicators": {
+        "sma20": 14.930500030517578,
+        "sma50": 15.55600004196167,
+        "sma200": 13.760870056152344,
+        "ema20": 15.000053918696489,
+        "ema50": 15.435233725465292,
+        "rsi": 35.48568608968783,
+        "macd": -0.3131327979368699,
+        "macd_signal": -0.2661467757730303,
+        "macd_histogram": -0.04698602216383957,
+        "stochastic_k": 13.300510661887248,
+        "stochastic_d": 41.37931952463499,
+        "upper_band": 15.74547179149535,
+        "middle_band": 14.930500030517578,
+        "lower_band": 14.115528269539807,
+        "atr": 0.5416224183648343,
+        "adx": 15.141904071151503,
+        "obv": 1384460784.0,
+        "current_price": 13.84000015258789,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 40,
+        "rating": "Sell",
+        "strengths": [
+            "Price Above SMA200",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

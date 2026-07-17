@@ -1,0 +1,29 @@
+{
+    "symbol": "2286",
+    "name": "المطاحن الرابعة",
+    "name_en": "FOURTH MILLING",
+    "price": 4.12,
+    "change": 0.04,
+    "change_percent": 0.98,
+    "open": 4.08,
+    "high": 4.12,
+    "low": 4.08,
+    "previous_close": 4.08,
+    "volume": 247276,
+    "value": 1014463.65,
+    "bid": 4.1,
+    "ask": 4.12,
+    "bid_size": 39887,
+    "ask_size": 17197,
+    "liquidity": {
+        "inflow_value": 479002.84,
+        "inflow_volume": 116630,
+        "inflow_trades": 175,
+        "outflow_value": 535460.81,
+        "outflow_volume": 130646,
+        "outflow_trades": 186,
+        "net_value": -56457.97000000003
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,35 @@
+{
+    "symbol": "2160",
+    "company_name": "أميانتيت",
+    "generated_at": "2026-07-17T13:46:13.766114",
+    "final_score": 24.2,
+    "recommendation": "Strong Sell",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 14.0,
+        "technical": 20.0,
+        "news": 50.0,
+        "risk": 21.98
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "أميانتيت received a final investment score of 24.2/100, resulting in a Strong Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Positive Volume Trend. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

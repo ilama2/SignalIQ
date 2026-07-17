@@ -1,0 +1,31 @@
+{
+    "symbol": "2381",
+    "company_name": "الحفر العربية",
+    "generated_at": "2026-07-17T13:30:41.772817",
+    "risk_score": 51.16,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 42.44,
+    "fundamental_safety_score": 77.31,
+    "metrics": {
+        "observations": 920,
+        "annualized_volatility": 32.2056,
+        "downside_volatility": 21.3616,
+        "max_drawdown": 63.8566,
+        "value_at_risk_95": 2.7474,
+        "conditional_var_95": 4.404,
+        "sharpe_ratio": -0.052,
+        "debt_to_equity": 0.7559,
+        "current_ratio": 1.4144,
+        "interest_coverage": null
+    },
+    "volatility": 32.2056,
+    "max_drawdown": 63.8566,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "الحفر العربية received a safety score of 51.2/100 and a medium investment risk classification. Annualized volatility was 32.2%. Maximum drawdown was 63.9%. Main risk: Large historical maximum drawdown."
+}

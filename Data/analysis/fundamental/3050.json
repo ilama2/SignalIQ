@@ -1,0 +1,48 @@
+{
+    "symbol": "3050",
+    "company_name": "أسمنت الجنوب",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.01582384573735724,
+        "roa": -0.010193533822623616,
+        "gross_margin": 0.037024669355872016,
+        "operating_margin": -0.043070165432989575,
+        "net_margin": -0.05593232269894168,
+        "current_ratio": 2.768891445503149,
+        "quick_ratio": 0.6399769508960977,
+        "operating_cash_flow_ratio": 0.09705607218552853,
+        "debt_ratio": 0.35581185561241135,
+        "debt_to_equity": 0.5523415149943058,
+        "equity_multiplier": 1.5523415149943058,
+        "asset_turnover": 0.1822476401970786,
+        "cash_conversion_ratio": -0.8634399361827075,
+        "free_cash_flow": -616216490.0,
+        "revenue_growth": -0.07239412773199458,
+        "net_income_growth": -1.251323668745397
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 19.25,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Liquidity"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

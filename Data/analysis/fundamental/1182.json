@@ -1,0 +1,49 @@
+{
+    "symbol": "1182",
+    "company_name": "أملاك",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.05091012403225416,
+        "roa": 0.014615579733851516,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.1898516429301176,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.7129140812033418,
+        "debt_to_equity": 2.4832777733981994,
+        "equity_multiplier": 3.4832777733981994,
+        "asset_turnover": 0.07698421519181352,
+        "cash_conversion_ratio": 2.6862754116456626,
+        "free_cash_flow": 150474000.0,
+        "revenue_growth": 0.40538406787148923,
+        "net_income_growth": 0.40834304961782614
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 5194.356068755063,
+        "lynch_value": 2594.458034377531,
+        "pe_value": 9.6,
+        "intrinsic_value": 2599.4713677108643,
+        "current_price": 8.600000381469727,
+        "margin_of_safety": 0.9966916348884262,
+        "upside": 301.2640991170071,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 23,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Revenue Growth",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt"
+        ]
+    }
+}

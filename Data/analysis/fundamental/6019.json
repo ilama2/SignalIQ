@@ -1,0 +1,46 @@
+{
+    "symbol": "6019",
+    "company_name": "6019",
+    "sector": "Consumer Defensive",
+    "ratios": {
+        "roe": 0.1012740396561149,
+        "roa": 0.06968428150039083,
+        "gross_margin": 0.4472349854926414,
+        "operating_margin": 0.23244928043876095,
+        "net_margin": 0.24430803926820724,
+        "current_ratio": 2.0290408218518743,
+        "quick_ratio": 2.0229566512243546,
+        "operating_cash_flow_ratio": 0.5324514168822574,
+        "debt_ratio": 0.27127492187579305,
+        "debt_to_equity": 0.3942511367589326,
+        "equity_multiplier": 1.4533268834169855,
+        "asset_turnover": 0.2852312257473023,
+        "cash_conversion_ratio": 1.085641120004907,
+        "free_cash_flow": 85137000.0,
+        "revenue_growth": 0.22148193060528754,
+        "net_income_growth": 0.08615779217534685
+    },
+    "valuation": {
+        "dcf_value": 26.409598338879448,
+        "graham_value": 5636.436037374304,
+        "lynch_value": 2812.820518687152,
+        "pe_value": 19.05,
+        "intrinsic_value": 2123.679038600084,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 80,
+        "rating": "Buy",
+        "strengths": [
+            "High Net Margin",
+            "Strong Liquidity",
+            "Low Debt",
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

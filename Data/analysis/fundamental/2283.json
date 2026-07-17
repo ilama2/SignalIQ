@@ -1,0 +1,47 @@
+{
+    "symbol": "2283",
+    "company_name": "المطاحن الأولى",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.25985164352453144,
+        "roa": 0.10675260983151656,
+        "gross_margin": 0.4206334043697455,
+        "operating_margin": 0.2963405695630873,
+        "net_margin": 0.24201819712545575,
+        "current_ratio": 0.8523394759675894,
+        "quick_ratio": 0.4421918389698046,
+        "operating_cash_flow_ratio": 0.8613304655482086,
+        "debt_ratio": 0.5877880853562433,
+        "debt_to_equity": 1.4307631472899565,
+        "equity_multiplier": 2.434147923265249,
+        "asset_turnover": 0.44109331901261484,
+        "cash_conversion_ratio": 1.2330360734035324,
+        "free_cash_flow": 256995255.0,
+        "revenue_growth": 0.09297631536499573,
+        "net_income_growth": 0.10578463467062214
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 9284.090747280576,
+        "lynch_value": 4620.922873640287,
+        "pe_value": 74.55,
+        "intrinsic_value": 4659.854540306954,
+        "current_price": 52.29999923706055,
+        "margin_of_safety": 0.9887764738610026,
+        "upside": 88.09855847578889,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 57,
+        "rating": "Hold",
+        "strengths": [
+            "Excellent Return on Equity",
+            "High Net Margin",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Weak Liquidity",
+            "High Debt"
+        ]
+    }
+}

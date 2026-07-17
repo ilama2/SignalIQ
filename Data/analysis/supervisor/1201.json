@@ -1,0 +1,38 @@
+{
+    "symbol": "1201",
+    "company_name": "تكوين",
+    "generated_at": "2026-07-17T13:46:13.721307",
+    "final_score": 24.79,
+    "recommendation": "Strong Sell",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 8.0,
+        "technical": 25.0,
+        "news": 50.0,
+        "risk": 29.94
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Strong Earnings Growth",
+        "Oversold",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "تكوين received a final investment score of 24.8/100, resulting in a Strong Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Strong Earnings Growth. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "symbol": "4264",
+    "company_name": "4264",
+    "generated_at": "2026-07-17T13:30:41.941434",
+    "risk_score": 47.09,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 54.14,
+    "fundamental_safety_score": 25.92,
+    "metrics": {
+        "observations": 274,
+        "annualized_volatility": 32.7722,
+        "downside_volatility": 22.3432,
+        "max_drawdown": 40.9246,
+        "value_at_risk_95": 3.1084,
+        "conditional_var_95": 4.8953,
+        "sharpe_ratio": -1.0271,
+        "debt_to_equity": 3.8519,
+        "current_ratio": 1.1974,
+        "interest_coverage": null
+    },
+    "volatility": 32.7722,
+    "max_drawdown": 40.9246,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio"
+    ],
+    "summary": "4264 received a safety score of 47.1/100 and a medium investment risk classification. Annualized volatility was 32.8%. Maximum drawdown was 40.9%. Main risk: Large historical maximum drawdown."
+}

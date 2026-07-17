@@ -1,0 +1,47 @@
+{
+    "symbol": "1150",
+    "company_name": "الإنماء",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.13260779879870954,
+        "roa": 0.02056517070712977,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.5402331756585063,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.8449173359830334,
+        "debt_to_equity": 5.448173987329731,
+        "equity_multiplier": 6.448173987329731,
+        "asset_turnover": 0.03806721177769631,
+        "cash_conversion_ratio": -0.3377274782875934,
+        "free_cash_flow": -3528116000.0,
+        "revenue_growth": 0.08297868779458718,
+        "net_income_growth": 0.09696859951221444
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 3294.445667886194,
+        "lynch_value": 1638.829083943097,
+        "pe_value": 29.625,
+        "intrinsic_value": 1654.2999172764303,
+        "current_price": 24.200000762939453,
+        "margin_of_safety": 0.9853714550123527,
+        "upside": 67.35949855877156,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 10,
+        "rating": "Strong Sell",
+        "strengths": [
+            "High Net Margin"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

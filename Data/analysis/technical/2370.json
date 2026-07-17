@@ -1,0 +1,39 @@
+{
+    "symbol": "2370",
+    "company_name": "مسك",
+    "indicators": {
+        "sma20": 31.233779525756837,
+        "sma50": 31.72689926147461,
+        "sma200": 26.296205615997316,
+        "ema20": 31.752769761222027,
+        "ema50": 30.973226492584427,
+        "rsi": 54.97567020567467,
+        "macd": 0.4542618184021947,
+        "macd_signal": 0.12759551197691332,
+        "macd_histogram": 0.3266663064252814,
+        "stochastic_k": 57.48298712896306,
+        "stochastic_d": 70.06802985887668,
+        "upper_band": 34.07224785234886,
+        "middle_band": 31.233779525756837,
+        "lower_band": 28.395311199164816,
+        "atr": 1.2377485531869215,
+        "adx": 26.35836992514842,
+        "obv": 147914494.0,
+        "current_price": 32.5,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 90,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "symbol": "4240",
+    "company_name": "4240",
+    "sector": "Consumer Cyclical",
+    "ratios": {
+        "roe": 0.34604543171548297,
+        "roa": -0.12563960727290596,
+        "gross_margin": 0.11355829779710204,
+        "operating_margin": 0.027268198681096263,
+        "net_margin": -0.09904411699214748,
+        "current_ratio": 0.39770394384630514,
+        "quick_ratio": 0.1668881567609064,
+        "operating_cash_flow_ratio": -0.19918494259861558,
+        "debt_ratio": 1.3644128324709668,
+        "debt_to_equity": -3.7579616643101286,
+        "equity_multiplier": -2.7542702434895885,
+        "asset_turnover": 1.2685216556866983,
+        "cash_conversion_ratio": 1.0143594066439758,
+        "free_cash_flow": -617906165.0,
+        "revenue_growth": 0.05296172199058552,
+        "net_income_growth": 1.4835928646411198
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": null,
+        "margin_of_safety": 0.0,
+        "upside": null,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 39,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Low Debt",
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

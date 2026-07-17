@@ -1,0 +1,47 @@
+{
+    "symbol": "4300",
+    "company_name": "4300",
+    "sector": "Real Estate",
+    "ratios": {
+        "roe": 0.05101475690203225,
+        "roa": 0.027249202478045242,
+        "gross_margin": 0.4727442572725487,
+        "operating_margin": 0.40695681473059403,
+        "net_margin": 0.2907634797869225,
+        "current_ratio": 1.767301179371988,
+        "quick_ratio": 1.7610723444477479,
+        "operating_cash_flow_ratio": -0.5218549281108682,
+        "debt_ratio": 0.46571727976771465,
+        "debt_to_equity": 0.8718953823168938,
+        "equity_multiplier": 1.8721559628446,
+        "asset_turnover": 0.09371604198028591,
+        "cash_conversion_ratio": -2.927204741075208,
+        "free_cash_flow": -3322849000.0,
+        "revenue_growth": 0.037451230665848725,
+        "net_income_growth": 0.4053839670814536
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 795.4008439828233,
+        "lynch_value": 393.23792199141167,
+        "pe_value": 15.75,
+        "intrinsic_value": 401.46292199141163,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 50,
+        "rating": "Sell",
+        "strengths": [
+            "High Net Margin",
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "symbol": "3092",
+    "company_name": "أسمنت الرياض",
+    "generated_at": "2026-07-17T13:46:13.798539",
+    "final_score": 59.35,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 78.0,
+        "technical": 35.0,
+        "news": 50.0,
+        "risk": 76.98
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "High Net Margin",
+        "Strong Liquidity",
+        "Low Debt",
+        "Positive Free Cash Flow",
+        "Healthy RSI",
+        "Positive Stochastic",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "No major risk signal was identified"
+    ],
+    "summary": "أسمنت الرياض received a final investment score of 59.3/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: High Net Margin. Main risk: No major risk signal was identified.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

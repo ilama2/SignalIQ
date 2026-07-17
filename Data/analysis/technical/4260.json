@@ -1,0 +1,37 @@
+{
+    "symbol": "4260",
+    "company_name": "4260",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 31.004078164767943,
+        "ema50": 33.14325737349719,
+        "rsi": 31.03082382721182,
+        "macd": -1.1214366161222848,
+        "macd_signal": -1.0478591130085289,
+        "macd_histogram": -0.073577503113756,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 31300354.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

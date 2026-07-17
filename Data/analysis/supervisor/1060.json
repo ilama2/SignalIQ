@@ -1,0 +1,37 @@
+{
+    "symbol": "1060",
+    "company_name": "الأول",
+    "generated_at": "2026-07-17T13:46:13.715140",
+    "final_score": 34.97,
+    "recommendation": "Sell",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 18.0,
+        "technical": 35.0,
+        "news": 50.0,
+        "risk": 54.44
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "High Net Margin",
+        "Positive Free Cash Flow",
+        "Positive Stochastic",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "الأول received a final investment score of 35.0/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: High Net Margin. Main risk: High debt-to-equity ratio.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

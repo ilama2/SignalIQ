@@ -1,0 +1,40 @@
+{
+    "symbol": "1111",
+    "company_name": "مجموعة تداول",
+    "indicators": {
+        "sma20": 132.30499992370605,
+        "sma50": 135.1380000305176,
+        "sma200": 152.0138948440552,
+        "ema20": 131.82804729766198,
+        "ema50": 134.61654634063277,
+        "rsi": 24.806663013018266,
+        "macd": -2.337917334184084,
+        "macd_signal": -1.520085010712985,
+        "macd_histogram": -0.8178323234710989,
+        "stochastic_k": 5.1020392275318365,
+        "stochastic_d": 2.1071773778648537,
+        "upper_band": 138.23238690978192,
+        "middle_band": 132.30499992370605,
+        "lower_band": 126.37761293763018,
+        "atr": 2.1528974372850977,
+        "adx": 16.225457249838488,
+        "obv": 28094033.0,
+        "current_price": 125.6999969482422,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Oversold",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

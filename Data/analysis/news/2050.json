@@ -1,0 +1,25 @@
+{
+    "symbol": "2050",
+    "company_name": "مجموعة صافولا",
+    "generated_at": "2026-07-17T13:21:12.877065",
+    "article_count": 0,
+    "articles": [],
+    "score": {
+        "score": 50,
+        "rating": "Neutral",
+        "positive_articles": 0,
+        "neutral_articles": 0,
+        "negative_articles": 0,
+        "average_sentiment": 0.0,
+        "confidence": 0.0,
+        "strengths": [],
+        "risks": []
+    },
+    "summary": {
+        "summary": "No relevant recent news articles were found for مجموعة صافولا.",
+        "key_events": [],
+        "opportunities": [],
+        "risks": [],
+        "expected_impact": "Unknown"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "symbol": "2290",
+    "name": "ينساب",
+    "name_en": "Yanbu National Petrochemical Co",
+    "price": 31.5,
+    "change": 0.26,
+    "change_percent": 0.83,
+    "open": 31.1,
+    "high": 31.76,
+    "low": 31.06,
+    "previous_close": 31.24,
+    "volume": 680262,
+    "value": 21365488.52,
+    "bid": 31.5,
+    "ask": 31.6,
+    "bid_size": 19698,
+    "ask_size": 2500,
+    "liquidity": {
+        "inflow_value": 12782150.95,
+        "inflow_volume": 407086,
+        "inflow_trades": 1195,
+        "outflow_value": 8583337.55,
+        "outflow_volume": 273176,
+        "outflow_trades": 1273,
+        "net_value": 4198813.3999999985
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

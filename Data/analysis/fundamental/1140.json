@@ -1,0 +1,47 @@
+{
+    "symbol": "1140",
+    "company_name": "البلاد",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.14278724587842623,
+        "roa": 0.017629163959076377,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.4929380133907138,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.8765354436902129,
+        "debt_to_equity": 7.099490492565995,
+        "equity_multiplier": 8.099490492565996,
+        "asset_turnover": 0.03576344992712725,
+        "cash_conversion_ratio": 1.528836117038598,
+        "free_cash_flow": 4087122000.0,
+        "revenue_growth": 0.0941049252141136,
+        "net_income_growth": 0.08652033417767344
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 3762.2910235217214,
+        "lynch_value": 1872.6880117608605,
+        "pe_value": 29.85,
+        "intrinsic_value": 1888.2763450941939,
+        "current_price": 24.239999771118164,
+        "margin_of_safety": 0.9871628960273243,
+        "upside": 76.89918988959998,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 20,
+        "rating": "Strong Sell",
+        "strengths": [
+            "High Net Margin",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt"
+        ]
+    }
+}

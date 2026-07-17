@@ -1,0 +1,49 @@
+{
+    "symbol": "8311",
+    "company_name": "8311",
+    "sector": "Financial Services",
+    "ratios": {
+        "roe": -0.042791440434366015,
+        "roa": -0.029077918751980417,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": -0.037328860631119086,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.32047347654537484,
+        "debt_to_equity": 0.47161290322580646,
+        "equity_multiplier": 1.4716129032258065,
+        "asset_turnover": 0.7789661473819456,
+        "cash_conversion_ratio": 5.729661143454247,
+        "free_cash_flow": -38965000.0,
+        "revenue_growth": -0.2732982385098198,
+        "net_income_growth": -0.7496823854719378
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": null,
+        "margin_of_safety": 0.0,
+        "upside": null,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 28,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Low Debt"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "Revenue Declining",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

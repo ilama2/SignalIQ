@@ -1,0 +1,47 @@
+{
+    "symbol": "2222",
+    "company_name": "أرامكو السعودية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.2332727433585613,
+        "roa": 0.1363820179281526,
+        "gross_margin": 0.5016305609608402,
+        "operating_margin": 0.44234396279568505,
+        "net_margin": 0.20825823777348546,
+        "current_ratio": 1.7367206955306043,
+        "quick_ratio": 1.5312595569924419,
+        "operating_cash_flow_ratio": 1.4877539429420246,
+        "debt_ratio": 0.32532590585133647,
+        "debt_to_equity": 0.556449213000571,
+        "equity_multiplier": 1.7104362210086355,
+        "asset_turnover": 0.6548697395417804,
+        "cash_conversion_ratio": 1.4676332166807455,
+        "free_cash_flow": 320354000000.0,
+        "revenue_growth": -0.07241598646592003,
+        "net_income_growth": -0.11640022239655133
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 876.24,
+        "lynch_value": 432.0,
+        "pe_value": 21.599999999999998,
+        "intrinsic_value": 443.28,
+        "current_price": 26.68000030517578,
+        "margin_of_safety": 0.9398123075591595,
+        "upside": 15.614692463628119,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 82,
+        "rating": "Buy",
+        "strengths": [
+            "Excellent Return on Equity",
+            "High Net Margin",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

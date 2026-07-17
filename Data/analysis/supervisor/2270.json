@@ -1,0 +1,40 @@
+{
+    "symbol": "2270",
+    "company_name": "سدافكو",
+    "generated_at": "2026-07-17T13:46:13.774073",
+    "final_score": 60.47,
+    "recommendation": "Hold",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 73.0,
+        "technical": 50.0,
+        "news": 50.0,
+        "risk": 66.15
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Excellent Return on Equity",
+        "Strong Liquidity",
+        "Positive Free Cash Flow",
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Positive Stochastic",
+        "Strong Trend",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "سدافكو received a final investment score of 60.5/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Excellent Return on Equity. Main risk: Large historical maximum drawdown.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "symbol": "1020",
+    "company_name": "الجزيرة",
+    "indicators": {
+        "sma20": 11.798000049591064,
+        "sma50": 11.625599975585935,
+        "sma200": 11.549077067375183,
+        "ema20": 11.741608580952724,
+        "ema50": 11.691522371984595,
+        "rsi": 53.39933140772716,
+        "macd": 0.011249196578170029,
+        "macd_signal": 0.02872236929841785,
+        "macd_histogram": -0.017473172720247822,
+        "stochastic_k": 64.70593185158606,
+        "stochastic_d": 30.576595242475033,
+        "upper_band": 12.0702204212672,
+        "middle_band": 11.798000049591064,
+        "lower_band": 11.525779677914928,
+        "atr": 0.14799374078092223,
+        "adx": 21.185195859635364,
+        "obv": 318997599.0,
+        "current_price": 11.800000190734863,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 80,
+        "rating": "Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

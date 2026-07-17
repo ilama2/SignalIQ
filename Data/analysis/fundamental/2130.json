@@ -1,0 +1,48 @@
+{
+    "symbol": "2130",
+    "company_name": "صدق",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.641782312287195,
+        "roa": -0.3887746819741208,
+        "gross_margin": 0.13643107139040692,
+        "operating_margin": -0.3210117418479697,
+        "net_margin": -0.9013063300877311,
+        "current_ratio": 3.1288623492108503,
+        "quick_ratio": 2.563397186508688,
+        "operating_cash_flow_ratio": -0.7553972210877874,
+        "debt_ratio": 0.3678946491511179,
+        "debt_to_equity": 0.607313926440322,
+        "equity_multiplier": 1.6507821677799375,
+        "asset_turnover": 0.4313457800038732,
+        "cash_conversion_ratio": 0.4297524572579886,
+        "free_cash_flow": -47672075.0,
+        "revenue_growth": -0.28226221106207,
+        "net_income_growth": 4.268009404214411
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 17.219999313354492,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 36,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

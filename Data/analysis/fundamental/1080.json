@@ -1,0 +1,47 @@
+{
+    "symbol": "1080",
+    "company_name": "العربي",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.10339487629063279,
+        "roa": 0.018182452450958404,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.5179795646521513,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.8240371494149293,
+        "debt_to_equity": 4.685903584923238,
+        "equity_multiplier": 5.686519822862664,
+        "asset_turnover": 0.035102644373950956,
+        "cash_conversion_ratio": 0.33848757622299824,
+        "free_cash_flow": 1093462000.0,
+        "revenue_growth": 0.05119742654344283,
+        "net_income_growth": 0.030248758463011238
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 2570.7968418634537,
+        "lynch_value": 1274.8159209317266,
+        "pe_value": 37.35,
+        "intrinsic_value": 1294.3209209317267,
+        "current_price": 20.790000915527344,
+        "margin_of_safety": 0.9839375223104935,
+        "upside": 61.256895812113335,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 15,
+        "rating": "Strong Sell",
+        "strengths": [
+            "High Net Margin",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt"
+        ]
+    }
+}

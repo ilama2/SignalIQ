@@ -1,0 +1,31 @@
+{
+    "symbol": "4110",
+    "company_name": "4110",
+    "generated_at": "2026-07-17T13:30:41.863363",
+    "risk_score": 38.71,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 45.27,
+    "fundamental_safety_score": 19.05,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 33.234,
+        "downside_volatility": 21.6551,
+        "max_drawdown": 53.9216,
+        "value_at_risk_95": 2.9889,
+        "conditional_var_95": 4.4786,
+        "sharpe_ratio": 0.0474,
+        "debt_to_equity": 2.7804,
+        "current_ratio": 0.822,
+        "interest_coverage": null
+    },
+    "volatility": 33.234,
+    "max_drawdown": 53.9216,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4110 received a safety score of 38.7/100 and a high investment risk classification. Annualized volatility was 33.2%. Maximum drawdown was 53.9%. Main risk: Large historical maximum drawdown."
+}

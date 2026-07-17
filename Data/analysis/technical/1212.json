@@ -1,0 +1,40 @@
+{
+    "symbol": "1212",
+    "company_name": "أسترا الصناعية",
+    "indicators": {
+        "sma20": 131.1150001525879,
+        "sma50": 132.7699996948242,
+        "sma200": 136.93452098846436,
+        "ema20": 130.58467100568055,
+        "ema50": 132.88849432991518,
+        "rsi": 36.59668189362101,
+        "macd": -1.6552137248172016,
+        "macd_signal": -1.213486420470348,
+        "macd_histogram": -0.4417273043468537,
+        "stochastic_k": 24.000015258789062,
+        "stochastic_d": 16.000010172526036,
+        "upper_band": 135.57964896245315,
+        "middle_band": 131.1150001525879,
+        "lower_band": 126.65035134272264,
+        "atr": 2.5649062496734727,
+        "adx": 25.199326830688342,
+        "obv": 37745018.0,
+        "current_price": 127.4000015258789,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

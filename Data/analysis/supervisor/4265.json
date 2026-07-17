@@ -1,0 +1,36 @@
+{
+    "symbol": "4265",
+    "company_name": "4265",
+    "generated_at": "2026-07-17T13:46:13.839686",
+    "final_score": 37.95,
+    "recommendation": "Sell",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 27.0,
+        "technical": 35.0,
+        "news": 50.0,
+        "risk": 53.36
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Healthy RSI",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4265 received a final investment score of 38.0/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Healthy RSI. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

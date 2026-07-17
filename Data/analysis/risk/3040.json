@@ -1,0 +1,33 @@
+{
+    "symbol": "3040",
+    "company_name": "أسمنت القصيم",
+    "generated_at": "2026-07-17T13:30:41.796388",
+    "risk_score": 77.24,
+    "risk_level": "low",
+    "higher_is_riskier": false,
+    "market_safety_score": 69.66,
+    "fundamental_safety_score": 100.0,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 17.6815,
+        "downside_volatility": 13.2761,
+        "max_drawdown": 45.9723,
+        "value_at_risk_95": 1.7182,
+        "conditional_var_95": 2.6224,
+        "sharpe_ratio": -0.3604,
+        "debt_to_equity": 0.1739,
+        "current_ratio": 3.3914,
+        "interest_coverage": null
+    },
+    "volatility": 17.6815,
+    "max_drawdown": 45.9723,
+    "strengths": [
+        "Relatively low historical volatility",
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "أسمنت القصيم received a safety score of 77.2/100 and a low investment risk classification. Annualized volatility was 17.7%. Maximum drawdown was 46.0%. Main risk: Large historical maximum drawdown."
+}

@@ -1,0 +1,46 @@
+{
+    "symbol": "8313",
+    "company_name": "8313",
+    "sector": "Financial Services",
+    "ratios": {
+        "roe": 0.3498622106039233,
+        "roa": 0.18310637949152747,
+        "gross_margin": 0.711680232404196,
+        "operating_margin": 0.39595402194361884,
+        "net_margin": 0.37781181683308535,
+        "current_ratio": 1.9531964816915315,
+        "quick_ratio": 1.9531964816915315,
+        "operating_cash_flow_ratio": 0.5305258887572792,
+        "debt_ratio": 0.47663287448091674,
+        "debt_to_equity": 0.9107046492616158,
+        "equity_multiplier": 1.9107046492616158,
+        "asset_turnover": 0.48464968890166454,
+        "cash_conversion_ratio": 1.3509459334835032,
+        "free_cash_flow": 287386869.0,
+        "revenue_growth": 0.8230469547754736,
+        "net_income_growth": 1.6054275599800976
+    },
+    "valuation": {
+        "dcf_value": 789.7102396186558,
+        "graham_value": 53690.37145136089,
+        "lynch_value": 26831.330725680444,
+        "pe_value": 48.9,
+        "intrinsic_value": 20340.078104164997,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 83,
+        "rating": "Buy",
+        "strengths": [
+            "Excellent Return on Equity",
+            "High Net Margin",
+            "Strong Revenue Growth",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

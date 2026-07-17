@@ -1,0 +1,39 @@
+{
+    "symbol": "6018",
+    "company_name": "6018",
+    "generated_at": "2026-07-17T13:46:13.867003",
+    "final_score": 43.48,
+    "recommendation": "Sell",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 43.0,
+        "technical": 45.0,
+        "news": 50.0,
+        "risk": 32.9
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Positive Free Cash Flow",
+        "Healthy RSI",
+        "Bullish MACD",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "6018 received a final investment score of 43.5/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Positive Free Cash Flow. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

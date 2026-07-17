@@ -1,0 +1,29 @@
+{
+    "symbol": "2310",
+    "name": "سبكيم العالمية",
+    "name_en": "Sahara International Petrochemi",
+    "price": 13.81,
+    "change": -0.07,
+    "change_percent": -0.5,
+    "open": 13.87,
+    "high": 13.94,
+    "low": 13.79,
+    "previous_close": 13.88,
+    "volume": 1038626,
+    "value": 14364650.03,
+    "bid": 13.81,
+    "ask": 13.82,
+    "bid_size": 27166,
+    "ask_size": 113,
+    "liquidity": {
+        "inflow_value": 5830582.73,
+        "inflow_volume": 421284,
+        "inflow_trades": 832,
+        "outflow_value": 8534067.41,
+        "outflow_volume": 617342,
+        "outflow_trades": 1219,
+        "net_value": -2703484.6799999997
+    },
+    "updated_at": "2026-07-16T12:19:25+00:00",
+    "is_delayed": true
+}

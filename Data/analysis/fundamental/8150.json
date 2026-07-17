@@ -1,0 +1,48 @@
+{
+    "symbol": "8150",
+    "company_name": "8150",
+    "sector": "Financial Services",
+    "ratios": {
+        "roe": -0.18537353735373538,
+        "roa": -0.04140788830827816,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": -0.04472419536623025,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.7766245986380333,
+        "debt_to_equity": 3.4767686768676866,
+        "equity_multiplier": 4.476768676867687,
+        "asset_turnover": 0.9258498217621123,
+        "cash_conversion_ratio": -2.4206846321922795,
+        "free_cash_flow": 88733000.0,
+        "revenue_growth": 0.10194885686526947,
+        "net_income_growth": 1.4989383000667353
+    },
+    "valuation": {
+        "dcf_value": 60.59375990821199,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 60.59375990821199,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 16,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt"
+        ]
+    }
+}

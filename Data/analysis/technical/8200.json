@@ -1,0 +1,38 @@
+{
+    "symbol": "8200",
+    "company_name": "8200",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 26.425030673968287,
+        "ema50": 26.37789999877059,
+        "rsi": 56.88465349265425,
+        "macd": 0.04175325124345264,
+        "macd_signal": -0.0156763434929208,
+        "macd_histogram": 0.057429594736373435,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 185036975.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 55,
+        "rating": "Hold",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200"
+        ]
+    }
+}

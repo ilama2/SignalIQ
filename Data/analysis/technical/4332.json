@@ -1,0 +1,38 @@
+{
+    "symbol": "4332",
+    "company_name": "4332",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 4.9563226594367364,
+        "ema50": 4.944425129523186,
+        "rsi": 53.63156870257746,
+        "macd": -0.005137202344407399,
+        "macd_signal": -0.0004884326528281502,
+        "macd_histogram": -0.004648769691579248,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 12368217.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

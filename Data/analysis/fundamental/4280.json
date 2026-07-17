@@ -1,0 +1,49 @@
+{
+    "symbol": "4280",
+    "company_name": "4280",
+    "sector": "Industrials",
+    "ratios": {
+        "roe": 0.0366979586714045,
+        "roa": 0.028602300940312783,
+        "gross_margin": 0.5918559969392664,
+        "operating_margin": 0.4012625526295751,
+        "net_margin": 0.7961228230810519,
+        "current_ratio": 0.81749557739077,
+        "quick_ratio": 0.8086031690858176,
+        "operating_cash_flow_ratio": 0.28377555589061626,
+        "debt_ratio": 0.2123985349783846,
+        "debt_to_equity": 0.27251628023806057,
+        "equity_multiplier": 1.283042184193003,
+        "asset_turnover": 0.03592699532167643,
+        "cash_conversion_ratio": 0.46013845977266765,
+        "free_cash_flow": 550179000.0,
+        "revenue_growth": 0.12618195843254448,
+        "net_income_growth": 0.7326968317744165
+    },
+    "valuation": {
+        "dcf_value": 3.2540647247443255,
+        "graham_value": 1468.640717817516,
+        "lynch_value": 731.8553589087579,
+        "pe_value": 8.7,
+        "intrinsic_value": 553.1125353627546,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 56,
+        "rating": "Hold",
+        "strengths": [
+            "High Net Margin",
+            "Low Debt",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity"
+        ]
+    }
+}

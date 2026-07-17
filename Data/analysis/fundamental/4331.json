@@ -1,0 +1,48 @@
+{
+    "symbol": "4331",
+    "company_name": "4331",
+    "sector": "Real Estate",
+    "ratios": {
+        "roe": 0.08309055128352474,
+        "roa": 0.08056391608203048,
+        "gross_margin": 0.850519339666253,
+        "operating_margin": 0.6493643508771337,
+        "net_margin": 1.036015261939732,
+        "current_ratio": 0.9338712794429948,
+        "quick_ratio": 0.9338712794429948,
+        "operating_cash_flow_ratio": 1.9317278441813255,
+        "debt_ratio": 0.03040821323802253,
+        "debt_to_equity": 0.03136187172085376,
+        "equity_multiplier": 1.0313618717208537,
+        "asset_turnover": 0.07776325218529175,
+        "cash_conversion_ratio": 0.7291154037730938,
+        "free_cash_flow": 5367725.0,
+        "revenue_growth": 0.09245417900397561,
+        "net_income_growth": 1.434549786620502
+    },
+    "valuation": {
+        "dcf_value": 8.695038196544886,
+        "graham_value": null,
+        "lynch_value": null,
+        "pe_value": null,
+        "intrinsic_value": 8.695038196544886,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 62,
+        "rating": "Hold",
+        "strengths": [
+            "High Net Margin",
+            "Low Debt",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Weak Liquidity"
+        ]
+    }
+}

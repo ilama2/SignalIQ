@@ -1,0 +1,47 @@
+{
+    "symbol": "4014",
+    "company_name": "دار المعدات",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.05590755362292679,
+        "roa": 0.0304686654410843,
+        "gross_margin": 0.13928372232643,
+        "operating_margin": 0.04549255598466214,
+        "net_margin": 0.032438975511651605,
+        "current_ratio": 2.442664617656634,
+        "quick_ratio": 2.2544546991558674,
+        "operating_cash_flow_ratio": 0.02499646578011642,
+        "debt_ratio": 0.46342113340780505,
+        "debt_to_equity": 0.8503405544982855,
+        "equity_multiplier": 1.83491967283675,
+        "asset_turnover": 0.9392610266048754,
+        "cash_conversion_ratio": 0.3074964369062983,
+        "free_cash_flow": 1214256.0,
+        "revenue_growth": -0.0005994225128312056,
+        "net_income_growth": 0.08679968949968031
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 578.0749999999999,
+        "lynch_value": 285.0,
+        "pe_value": 14.25,
+        "intrinsic_value": 292.44166666666666,
+        "current_price": 28.540000915527344,
+        "margin_of_safety": 0.9024078844822819,
+        "upside": 9.246729407340775,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 36,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining"
+        ]
+    }
+}

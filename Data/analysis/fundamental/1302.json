@@ -1,0 +1,47 @@
+{
+    "symbol": "1302",
+    "company_name": "بوان",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.2002669626802686,
+        "roa": 0.0572909271803523,
+        "gross_margin": 0.13621392503040802,
+        "operating_margin": 0.05787008710822798,
+        "net_margin": 0.053640730775373804,
+        "current_ratio": 1.3725145395429774,
+        "quick_ratio": 0.8188859167791309,
+        "operating_cash_flow_ratio": 0.08635532245595037,
+        "debt_ratio": 0.7042856066843045,
+        "debt_to_equity": 2.4619105720890975,
+        "equity_multiplier": 3.495613922424865,
+        "asset_turnover": 1.0680489686142434,
+        "cash_conversion_ratio": 0.7342589750754699,
+        "free_cash_flow": 70519000.0,
+        "revenue_growth": 0.3474752036617394,
+        "net_income_growth": 1.058803002867059
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 25327.134826574627,
+        "lynch_value": 12648.097413287313,
+        "pe_value": 54.6,
+        "intrinsic_value": 12676.610746620647,
+        "current_price": 38.5,
+        "margin_of_safety": 0.996962910609978,
+        "upside": 328.2626167953415,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 41,
+        "rating": "Sell",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Strong Revenue Growth",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "High Debt"
+        ]
+    }
+}

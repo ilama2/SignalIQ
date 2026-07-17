@@ -1,0 +1,48 @@
+{
+    "symbol": "2190",
+    "company_name": "سيسكو القابضة",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.06450717266318161,
+        "roa": 0.014918183304538582,
+        "gross_margin": 0.44520143745912744,
+        "operating_margin": 0.2878218387435513,
+        "net_margin": 0.060041087647028236,
+        "current_ratio": 1.5625628830100893,
+        "quick_ratio": 1.5312765635229635,
+        "operating_cash_flow_ratio": 0.5780971014451864,
+        "debt_ratio": 0.6130280068213361,
+        "debt_to_equity": 2.650772059581762,
+        "equity_multiplier": 4.324063550255244,
+        "asset_turnover": 0.24846624018938746,
+        "cash_conversion_ratio": 5.145938559753748,
+        "free_cash_flow": 221809191.0,
+        "revenue_growth": 0.21543559908606705,
+        "net_income_growth": -130.93835770619657
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 5137.482258248397,
+        "lynch_value": 2563.683629124198,
+        "pe_value": 17.849999999999998,
+        "intrinsic_value": 2573.005295790865,
+        "current_price": 36.20000076293945,
+        "margin_of_safety": 0.985930848715252,
+        "upside": 70.0774928608575,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 44,
+        "rating": "Sell",
+        "strengths": [
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "High Debt",
+            "Net Income Declining"
+        ]
+    }
+}

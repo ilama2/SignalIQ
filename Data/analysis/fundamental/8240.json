@@ -1,0 +1,47 @@
+{
+    "symbol": "8240",
+    "company_name": "8240",
+    "sector": "Financial Services",
+    "ratios": {
+        "roe": 0.02226054158008225,
+        "roa": 0.013435405930995278,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.05432201307904953,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.39644748162746024,
+        "debt_to_equity": 0.6568566438865475,
+        "equity_multiplier": 1.6568566438865475,
+        "asset_turnover": 0.24732894032192881,
+        "cash_conversion_ratio": 2.7434312802708067,
+        "free_cash_flow": 25515417.0,
+        "revenue_growth": 0.08400744201093521,
+        "net_income_growth": -0.34836442516322236
+    },
+    "valuation": {
+        "dcf_value": 11.776263142428775,
+        "graham_value": 455.93518685905025,
+        "lynch_value": 226.82009342952512,
+        "pe_value": 4.050000000000001,
+        "intrinsic_value": 174.64538585775102,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 27,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "Net Income Declining"
+        ]
+    }
+}

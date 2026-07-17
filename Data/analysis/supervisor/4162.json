@@ -1,0 +1,36 @@
+{
+    "symbol": "4162",
+    "company_name": "4162",
+    "generated_at": "2026-07-17T13:46:13.824626",
+    "final_score": 43.7,
+    "recommendation": "Sell",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 27.0,
+        "technical": 55.0,
+        "news": 50.0,
+        "risk": 51.66
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Bullish MACD",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "4162 received a final investment score of 43.7/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Short-Term Uptrend. Main risk: Large historical maximum drawdown.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

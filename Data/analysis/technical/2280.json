@@ -1,0 +1,38 @@
+{
+    "symbol": "2280",
+    "company_name": "المراعي",
+    "indicators": {
+        "sma20": 46.05199966430664,
+        "sma50": 45.41959968566894,
+        "sma200": 43.82360258102417,
+        "ema20": 46.15749391166394,
+        "ema50": 45.27627040334448,
+        "rsi": 56.00064419329136,
+        "macd": 0.4130747891467337,
+        "macd_signal": 0.4119069017706709,
+        "macd_histogram": 0.0011678873760627706,
+        "stochastic_k": 76.00008646647136,
+        "stochastic_d": 76.66672600640182,
+        "upper_band": 47.475314797891954,
+        "middle_band": 46.05199966430664,
+        "lower_band": 44.62868453072133,
+        "atr": 0.8586130146652383,
+        "adx": 17.257868531277186,
+        "obv": 61974834.0,
+        "current_price": 46.58000183105469,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 85,
+        "rating": "Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": []
+    }
+}

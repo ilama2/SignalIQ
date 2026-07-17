@@ -1,0 +1,48 @@
+{
+    "symbol": "4210",
+    "company_name": "4210",
+    "sector": "Communication Services",
+    "ratios": {
+        "roe": -0.12597715416899777,
+        "roa": -0.050566510606722855,
+        "gross_margin": 0.10319496037623346,
+        "operating_margin": -0.11769208170332966,
+        "net_margin": -0.1370284714673847,
+        "current_ratio": 0.9033197140707507,
+        "quick_ratio": 0.8581127091860233,
+        "operating_cash_flow_ratio": -0.037916284776673845,
+        "debt_ratio": 0.6077751750194198,
+        "debt_to_equity": 1.5141599846387575,
+        "equity_multiplier": 2.4913159452265825,
+        "asset_turnover": 0.3690219270873105,
+        "cash_conversion_ratio": 0.2349851611025843,
+        "free_cash_flow": -193630563.0,
+        "revenue_growth": -0.18090796552095928,
+        "net_income_growth": -2.8160264594383446
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": null,
+        "margin_of_safety": 0.0,
+        "upside": null,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 6,
+        "rating": "Strong Sell",
+        "strengths": [],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Revenue Declining",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "symbol": "1323",
+    "company_name": "يو سي آي سي",
+    "generated_at": "2026-07-17T13:30:41.642144",
+    "risk_score": 57.78,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 50.5,
+    "fundamental_safety_score": 79.63,
+    "metrics": {
+        "observations": 287,
+        "annualized_volatility": 29.325,
+        "downside_volatility": 21.682,
+        "max_drawdown": 51.4735,
+        "value_at_risk_95": 2.7446,
+        "conditional_var_95": 4.6229,
+        "sharpe_ratio": -1.7106,
+        "debt_to_equity": 0.8321,
+        "current_ratio": 1.5423,
+        "interest_coverage": null
+    },
+    "volatility": 29.325,
+    "max_drawdown": 51.4735,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "يو سي آي سي received a safety score of 57.8/100 and a medium investment risk classification. Annualized volatility was 29.3%. Maximum drawdown was 51.5%. Main risk: Large historical maximum drawdown."
+}

@@ -1,0 +1,29 @@
+{
+    "symbol": "3092",
+    "name": "أسمنت الرياض",
+    "name_en": "RIYADH CEMENT",
+    "price": 22.6,
+    "change": 0.05,
+    "change_percent": 0.22,
+    "open": 22.6,
+    "high": 22.7,
+    "low": 22.5,
+    "previous_close": 22.55,
+    "volume": 74769,
+    "value": 1686878.95,
+    "bid": 22.6,
+    "ask": 22.7,
+    "bid_size": 4018,
+    "ask_size": 2143,
+    "liquidity": {
+        "inflow_value": 608267.31,
+        "inflow_volume": 26954,
+        "inflow_trades": 234,
+        "outflow_value": 1078611.65,
+        "outflow_volume": 47815,
+        "outflow_trades": 526,
+        "net_value": -470344.33999999985
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

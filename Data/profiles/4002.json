@@ -1,0 +1,29 @@
+{
+    "symbol": "4002",
+    "name": "المواساة",
+    "name_en": "Mouwasat Medical Services Co.",
+    "price": 60.9,
+    "change": 0.15,
+    "change_percent": 0.25,
+    "open": 60.75,
+    "high": 60.9,
+    "low": 60.1,
+    "previous_close": 60.75,
+    "volume": 249360,
+    "value": 15138864.25,
+    "bid": 60.75,
+    "ask": 60.9,
+    "bid_size": 1,
+    "ask_size": 3072,
+    "liquidity": {
+        "inflow_value": 8735646.41,
+        "inflow_volume": 143810,
+        "inflow_trades": 770,
+        "outflow_value": 6403217.91,
+        "outflow_volume": 105550,
+        "outflow_trades": 796,
+        "net_value": 2332428.5
+    },
+    "updated_at": "2026-07-16T12:19:34+00:00",
+    "is_delayed": true
+}

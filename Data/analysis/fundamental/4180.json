@@ -1,0 +1,48 @@
+{
+    "symbol": "4180",
+    "company_name": "4180",
+    "sector": "Consumer Cyclical",
+    "ratios": {
+        "roe": 0.00847685351416711,
+        "roa": 0.008140360515376838,
+        "gross_margin": 0.37106519374462577,
+        "operating_margin": -0.17576603316110742,
+        "net_margin": 0.08953838511810959,
+        "current_ratio": 6.429106613760063,
+        "quick_ratio": 0.2515518774664546,
+        "operating_cash_flow_ratio": -0.4590161425861007,
+        "debt_ratio": 0.03969550709209497,
+        "debt_to_equity": 0.041336375478045216,
+        "equity_multiplier": 1.0413363754780451,
+        "asset_turnover": 0.09091475689045468,
+        "cash_conversion_ratio": -1.8536409205072424,
+        "free_cash_flow": -8649393.0,
+        "revenue_growth": 0.07234853848214262,
+        "net_income_growth": -0.7212798598531264
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 21.832061544642787,
+        "lynch_value": 10.852280772321393,
+        "pe_value": 0.22499999999999998,
+        "intrinsic_value": 10.969780772321393,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 31,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

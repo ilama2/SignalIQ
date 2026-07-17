@@ -1,0 +1,43 @@
+{
+    "symbol": "2130",
+    "company_name": "صدق",
+    "generated_at": "2026-07-17T13:46:13.763899",
+    "final_score": 55.2,
+    "recommendation": "Hold",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 36.0,
+        "technical": 85.0,
+        "news": 50.0,
+        "risk": 47.34
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Strong Liquidity",
+        "Strong Earnings Growth",
+        "Bullish Trend",
+        "Price Above SMA200",
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Positive Stochastic",
+        "Strong Trend",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "صدق received a final investment score of 55.2/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Strong Liquidity. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

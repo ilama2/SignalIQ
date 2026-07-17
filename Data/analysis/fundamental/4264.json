@@ -1,0 +1,46 @@
+{
+    "symbol": "4264",
+    "company_name": "4264",
+    "sector": "Industrials",
+    "ratios": {
+        "roe": -0.14846038609127807,
+        "roa": -0.03059837293293105,
+        "gross_margin": 0.18907280110584618,
+        "operating_margin": 0.13210230930399194,
+        "net_margin": -0.06718242608196835,
+        "current_ratio": 1.1974382375710184,
+        "quick_ratio": 1.1969515152997667,
+        "operating_cash_flow_ratio": 0.34793484226191607,
+        "debt_ratio": 0.7938953700812942,
+        "debt_to_equity": 3.851904590374468,
+        "equity_multiplier": 4.851904590374469,
+        "asset_turnover": 0.45545203883525137,
+        "cash_conversion_ratio": -2.71066870104388,
+        "free_cash_flow": -347978669.0,
+        "revenue_growth": 0.038146626689283314,
+        "net_income_growth": -2.2156584728318607
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": null,
+        "margin_of_safety": 0.0,
+        "upside": null,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 16,
+        "rating": "Strong Sell",
+        "strengths": [],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "High Debt",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

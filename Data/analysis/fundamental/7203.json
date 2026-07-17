@@ -1,0 +1,47 @@
+{
+    "symbol": "7203",
+    "company_name": "7203",
+    "sector": "Technology",
+    "ratios": {
+        "roe": 0.5772548512692676,
+        "roa": 0.17585218819374127,
+        "gross_margin": 0.3885469504027321,
+        "operating_margin": 0.22049160561865244,
+        "net_margin": 0.22085350288463537,
+        "current_ratio": 1.748529992884043,
+        "quick_ratio": 1.748529992884043,
+        "operating_cash_flow_ratio": 0.475015773725949,
+        "debt_ratio": 0.6953552418279201,
+        "debt_to_equity": 2.282582837459214,
+        "equity_multiplier": 3.2826139793796014,
+        "asset_turnover": 0.7962390720404334,
+        "cash_conversion_ratio": 1.27382466066961,
+        "free_cash_flow": 2332692309.0,
+        "revenue_growth": 0.27786522404945785,
+        "net_income_growth": 0.144225472670962
+    },
+    "valuation": {
+        "dcf_value": 1172.8562988817814,
+        "graham_value": 149163.56009050942,
+        "lynch_value": 74467.8800452547,
+        "pe_value": 402.0,
+        "intrinsic_value": 56301.57410866147,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 65,
+        "rating": "Hold",
+        "strengths": [
+            "Excellent Return on Equity",
+            "High Net Margin",
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "High Debt"
+        ]
+    }
+}

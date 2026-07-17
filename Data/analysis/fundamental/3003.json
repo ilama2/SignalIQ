@@ -1,0 +1,49 @@
+{
+    "symbol": "3003",
+    "company_name": "أسمنت المدينة",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.07035700397256141,
+        "roa": 0.06616124932273866,
+        "gross_margin": 0.315454048934444,
+        "operating_margin": 0.21754412466472164,
+        "net_margin": 0.24810539019522337,
+        "current_ratio": 8.576405991706094,
+        "quick_ratio": 6.996361599805578,
+        "operating_cash_flow_ratio": 2.807914696842138,
+        "debt_ratio": 0.059635209189110194,
+        "debt_to_equity": 0.06341710129075112,
+        "equity_multiplier": 1.0634171012907512,
+        "asset_turnover": 0.26666590867163037,
+        "cash_conversion_ratio": 1.9013181352361623,
+        "free_cash_flow": 160854327.0,
+        "revenue_growth": -0.002299945339254403,
+        "net_income_growth": -0.10543195298321434
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 559.82,
+        "lynch_value": 276.0,
+        "pe_value": 13.8,
+        "intrinsic_value": 283.20666666666665,
+        "current_price": 10.550000190734863,
+        "margin_of_safety": 0.9627480513968544,
+        "upside": 25.84423332194649,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 71,
+        "rating": "Buy",
+        "strengths": [
+            "High Net Margin",
+            "Strong Liquidity",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

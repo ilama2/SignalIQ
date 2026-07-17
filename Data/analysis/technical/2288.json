@@ -1,0 +1,39 @@
+{
+    "symbol": "2288",
+    "company_name": "نفوذ",
+    "indicators": {
+        "sma20": 7.241999936103821,
+        "sma50": 7.398427448272705,
+        "sma200": 8.991604747772216,
+        "ema20": 7.194158988842508,
+        "ema50": 7.4383404419555585,
+        "rsi": 27.576772596435177,
+        "macd": -0.15188570320371397,
+        "macd_signal": -0.12101649682276185,
+        "macd_histogram": -0.030869206380952127,
+        "stochastic_k": 4.225314275966468,
+        "stochastic_d": 5.318352463532615,
+        "upper_band": 7.636136905820607,
+        "middle_band": 7.241999936103821,
+        "lower_band": 6.847862966387035,
+        "atr": 0.1344758774365888,
+        "adx": 21.28323718777333,
+        "obv": 5280509.0,
+        "current_price": 6.909999847412109,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Oversold",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "symbol": "2350",
+    "name": "كيان السعودية",
+    "name_en": "Saudi Kayan Petrochemical Company SJSC",
+    "price": 5.08,
+    "change": 0.0,
+    "change_percent": 0.0,
+    "open": 5.08,
+    "high": 5.13,
+    "low": 5.04,
+    "previous_close": 5.08,
+    "volume": 2771989,
+    "value": 14109376.45,
+    "bid": 5.08,
+    "ask": 5.09,
+    "bid_size": 38591,
+    "ask_size": 300,
+    "liquidity": {
+        "inflow_value": 6847193.64,
+        "inflow_volume": 1344066,
+        "inflow_trades": 972,
+        "outflow_value": 7262182.89,
+        "outflow_volume": 1427923,
+        "outflow_trades": 1262,
+        "net_value": -414989.25
+    },
+    "updated_at": "2026-07-16T13:00:00+00:00",
+    "is_delayed": true
+}

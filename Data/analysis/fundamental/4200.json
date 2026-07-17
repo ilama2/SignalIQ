@@ -1,0 +1,49 @@
+{
+    "symbol": "4200",
+    "company_name": "4200",
+    "sector": "Consumer Cyclical",
+    "ratios": {
+        "roe": 0.24983623673076297,
+        "roa": 0.04462098749546054,
+        "gross_margin": 0.03629220831274669,
+        "operating_margin": 0.023058264934650102,
+        "net_margin": 0.016375474087708487,
+        "current_ratio": 0.6034231352412047,
+        "quick_ratio": 0.5160500992519406,
+        "operating_cash_flow_ratio": 0.2996056731018633,
+        "debt_ratio": 0.821399056920848,
+        "debt_to_equity": 4.599074577992694,
+        "equity_multiplier": 5.599074577992694,
+        "asset_turnover": 2.7248669111176005,
+        "cash_conversion_ratio": 2.5993030248946196,
+        "free_cash_flow": 737364130.0,
+        "revenue_growth": 0.33555004865517124,
+        "net_income_growth": 0.2239795577783233
+    },
+    "valuation": {
+        "dcf_value": 354.7559818576576,
+        "graham_value": 28356.294106496454,
+        "lynch_value": 14160.212053248226,
+        "pe_value": 63.3,
+        "intrinsic_value": 10733.640535400584,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Strong Revenue Growth",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt"
+        ]
+    }
+}

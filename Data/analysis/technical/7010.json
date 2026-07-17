@@ -1,0 +1,38 @@
+{
+    "symbol": "7010",
+    "company_name": "7010",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 43.582827473868875,
+        "ema50": 43.52091753489833,
+        "rsi": 42.88216442971786,
+        "macd": -0.12341673400181463,
+        "macd_signal": -0.08328098676238467,
+        "macd_histogram": -0.04013574723942996,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": -116382049.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD",
+            "Weak Volume Trend"
+        ]
+    }
+}

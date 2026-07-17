@@ -1,0 +1,29 @@
+{
+    "symbol": "2320",
+    "name": "البابطين",
+    "name_en": "Al Babtain Power and Telcmnctn Com SJSC",
+    "price": 60.0,
+    "change": 0.25,
+    "change_percent": 0.42,
+    "open": 59.75,
+    "high": 60.5,
+    "low": 59.15,
+    "previous_close": 59.75,
+    "volume": 303479,
+    "value": 18207664.75,
+    "bid": 60.0,
+    "ask": 60.25,
+    "bid_size": 1260,
+    "ask_size": 471,
+    "liquidity": {
+        "inflow_value": 8704609.1,
+        "inflow_volume": 145002,
+        "inflow_trades": 1427,
+        "outflow_value": 9503055.71,
+        "outflow_volume": 158477,
+        "outflow_trades": 977,
+        "net_value": -798446.6100000013
+    },
+    "updated_at": "2026-07-16T13:00:00+00:00",
+    "is_delayed": true
+}

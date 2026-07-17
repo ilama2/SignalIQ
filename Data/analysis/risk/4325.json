@@ -1,0 +1,33 @@
+{
+    "symbol": "4325",
+    "company_name": "4325",
+    "generated_at": "2026-07-17T13:30:41.969890",
+    "risk_score": 56.46,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 45.52,
+    "fundamental_safety_score": 89.28,
+    "metrics": {
+        "observations": 328,
+        "annualized_volatility": 37.9624,
+        "downside_volatility": 24.0289,
+        "max_drawdown": 45.2434,
+        "value_at_risk_95": 3.4667,
+        "conditional_var_95": 4.885,
+        "sharpe_ratio": -0.0304,
+        "debt_to_equity": 0.6202,
+        "current_ratio": 1.7227,
+        "interest_coverage": null
+    },
+    "volatility": 37.9624,
+    "max_drawdown": 45.2434,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "4325 received a safety score of 56.5/100 and a medium investment risk classification. Annualized volatility was 38.0%. Maximum drawdown was 45.2%. Main risk: High historical price volatility."
+}

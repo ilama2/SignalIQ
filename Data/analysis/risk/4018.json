@@ -1,0 +1,29 @@
+{
+    "symbol": "4018",
+    "company_name": "4018",
+    "generated_at": "2026-07-17T13:30:41.840632",
+    "risk_score": 50.0,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": null,
+    "fundamental_safety_score": 50.0,
+    "metrics": {
+        "observations": 0,
+        "annualized_volatility": null,
+        "downside_volatility": null,
+        "max_drawdown": null,
+        "value_at_risk_95": null,
+        "conditional_var_95": null,
+        "sharpe_ratio": null,
+        "debt_to_equity": null,
+        "current_ratio": null,
+        "interest_coverage": null
+    },
+    "volatility": null,
+    "max_drawdown": null,
+    "strengths": [],
+    "risks": [
+        "Historical price data was unavailable"
+    ],
+    "summary": "4018 received a limited risk assessment because historical price data was unavailable."
+}

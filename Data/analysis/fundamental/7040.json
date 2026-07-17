@@ -1,0 +1,44 @@
+{
+    "symbol": "7040",
+    "company_name": "7040",
+    "sector": "Communication Services",
+    "ratios": {
+        "roe": 0.2555179094257255,
+        "roa": 0.14079708440753977,
+        "gross_margin": 0.27198104156159575,
+        "operating_margin": 0.14712761460206625,
+        "net_margin": 0.13507453003021452,
+        "current_ratio": 1.708951092058479,
+        "quick_ratio": 1.6900009545629855,
+        "operating_cash_flow_ratio": 0.16996375474459424,
+        "debt_ratio": 0.4281388564514331,
+        "debt_to_equity": 0.7769844525170629,
+        "equity_multiplier": 1.8147954590176327,
+        "asset_turnover": 1.042365902557982,
+        "cash_conversion_ratio": 0.44648862770761566,
+        "free_cash_flow": 41334901.0,
+        "revenue_growth": 0.31177557857358507,
+        "net_income_growth": 0.1798772737540886
+    },
+    "valuation": {
+        "dcf_value": 53.7744821543567,
+        "graham_value": 47579.36817461436,
+        "lynch_value": 23757.299087307183,
+        "pe_value": 114.3,
+        "intrinsic_value": 17876.185436018975,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 69,
+        "rating": "Hold",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "symbol": "7202",
+    "company_name": "7202",
+    "generated_at": "2026-07-17T13:30:42.065819",
+    "risk_score": 50.46,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 48.67,
+    "fundamental_safety_score": 55.84,
+    "metrics": {
+        "observations": 1186,
+        "annualized_volatility": 30.1941,
+        "downside_volatility": 19.9732,
+        "max_drawdown": 53.6929,
+        "value_at_risk_95": 2.9704,
+        "conditional_var_95": 4.1679,
+        "sharpe_ratio": 0.2324,
+        "debt_to_equity": 2.0035,
+        "current_ratio": 1.5305,
+        "interest_coverage": null
+    },
+    "volatility": 30.1941,
+    "max_drawdown": 53.6929,
+    "strengths": [
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio"
+    ],
+    "summary": "7202 received a safety score of 50.5/100 and a medium investment risk classification. Annualized volatility was 30.2%. Maximum drawdown was 53.7%. Main risk: Large historical maximum drawdown."
+}

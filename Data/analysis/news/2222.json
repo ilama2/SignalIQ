@@ -1,0 +1,53 @@
+{
+    "symbol": "2222",
+    "company_name": "أرامكو السعودية",
+    "generated_at": "2026-07-17T13:21:41.341408",
+    "article_count": 1,
+    "articles": [
+        {
+            "title": "Meta Platforms surpasses Saudi Aramco in market cap, reclaiming top 10 status",
+            "description": "Meta's resurgence highlights the shifting economic landscape, emphasizing tech's growing dominance over traditional energy sectors. The post Meta Platforms surpasses Saudi Aramco in market cap, reclaiming top 10 status appeared first on Crypto Briefing.",
+            "content": "The social media giant's $1.67 trillion valuation edges past the oil behemoth, signaling a broader shift in how markets price innovation versus extraction Meta Platforms has overtaken Saudi Aramco in… [+1809 chars]",
+            "url": "https://cryptobriefing.com/meta-surpasses-saudi-aramco-market-cap/",
+            "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/14194913/ChatGPT-Image-May-22-2026-10_53_21-AM-800x420.png",
+            "source": {
+                "name": "Crypto Briefing",
+                "url": null
+            },
+            "author": "Editorial Team",
+            "published_at": "2026-07-15T17:26:24Z",
+            "language": "en",
+            "sentiment": {
+                "label": "negative",
+                "confidence": 0.8773,
+                "score": -0.8773
+            },
+            "relevance_score": 1.0,
+            "impact_score": null
+        }
+    ],
+    "score": {
+        "score": 42,
+        "rating": "Bearish",
+        "positive_articles": 0,
+        "neutral_articles": 0,
+        "negative_articles": 1,
+        "average_sentiment": -0.8773,
+        "confidence": 0.1755,
+        "strengths": [],
+        "risks": [
+            "Meta Platforms surpasses Saudi Aramco in market cap, reclaiming top 10 status"
+        ]
+    },
+    "summary": {
+        "summary": "Limited recent coverage for أرامكو السعودية shows a negative signal based on one article.",
+        "key_events": [
+            "Meta Platforms surpasses Saudi Aramco in market cap, reclaiming top 10 status"
+        ],
+        "opportunities": [],
+        "risks": [
+            "Meta Platforms surpasses Saudi Aramco in market cap, reclaiming top 10 status"
+        ],
+        "expected_impact": "Negative"
+    }
+}

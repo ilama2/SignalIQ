@@ -1,0 +1,31 @@
+{
+    "symbol": "4210",
+    "company_name": "4210",
+    "generated_at": "2026-07-17T13:30:41.921094",
+    "risk_score": 37.33,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 34.17,
+    "fundamental_safety_score": 46.82,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 39.1413,
+        "downside_volatility": 23.9407,
+        "max_drawdown": 79.8906,
+        "value_at_risk_95": 3.542,
+        "conditional_var_95": 5.1199,
+        "sharpe_ratio": -0.3002,
+        "debt_to_equity": 1.5142,
+        "current_ratio": 0.9033,
+        "interest_coverage": null
+    },
+    "volatility": 39.1413,
+    "max_drawdown": 79.8906,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4210 received a safety score of 37.3/100 and a high investment risk classification. Annualized volatility was 39.1%. Maximum drawdown was 79.9%. Main risk: High historical price volatility."
+}

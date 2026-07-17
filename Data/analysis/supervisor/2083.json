@@ -1,0 +1,38 @@
+{
+    "symbol": "2083",
+    "company_name": "مرافق",
+    "generated_at": "2026-07-17T13:46:13.759663",
+    "final_score": 43.05,
+    "recommendation": "Sell",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 34.0,
+        "technical": 50.0,
+        "news": 50.0,
+        "risk": 40.99
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Strong Earnings Growth",
+        "Positive Free Cash Flow",
+        "Price Above SMA200",
+        "Short-Term Uptrend",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio"
+    ],
+    "summary": "مرافق received a final investment score of 43.0/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Strong Earnings Growth. Main risk: Large historical maximum drawdown.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "symbol": "2287",
+    "company_name": "إنتاج",
+    "indicators": {
+        "sma20": 25.166499900817872,
+        "sma50": 25.459599876403807,
+        "sma200": 30.042949953079223,
+        "ema20": 25.61387351216371,
+        "ema50": 25.56060418996002,
+        "rsi": 61.13640811088131,
+        "macd": 0.46499496391047046,
+        "macd_signal": 0.022721739383420897,
+        "macd_histogram": 0.44227322452704954,
+        "stochastic_k": 67.47721254618001,
+        "stochastic_d": 74.67072872023574,
+        "upper_band": 27.93337726047639,
+        "middle_band": 25.166499900817872,
+        "lower_band": 22.399622541159353,
+        "atr": 1.2498466802350603,
+        "adx": 23.877860392757025,
+        "obv": -9001147.0,
+        "current_price": 27.84000015258789,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 50,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Weak Volume Trend"
+        ]
+    }
+}

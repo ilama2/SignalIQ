@@ -1,0 +1,39 @@
+{
+    "symbol": "4349",
+    "company_name": "4349",
+    "generated_at": "2026-07-17T13:46:13.859260",
+    "final_score": 51.48,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 35.0,
+        "technical": 55.0,
+        "news": 50.0,
+        "risk": 84.84
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "High Net Margin",
+        "Low Debt",
+        "Positive Free Cash Flow",
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Bullish MACD",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Weak short-term liquidity"
+    ],
+    "summary": "4349 received a final investment score of 51.5/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: High Net Margin. Main risk: Weak short-term liquidity.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

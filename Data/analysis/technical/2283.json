@@ -1,0 +1,38 @@
+{
+    "symbol": "2283",
+    "company_name": "المطاحن الأولى",
+    "indicators": {
+        "sma20": 52.97749996185303,
+        "sma50": 52.53799980163574,
+        "sma200": 50.58695123672485,
+        "ema20": 52.80701116998719,
+        "ema50": 52.71243560485201,
+        "rsi": 46.37783018587678,
+        "macd": -0.02226378111576821,
+        "macd_signal": 0.08829363445819766,
+        "macd_histogram": -0.11055741557396587,
+        "stochastic_k": 21.739119618066066,
+        "stochastic_d": 23.913053694048756,
+        "upper_band": 55.01967399073613,
+        "middle_band": 52.97749996185303,
+        "lower_band": 50.935325932969924,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 50865976.0,
+        "current_price": 52.29999923706055,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 65,
+        "rating": "Hold",
+        "strengths": [
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

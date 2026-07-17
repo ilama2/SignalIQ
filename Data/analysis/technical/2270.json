@@ -1,0 +1,41 @@
+{
+    "symbol": "2270",
+    "company_name": "سدافكو",
+    "indicators": {
+        "sma20": 219.3400001525879,
+        "sma50": 220.62199920654297,
+        "sma200": 226.76926078796387,
+        "ema20": 219.3599480097675,
+        "ema50": 219.10205576821687,
+        "rsi": 44.199371991231885,
+        "macd": -0.7408178742568907,
+        "macd_signal": -0.37365470178182025,
+        "macd_histogram": -0.36716317247507047,
+        "stochastic_k": 25.742619131790327,
+        "stochastic_d": 23.10239698812796,
+        "upper_band": 222.95186676409162,
+        "middle_band": 219.3400001525879,
+        "lower_band": 215.72813354108416,
+        "atr": 2.9488843488470615,
+        "adx": 28.682570599704516,
+        "obv": 3131770.0,
+        "current_price": 217.5,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 50,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

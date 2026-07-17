@@ -1,0 +1,39 @@
+{
+    "symbol": "1180",
+    "company_name": "الأهلي",
+    "indicators": {
+        "sma20": 39.131999778747556,
+        "sma50": 39.40120002746582,
+        "sma200": 39.259558296203615,
+        "ema20": 38.830495610082245,
+        "ema50": 39.39471845845136,
+        "rsi": 39.60702939482648,
+        "macd": -0.5553694239932838,
+        "macd_signal": -0.41448778266819614,
+        "macd_histogram": -0.14088164132508768,
+        "stochastic_k": 33.333333333333336,
+        "stochastic_d": 16.950518023505342,
+        "upper_band": 41.38717737978318,
+        "middle_band": 39.131999778747556,
+        "lower_band": 36.87682217771193,
+        "atr": 0.5892520513170527,
+        "adx": 28.066148298177968,
+        "obv": 569546989.0,
+        "current_price": 38.13999938964844,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 40,
+        "rating": "Sell",
+        "strengths": [
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "symbol": "7211",
+    "company_name": "7211",
+    "sector": "Technology",
+    "ratios": {
+        "roe": 0.265935241227581,
+        "roa": 0.10845536219225209,
+        "gross_margin": 0.28996740967273366,
+        "operating_margin": 0.1318337600173317,
+        "net_margin": 0.14791175961108088,
+        "current_ratio": 1.5403402076203039,
+        "quick_ratio": 1.5403402076203039,
+        "operating_cash_flow_ratio": 0.6137201124766966,
+        "debt_ratio": 0.5868366004305147,
+        "debt_to_equity": 1.4389379164123177,
+        "equity_multiplier": 2.45202483171071,
+        "asset_turnover": 0.7332436749953118,
+        "cash_conversion_ratio": 2.909362387225782,
+        "free_cash_flow": 96858206.0,
+        "revenue_growth": 0.1632087103681686,
+        "net_income_growth": 0.339794228302464
+    },
+    "valuation": {
+        "dcf_value": 41.749277462802354,
+        "graham_value": 2029.0580085652907,
+        "lynch_value": 1011.8940042826454,
+        "pe_value": 9.3,
+        "intrinsic_value": 773.0003225776846,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 67,
+        "rating": "Hold",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "High Debt"
+        ]
+    }
+}

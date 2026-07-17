@@ -1,0 +1,32 @@
+{
+    "symbol": "3003",
+    "company_name": "أسمنت المدينة",
+    "generated_at": "2026-07-17T13:30:41.778876",
+    "risk_score": 65.98,
+    "risk_level": "low",
+    "higher_is_riskier": false,
+    "market_safety_score": 54.64,
+    "fundamental_safety_score": 100.0,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 23.4333,
+        "downside_volatility": 15.4629,
+        "max_drawdown": 57.7665,
+        "value_at_risk_95": 2.3162,
+        "conditional_var_95": 3.3804,
+        "sharpe_ratio": -0.6019,
+        "debt_to_equity": 0.0634,
+        "current_ratio": 8.5764,
+        "interest_coverage": null
+    },
+    "volatility": 23.4333,
+    "max_drawdown": 57.7665,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "أسمنت المدينة received a safety score of 66.0/100 and a low investment risk classification. Annualized volatility was 23.4%. Maximum drawdown was 57.8%. Main risk: Large historical maximum drawdown."
+}

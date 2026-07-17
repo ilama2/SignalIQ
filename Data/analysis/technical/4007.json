@@ -1,0 +1,39 @@
+{
+    "symbol": "4007",
+    "company_name": "الحمادي",
+    "indicators": {
+        "sma20": 27.286999797821046,
+        "sma50": 27.018807334899904,
+        "sma200": 27.806560850143434,
+        "ema20": 27.163001791542342,
+        "ema50": 27.056957625811563,
+        "rsi": 44.31354013851765,
+        "macd": -0.1432739254952864,
+        "macd_signal": -0.07355659823785153,
+        "macd_histogram": -0.06971732725743486,
+        "stochastic_k": 40.0,
+        "stochastic_d": 42.495148968701095,
+        "upper_band": 28.21868861966594,
+        "middle_band": 27.286999797821046,
+        "lower_band": 26.355310975976153,
+        "atr": 0.467798515738833,
+        "adx": 20.089891793744815,
+        "obv": 54554088.0,
+        "current_price": 26.899999618530273,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 40,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

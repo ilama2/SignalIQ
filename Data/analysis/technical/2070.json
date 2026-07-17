@@ -1,0 +1,39 @@
+{
+    "symbol": "2070",
+    "company_name": "الدوائية",
+    "indicators": {
+        "sma20": 29.319000053405762,
+        "sma50": 28.918240280151366,
+        "sma200": 28.656912212371825,
+        "ema20": 29.46444619776799,
+        "ema50": 29.219815240927836,
+        "rsi": 50.54868561366447,
+        "macd": 0.3231483605363472,
+        "macd_signal": 0.2633420847038977,
+        "macd_histogram": 0.05980627583244952,
+        "stochastic_k": 49.24240672774037,
+        "stochastic_d": 64.89899719677486,
+        "upper_band": 30.719712828219578,
+        "middle_band": 29.319000053405762,
+        "lower_band": 27.918287278591947,
+        "atr": 0.6090145468427719,
+        "adx": 27.74452433290534,
+        "obv": 44916982.0,
+        "current_price": 29.399999618530273,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 90,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": []
+    }
+}

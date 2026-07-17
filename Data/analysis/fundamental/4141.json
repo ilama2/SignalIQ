@@ -1,0 +1,48 @@
+{
+    "symbol": "4141",
+    "company_name": "4141",
+    "sector": "Consumer Cyclical",
+    "ratios": {
+        "roe": -0.055889341635025076,
+        "roa": -0.03724212440789338,
+        "gross_margin": 0.21090070651955573,
+        "operating_margin": -0.0034110213449189924,
+        "net_margin": -0.07068547146981535,
+        "current_ratio": 2.709772458545037,
+        "quick_ratio": 0.9494163981671235,
+        "operating_cash_flow_ratio": -0.1951978874631251,
+        "debt_ratio": 0.3387482759405158,
+        "debt_to_equity": 0.508360315726311,
+        "equity_multiplier": 1.5007022967567194,
+        "asset_turnover": 0.5268709910748322,
+        "cash_conversion_ratio": 1.3459498702974344,
+        "free_cash_flow": -21978979.0,
+        "revenue_growth": -0.1769594357501392,
+        "net_income_growth": 1.3439659358626763
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": null,
+        "margin_of_safety": 0.0,
+        "upside": null,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 44,
+        "rating": "Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

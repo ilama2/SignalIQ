@@ -1,0 +1,48 @@
+{
+    "symbol": "2150",
+    "company_name": "زجاج",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.10183302435522686,
+        "roa": 0.09192673300293835,
+        "gross_margin": 0.16112183347245526,
+        "operating_margin": -0.03591533619334411,
+        "net_margin": 0.6507073828785763,
+        "current_ratio": 2.233014781415657,
+        "quick_ratio": 1.5081433210121924,
+        "operating_cash_flow_ratio": 0.107047809779008,
+        "debt_ratio": 0.09727975197645243,
+        "debt_to_equity": 0.10776290017803486,
+        "equity_multiplier": 1.107762900178035,
+        "asset_turnover": 0.14127199939898658,
+        "cash_conversion_ratio": 0.07120384381945234,
+        "free_cash_flow": -39331621.0,
+        "revenue_growth": -0.07458525846635355,
+        "net_income_growth": -0.1360220971755273
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 1545.59,
+        "lynch_value": 762.0,
+        "pe_value": 38.1,
+        "intrinsic_value": 781.8966666666666,
+        "current_price": 35.91999816894531,
+        "margin_of_safety": 0.9540604280587648,
+        "upside": 20.76772568275509,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 47,
+        "rating": "Sell",
+        "strengths": [
+            "High Net Margin",
+            "Strong Liquidity",
+            "Low Debt"
+        ],
+        "weaknesses": [
+            "Revenue Declining",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

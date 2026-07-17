@@ -1,0 +1,40 @@
+{
+    "symbol": "1321",
+    "company_name": "أنابيب الشرق",
+    "indicators": {
+        "sma20": 221.05999908447265,
+        "sma50": 208.1596224975586,
+        "sma200": 160.0421057510376,
+        "ema20": 219.05708538336725,
+        "ema50": 208.28876529769875,
+        "rsi": 55.593746472629036,
+        "macd": 3.578408716456096,
+        "macd_signal": 3.9805260432926746,
+        "macd_histogram": -0.40211732683657875,
+        "stochastic_k": 72.16493331753279,
+        "stochastic_d": 76.4031878103101,
+        "upper_band": 234.09247941928237,
+        "middle_band": 221.05999908447265,
+        "lower_band": 208.02751874966293,
+        "atr": 7.610347012417959,
+        "adx": 30.586387449506958,
+        "obv": 50645176.0,
+        "current_price": 223.0,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 80,
+        "rating": "Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

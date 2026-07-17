@@ -1,0 +1,44 @@
+{
+    "symbol": "6070",
+    "company_name": "6070",
+    "sector": "Consumer Defensive",
+    "ratios": {
+        "roe": 0.10170908987854779,
+        "roa": 0.06253318580403695,
+        "gross_margin": 0.2887511457130366,
+        "operating_margin": 0.12697842218439265,
+        "net_margin": 0.11409761745351067,
+        "current_ratio": 1.924192863263125,
+        "quick_ratio": 0.8099087358011203,
+        "operating_cash_flow_ratio": 0.2992517720240883,
+        "debt_ratio": 0.38517603609757317,
+        "debt_to_equity": 0.6264818203454103,
+        "equity_multiplier": 1.6264818203454103,
+        "asset_turnover": 0.5480674110440232,
+        "cash_conversion_ratio": 0.9343012912901554,
+        "free_cash_flow": -18344105.0,
+        "revenue_growth": 0.22210237344842074,
+        "net_income_growth": 0.07918842029823618
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 12060.983640904406,
+        "lynch_value": 6018.974320452203,
+        "pe_value": 40.65,
+        "intrinsic_value": 6040.202653785535,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 55,
+        "rating": "Hold",
+        "strengths": [
+            "Strong Revenue Growth"
+        ],
+        "weaknesses": [
+            "Negative Free Cash Flow"
+        ]
+    }
+}

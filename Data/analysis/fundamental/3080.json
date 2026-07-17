@@ -1,0 +1,47 @@
+{
+    "symbol": "3080",
+    "company_name": "أسمنت الشرقية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.08648610088286604,
+        "roa": 0.06240435457348882,
+        "gross_margin": 0.26881856757409955,
+        "operating_margin": 0.19721312059969018,
+        "net_margin": 0.16043376109858676,
+        "current_ratio": 3.560450135055996,
+        "quick_ratio": 2.307409117763153,
+        "operating_cash_flow_ratio": 0.9365714094067081,
+        "debt_ratio": 0.27844643316725254,
+        "debt_to_equity": 0.3858984917633912,
+        "equity_multiplier": 1.3858984917633912,
+        "asset_turnover": 0.38897270840107817,
+        "cash_conversion_ratio": 1.7930555898550367,
+        "free_cash_flow": -241291000.0,
+        "revenue_growth": 0.04240628556985279,
+        "net_income_growth": -0.18322353691055862
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 2013.0704217830814,
+        "lynch_value": 996.5477108915406,
+        "pe_value": 35.25,
+        "intrinsic_value": 1014.956044224874,
+        "current_price": 26.719999313354492,
+        "margin_of_safety": 0.9736737374338603,
+        "upside": 36.98488287077183,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 56,
+        "rating": "Hold",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "symbol": "4321",
+    "company_name": "4321",
+    "sector": "Real Estate",
+    "ratios": {
+        "roe": 0.0816646111579509,
+        "roa": 0.03434045234686046,
+        "gross_margin": 0.8454395415417744,
+        "operating_margin": 0.6803260888540792,
+        "net_margin": 0.5536404097380342,
+        "current_ratio": 1.1642554627142563,
+        "quick_ratio": 1.0959382971579705,
+        "operating_cash_flow_ratio": 0.3444227904313693,
+        "debt_ratio": 0.5780840326148792,
+        "debt_to_equity": 1.3747345918240461,
+        "equity_multiplier": 2.3780878112229353,
+        "asset_turnover": 0.06202663631997042,
+        "cash_conversion_ratio": 1.4078234588790635,
+        "free_cash_flow": 1762741144.0,
+        "revenue_growth": -0.023780386419247193,
+        "net_income_growth": 0.04107662319330146
+    },
+    "valuation": {
+        "dcf_value": 54.60773553849097,
+        "graham_value": 1624.695,
+        "lynch_value": 801.0,
+        "pe_value": 40.05,
+        "intrinsic_value": 630.0881838846227,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 47,
+        "rating": "Sell",
+        "strengths": [
+            "High Net Margin",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "High Debt",
+            "Revenue Declining"
+        ]
+    }
+}

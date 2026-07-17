@@ -1,0 +1,46 @@
+{
+    "symbol": "2240",
+    "company_name": "صناعات",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.1844335842298487,
+        "roa": 0.01706944003038562,
+        "gross_margin": 0.17969908793560055,
+        "operating_margin": 0.04274202171452882,
+        "net_margin": 0.016293234679703363,
+        "current_ratio": 1.0125134922522456,
+        "quick_ratio": 0.6851048763663091,
+        "operating_cash_flow_ratio": 0.02690895864026077,
+        "debt_ratio": 0.8827786487623993,
+        "debt_to_equity": 9.538334589945762,
+        "equity_multiplier": 10.804899510560109,
+        "asset_turnover": 1.047639733051239,
+        "cash_conversion_ratio": 1.2375305611371217,
+        "free_cash_flow": -56182000.0,
+        "revenue_growth": 0.01806962848346013,
+        "net_income_growth": 2.768961014736057
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 1022.28,
+        "lynch_value": 504.0,
+        "pe_value": 25.2,
+        "intrinsic_value": 517.16,
+        "current_price": 31.34000015258789,
+        "margin_of_safety": 0.9393997986066441,
+        "upside": 15.50159532489012,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 28,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "High Debt",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

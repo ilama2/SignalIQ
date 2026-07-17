@@ -1,0 +1,38 @@
+{
+    "symbol": "4263",
+    "company_name": "4263",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 175.9850441007372,
+        "ema50": 173.21929989749748,
+        "rsi": 56.904391207118756,
+        "macd": 0.4904681277811562,
+        "macd_signal": 0.8965485519235508,
+        "macd_histogram": -0.40608042414239454,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 54775311.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

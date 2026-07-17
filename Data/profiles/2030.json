@@ -1,0 +1,29 @@
+{
+    "symbol": "2030",
+    "name": "المصافي",
+    "name_en": "SARCO",
+    "price": 50.35,
+    "change": -0.55,
+    "change_percent": -1.08,
+    "open": 51.0,
+    "high": 51.4,
+    "low": 50.0,
+    "previous_close": 50.9,
+    "volume": 137630,
+    "value": 6969964.1,
+    "bid": 50.35,
+    "ask": 50.75,
+    "bid_size": 1784,
+    "ask_size": 252,
+    "liquidity": {
+        "inflow_value": 3146658.85,
+        "inflow_volume": 62034,
+        "inflow_trades": 388,
+        "outflow_value": 3823305.22,
+        "outflow_volume": 75596,
+        "outflow_trades": 576,
+        "net_value": -676646.3700000001
+    },
+    "updated_at": "2026-07-16T12:19:27+00:00",
+    "is_delayed": true
+}

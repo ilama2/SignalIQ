@@ -1,0 +1,38 @@
+{
+    "symbol": "4292",
+    "company_name": "4292",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 49.54552180972693,
+        "ema50": 51.23743363532071,
+        "rsi": 23.2558643784664,
+        "macd": -1.37332064171612,
+        "macd_signal": -1.039352352455188,
+        "macd_histogram": -0.3339682892609319,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 22008604.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Oversold",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

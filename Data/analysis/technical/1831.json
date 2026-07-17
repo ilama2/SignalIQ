@@ -1,0 +1,39 @@
+{
+    "symbol": "1831",
+    "company_name": "مهارة",
+    "indicators": {
+        "sma20": 5.1816271305084225,
+        "sma50": 5.1728722286224365,
+        "sma200": 4.703355412483216,
+        "ema20": 5.227801855428858,
+        "ema50": 5.1236931063129205,
+        "rsi": 65.48611917647415,
+        "macd": 0.07300196574229023,
+        "macd_signal": 0.02748778552379552,
+        "macd_histogram": 0.04551418021849471,
+        "stochastic_k": 91.30435684002114,
+        "stochastic_d": 89.02065003742688,
+        "upper_band": 5.501904067944463,
+        "middle_band": 5.1816271305084225,
+        "lower_band": 4.861350193072382,
+        "atr": 0.14094734700328665,
+        "adx": 24.44209112076207,
+        "obv": 1122206422.0,
+        "current_price": 5.510000228881836,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 85,
+        "rating": "Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": []
+    }
+}

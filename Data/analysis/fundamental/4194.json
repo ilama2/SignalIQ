@@ -1,0 +1,45 @@
+{
+    "symbol": "4194",
+    "company_name": "4194",
+    "sector": "Industrials",
+    "ratios": {
+        "roe": 0.17297763032070304,
+        "roa": 0.10441089560001433,
+        "gross_margin": 0.5269677006722067,
+        "operating_margin": 0.16739614830425248,
+        "net_margin": 0.12618797081734107,
+        "current_ratio": 3.6685423640006087,
+        "quick_ratio": 1.5671022195718265,
+        "operating_cash_flow_ratio": 1.4360614752521734,
+        "debt_ratio": 0.38966446105134245,
+        "debt_to_equity": 0.6455574842597734,
+        "equity_multiplier": 1.656700953733408,
+        "asset_turnover": 0.8274235247918412,
+        "cash_conversion_ratio": 2.1692156487436876,
+        "free_cash_flow": 102471140.0,
+        "revenue_growth": 0.025689008867405726,
+        "net_income_growth": -0.09074129839142957
+    },
+    "valuation": {
+        "dcf_value": 94.2368519642857,
+        "graham_value": 1916.7749999999999,
+        "lynch_value": 945.0,
+        "pe_value": 47.25,
+        "intrinsic_value": 750.8154629910714,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 76,
+        "rating": "Buy",
+        "strengths": [
+            "Strong Liquidity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Net Income Declining"
+        ]
+    }
+}

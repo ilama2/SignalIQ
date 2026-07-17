@@ -1,0 +1,40 @@
+{
+    "symbol": "1833",
+    "company_name": "الموارد",
+    "indicators": {
+        "sma20": 104.61999969482422,
+        "sma50": 99.13999984741211,
+        "sma200": 93.6420473098755,
+        "ema20": 104.8024740706346,
+        "ema50": 99.74896383621616,
+        "rsi": 69.65837768413073,
+        "macd": 2.8959594099573565,
+        "macd_signal": 2.5229673974529354,
+        "macd_histogram": 0.37299201250442104,
+        "stochastic_k": 91.41631013713916,
+        "stochastic_d": 89.73136263830561,
+        "upper_band": 110.60685152193821,
+        "middle_band": 104.61999969482422,
+        "lower_band": 98.63314786771022,
+        "atr": 2.603450465083322,
+        "adx": 51.04573252088681,
+        "obv": 55171450.0,
+        "current_price": 109.9000015258789,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 95,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": []
+    }
+}

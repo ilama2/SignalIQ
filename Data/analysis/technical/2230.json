@@ -1,0 +1,39 @@
+{
+    "symbol": "2230",
+    "company_name": "الكيميائية",
+    "indicators": {
+        "sma20": 8.232499885559083,
+        "sma50": 8.388527851104737,
+        "sma200": 7.5999379110336305,
+        "ema20": 8.298288123291885,
+        "ema50": 8.272797509852584,
+        "rsi": 56.742507829937104,
+        "macd": -0.0038113702105047054,
+        "macd_signal": -0.03484943886248546,
+        "macd_histogram": 0.031038068651980756,
+        "stochastic_k": 81.81811876535632,
+        "stochastic_d": 65.90511676823452,
+        "upper_band": 8.437816884461167,
+        "middle_band": 8.232499885559083,
+        "lower_band": 8.027182886656998,
+        "atr": 0.17495497261369056,
+        "adx": 16.194588053561407,
+        "obv": 735822471.0,
+        "current_price": 8.460000038146973,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 85,
+        "rating": "Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": []
+    }
+}

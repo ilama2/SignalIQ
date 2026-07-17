@@ -1,0 +1,29 @@
+{
+    "symbol": "2180",
+    "name": "فيبكو",
+    "name_en": "Filing and Packing Mtrls Mnufcr Co SJSC",
+    "price": 31.76,
+    "change": -0.04,
+    "change_percent": -0.13,
+    "open": 31.56,
+    "high": 31.9,
+    "low": 31.56,
+    "previous_close": 31.8,
+    "volume": 8129,
+    "value": 257251.36,
+    "bid": 31.56,
+    "ask": 31.76,
+    "bid_size": 1000,
+    "ask_size": 596,
+    "liquidity": {
+        "inflow_value": 119036.1,
+        "inflow_volume": 3759,
+        "inflow_trades": 56,
+        "outflow_value": 138215.26,
+        "outflow_volume": 4370,
+        "outflow_trades": 65,
+        "net_value": -19179.160000000003
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

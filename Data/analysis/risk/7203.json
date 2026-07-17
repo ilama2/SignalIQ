@@ -1,0 +1,34 @@
+{
+    "symbol": "7203",
+    "company_name": "7203",
+    "generated_at": "2026-07-17T13:30:42.067818",
+    "risk_score": 43.58,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 39.17,
+    "fundamental_safety_score": 56.8,
+    "metrics": {
+        "observations": 1098,
+        "annualized_volatility": 36.0845,
+        "downside_volatility": 22.1855,
+        "max_drawdown": 58.8698,
+        "value_at_risk_95": 3.066,
+        "conditional_var_95": 4.5108,
+        "sharpe_ratio": 1.0712,
+        "debt_to_equity": 2.2826,
+        "current_ratio": 1.7485,
+        "interest_coverage": null
+    },
+    "volatility": 36.0845,
+    "max_drawdown": 58.8698,
+    "strengths": [
+        "Strong historical risk-adjusted return",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio"
+    ],
+    "summary": "7203 received a safety score of 43.6/100 and a high investment risk classification. Annualized volatility was 36.1%. Maximum drawdown was 58.9%. Main risk: High historical price volatility."
+}

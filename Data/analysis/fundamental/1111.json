@@ -1,0 +1,48 @@
+{
+    "symbol": "1111",
+    "company_name": "مجموعة تداول",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.11490837526403434,
+        "roa": 0.04579881540666728,
+        "gross_margin": 0.5679555666804317,
+        "operating_margin": 0.25588467729265924,
+        "net_margin": 0.3136677380043529,
+        "current_ratio": 1.4713117771267836,
+        "quick_ratio": 1.4713117771267836,
+        "operating_cash_flow_ratio": 0.11284327891878465,
+        "debt_ratio": 0.6014131377288424,
+        "debt_to_equity": 1.5089343666475206,
+        "equity_multiplier": 2.508981383988073,
+        "asset_turnover": 0.1460106024867362,
+        "cash_conversion_ratio": 1.300336346612981,
+        "free_cash_flow": 321015649.0,
+        "revenue_growth": -0.12811457701795742,
+        "net_income_growth": -0.36381325014907584
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 2008.05,
+        "lynch_value": 990.0,
+        "pe_value": 49.5,
+        "intrinsic_value": 1015.85,
+        "current_price": 125.6999969482422,
+        "margin_of_safety": 0.8762612620482924,
+        "upside": 7.081543553404245,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 49,
+        "rating": "Sell",
+        "strengths": [
+            "High Net Margin",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "High Debt",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

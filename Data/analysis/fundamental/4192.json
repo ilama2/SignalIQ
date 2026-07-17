@@ -1,0 +1,44 @@
+{
+    "symbol": "4192",
+    "company_name": "4192",
+    "sector": "Consumer Cyclical",
+    "ratios": {
+        "roe": 0.11689391006906275,
+        "roa": 0.07338663240287853,
+        "gross_margin": 0.2345507802213521,
+        "operating_margin": 0.0980760255761529,
+        "net_margin": 0.07647312775507108,
+        "current_ratio": 3.7656679537405027,
+        "quick_ratio": 0.6600941869187874,
+        "operating_cash_flow_ratio": 0.6870101798506821,
+        "debt_ratio": 0.37219456206469126,
+        "debt_to_equity": 0.5928501723220873,
+        "equity_multiplier": 1.5928501723220871,
+        "asset_turnover": 0.9596394780389002,
+        "cash_conversion_ratio": 1.355851234326344,
+        "free_cash_flow": 69999142.0,
+        "revenue_growth": 0.0373115265922459,
+        "net_income_growth": 0.5458725990259448
+    },
+    "valuation": {
+        "dcf_value": 3.0360245115938875,
+        "graham_value": 128.30419041363606,
+        "lynch_value": 63.429595206818036,
+        "pe_value": 2.5500000000000003,
+        "intrinsic_value": 49.329952533012,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 57,
+        "rating": "Hold",
+        "strengths": [
+            "Strong Liquidity",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "symbol": "4011",
+    "company_name": "لازوردي",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.17166722201353324,
+        "roa": -0.01699164305359836,
+        "gross_margin": 0.07293691556811864,
+        "operating_margin": 0.0025909781474924972,
+        "net_margin": -0.014519030185522228,
+        "current_ratio": 1.0383273114100302,
+        "quick_ratio": 0.2821552989488736,
+        "operating_cash_flow_ratio": 0.021151757389875833,
+        "debt_ratio": 0.9010198752312841,
+        "debt_to_equity": 9.10303838610704,
+        "equity_multiplier": 10.10303838610704,
+        "asset_turnover": 1.1703015171455264,
+        "cash_conversion_ratio": -1.0967176987813314,
+        "free_cash_flow": 36752575.0,
+        "revenue_growth": 0.3775853427104499,
+        "net_income_growth": -4.604370320058412
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 11.100000381469728,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 20,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "High Debt",
+            "Net Income Declining"
+        ]
+    }
+}

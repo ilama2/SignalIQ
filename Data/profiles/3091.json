@@ -1,0 +1,29 @@
+{
+    "symbol": "3091",
+    "name": "أسمنت الجوف",
+    "name_en": "Al Jouf Cement Co.",
+    "price": 4.98,
+    "change": 0.0,
+    "change_percent": 0.0,
+    "open": 4.99,
+    "high": 4.99,
+    "low": 4.97,
+    "previous_close": 4.98,
+    "volume": 27300,
+    "value": 136051.48,
+    "bid": 4.98,
+    "ask": 4.99,
+    "bid_size": 1613,
+    "ask_size": 452,
+    "liquidity": {
+        "inflow_value": 61988.58,
+        "inflow_volume": 12425,
+        "inflow_trades": 102,
+        "outflow_value": 74062.9,
+        "outflow_volume": 14875,
+        "outflow_trades": 77,
+        "net_value": -12074.319999999992
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

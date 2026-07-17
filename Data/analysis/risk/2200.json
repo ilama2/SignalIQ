@@ -1,0 +1,33 @@
+{
+    "symbol": "2200",
+    "company_name": "أنابيب",
+    "generated_at": "2026-07-17T13:30:41.717275",
+    "risk_score": 49.0,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 32.01,
+    "fundamental_safety_score": 100.0,
+    "metrics": {
+        "observations": 1247,
+        "annualized_volatility": 40.0075,
+        "downside_volatility": 27.2827,
+        "max_drawdown": 69.5515,
+        "value_at_risk_95": 3.4513,
+        "conditional_var_95": 5.0943,
+        "sharpe_ratio": 0.3138,
+        "debt_to_equity": 0.4874,
+        "current_ratio": 2.3991,
+        "interest_coverage": null
+    },
+    "volatility": 40.0075,
+    "max_drawdown": 69.5515,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "أنابيب received a safety score of 49.0/100 and a medium investment risk classification. Annualized volatility was 40.0%. Maximum drawdown was 69.6%. Main risk: High historical price volatility."
+}

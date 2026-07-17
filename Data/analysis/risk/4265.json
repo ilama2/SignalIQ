@@ -1,0 +1,31 @@
+{
+    "symbol": "4265",
+    "company_name": "4265",
+    "generated_at": "2026-07-17T13:30:41.942771",
+    "risk_score": 53.36,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 61.81,
+    "fundamental_safety_score": 28.01,
+    "metrics": {
+        "observations": 157,
+        "annualized_volatility": 36.6174,
+        "downside_volatility": 20.2535,
+        "max_drawdown": 26.9481,
+        "value_at_risk_95": 3.193,
+        "conditional_var_95": 4.6067,
+        "sharpe_ratio": -0.3239,
+        "debt_to_equity": 2.027,
+        "current_ratio": 0.6184,
+        "interest_coverage": null
+    },
+    "volatility": 36.6174,
+    "max_drawdown": 26.9481,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4265 received a safety score of 53.4/100 and a medium investment risk classification. Annualized volatility was 36.6%. Maximum drawdown was 26.9%. Main risk: High historical price volatility."
+}

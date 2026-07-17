@@ -1,0 +1,40 @@
+{
+    "symbol": "3030",
+    "company_name": "أسمنت السعودية",
+    "indicators": {
+        "sma20": 30.397000217437743,
+        "sma50": 30.83212245941162,
+        "sma200": 33.02097068786621,
+        "ema20": 30.345818687675294,
+        "ema50": 30.851470198110345,
+        "rsi": 40.91196011564425,
+        "macd": -0.2626957680650861,
+        "macd_signal": -0.25737494259040017,
+        "macd_histogram": -0.005320825474685931,
+        "stochastic_k": 6.6666560702921105,
+        "stochastic_d": 6.356925785123091,
+        "upper_band": 31.181272927764923,
+        "middle_band": 30.397000217437743,
+        "lower_band": 29.612727507110563,
+        "atr": 0.3400337129133125,
+        "adx": 17.05920644131067,
+        "obv": 9862.0,
+        "current_price": 30.0,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

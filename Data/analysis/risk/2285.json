@@ -1,0 +1,32 @@
+{
+    "symbol": "2285",
+    "company_name": "المطاحن العربية",
+    "generated_at": "2026-07-17T13:30:41.744184",
+    "risk_score": 72.07,
+    "risk_level": "low",
+    "higher_is_riskier": false,
+    "market_safety_score": 65.29,
+    "fundamental_safety_score": 92.43,
+    "metrics": {
+        "observations": 447,
+        "annualized_volatility": 22.3432,
+        "downside_volatility": 15.0811,
+        "max_drawdown": 44.4997,
+        "value_at_risk_95": 2.1562,
+        "conditional_var_95": 3.1088,
+        "sharpe_ratio": -0.639,
+        "debt_to_equity": 0.8787,
+        "current_ratio": 2.4934,
+        "interest_coverage": null
+    },
+    "volatility": 22.3432,
+    "max_drawdown": 44.4997,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "المطاحن العربية received a safety score of 72.1/100 and a low investment risk classification. Annualized volatility was 22.3%. Maximum drawdown was 44.5%. Main risk: Large historical maximum drawdown."
+}

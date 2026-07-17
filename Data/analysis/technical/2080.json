@@ -1,0 +1,40 @@
+{
+    "symbol": "2080",
+    "company_name": "الغاز",
+    "indicators": {
+        "sma20": 70.92000007629395,
+        "sma50": 74.89599975585938,
+        "sma200": 81.78364124298096,
+        "ema20": 71.13755823328175,
+        "ema50": 74.32340366400851,
+        "rsi": 29.693622198874138,
+        "macd": -1.7841200594581466,
+        "macd_signal": -1.872024584952559,
+        "macd_histogram": 0.08790452549441241,
+        "stochastic_k": 14.433009962262014,
+        "stochastic_d": 14.208150899312423,
+        "upper_band": 74.2951139379452,
+        "middle_band": 70.92000007629395,
+        "lower_band": 67.54488621464269,
+        "atr": 1.5563703517283385,
+        "adx": 13.837401421425183,
+        "obv": 66024813.0,
+        "current_price": 69.1500015258789,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 40,
+        "rating": "Sell",
+        "strengths": [
+            "Oversold",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend"
+        ]
+    }
+}

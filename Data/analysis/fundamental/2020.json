@@ -1,0 +1,47 @@
+{
+    "symbol": "2020",
+    "company_name": "سابك للمغذيات الزراعية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.2038376719293248,
+        "roa": 0.16005767021913558,
+        "gross_margin": 0.38846573318188027,
+        "operating_margin": 0.31404177663812416,
+        "net_margin": 0.3305122216480111,
+        "current_ratio": 6.4447498858049075,
+        "quick_ratio": 6.163025825914452,
+        "operating_cash_flow_ratio": 2.197537613915304,
+        "debt_ratio": 0.17357488699854448,
+        "debt_to_equity": 0.22105220463810657,
+        "equity_multiplier": 1.273526421134644,
+        "asset_turnover": 0.4842715631544597,
+        "cash_conversion_ratio": 1.2266449764325782,
+        "free_cash_flow": 4520182000.0,
+        "revenue_growth": 0.18221986927204067,
+        "net_income_growth": 0.29902151136160077
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 33168.30825980259,
+        "lynch_value": 16545.564129901293,
+        "pe_value": 136.2,
+        "intrinsic_value": 16616.69079656796,
+        "current_price": 124.0,
+        "margin_of_safety": 0.9925376236750093,
+        "upside": 133.0055709400642,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 91,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Excellent Return on Equity",
+            "High Net Margin",
+            "Strong Liquidity",
+            "Low Debt",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

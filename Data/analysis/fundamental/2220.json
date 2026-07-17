@@ -1,0 +1,46 @@
+{
+    "symbol": "2220",
+    "company_name": "معدنية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.09882005679390896,
+        "roa": -0.061133815419570615,
+        "gross_margin": 0.07010842956301772,
+        "operating_margin": -0.07214207554115781,
+        "net_margin": -0.09289563877061384,
+        "current_ratio": 1.5317189512983724,
+        "quick_ratio": 0.807014567611512,
+        "operating_cash_flow_ratio": -0.03379659706807284,
+        "debt_ratio": 0.3813622719619934,
+        "debt_to_equity": 0.6164549213179641,
+        "equity_multiplier": 1.6164549213179642,
+        "asset_turnover": 0.6580913402245682,
+        "cash_conversion_ratio": 0.148090478084792,
+        "free_cash_flow": -30177209.0,
+        "revenue_growth": -0.01840402553546513,
+        "net_income_growth": -0.4467298978597469
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 12.18000030517578,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 28,
+        "rating": "Strong Sell",
+        "strengths": [],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

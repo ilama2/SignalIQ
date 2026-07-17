@@ -1,0 +1,38 @@
+{
+    "symbol": "4348",
+    "company_name": "4348",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 5.723829192950417,
+        "ema50": 5.711043553282401,
+        "rsi": 42.655926403716194,
+        "macd": -0.0019625957789708437,
+        "macd_signal": -0.00026341406463626374,
+        "macd_histogram": -0.00169918171433458,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": -25754360.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD",
+            "Weak Volume Trend"
+        ]
+    }
+}

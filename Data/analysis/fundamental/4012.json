@@ -1,0 +1,44 @@
+{
+    "symbol": "4012",
+    "company_name": "الأصيل",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.16396246425998973,
+        "roa": 0.1320023229654538,
+        "gross_margin": 0.4281846847146704,
+        "operating_margin": 0.20201194438074765,
+        "net_margin": 0.18954183696959395,
+        "current_ratio": 6.039621793654437,
+        "quick_ratio": 3.739229630702669,
+        "operating_cash_flow_ratio": 1.849869500851326,
+        "debt_ratio": 0.19492352373929797,
+        "debt_to_equity": 0.24211802168739222,
+        "equity_multiplier": 1.2421180216873922,
+        "asset_turnover": 0.6964284248581459,
+        "cash_conversion_ratio": 2.108776276145492,
+        "free_cash_flow": 202916307.0,
+        "revenue_growth": 0.010939424477849674,
+        "net_income_growth": 0.19317928592116418
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 152.125,
+        "lynch_value": 75.0,
+        "pe_value": 3.75,
+        "intrinsic_value": 76.95833333333333,
+        "current_price": 3.640000104904175,
+        "margin_of_safety": 0.9527016770342717,
+        "upside": 20.142398658078967,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 87,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

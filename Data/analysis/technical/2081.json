@@ -1,0 +1,40 @@
+{
+    "symbol": "2081",
+    "company_name": "الخريف",
+    "indicators": {
+        "sma20": 113.01499977111817,
+        "sma50": 117.25800033569335,
+        "sma200": 125.66252815246582,
+        "ema20": 112.83880052278052,
+        "ema50": 116.10690648603472,
+        "rsi": 29.676233709849896,
+        "macd": -2.5443948982101006,
+        "macd_signal": -2.1813898526704913,
+        "macd_histogram": -0.3630050455396092,
+        "stochastic_k": 7.792282426145664,
+        "stochastic_d": 12.500834408261738,
+        "upper_band": 118.74780854931977,
+        "middle_band": 113.01499977111817,
+        "lower_band": 107.28219099291657,
+        "atr": 2.496335522728623,
+        "adx": 48.768216033890745,
+        "obv": 26876221.0,
+        "current_price": 107.8000030517578,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Oversold",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

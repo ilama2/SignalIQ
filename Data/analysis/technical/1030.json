@@ -1,0 +1,40 @@
+{
+    "symbol": "1030",
+    "company_name": "الإستثمار",
+    "indicators": {
+        "sma20": 13.443499946594239,
+        "sma50": 13.260665264129639,
+        "sma200": 13.13828505039215,
+        "ema20": 13.441470332107247,
+        "ema50": 13.320443837803674,
+        "rsi": 55.84267130987559,
+        "macd": 0.06354809710480325,
+        "macd_signal": 0.07098905368886921,
+        "macd_histogram": -0.007440956584065961,
+        "stochastic_k": 63.93441854066088,
+        "stochastic_d": 46.994521850063826,
+        "upper_band": 13.686668639572257,
+        "middle_band": 13.443499946594239,
+        "lower_band": 13.20033125361622,
+        "atr": 0.14426311653619292,
+        "adx": 18.98796493840562,
+        "obv": 185741172.0,
+        "current_price": 13.550000190734863,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 80,
+        "rating": "Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

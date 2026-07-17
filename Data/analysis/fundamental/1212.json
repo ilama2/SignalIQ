@@ -1,0 +1,45 @@
+{
+    "symbol": "1212",
+    "company_name": "أسترا الصناعية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.22512304041069903,
+        "roa": 0.15070978006027214,
+        "gross_margin": 0.4604969960926679,
+        "operating_margin": 0.2262289070382293,
+        "net_margin": 0.2171513161065189,
+        "current_ratio": 1.637574134626756,
+        "quick_ratio": 1.0351151897583877,
+        "operating_cash_flow_ratio": 0.6651240350783834,
+        "debt_ratio": 0.33065976701019506,
+        "debt_to_equity": 0.4939236993183762,
+        "equity_multiplier": 1.4937520333495768,
+        "asset_turnover": 0.6940311611390129,
+        "cash_conversion_ratio": 1.210819296345724,
+        "free_cash_flow": 646542975.0,
+        "revenue_growth": 0.002764440795297951,
+        "net_income_growth": 0.13145433153607708
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 5074.89,
+        "lynch_value": 2502.0,
+        "pe_value": 125.1,
+        "intrinsic_value": 2567.3300000000004,
+        "current_price": 127.4000015258789,
+        "margin_of_safety": 0.9503764605540079,
+        "upside": 19.15172660322532,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 85,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Excellent Return on Equity",
+            "High Net Margin",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

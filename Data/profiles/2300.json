@@ -1,0 +1,29 @@
+{
+    "symbol": "2300",
+    "name": "صناعة الورق",
+    "name_en": "Saudi Paper Manufacturing Company SJSC",
+    "price": 62.35,
+    "change": -1.35,
+    "change_percent": -2.12,
+    "open": 62.6,
+    "high": 63.5,
+    "low": 62.35,
+    "previous_close": 63.7,
+    "volume": 25177,
+    "value": 1578757.7,
+    "bid": 62.35,
+    "ask": 62.95,
+    "bid_size": 1412,
+    "ask_size": 437,
+    "liquidity": {
+        "inflow_value": 554853.1,
+        "inflow_volume": 8843,
+        "inflow_trades": 98,
+        "outflow_value": 1023904.6,
+        "outflow_volume": 16334,
+        "outflow_trades": 182,
+        "net_value": -469051.5
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

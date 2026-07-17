@@ -1,0 +1,46 @@
+{
+    "symbol": "7202",
+    "company_name": "7202",
+    "sector": "Communication Services",
+    "ratios": {
+        "roe": 0.3504587926313285,
+        "roa": 0.11632285216644864,
+        "gross_margin": 0.2103592491831818,
+        "operating_margin": 0.12894003380468272,
+        "net_margin": 0.11802935525937595,
+        "current_ratio": 1.5304945300304553,
+        "quick_ratio": 1.4726289284847935,
+        "operating_cash_flow_ratio": -0.014339449346570712,
+        "debt_ratio": 0.6650020833097855,
+        "debt_to_equity": 2.0035257292400415,
+        "equity_multiplier": 3.0128112069488306,
+        "asset_turnover": 0.98554170622065,
+        "cash_conversion_ratio": -0.06699939302619039,
+        "free_cash_flow": -291761000.0,
+        "revenue_growth": 0.055230246080516104,
+        "net_income_growth": -0.05893464559482361
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 13936.073618561231,
+        "lynch_value": 6914.826809280616,
+        "pe_value": 187.79999999999998,
+        "intrinsic_value": 7012.900142613948,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 40,
+        "rating": "Sell",
+        "strengths": [
+            "Excellent Return on Equity"
+        ],
+        "weaknesses": [
+            "High Debt",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

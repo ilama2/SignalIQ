@@ -1,0 +1,34 @@
+{
+    "symbol": "8180",
+    "company_name": "8180",
+    "generated_at": "2026-07-17T13:30:42.104128",
+    "risk_score": 30.29,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 24.75,
+    "fundamental_safety_score": 46.9,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 43.5294,
+        "downside_volatility": 35.6431,
+        "max_drawdown": 83.911,
+        "value_at_risk_95": 3.6199,
+        "conditional_var_95": 6.2216,
+        "sharpe_ratio": -0.5079,
+        "debt_to_equity": 0.9052,
+        "current_ratio": 0.0,
+        "interest_coverage": null
+    },
+    "volatility": 43.5294,
+    "max_drawdown": 83.911,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "8180 received a safety score of 30.3/100 and a high investment risk classification. Annualized volatility was 43.5%. Maximum drawdown was 83.9%. Main risk: High historical price volatility."
+}

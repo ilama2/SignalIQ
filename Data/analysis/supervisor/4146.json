@@ -1,0 +1,41 @@
+{
+    "symbol": "4146",
+    "company_name": "4146",
+    "generated_at": "2026-07-17T13:46:13.821588",
+    "final_score": 48.69,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 55.0,
+        "technical": 45.0,
+        "news": 50.0,
+        "risk": 39.61
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Excellent Return on Equity",
+        "Strong Revenue Growth",
+        "Strong Earnings Growth",
+        "Positive Free Cash Flow",
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "4146 received a final investment score of 48.7/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Excellent Return on Equity. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

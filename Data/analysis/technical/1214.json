@@ -1,0 +1,40 @@
+{
+    "symbol": "1214",
+    "company_name": "شاكر",
+    "indicators": {
+        "sma20": 13.678500032424926,
+        "sma50": 14.287000045776367,
+        "sma200": 17.349741492271423,
+        "ema20": 13.715551479887802,
+        "ema50": 14.323763275035104,
+        "rsi": 33.32814470028745,
+        "macd": -0.30318345054094564,
+        "macd_signal": -0.28873745173114923,
+        "macd_histogram": -0.014445998809796412,
+        "stochastic_k": 22.72728454968776,
+        "stochastic_d": 8.36005632254957,
+        "upper_band": 14.174736576084683,
+        "middle_band": 13.678500032424926,
+        "lower_band": 13.18226348876517,
+        "atr": 0.2772949041963272,
+        "adx": 34.43858338955294,
+        "obv": 88153061.0,
+        "current_price": 13.270000457763672,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

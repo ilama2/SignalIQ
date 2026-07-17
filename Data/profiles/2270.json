@@ -1,0 +1,29 @@
+{
+    "symbol": "2270",
+    "name": "سدافكو",
+    "name_en": "Saudia Dairy and Foodstuff Co.",
+    "price": 217.5,
+    "change": 0.9,
+    "change_percent": 0.42,
+    "open": 217.0,
+    "high": 218.0,
+    "low": 216.3,
+    "previous_close": 216.6,
+    "volume": 4157,
+    "value": 902240.9,
+    "bid": 217.5,
+    "ask": 217.9,
+    "bid_size": 440,
+    "ask_size": 51,
+    "liquidity": {
+        "inflow_value": 600022.1,
+        "inflow_volume": 2764,
+        "inflow_trades": 173,
+        "outflow_value": 302218.8,
+        "outflow_volume": 1393,
+        "outflow_trades": 117,
+        "net_value": 297803.3
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

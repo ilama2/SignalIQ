@@ -1,0 +1,40 @@
+{
+    "symbol": "2330",
+    "company_name": "المتقدمة",
+    "indicators": {
+        "sma20": 23.877000045776366,
+        "sma50": 25.35840003967285,
+        "sma200": 28.20419997215271,
+        "ema20": 23.761641152990652,
+        "ema50": 24.825427160437027,
+        "rsi": 36.08130640598817,
+        "macd": -0.7614512625287126,
+        "macd_signal": -0.7709852542638821,
+        "macd_histogram": 0.009533991735169445,
+        "stochastic_k": 24.89963438651149,
+        "stochastic_d": 23.92434947979154,
+        "upper_band": 26.17108015189396,
+        "middle_band": 23.877000045776366,
+        "lower_band": 21.582919939658773,
+        "atr": 0.5963338458931985,
+        "adx": 36.243787648244556,
+        "obv": 50266246.0,
+        "current_price": 23.010000228881836,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 40,
+        "rating": "Sell",
+        "strengths": [
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend"
+        ]
+    }
+}

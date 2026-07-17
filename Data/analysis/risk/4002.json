@@ -1,0 +1,32 @@
+{
+    "symbol": "4002",
+    "company_name": "المواساة",
+    "generated_at": "2026-07-17T13:30:41.814298",
+    "risk_score": 57.89,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 46.77,
+    "fundamental_safety_score": 91.23,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 30.7354,
+        "downside_volatility": 19.9957,
+        "max_drawdown": 56.1072,
+        "value_at_risk_95": 2.8582,
+        "conditional_var_95": 4.1828,
+        "sharpe_ratio": -0.0387,
+        "debt_to_equity": 0.5468,
+        "current_ratio": 1.7389,
+        "interest_coverage": null
+    },
+    "volatility": 30.7354,
+    "max_drawdown": 56.1072,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "المواساة received a safety score of 57.9/100 and a medium investment risk classification. Annualized volatility was 30.7%. Maximum drawdown was 56.1%. Main risk: Large historical maximum drawdown."
+}

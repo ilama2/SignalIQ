@@ -1,0 +1,32 @@
+{
+    "symbol": "4331",
+    "company_name": "4331",
+    "generated_at": "2026-07-17T13:30:41.976757",
+    "risk_score": 55.47,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 51.29,
+    "fundamental_safety_score": 68.02,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 25.0787,
+        "downside_volatility": 16.6467,
+        "max_drawdown": 59.8547,
+        "value_at_risk_95": 2.3251,
+        "conditional_var_95": 3.5519,
+        "sharpe_ratio": -0.5374,
+        "debt_to_equity": 0.0314,
+        "current_ratio": 0.9339,
+        "interest_coverage": null
+    },
+    "volatility": 25.0787,
+    "max_drawdown": 59.8547,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4331 received a safety score of 55.5/100 and a medium investment risk classification. Annualized volatility was 25.1%. Maximum drawdown was 59.9%. Main risk: Large historical maximum drawdown."
+}

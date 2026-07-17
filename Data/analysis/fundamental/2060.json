@@ -1,0 +1,49 @@
+{
+    "symbol": "2060",
+    "company_name": "التصنيع",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.22554093090366242,
+        "roa": -0.08478943975806971,
+        "gross_margin": 0.03429752298569306,
+        "operating_margin": -0.1696830742847132,
+        "net_margin": -0.7092997932272066,
+        "current_ratio": 0.9195294941819164,
+        "quick_ratio": 0.786017602641946,
+        "operating_cash_flow_ratio": -0.03423695028404286,
+        "debt_ratio": 0.5121719737819188,
+        "debt_to_equity": 1.3623836185159617,
+        "equity_multiplier": 2.6600120433299232,
+        "asset_turnover": 0.11953963693164298,
+        "cash_conversion_ratio": 0.11638974649483076,
+        "free_cash_flow": -544296000.0,
+        "revenue_growth": -0.17703142014477796,
+        "net_income_growth": 62.20491245658634
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 9.270000457763672,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 14,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Revenue Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

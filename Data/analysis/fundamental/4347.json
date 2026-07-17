@@ -1,0 +1,47 @@
+{
+    "symbol": "4347",
+    "company_name": "4347",
+    "sector": "Real Estate",
+    "ratios": {
+        "roe": 0.07727316578528128,
+        "roa": 0.04930033696511454,
+        "gross_margin": 0.6991537172456833,
+        "operating_margin": 0.47428324969105534,
+        "net_margin": 0.37286706419856336,
+        "current_ratio": 4.385003353550932,
+        "quick_ratio": 4.385003353550932,
+        "operating_cash_flow_ratio": 3.740203625097525,
+        "debt_ratio": 0.3619992598451933,
+        "debt_to_equity": 0.567396300758768,
+        "equity_multiplier": 1.567396300758768,
+        "asset_turnover": 0.13221960773360386,
+        "cash_conversion_ratio": 1.428395670734097,
+        "free_cash_flow": 125358920.0,
+        "revenue_growth": 0.15576818517649668,
+        "net_income_growth": 0.1725270427927392
+    },
+    "valuation": {
+        "dcf_value": 18.9760953468293,
+        "graham_value": null,
+        "lynch_value": null,
+        "pe_value": null,
+        "intrinsic_value": 18.9760953468293,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 73,
+        "rating": "Buy",
+        "strengths": [
+            "High Net Margin",
+            "Strong Liquidity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets"
+        ]
+    }
+}

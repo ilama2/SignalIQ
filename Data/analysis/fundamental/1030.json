@@ -1,0 +1,48 @@
+{
+    "symbol": "1030",
+    "company_name": "الإستثمار",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.10838647713559453,
+        "roa": 0.014077588667123251,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.5088403579127518,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.8701167429815826,
+        "debt_to_equity": 6.699221770040768,
+        "equity_multiplier": 7.699221770040768,
+        "asset_turnover": 0.027666022256703667,
+        "cash_conversion_ratio": 0.5704682529400757,
+        "free_cash_flow": 1024799000.0,
+        "revenue_growth": 0.14760591766651754,
+        "net_income_growth": 0.24269023780684135
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 4973.8388335949885,
+        "lynch_value": 2479.7794167974944,
+        "pe_value": 25.2,
+        "intrinsic_value": 2492.9394167974942,
+        "current_price": 13.550000190734863,
+        "margin_of_safety": 0.9945646492251539,
+        "upside": 182.98076617756072,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 23,
+        "rating": "Strong Sell",
+        "strengths": [
+            "High Net Margin",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt"
+        ]
+    }
+}

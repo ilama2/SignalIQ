@@ -1,0 +1,29 @@
+{
+    "symbol": "2223",
+    "name": "لوبريف",
+    "name_en": "Luberef",
+    "price": 132.5,
+    "change": -2.1,
+    "change_percent": -1.56,
+    "open": 134.5,
+    "high": 134.7,
+    "low": 131.7,
+    "previous_close": 134.6,
+    "volume": 445622,
+    "value": 59344875.6,
+    "bid": 131.8,
+    "ask": 132.5,
+    "bid_size": 16,
+    "ask_size": 14797,
+    "liquidity": {
+        "inflow_value": 32827510.92,
+        "inflow_volume": 246449,
+        "inflow_trades": 1209,
+        "outflow_value": 26517364.66,
+        "outflow_volume": 199173,
+        "outflow_trades": 1776,
+        "net_value": 6310146.260000002
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

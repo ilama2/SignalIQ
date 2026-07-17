@@ -1,0 +1,29 @@
+{
+    "symbol": "2040",
+    "name": "الخزف السعودي",
+    "name_en": "Saudi Ceramic Company",
+    "price": 24.99,
+    "change": 0.3,
+    "change_percent": 1.22,
+    "open": 24.69,
+    "high": 25.16,
+    "low": 24.68,
+    "previous_close": 24.69,
+    "volume": 111470,
+    "value": 2780192.72,
+    "bid": 24.97,
+    "ask": 24.99,
+    "bid_size": 103,
+    "ask_size": 1392,
+    "liquidity": {
+        "inflow_value": 1523315.26,
+        "inflow_volume": 61064,
+        "inflow_trades": 394,
+        "outflow_value": 1256877.46,
+        "outflow_volume": 50406,
+        "outflow_trades": 334,
+        "net_value": 266437.80000000005
+    },
+    "updated_at": "2026-07-16T13:00:00+00:00",
+    "is_delayed": true
+}

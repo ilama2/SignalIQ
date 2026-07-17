@@ -1,0 +1,39 @@
+{
+    "symbol": "1150",
+    "company_name": "الإنماء",
+    "indicators": {
+        "sma20": 24.506500244140625,
+        "sma50": 24.31240016937256,
+        "sma200": 22.67340255737305,
+        "ema20": 24.374868785552163,
+        "ema50": 24.31417451529788,
+        "rsi": 44.69738887021083,
+        "macd": -0.10204103750092486,
+        "macd_signal": -0.042793147144807045,
+        "macd_histogram": -0.05924789035611781,
+        "stochastic_k": 31.18288391018647,
+        "stochastic_d": 15.431961586233271,
+        "upper_band": 25.318368935591515,
+        "middle_band": 24.506500244140625,
+        "lower_band": 23.694631552689735,
+        "atr": 0.2634889831539497,
+        "adx": 21.67333626773339,
+        "obv": 912743605.0,
+        "current_price": 24.200000762939453,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 70,
+        "rating": "Hold",
+        "strengths": [
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

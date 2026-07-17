@@ -1,0 +1,49 @@
+{
+    "symbol": "2330",
+    "company_name": "المتقدمة",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.07319732663092857,
+        "roa": 0.015757763446037153,
+        "gross_margin": 0.19132971762215162,
+        "operating_margin": 0.1356665550142364,
+        "net_margin": 0.06460021148283851,
+        "current_ratio": 0.4518378870281559,
+        "quick_ratio": 0.35846264111000425,
+        "operating_cash_flow_ratio": 0.16957188262535494,
+        "debt_ratio": 0.7586221524093756,
+        "debt_to_equity": 3.5239209973882364,
+        "equity_multiplier": 4.645159630781018,
+        "asset_turnover": 0.24392742816675314,
+        "cash_conversion_ratio": 2.574832247398619,
+        "free_cash_flow": -1059247000.0,
+        "revenue_growth": 0.5971365060137661,
+        "net_income_growth": -1.8728528435836098
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 10517.082505842283,
+        "lynch_value": 5254.801252921142,
+        "pe_value": 13.2,
+        "intrinsic_value": 5261.694586254475,
+        "current_price": 23.010000228881836,
+        "margin_of_safety": 0.9956268841051716,
+        "upside": 227.66990586336755,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 15,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Revenue Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

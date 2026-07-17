@@ -1,0 +1,29 @@
+{
+    "symbol": "3004",
+    "name": "أسمنت الشمالية",
+    "name_en": "Northern Region Cement Co",
+    "price": 6.58,
+    "change": 0.0,
+    "change_percent": 0.0,
+    "open": 6.59,
+    "high": 6.61,
+    "low": 6.57,
+    "previous_close": 6.58,
+    "volume": 84267,
+    "value": 554997.33,
+    "bid": 6.58,
+    "ask": 6.59,
+    "bid_size": 300,
+    "ask_size": 5316,
+    "liquidity": {
+        "inflow_value": 204600.49,
+        "inflow_volume": 31045,
+        "inflow_trades": 126,
+        "outflow_value": 350396.85,
+        "outflow_volume": 53222,
+        "outflow_trades": 158,
+        "net_value": -145796.36
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

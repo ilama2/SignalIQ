@@ -1,0 +1,43 @@
+{
+    "symbol": "1211",
+    "company_name": "معادن",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.11929734462895487,
+        "roa": 0.061356488080666904,
+        "gross_margin": 0.38343101816975045,
+        "operating_margin": 0.26395886294547083,
+        "net_margin": 0.19046942981282128,
+        "current_ratio": 1.5388567952535785,
+        "quick_ratio": 1.1172210440022694,
+        "operating_cash_flow_ratio": 0.6511250087120283,
+        "debt_ratio": 0.43373430932205614,
+        "debt_to_equity": 0.8433232245718949,
+        "equity_multiplier": 1.9443313716409532,
+        "asset_turnover": 0.3221329960454197,
+        "cash_conversion_ratio": 1.4871050920565876,
+        "free_cash_flow": 4019190785.0,
+        "revenue_growth": 0.1853236566452364,
+        "net_income_growth": 1.558859001443797
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 7095.598683848029,
+        "lynch_value": 3539.681841924015,
+        "pe_value": 28.65,
+        "intrinsic_value": 3554.6435085906814,
+        "current_price": 56.150001525878906,
+        "margin_of_safety": 0.9842037601266685,
+        "upside": 62.306205022138535,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 70,
+        "rating": "Buy",
+        "strengths": [
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

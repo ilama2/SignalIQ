@@ -1,0 +1,29 @@
+{
+    "symbol": "3080",
+    "name": "أسمنت الشرقية",
+    "name_en": "Eastern Province Cement Co",
+    "price": 26.72,
+    "change": 0.14,
+    "change_percent": 0.53,
+    "open": 26.36,
+    "high": 26.72,
+    "low": 26.32,
+    "previous_close": 26.58,
+    "volume": 30016,
+    "value": 796342.26,
+    "bid": 26.64,
+    "ask": 26.72,
+    "bid_size": 76,
+    "ask_size": 910,
+    "liquidity": {
+        "inflow_value": 473807.12,
+        "inflow_volume": 17836,
+        "inflow_trades": 144,
+        "outflow_value": 322535.14,
+        "outflow_volume": 12180,
+        "outflow_trades": 105,
+        "net_value": 151271.97999999998
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,40 @@
+{
+    "symbol": "2040",
+    "company_name": "الخزف السعودي",
+    "indicators": {
+        "sma20": 26.1060001373291,
+        "sma50": 27.118400039672853,
+        "sma200": 27.932883462905885,
+        "ema20": 26.06967100652944,
+        "ema50": 26.874683231889843,
+        "rsi": 31.23978326939711,
+        "macd": -0.5643068357299263,
+        "macd_signal": -0.4552004999586192,
+        "macd_histogram": -0.10910633577130713,
+        "stochastic_k": 16.00002712673611,
+        "stochastic_d": 6.895667851528213,
+        "upper_band": 27.22916355209701,
+        "middle_band": 26.1060001373291,
+        "lower_band": 24.982836722561192,
+        "atr": 0.4798876503818998,
+        "adx": 31.69794912748506,
+        "obv": 104474029.0,
+        "current_price": 24.989999771118164,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

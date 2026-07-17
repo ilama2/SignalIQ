@@ -1,0 +1,40 @@
+{
+    "symbol": "3008",
+    "company_name": "الكثيري",
+    "indicators": {
+        "sma20": 1.5520000159740448,
+        "sma50": 1.6552000069618225,
+        "sma200": 1.9226499998569488,
+        "ema20": 1.5320405060760032,
+        "ema50": 1.642588323932242,
+        "rsi": 8.322475071741565,
+        "macd": -0.06994780443823023,
+        "macd_signal": -0.05568629645661746,
+        "macd_histogram": -0.01426150798161277,
+        "stochastic_k": 3.571425530374956,
+        "stochastic_d": 3.968266751940341,
+        "upper_band": 1.7156581943916756,
+        "middle_band": 1.5520000159740448,
+        "lower_band": 1.388341837556414,
+        "atr": 0.037844683560448976,
+        "adx": 37.84618861064606,
+        "obv": 554840814.0,
+        "current_price": 1.3899999856948853,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Oversold",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

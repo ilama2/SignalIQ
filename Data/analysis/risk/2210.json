@@ -1,0 +1,31 @@
+{
+    "symbol": "2210",
+    "company_name": "نماء للكيماويات",
+    "generated_at": "2026-07-17T13:30:41.719201",
+    "risk_score": 35.49,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 45.65,
+    "fundamental_safety_score": 5.0,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 28.4966,
+        "downside_volatility": 20.4582,
+        "max_drawdown": 62.1414,
+        "value_at_risk_95": 2.8118,
+        "conditional_var_95": 4.2238,
+        "sharpe_ratio": -0.548,
+        "debt_to_equity": 3.5024,
+        "current_ratio": 0.2922,
+        "interest_coverage": null
+    },
+    "volatility": 28.4966,
+    "max_drawdown": 62.1414,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "نماء للكيماويات received a safety score of 35.5/100 and a high investment risk classification. Annualized volatility was 28.5%. Maximum drawdown was 62.1%. Main risk: Large historical maximum drawdown."
+}

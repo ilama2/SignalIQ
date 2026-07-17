@@ -1,0 +1,45 @@
+{
+    "symbol": "4005",
+    "company_name": "رعاية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.17221900154540304,
+        "roa": 0.11493453863344641,
+        "gross_margin": 0.3679803719310172,
+        "operating_margin": 0.2212622920172705,
+        "net_margin": 0.1989985099655034,
+        "current_ratio": 4.297544897082174,
+        "quick_ratio": 4.111074071751123,
+        "operating_cash_flow_ratio": 0.4470664119873452,
+        "debt_ratio": 0.33262568240389206,
+        "debt_to_equity": 0.4984094737148631,
+        "equity_multiplier": 1.4984094737148632,
+        "asset_turnover": 0.5775648202258923,
+        "cash_conversion_ratio": 0.4834750258325305,
+        "free_cash_flow": 22938940.0,
+        "revenue_growth": 0.23705631606266467,
+        "net_income_growth": 0.08066016204773047
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 33864.835670535984,
+        "lynch_value": 16902.115335267994,
+        "pe_value": 106.95,
+        "intrinsic_value": 16957.96700193466,
+        "current_price": 109.1999969482422,
+        "margin_of_safety": 0.9935605490365806,
+        "upside": 154.29274245284338,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 76,
+        "rating": "Buy",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt",
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

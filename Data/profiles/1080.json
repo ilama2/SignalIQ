@@ -1,0 +1,29 @@
+{
+    "symbol": "1080",
+    "name": "العربي",
+    "name_en": "Arab National Bank",
+    "price": 20.79,
+    "change": 0.21,
+    "change_percent": 1.02,
+    "open": 20.64,
+    "high": 20.79,
+    "low": 20.52,
+    "previous_close": 20.58,
+    "volume": 1857210,
+    "value": 38410084.67,
+    "bid": 20.78,
+    "ask": 20.79,
+    "bid_size": 4899,
+    "ask_size": 636,
+    "liquidity": {
+        "inflow_value": 25840043.75,
+        "inflow_volume": 1248412,
+        "inflow_trades": 1568,
+        "outflow_value": 12570041.35,
+        "outflow_volume": 608798,
+        "outflow_trades": 1379,
+        "net_value": 13270002.4
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,49 @@
+{
+    "symbol": "2282",
+    "company_name": "نقي",
+    "generated_at": "2026-07-17T13:21:51.210118",
+    "article_count": 1,
+    "articles": [
+        {
+            "title": "Naqi Logix Appoints Dino Mariutti to the Board of Directors to Drive Strategic Growth",
+            "description": "Experienced entrepreneur, investor, and global operations leader joins Board to support the company's next phase of growth and commercialization",
+            "content": "Experienced entrepreneur, investor, and global operations leader joins Board to support the companys next phase of growth and commercialization VANCOUVER, BC, CANADA, June 29, 2026 / EINPresswire.co… [+6953 chars]",
+            "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-194cbb1d2f6e183d1050fcd34ec28e13",
+            "image_url": "https://dims.apnews.com/dims4/default/ff4a879/2147483647/strip/true/crop/1196x797+0+202/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F15%2Fa8%2Fdb01f60e93dbb8b6773a9bddc0c6%2F50dc098527434a378b2c75fb91029866",
+            "source": {
+                "name": "Associated Press",
+                "url": null
+            },
+            "author": null,
+            "published_at": "2026-06-29T13:51:26Z",
+            "language": "en",
+            "sentiment": {
+                "label": "neutral",
+                "confidence": 0.9045,
+                "score": 0.0
+            },
+            "relevance_score": 0.7,
+            "impact_score": null
+        }
+    ],
+    "score": {
+        "score": 50,
+        "rating": "Neutral",
+        "positive_articles": 0,
+        "neutral_articles": 1,
+        "negative_articles": 0,
+        "average_sentiment": 0.0,
+        "confidence": 0.1809,
+        "strengths": [],
+        "risks": []
+    },
+    "summary": {
+        "summary": "Limited recent coverage for نقي does not show a clear directional signal.",
+        "key_events": [
+            "Naqi Logix Appoints Dino Mariutti to the Board of Directors to Drive Strategic Growth"
+        ],
+        "opportunities": [],
+        "risks": [],
+        "expected_impact": "Neutral"
+    }
+}

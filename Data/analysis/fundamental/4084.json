@@ -1,0 +1,47 @@
+{
+    "symbol": "4084",
+    "company_name": "4084",
+    "sector": "Financial Services",
+    "ratios": {
+        "roe": 0.3638542106969171,
+        "roa": 0.13932754325586516,
+        "gross_margin": 0.7775392059903999,
+        "operating_margin": 0.6426401045256442,
+        "net_margin": 0.40581812315603366,
+        "current_ratio": 1.1286708525064215,
+        "quick_ratio": 1.1286708525064215,
+        "operating_cash_flow_ratio": 0.30858033912799765,
+        "debt_ratio": 0.6170786563415036,
+        "debt_to_equity": 1.6115023791722547,
+        "equity_multiplier": 2.6115023791722547,
+        "asset_turnover": 0.34332508901356995,
+        "cash_conversion_ratio": 1.2755569418268837,
+        "free_cash_flow": 459770811.0,
+        "revenue_growth": 0.02979979109909471,
+        "net_income_growth": -0.09855018856869574
+    },
+    "valuation": {
+        "dcf_value": 27.687858633493548,
+        "graham_value": 997.9399999999999,
+        "lynch_value": 491.99999999999994,
+        "pe_value": 24.599999999999998,
+        "intrinsic_value": 385.5569646583734,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 59,
+        "rating": "Hold",
+        "strengths": [
+            "Excellent Return on Equity",
+            "High Net Margin",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "High Debt",
+            "Net Income Declining"
+        ]
+    }
+}

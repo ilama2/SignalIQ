@@ -1,0 +1,30 @@
+{
+    "symbol": "8120",
+    "company_name": "8120",
+    "generated_at": "2026-07-17T13:30:42.094172",
+    "risk_score": 43.25,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 42.89,
+    "fundamental_safety_score": 44.33,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 31.5595,
+        "downside_volatility": 20.4767,
+        "max_drawdown": 62.9762,
+        "value_at_risk_95": 2.9939,
+        "conditional_var_95": 4.2151,
+        "sharpe_ratio": 0.0148,
+        "debt_to_equity": 1.0337,
+        "current_ratio": 0.0,
+        "interest_coverage": null
+    },
+    "volatility": 31.5595,
+    "max_drawdown": 62.9762,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "8120 received a safety score of 43.3/100 and a high investment risk classification. Annualized volatility was 31.6%. Maximum drawdown was 63.0%. Main risk: Large historical maximum drawdown."
+}

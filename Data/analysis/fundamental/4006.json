@@ -1,0 +1,48 @@
+{
+    "symbol": "4006",
+    "company_name": "أسواق المزرعة",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.03471674734743461,
+        "roa": 0.009891882230228657,
+        "gross_margin": 0.33726499441108254,
+        "operating_margin": 0.07138454907381696,
+        "net_margin": 0.013861532548552514,
+        "current_ratio": 1.1288227278524159,
+        "quick_ratio": 0.0939219079097792,
+        "operating_cash_flow_ratio": 0.13282097041422491,
+        "debt_ratio": 0.7152784016569093,
+        "debt_to_equity": 2.5103553575996997,
+        "equity_multiplier": 3.5096199630585487,
+        "asset_turnover": 0.7136211090354229,
+        "cash_conversion_ratio": 5.452770546385286,
+        "free_cash_flow": 35404559.0,
+        "revenue_growth": -0.029973845124214082,
+        "net_income_growth": -0.02963464208842103
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 334.675,
+        "lynch_value": 165.0,
+        "pe_value": 8.25,
+        "intrinsic_value": 169.30833333333334,
+        "current_price": 12.9399995803833,
+        "margin_of_safety": 0.9235713958927994,
+        "upside": 12.08410655515015,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 21,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "High Debt",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

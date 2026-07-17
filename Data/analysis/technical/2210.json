@@ -1,0 +1,39 @@
+{
+    "symbol": "2210",
+    "company_name": "نماء للكيماويات",
+    "indicators": {
+        "sma20": 18.739999771118164,
+        "sma50": 18.739999771118164,
+        "sma200": 21.861549892425536,
+        "ema20": 18.744475305593568,
+        "ema50": 18.94403832730545,
+        "rsi": 29.080788984689562,
+        "macd": -0.017996356510650457,
+        "macd_signal": -0.026276292539015783,
+        "macd_histogram": 0.008279936028365326,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 18.739999771118164,
+        "middle_band": 18.739999771118164,
+        "lower_band": 18.739999771118164,
+        "atr": 0.010192945248833173,
+        "adx": 42.94824833254429,
+        "obv": 29747590.0,
+        "current_price": 18.739999771118164,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 50,
+        "rating": "Sell",
+        "strengths": [
+            "Oversold",
+            "Bullish MACD",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend"
+        ]
+    }
+}

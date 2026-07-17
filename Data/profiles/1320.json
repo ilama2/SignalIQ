@@ -1,0 +1,29 @@
+{
+    "symbol": "1320",
+    "name": "أنابيب السعودية",
+    "name_en": "Saudi Steel Pipes Company SJSC",
+    "price": 49.36,
+    "change": -0.14,
+    "change_percent": -0.28,
+    "open": 49.5,
+    "high": 49.5,
+    "low": 48.6,
+    "previous_close": 49.5,
+    "volume": 171852,
+    "value": 8410556.7,
+    "bid": 49.12,
+    "ask": 49.36,
+    "bid_size": 1,
+    "ask_size": 817,
+    "liquidity": {
+        "inflow_value": 4208633.64,
+        "inflow_volume": 85990,
+        "inflow_trades": 387,
+        "outflow_value": 4201923.08,
+        "outflow_volume": 85862,
+        "outflow_trades": 596,
+        "net_value": 6710.55999999959
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

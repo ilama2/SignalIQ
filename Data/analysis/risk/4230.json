@@ -1,0 +1,31 @@
+{
+    "symbol": "4230",
+    "company_name": "4230",
+    "generated_at": "2026-07-17T13:30:41.926998",
+    "risk_score": 29.45,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 31.59,
+    "fundamental_safety_score": 23.04,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 42.1272,
+        "downside_volatility": 24.0248,
+        "max_drawdown": 74.0822,
+        "value_at_risk_95": 3.6505,
+        "conditional_var_95": 5.1963,
+        "sharpe_ratio": -0.1693,
+        "debt_to_equity": 4.9167,
+        "current_ratio": 1.1012,
+        "interest_coverage": null
+    },
+    "volatility": 42.1272,
+    "max_drawdown": 74.0822,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio"
+    ],
+    "summary": "4230 received a safety score of 29.4/100 and a high investment risk classification. Annualized volatility was 42.1%. Maximum drawdown was 74.1%. Main risk: High historical price volatility."
+}

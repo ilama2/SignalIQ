@@ -1,0 +1,42 @@
+{
+    "symbol": "1213",
+    "company_name": "نسيج",
+    "generated_at": "2026-07-17T13:46:13.728049",
+    "final_score": 29.39,
+    "recommendation": "Strong Sell",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 5.0,
+        "technical": 55.0,
+        "news": 50.0,
+        "risk": 7.59
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Positive Free Cash Flow",
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Strong Trend",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown",
+        "Elevated one-day Value at Risk",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "نسيج received a final investment score of 29.4/100, resulting in a Strong Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Positive Free Cash Flow. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

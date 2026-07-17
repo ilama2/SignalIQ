@@ -1,0 +1,38 @@
+{
+    "symbol": "4210",
+    "company_name": "4210",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 71.63916608123975,
+        "ema50": 75.7067756466817,
+        "rsi": 22.97782540926501,
+        "macd": -2.620730181489975,
+        "macd_signal": -2.1989919313589192,
+        "macd_histogram": -0.4217382501310558,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 13778595.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Oversold",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

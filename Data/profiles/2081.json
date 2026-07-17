@@ -1,0 +1,29 @@
+{
+    "symbol": "2081",
+    "name": "الخريف",
+    "name_en": "AWPT",
+    "price": 107.8,
+    "change": -1.7,
+    "change_percent": -1.55,
+    "open": 109.1,
+    "high": 109.3,
+    "low": 107.2,
+    "previous_close": 109.5,
+    "volume": 111658,
+    "value": 12050299.2,
+    "bid": 107.8,
+    "ask": 108.8,
+    "bid_size": 18233,
+    "ask_size": 10,
+    "liquidity": {
+        "inflow_value": 1672552.8,
+        "inflow_volume": 15463,
+        "inflow_trades": 393,
+        "outflow_value": 10377746.61,
+        "outflow_volume": 96195,
+        "outflow_trades": 492,
+        "net_value": -8705193.809999999
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

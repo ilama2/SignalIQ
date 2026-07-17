@@ -1,0 +1,38 @@
+{
+    "symbol": "4300",
+    "company_name": "4300",
+    "generated_at": "2026-07-17T13:46:13.842571",
+    "final_score": 53.09,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 50.0,
+        "technical": 55.0,
+        "news": 50.0,
+        "risk": 60.63
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "High Net Margin",
+        "Strong Earnings Growth",
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Bullish MACD",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "4300 received a final investment score of 53.1/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: High Net Margin. Main risk: Large historical maximum drawdown.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

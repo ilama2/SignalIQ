@@ -1,0 +1,35 @@
+{
+    "symbol": "7205",
+    "company_name": "7205",
+    "generated_at": "2026-07-17T13:46:13.879578",
+    "final_score": 46.27,
+    "recommendation": "Hold",
+    "confidence": 0.5,
+    "component_scores": {
+        "fundamental": 50.0,
+        "technical": 35.0,
+        "news": 50.0,
+        "risk": 55.16
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Short-Term Uptrend",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Elevated one-day Value at Risk"
+    ],
+    "summary": "7205 received a final investment score of 46.3/100, resulting in a Hold recommendation. The recommendation has moderate confidence based on the available agent reports. Main strength: Short-Term Uptrend. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "missing",
+        "technical": "available",
+        "risk": "available"
+    }
+}

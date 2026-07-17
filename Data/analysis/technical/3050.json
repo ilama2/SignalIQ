@@ -1,0 +1,41 @@
+{
+    "symbol": "3050",
+    "company_name": "أسمنت الجنوب",
+    "indicators": {
+        "sma20": 19.312499904632567,
+        "sma50": 19.72875835418701,
+        "sma200": 21.757517671585084,
+        "ema20": 19.347747999462335,
+        "ema50": 19.790571093693718,
+        "rsi": 41.89767146378005,
+        "macd": -0.18152538464744694,
+        "macd_signal": -0.21208856407928253,
+        "macd_histogram": 0.03056317943183559,
+        "stochastic_k": 51.923119245864356,
+        "stochastic_d": 43.36827674602171,
+        "upper_band": 19.751766683604043,
+        "middle_band": 19.312499904632567,
+        "lower_band": 18.87323312566109,
+        "atr": 0.1994727200326165,
+        "adx": 25.34002757285481,
+        "obv": -8185450.0,
+        "current_price": 19.25,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 40,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Strong Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Weak Volume Trend"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "symbol": "4140",
+    "company_name": "4140",
+    "generated_at": "2026-07-17T13:30:41.868764",
+    "risk_score": 46.41,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 28.55,
+    "fundamental_safety_score": 100.0,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 42.0547,
+        "downside_volatility": 29.9878,
+        "max_drawdown": 82.9868,
+        "value_at_risk_95": 3.7067,
+        "conditional_var_95": 6.0988,
+        "sharpe_ratio": -0.1014,
+        "debt_to_equity": 0.1171,
+        "current_ratio": 8.3651,
+        "interest_coverage": null
+    },
+    "volatility": 42.0547,
+    "max_drawdown": 82.9868,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "4140 received a safety score of 46.4/100 and a medium investment risk classification. Annualized volatility was 42.1%. Maximum drawdown was 83.0%. Main risk: High historical price volatility."
+}

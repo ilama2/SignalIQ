@@ -1,0 +1,38 @@
+{
+    "symbol": "4164",
+    "company_name": "4164",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 93.4421585627754,
+        "ema50": 95.77622208999762,
+        "rsi": 28.047924178974995,
+        "macd": -1.3514815521650263,
+        "macd_signal": -1.2593794076776144,
+        "macd_histogram": -0.09210214448741194,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 7927285.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Oversold",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "symbol": "1183",
+    "name": "سهل",
+    "name_en": "SHL",
+    "price": 15.05,
+    "change": 0.07,
+    "change_percent": 0.47,
+    "open": 15.1,
+    "high": 15.5,
+    "low": 14.96,
+    "previous_close": 14.98,
+    "volume": 86400,
+    "value": 1317352.92,
+    "bid": 15.04,
+    "ask": 15.05,
+    "bid_size": 8,
+    "ask_size": 791,
+    "liquidity": {
+        "inflow_value": 634095.09,
+        "inflow_volume": 41553,
+        "inflow_trades": 316,
+        "outflow_value": 683257.83,
+        "outflow_volume": 44847,
+        "outflow_trades": 314,
+        "net_value": -49162.73999999999
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

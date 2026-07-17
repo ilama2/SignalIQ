@@ -1,0 +1,141 @@
+{
+    "symbol": "1050",
+    "company_name": "بي اس اف",
+    "generated_at": "2026-07-17T12:28:26.332538",
+    "article_count": 5,
+    "articles": [
+        {
+            "title": "BSF chief reviews border security grid and fencing along India-Bangladesh border in Sundarbans",
+            "description": "In a recent initiative, the BSF director general evaluated border security protocols and connected with local residents. Simultaneously, Punjab Police arrested two suspects linked to cross-border narcotics trafficking, seizing 30 kilograms of heroin. Reported…",
+            "content": "In a recent initiative, the BSF director general evaluated border security protocols and connected with local residents. Simultaneously, Punjab Police arrested two suspects linked to cross-border nar… [+209 chars]",
+            "url": "https://economictimes.indiatimes.com/news/india/bsf-chief-reviews-border-security-grid-and-fencing-along-india-bangladesh-border-in-sundarbans/articleshow/132399434.cms",
+            "image_url": "https://img.etimg.com/thumb/msid-132399497,width-1200,height-630,imgsize-137056,overlay-economictimes/articleshow.jpg",
+            "source": {
+                "name": "The Times of India",
+                "url": null
+            },
+            "author": "Rahul Tripathi",
+            "published_at": "2026-07-14T18:27:04Z",
+            "language": "en",
+            "sentiment": {
+                "label": "neutral",
+                "confidence": 0.7128,
+                "score": 0.0
+            },
+            "relevance_score": 1.0,
+            "impact_score": null
+        },
+        {
+            "title": "West Bengal hands over 1,024 acres to BSF for fencing along India-Bangladesh border",
+            "description": "In a significant move, West Bengal has handed over 1,000 acres to the BSF for enhanced border fencing across 172.6 kilometers of the India-Bangladesh border. The Murshidabad district saw the largest portion of land transferred. Moreover, North 24 Parganas and…",
+            "content": "Kolkata: The West Bengal government has completed the handover of 1,024.75 acres to the Border Security Force (BSF) for border fencing along 172.6 km since the BJP came to power in the state on May 4… [+1673 chars]",
+            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/west-bengal-hands-over-1024-acres-to-bsf-for-fencing-along-india-bangladesh-border/articleshow/132399316.cms",
+            "image_url": "https://img.etimg.com/thumb/msid-132399349,width-1200,height-630,imgsize-543012,overlay-economictimes/articleshow.jpg",
+            "source": {
+                "name": "The Times of India",
+                "url": null
+            },
+            "author": "Jayatri Nag",
+            "published_at": "2026-07-14T18:20:27Z",
+            "language": "en",
+            "sentiment": {
+                "label": "neutral",
+                "confidence": 0.7569,
+                "score": 0.0
+            },
+            "relevance_score": 1.0,
+            "impact_score": null
+        },
+        {
+            "title": "Bengal hands over 1,024.75 acres to BSF for Bangla border fencing across 173 km",
+            "description": "West Bengal hands over 1,024.75 acres in 9 districts to BSF for 172.6 km India-Bangladesh border fencing; Murshidabad gets largest share.",
+            "content": "Follow Us On Social Media 25-year-old booked for assaulting, blackmailing minor girl in Punjab's PathankotAfter 15 inseparable years, Betul man and dog part in deathBengal hikes pay for 2 lakh midda… [+1721 chars]",
+            "url": "https://timesofindia.indiatimes.com/city/kolkata/bengal-hands-over-1024-75-acres-to-bsf-for-bangla-border-fencing-across-173-km/articleshow/132394975.cms",
+            "image_url": "https://static.toiimg.com/thumb/msid-132394974,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "source": {
+                "name": "The Times of India",
+                "url": null
+            },
+            "author": "Kaushik Pradhan",
+            "published_at": "2026-07-14T15:08:21Z",
+            "language": "en",
+            "sentiment": {
+                "label": "neutral",
+                "confidence": 0.8774,
+                "score": 0.0
+            },
+            "relevance_score": 0.9,
+            "impact_score": null
+        },
+        {
+            "title": "Jaisalmer sandstorms bury highway, disrupt BSF border routes",
+            "description": "Three-day sandstorms break 25–30-year record in Jaisalmer, burying Bharatmala highway, disrupting BSF border routes, travel, and crops amid 50 kmph winds.",
+            "content": "Follow Us On Social Media China rejects US-led backing for South China Sea ruling, calls tribunal award 'illegal'Balcony collapse kills woman, son in Giridih; mason critically injuredWoman, repeated… [+1083 chars]",
+            "url": "https://timesofindia.indiatimes.com/city/jaipur/jaisalmer-sandstorms-bury-highway-disrupt-bsf-border-routes/articleshow/132348123.cms",
+            "image_url": "https://static.toiimg.com/thumb/msid-132348119,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "source": {
+                "name": "The Times of India",
+                "url": null
+            },
+            "author": "The Times Of India",
+            "published_at": "2026-07-12T15:52:06Z",
+            "language": "en",
+            "sentiment": {
+                "label": "negative",
+                "confidence": 0.8935,
+                "score": -0.8935
+            },
+            "relevance_score": 0.9,
+            "impact_score": null
+        },
+        {
+            "title": "Jammu Frontier sweeps double crown at BSF Inter-Frontier championships",
+            "description": "Jammu Frontier won overall titles at the 39th BSF Inter-Frontier Aquatic and 49th Cross Country Championships in Indore, leading water polo and swimming.",
+            "content": "Follow Us On Social Media Depressed driver kills mom, grandma &amp; brother-in-law before ending lifeWho is Conor McGregor's wife, Dee Devlin? A closer look at her background, career, love life, and… [+1407 chars]",
+            "url": "https://timesofindia.indiatimes.com/city/indore/jammu-frontier-sweeps-double-crown-at-bsf-inter-frontier-championships/articleshow/132336758.cms",
+            "image_url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+            "source": {
+                "name": "The Times of India",
+                "url": null
+            },
+            "author": "The Times Of India",
+            "published_at": "2026-07-11T18:35:07Z",
+            "language": "en",
+            "sentiment": {
+                "label": "neutral",
+                "confidence": 0.9302,
+                "score": 0.0
+            },
+            "relevance_score": 0.9,
+            "impact_score": null
+        }
+    ],
+    "score": {
+        "score": 44,
+        "rating": "Neutral",
+        "positive_articles": 0,
+        "neutral_articles": 4,
+        "negative_articles": 1,
+        "average_sentiment": -0.1757,
+        "confidence": 0.8342,
+        "strengths": [],
+        "risks": [
+            "Jaisalmer sandstorms bury highway, disrupt BSF border routes"
+        ]
+    },
+    "summary": {
+        "summary": "Recent news coverage for بي اس اف is mixed or neutral. The available articles include 0 positive, 4 neutral, and 1 negative article(s).",
+        "key_events": [
+            "BSF chief reviews border security grid and fencing along India-Bangladesh border in Sundarbans",
+            "West Bengal hands over 1,024 acres to BSF for fencing along India-Bangladesh border",
+            "Bengal hands over 1,024.75 acres to BSF for Bangla border fencing across 173 km",
+            "Jaisalmer sandstorms bury highway, disrupt BSF border routes",
+            "Jammu Frontier sweeps double crown at BSF Inter-Frontier championships"
+        ],
+        "opportunities": [],
+        "risks": [
+            "Jaisalmer sandstorms bury highway, disrupt BSF border routes"
+        ],
+        "expected_impact": "Neutral"
+    }
+}

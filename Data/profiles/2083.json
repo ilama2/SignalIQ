@@ -1,0 +1,29 @@
+{
+    "symbol": "2083",
+    "name": "مرافق",
+    "name_en": "MARAFIQ",
+    "price": 36.66,
+    "change": -0.42,
+    "change_percent": -1.13,
+    "open": 36.9,
+    "high": 36.98,
+    "low": 36.58,
+    "previous_close": 37.08,
+    "volume": 411394,
+    "value": 15097028.08,
+    "bid": 36.66,
+    "ask": 36.7,
+    "bid_size": 3610,
+    "ask_size": 52,
+    "liquidity": {
+        "inflow_value": 2599519.47,
+        "inflow_volume": 70746,
+        "inflow_trades": 417,
+        "outflow_value": 12497508.61,
+        "outflow_volume": 340648,
+        "outflow_trades": 722,
+        "net_value": -9897989.139999999
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

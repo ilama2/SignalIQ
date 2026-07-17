@@ -1,0 +1,29 @@
+{
+    "symbol": "2330",
+    "name": "المتقدمة",
+    "name_en": "Advanced Petrochemical",
+    "price": 23.01,
+    "change": 0.17,
+    "change_percent": 0.74,
+    "open": 22.84,
+    "high": 23.22,
+    "low": 22.7,
+    "previous_close": 22.84,
+    "volume": 606734,
+    "value": 13989676.31,
+    "bid": 23.01,
+    "ask": 23.02,
+    "bid_size": 11299,
+    "ask_size": 1,
+    "liquidity": {
+        "inflow_value": 7999079.37,
+        "inflow_volume": 346705,
+        "inflow_trades": 863,
+        "outflow_value": 5990596.96,
+        "outflow_volume": 260029,
+        "outflow_trades": 923,
+        "net_value": 2008482.4100000001
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

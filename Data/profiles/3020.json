@@ -1,0 +1,29 @@
+{
+    "symbol": "3020",
+    "name": "أسمنت اليمامة",
+    "name_en": "Yamama Cement Company SJSC",
+    "price": 24.55,
+    "change": 0.05,
+    "change_percent": 0.2,
+    "open": 24.65,
+    "high": 24.65,
+    "low": 24.24,
+    "previous_close": 24.5,
+    "volume": 103886,
+    "value": 2536089.23,
+    "bid": 24.55,
+    "ask": 24.6,
+    "bid_size": 1769,
+    "ask_size": 500,
+    "liquidity": {
+        "inflow_value": 1698547.93,
+        "inflow_volume": 69525,
+        "inflow_trades": 559,
+        "outflow_value": 837541.3,
+        "outflow_volume": 34361,
+        "outflow_trades": 290,
+        "net_value": 861006.6299999999
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

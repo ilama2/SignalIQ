@@ -1,0 +1,39 @@
+{
+    "symbol": "1304",
+    "company_name": "اليمامة للحديد",
+    "indicators": {
+        "sma20": 41.623000144958496,
+        "sma50": 40.15159980773926,
+        "sma200": 37.46570001602173,
+        "ema20": 41.113634256362246,
+        "ema50": 40.34184672149795,
+        "rsi": 42.760444143771394,
+        "macd": 0.2104085583715829,
+        "macd_signal": 0.49835965742441074,
+        "macd_histogram": -0.28795109905282784,
+        "stochastic_k": 2.298903493627372,
+        "stochastic_d": 12.099639584138812,
+        "upper_band": 43.10684774121178,
+        "middle_band": 41.623000144958496,
+        "lower_band": 40.13915254870521,
+        "atr": 1.0937675332980747,
+        "adx": 26.240001300320433,
+        "obv": 89163211.0,
+        "current_price": 39.900001525878906,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 65,
+        "rating": "Hold",
+        "strengths": [
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

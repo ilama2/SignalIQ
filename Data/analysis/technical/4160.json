@@ -1,0 +1,38 @@
+{
+    "symbol": "4160",
+    "company_name": "4160",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 36.70923548263653,
+        "ema50": 35.391121843259455,
+        "rsi": 51.68962313377671,
+        "macd": 0.8770876654666466,
+        "macd_signal": 1.0781216743892652,
+        "macd_histogram": -0.20103400892261858,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 59898380.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "symbol": "4001",
+    "company_name": "أسواق ع العثيم",
+    "generated_at": "2026-07-17T13:30:41.811981",
+    "risk_score": 44.22,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 56.55,
+    "fundamental_safety_score": 7.21,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 21.1389,
+        "downside_volatility": 13.4251,
+        "max_drawdown": 59.8132,
+        "value_at_risk_95": 2.0449,
+        "conditional_var_95": 2.8868,
+        "sharpe_ratio": -0.3673,
+        "debt_to_equity": 5.2278,
+        "current_ratio": 0.5736,
+        "interest_coverage": null
+    },
+    "volatility": 21.1389,
+    "max_drawdown": 59.8132,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "أسواق ع العثيم received a safety score of 44.2/100 and a high investment risk classification. Annualized volatility was 21.1%. Maximum drawdown was 59.8%. Main risk: Large historical maximum drawdown."
+}

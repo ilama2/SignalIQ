@@ -1,0 +1,40 @@
+{
+    "symbol": "1302",
+    "company_name": "بوان",
+    "indicators": {
+        "sma20": 39.64000015258789,
+        "sma50": 41.88560028076172,
+        "sma200": 47.13305015563965,
+        "ema20": 39.613515447996775,
+        "ema50": 41.3936647117632,
+        "rsi": 36.26765384509603,
+        "macd": -1.2153863691094884,
+        "macd_signal": -1.1863311842956321,
+        "macd_histogram": -0.029055184813856272,
+        "stochastic_k": 26.060630581163483,
+        "stochastic_d": 16.221404160469827,
+        "upper_band": 42.47427581409085,
+        "middle_band": 39.64000015258789,
+        "lower_band": 36.80572449108492,
+        "atr": 0.938514746711483,
+        "adx": 26.24004869255504,
+        "obv": 62409982.0,
+        "current_price": 38.5,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

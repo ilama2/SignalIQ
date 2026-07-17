@@ -1,0 +1,30 @@
+{
+    "symbol": "2083",
+    "company_name": "مرافق",
+    "generated_at": "2026-07-17T13:30:41.688900",
+    "risk_score": 40.99,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 46.43,
+    "fundamental_safety_score": 24.66,
+    "metrics": {
+        "observations": 908,
+        "annualized_volatility": 29.829,
+        "downside_volatility": 17.1791,
+        "max_drawdown": 66.7802,
+        "value_at_risk_95": 2.7228,
+        "conditional_var_95": 3.7612,
+        "sharpe_ratio": 0.0084,
+        "debt_to_equity": 2.949,
+        "current_ratio": 1.1212,
+        "interest_coverage": null
+    },
+    "volatility": 29.829,
+    "max_drawdown": 66.7802,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio"
+    ],
+    "summary": "مرافق received a safety score of 41.0/100 and a high investment risk classification. Annualized volatility was 29.8%. Maximum drawdown was 66.8%. Main risk: Large historical maximum drawdown."
+}

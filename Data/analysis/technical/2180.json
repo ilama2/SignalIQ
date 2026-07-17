@@ -1,0 +1,40 @@
+{
+    "symbol": "2180",
+    "company_name": "فيبكو",
+    "indicators": {
+        "sma20": 32.135999870300296,
+        "sma50": 29.811999893188478,
+        "sma200": 30.53229992866516,
+        "ema20": 31.65010926017825,
+        "ema50": 30.62153795589582,
+        "rsi": 54.69596518315895,
+        "macd": 0.466142453030546,
+        "macd_signal": 0.6648312550425945,
+        "macd_histogram": -0.19868880201204853,
+        "stochastic_k": 20.183507911121065,
+        "stochastic_d": 19.915228255074826,
+        "upper_band": 33.08321440358622,
+        "middle_band": 32.135999870300296,
+        "lower_band": 31.18878533701437,
+        "atr": 0.8522401063461633,
+        "adx": 43.62129065394034,
+        "obv": 35801279.0,
+        "current_price": 31.760000228881836,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 75,
+        "rating": "Buy",
+        "strengths": [
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

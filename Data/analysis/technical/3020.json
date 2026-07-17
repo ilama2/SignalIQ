@@ -1,0 +1,37 @@
+{
+    "symbol": "3020",
+    "company_name": "أسمنت اليمامة",
+    "indicators": {
+        "sma20": 25.052499961853027,
+        "sma50": 25.02639995574951,
+        "sma200": 24.91927512168884,
+        "ema20": 24.884825356213238,
+        "ema50": 24.962332067192346,
+        "rsi": 39.85443185611843,
+        "macd": -0.19121321996345486,
+        "macd_signal": -0.12084254767204855,
+        "macd_histogram": -0.07037067229140631,
+        "stochastic_k": 26.515042048377307,
+        "stochastic_d": 28.37831611892693,
+        "upper_band": 26.007568254636023,
+        "middle_band": 25.052499961853027,
+        "lower_band": 24.09743166907003,
+        "atr": 0.3769407441408675,
+        "adx": 19.912129590454732,
+        "obv": 25670371.0,
+        "current_price": 24.549999237060547,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

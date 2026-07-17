@@ -1,0 +1,29 @@
+{
+    "symbol": "4005",
+    "name": "رعاية",
+    "name_en": "National Medical Care Company JSC",
+    "price": 109.2,
+    "change": 2.7,
+    "change_percent": 2.54,
+    "open": 106.5,
+    "high": 109.2,
+    "low": 105.7,
+    "previous_close": 106.5,
+    "volume": 67396,
+    "value": 7244039.7,
+    "bid": 108.6,
+    "ask": 109.2,
+    "bid_size": 7,
+    "ask_size": 616,
+    "liquidity": {
+        "inflow_value": 3538063.08,
+        "inflow_volume": 32864,
+        "inflow_trades": 541,
+        "outflow_value": 3705976.61,
+        "outflow_volume": 34532,
+        "outflow_trades": 693,
+        "net_value": -167913.5299999998
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

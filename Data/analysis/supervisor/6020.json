@@ -1,0 +1,36 @@
+{
+    "symbol": "6020",
+    "company_name": "6020",
+    "generated_at": "2026-07-17T13:46:13.868204",
+    "final_score": 43.14,
+    "recommendation": "Sell",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 41.0,
+        "technical": 35.0,
+        "news": 50.0,
+        "risk": 55.29
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "High Net Margin",
+        "Low Debt",
+        "Healthy RSI",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "6020 received a final investment score of 43.1/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: High Net Margin. Main risk: Large historical maximum drawdown.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

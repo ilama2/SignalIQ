@@ -1,0 +1,44 @@
+{
+    "symbol": "4009",
+    "company_name": "السعودي الألماني الصحية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.161231654964809,
+        "roa": 0.05522705066017119,
+        "gross_margin": 0.37388953658805546,
+        "operating_margin": 0.126674623441995,
+        "net_margin": 0.09729937590848504,
+        "current_ratio": 1.5488052540835577,
+        "quick_ratio": 1.5040456939808104,
+        "operating_cash_flow_ratio": 0.37379713483288696,
+        "debt_ratio": 0.6473442086610086,
+        "debt_to_equity": 1.8898778197759283,
+        "equity_multiplier": 2.919432651888589,
+        "asset_turnover": 0.5675992280990066,
+        "cash_conversion_ratio": 1.8039895589120665,
+        "free_cash_flow": 87317385.0,
+        "revenue_growth": 0.07624991928428139,
+        "net_income_growth": 0.07050525363589005
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 5029.874705048859,
+        "lynch_value": 2500.9973525244295,
+        "pe_value": 49.199999999999996,
+        "intrinsic_value": 2526.6906858577627,
+        "current_price": 31.86000061035156,
+        "margin_of_safety": 0.9873906209459368,
+        "upside": 78.30604637329547,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 46,
+        "rating": "Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "High Debt"
+        ]
+    }
+}

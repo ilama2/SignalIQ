@@ -1,0 +1,31 @@
+{
+    "symbol": "2310",
+    "company_name": "سبكيم العالمية",
+    "generated_at": "2026-07-17T13:30:41.756365",
+    "risk_score": 54.07,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 44.93,
+    "fundamental_safety_score": 81.49,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 30.1109,
+        "downside_volatility": 19.2144,
+        "max_drawdown": 71.105,
+        "value_at_risk_95": 2.8547,
+        "conditional_var_95": 4.118,
+        "sharpe_ratio": -0.2623,
+        "debt_to_equity": 0.4389,
+        "current_ratio": 1.383,
+        "interest_coverage": null
+    },
+    "volatility": 30.1109,
+    "max_drawdown": 71.105,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "سبكيم العالمية received a safety score of 54.1/100 and a medium investment risk classification. Annualized volatility was 30.1%. Maximum drawdown was 71.1%. Main risk: Large historical maximum drawdown."
+}

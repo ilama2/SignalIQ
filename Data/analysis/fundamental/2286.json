@@ -1,0 +1,45 @@
+{
+    "symbol": "2286",
+    "company_name": "المطاحن الرابعة",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.2526553447007185,
+        "roa": 0.1594855742468274,
+        "gross_margin": 0.46392841754324304,
+        "operating_margin": 0.32069445710395594,
+        "net_margin": 0.30404432231451217,
+        "current_ratio": 3.69679789663073,
+        "quick_ratio": 2.9772585318364504,
+        "operating_cash_flow_ratio": 2.714832782117532,
+        "debt_ratio": 0.36876231755261235,
+        "debt_to_equity": 0.5841893280560734,
+        "equity_multiplier": 1.5841893280560733,
+        "asset_turnover": 0.5245471220536424,
+        "cash_conversion_ratio": 1.165139243772624,
+        "free_cash_flow": 198216148.0,
+        "revenue_growth": 0.06951009885536663,
+        "net_income_growth": 0.17469776302537077
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 517.5197315297131,
+        "lynch_value": 257.18736576485657,
+        "pe_value": 5.55,
+        "intrinsic_value": 260.0856990981899,
+        "current_price": 4.119999885559082,
+        "margin_of_safety": 0.9841590679539682,
+        "upside": 62.12759862198306,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 88,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Excellent Return on Equity",
+            "High Net Margin",
+            "Strong Liquidity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

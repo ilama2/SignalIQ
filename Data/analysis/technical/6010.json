@@ -1,0 +1,37 @@
+{
+    "symbol": "6010",
+    "company_name": "6010",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 15.836846041805027,
+        "ema50": 16.209054691944058,
+        "rsi": 30.061809424065743,
+        "macd": -0.23879230609350088,
+        "macd_signal": -0.21102288648871143,
+        "macd_histogram": -0.027769419604789458,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 164680650.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "symbol": "4335",
+    "company_name": "4335",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 3.8673670092223595,
+        "ema50": 3.9548287751072335,
+        "rsi": 22.57586997517467,
+        "macd": -0.06928209090576365,
+        "macd_signal": -0.054921173443348466,
+        "macd_histogram": -0.014360917462415183,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": -9276877.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 20,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Oversold"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD",
+            "Weak Volume Trend"
+        ]
+    }
+}

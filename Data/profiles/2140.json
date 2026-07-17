@@ -1,0 +1,29 @@
+{
+    "symbol": "2140",
+    "name": "أيان",
+    "name_en": "Al-Ahsa Development Co.",
+    "price": 10.79,
+    "change": 0.04,
+    "change_percent": 0.37,
+    "open": 10.75,
+    "high": 10.8,
+    "low": 10.75,
+    "previous_close": 10.75,
+    "volume": 50760,
+    "value": 547187.1,
+    "bid": 10.79,
+    "ask": 10.8,
+    "bid_size": 1811,
+    "ask_size": 399,
+    "liquidity": {
+        "inflow_value": 231236.85,
+        "inflow_volume": 21441,
+        "inflow_trades": 114,
+        "outflow_value": 315950.25,
+        "outflow_volume": 29319,
+        "outflow_trades": 74,
+        "net_value": -84713.4
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,29 @@
+{
+    "symbol": "2288",
+    "name": "نفوذ",
+    "name_en": "NOFOTH",
+    "price": 6.91,
+    "change": -0.02,
+    "change_percent": -0.29,
+    "open": 6.9,
+    "high": 6.98,
+    "low": 6.89,
+    "previous_close": 6.93,
+    "volume": 18601,
+    "value": 128498.23,
+    "bid": 6.91,
+    "ask": 6.93,
+    "bid_size": 3122,
+    "ask_size": 10,
+    "liquidity": {
+        "inflow_value": 14958.29,
+        "inflow_volume": 2164,
+        "inflow_trades": 34,
+        "outflow_value": 113539.94,
+        "outflow_volume": 16437,
+        "outflow_trades": 67,
+        "net_value": -98581.65
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

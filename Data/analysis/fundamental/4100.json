@@ -1,0 +1,47 @@
+{
+    "symbol": "4100",
+    "company_name": "4100",
+    "sector": "Consumer Cyclical",
+    "ratios": {
+        "roe": 0.12345213388895045,
+        "roa": 0.10961796747285045,
+        "gross_margin": 0.48007300006770304,
+        "operating_margin": 0.39935195239313187,
+        "net_margin": 0.4420822736277377,
+        "current_ratio": 0.6703480082262301,
+        "quick_ratio": 0.6634063504184018,
+        "operating_cash_flow_ratio": 1.084325845260103,
+        "debt_ratio": 0.11206097440603438,
+        "debt_to_equity": 0.12620345674194675,
+        "equity_multiplier": 1.1262034567419468,
+        "asset_turnover": 0.24795829648025192,
+        "cash_conversion_ratio": 0.870713941751344,
+        "free_cash_flow": 321178922.0,
+        "revenue_growth": 0.28278806753649266,
+        "net_income_growth": 0.15345212101454475
+    },
+    "valuation": {
+        "dcf_value": 64.00166393635325,
+        "graham_value": 13424.299401229755,
+        "lynch_value": 6702.077200614877,
+        "pe_value": 35.550000000000004,
+        "intrinsic_value": 5056.482066445246,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 72,
+        "rating": "Buy",
+        "strengths": [
+            "High Net Margin",
+            "Low Debt",
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Weak Liquidity"
+        ]
+    }
+}

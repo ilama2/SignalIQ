@@ -1,0 +1,29 @@
+{
+    "symbol": "1202",
+    "name": "مبكو",
+    "name_en": "Middle East Paper Co.",
+    "price": 16.81,
+    "change": 0.01,
+    "change_percent": 0.06,
+    "open": 16.74,
+    "high": 17.18,
+    "low": 16.74,
+    "previous_close": 16.8,
+    "volume": 365380,
+    "value": 6188022.49,
+    "bid": 16.8,
+    "ask": 16.81,
+    "bid_size": 1,
+    "ask_size": 2767,
+    "liquidity": {
+        "inflow_value": 2987312.87,
+        "inflow_volume": 176326,
+        "inflow_trades": 649,
+        "outflow_value": 3200709.58,
+        "outflow_volume": 189054,
+        "outflow_trades": 773,
+        "net_value": -213396.70999999996
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

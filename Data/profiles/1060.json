@@ -1,0 +1,29 @@
+{
+    "symbol": "1060",
+    "name": "الأول",
+    "name_en": "Saudi Awwal Bank SJSC",
+    "price": 32.18,
+    "change": 0.14,
+    "change_percent": 0.44,
+    "open": 32.0,
+    "high": 32.18,
+    "low": 31.82,
+    "previous_close": 32.04,
+    "volume": 2363149,
+    "value": 75676142.78,
+    "bid": 32.1,
+    "ask": 32.18,
+    "bid_size": 3187,
+    "ask_size": 235950,
+    "liquidity": {
+        "inflow_value": 45670193.16,
+        "inflow_volume": 1424060,
+        "inflow_trades": 1194,
+        "outflow_value": 30005949.56,
+        "outflow_volume": 939089,
+        "outflow_trades": 1273,
+        "net_value": 15664243.599999998
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

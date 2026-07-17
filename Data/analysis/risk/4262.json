@@ -1,0 +1,30 @@
+{
+    "symbol": "4262",
+    "company_name": "4262",
+    "generated_at": "2026-07-17T13:30:41.938050",
+    "risk_score": 41.72,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 43.46,
+    "fundamental_safety_score": 36.5,
+    "metrics": {
+        "observations": 704,
+        "annualized_volatility": 30.6801,
+        "downside_volatility": 20.1079,
+        "max_drawdown": 74.8455,
+        "value_at_risk_95": 3.1451,
+        "conditional_var_95": 4.2533,
+        "sharpe_ratio": -1.0279,
+        "debt_to_equity": 1.4252,
+        "current_ratio": 0.4002,
+        "interest_coverage": null
+    },
+    "volatility": 30.6801,
+    "max_drawdown": 74.8455,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4262 received a safety score of 41.7/100 and a high investment risk classification. Annualized volatility was 30.7%. Maximum drawdown was 74.8%. Main risk: Large historical maximum drawdown."
+}

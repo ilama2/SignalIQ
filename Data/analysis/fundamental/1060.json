@@ -1,0 +1,47 @@
+{
+    "symbol": "1060",
+    "company_name": "الأول",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.10653200962019227,
+        "roa": 0.018598328980290135,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.5694864827970774,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.8254202746517515,
+        "debt_to_equity": 4.728042004907603,
+        "equity_multiplier": 5.728042004907603,
+        "asset_turnover": 0.0326580692292168,
+        "cash_conversion_ratio": 0.9064126593954114,
+        "free_cash_flow": 6891142000.0,
+        "revenue_growth": 0.04990528530493972,
+        "net_income_growth": 0.047287633259116175
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 3835.1677402364066,
+        "lynch_value": 1901.3913701182032,
+        "pe_value": 57.15,
+        "intrinsic_value": 1931.2363701182032,
+        "current_price": 32.18000030517578,
+        "margin_of_safety": 0.9833370990713032,
+        "upside": 59.01355972043251,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 18,
+        "rating": "Strong Sell",
+        "strengths": [
+            "High Net Margin",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt"
+        ]
+    }
+}

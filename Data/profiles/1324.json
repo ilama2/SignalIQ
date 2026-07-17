@@ -1,0 +1,29 @@
+{
+    "symbol": "1324",
+    "name": "صالح الراشد",
+    "name_en": "SALEH ALRASHED",
+    "price": 40.82,
+    "change": -0.48,
+    "change_percent": -1.16,
+    "open": 41.2,
+    "high": 41.5,
+    "low": 40.5,
+    "previous_close": 41.3,
+    "volume": 231284,
+    "value": 9490547.3,
+    "bid": 40.82,
+    "ask": 40.88,
+    "bid_size": 53,
+    "ask_size": 9,
+    "liquidity": {
+        "inflow_value": 4862424.93,
+        "inflow_volume": 118446,
+        "inflow_trades": 445,
+        "outflow_value": 4628122.39,
+        "outflow_volume": 112838,
+        "outflow_trades": 692,
+        "net_value": 234302.54000000004
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

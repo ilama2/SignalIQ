@@ -1,0 +1,40 @@
+{
+    "symbol": "2320",
+    "company_name": "البابطين",
+    "indicators": {
+        "sma20": 65.19999980926514,
+        "sma50": 66.96263526916503,
+        "sma200": 65.23284311294556,
+        "ema20": 64.18364489575526,
+        "ema50": 65.94596226222444,
+        "rsi": 28.277392110088556,
+        "macd": -2.2131501810878476,
+        "macd_signal": -1.5972611256776745,
+        "macd_histogram": -0.615889055410173,
+        "stochastic_k": 10.179624304788428,
+        "stochastic_d": 5.147597197480022,
+        "upper_band": 72.72914194451192,
+        "middle_band": 65.19999980926514,
+        "lower_band": 57.67085767401834,
+        "atr": 1.6421967203974546,
+        "adx": 36.838757140541155,
+        "obv": 70400133.0,
+        "current_price": 60.0,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Oversold",
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "symbol": "4163",
+    "company_name": "4163",
+    "sector": "Healthcare",
+    "ratios": {
+        "roe": 0.22177773928107167,
+        "roa": 0.06147858920291096,
+        "gross_margin": 0.35229298904749967,
+        "operating_margin": 0.07200435112369165,
+        "net_margin": 0.04776518381049866,
+        "current_ratio": 1.2131781442599066,
+        "quick_ratio": 0.3574037516947747,
+        "operating_cash_flow_ratio": 0.3253340704706451,
+        "debt_ratio": 0.7227918843333703,
+        "debt_to_equity": 2.6073979926424644,
+        "equity_multiplier": 3.6073979926424644,
+        "asset_turnover": 1.2871004421718175,
+        "cash_conversion_ratio": 2.05123870671777,
+        "free_cash_flow": 508322750.0,
+        "revenue_growth": 0.04366703173713042,
+        "net_income_growth": -0.08438275120034384
+    },
+    "valuation": {
+        "dcf_value": 93.26529664897066,
+        "graham_value": 3342.176005674486,
+        "lynch_value": 1654.980502837243,
+        "pe_value": 56.85,
+        "intrinsic_value": 1286.817951290175,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 36,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "High Debt",
+            "Net Income Declining"
+        ]
+    }
+}

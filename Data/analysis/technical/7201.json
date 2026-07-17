@@ -1,0 +1,38 @@
+{
+    "symbol": "7201",
+    "company_name": "7201",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 3.439692081598421,
+        "ema50": 3.448975043162716,
+        "rsi": 45.10341034928325,
+        "macd": 0.012681589683928074,
+        "macd_signal": 0.02541409022425334,
+        "macd_histogram": -0.012732500540325264,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 822179528.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

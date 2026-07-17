@@ -1,0 +1,41 @@
+{
+    "symbol": "7211",
+    "company_name": "7211",
+    "generated_at": "2026-07-17T13:46:13.880521",
+    "final_score": 52.88,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 67.0,
+        "technical": 45.0,
+        "news": 50.0,
+        "risk": 39.51
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Excellent Return on Equity",
+        "Strong Earnings Growth",
+        "Positive Free Cash Flow",
+        "Healthy RSI",
+        "Bullish MACD",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown",
+        "Elevated one-day Value at Risk"
+    ],
+    "summary": "7211 received a final investment score of 52.9/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Excellent Return on Equity. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

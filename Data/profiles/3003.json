@@ -1,0 +1,29 @@
+{
+    "symbol": "3003",
+    "name": "أسمنت المدينة",
+    "name_en": "CITY CEMENT",
+    "price": 10.55,
+    "change": 0.04,
+    "change_percent": 0.38,
+    "open": 10.52,
+    "high": 10.61,
+    "low": 10.49,
+    "previous_close": 10.51,
+    "volume": 610048,
+    "value": 6433056.52,
+    "bid": 10.55,
+    "ask": 10.57,
+    "bid_size": 1078,
+    "ask_size": 624,
+    "liquidity": {
+        "inflow_value": 2909552.27,
+        "inflow_volume": 275720,
+        "inflow_trades": 702,
+        "outflow_value": 3523504.32,
+        "outflow_volume": 334328,
+        "outflow_trades": 1701,
+        "net_value": -613952.0499999998
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

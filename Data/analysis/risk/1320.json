@@ -1,0 +1,33 @@
+{
+    "symbol": "1320",
+    "company_name": "أنابيب السعودية",
+    "generated_at": "2026-07-17T13:30:41.636595",
+    "risk_score": 53.42,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 41.55,
+    "fundamental_safety_score": 89.03,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 35.6544,
+        "downside_volatility": 21.9696,
+        "max_drawdown": 56.331,
+        "value_at_risk_95": 2.9837,
+        "conditional_var_95": 4.5406,
+        "sharpe_ratio": 0.4721,
+        "debt_to_equity": 0.6624,
+        "current_ratio": 1.7427,
+        "interest_coverage": null
+    },
+    "volatility": 35.6544,
+    "max_drawdown": 56.331,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "أنابيب السعودية received a safety score of 53.4/100 and a medium investment risk classification. Annualized volatility was 35.7%. Maximum drawdown was 56.3%. Main risk: High historical price volatility."
+}

@@ -1,0 +1,42 @@
+{
+    "symbol": "2200",
+    "company_name": "أنابيب",
+    "generated_at": "2026-07-17T13:46:13.768622",
+    "final_score": 68.2,
+    "recommendation": "Buy",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 81.0,
+        "technical": 75.0,
+        "news": 50.0,
+        "risk": 49.0
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Excellent Return on Equity",
+        "Strong Liquidity",
+        "Low Debt",
+        "Positive Free Cash Flow",
+        "Price Above SMA200",
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Bullish MACD",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "أنابيب received a final investment score of 68.2/100, resulting in a Buy recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Excellent Return on Equity. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

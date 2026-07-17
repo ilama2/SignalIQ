@@ -1,0 +1,32 @@
+{
+    "symbol": "2120",
+    "company_name": "متطورة",
+    "generated_at": "2026-07-17T13:30:41.699742",
+    "risk_score": 54.67,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 39.56,
+    "fundamental_safety_score": 100.0,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 33.7964,
+        "downside_volatility": 23.1881,
+        "max_drawdown": 67.6206,
+        "value_at_risk_95": 3.112,
+        "conditional_var_95": 4.737,
+        "sharpe_ratio": -0.3972,
+        "debt_to_equity": 0.1813,
+        "current_ratio": 2.0957,
+        "interest_coverage": null
+    },
+    "volatility": 33.7964,
+    "max_drawdown": 67.6206,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "متطورة received a safety score of 54.7/100 and a medium investment risk classification. Annualized volatility was 33.8%. Maximum drawdown was 67.6%. Main risk: Large historical maximum drawdown."
+}

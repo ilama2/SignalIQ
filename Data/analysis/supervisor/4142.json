@@ -1,0 +1,37 @@
+{
+    "symbol": "4142",
+    "company_name": "4142",
+    "generated_at": "2026-07-17T13:46:13.818557",
+    "final_score": 48.61,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 58.0,
+        "technical": 30.0,
+        "news": 50.0,
+        "risk": 62.05
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Excellent Return on Equity",
+        "Strong Earnings Growth",
+        "Positive Free Cash Flow",
+        "Oversold",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility"
+    ],
+    "summary": "4142 received a final investment score of 48.6/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Excellent Return on Equity. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

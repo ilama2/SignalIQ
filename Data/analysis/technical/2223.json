@@ -1,0 +1,39 @@
+{
+    "symbol": "2223",
+    "company_name": "لوبريف",
+    "indicators": {
+        "sma20": 127.14000091552734,
+        "sma50": 126.09600067138672,
+        "sma200": 103.77062271118164,
+        "ema20": 128.7694346195016,
+        "ema50": 124.36188321527756,
+        "rsi": 59.40932589602368,
+        "macd": 2.9521611119436812,
+        "macd_signal": 1.89560490504477,
+        "macd_histogram": 1.0565562068989112,
+        "stochastic_k": 66.84780941118517,
+        "stochastic_d": 78.80433625820953,
+        "upper_band": 137.78751719881845,
+        "middle_band": 127.14000091552734,
+        "lower_band": 116.49248463223621,
+        "atr": 3.398748598444484,
+        "adx": 26.78981389923145,
+        "obv": 46224281.0,
+        "current_price": 132.5,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 90,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": []
+    }
+}

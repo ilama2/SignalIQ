@@ -1,0 +1,50 @@
+{
+    "symbol": "2120",
+    "company_name": "متطورة",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.16074228756054104,
+        "roa": -0.13606676477901525,
+        "gross_margin": -0.0,
+        "operating_margin": 1.1839168909093793,
+        "net_margin": 1.316375616842799,
+        "current_ratio": 2.09566079268981,
+        "quick_ratio": 2.09566079268981,
+        "operating_cash_flow_ratio": 0.1672613744451802,
+        "debt_ratio": 0.15350983960727918,
+        "debt_to_equity": 0.181348640291412,
+        "equity_multiplier": 1.181348640291412,
+        "asset_turnover": -0.10336469548513695,
+        "cash_conversion_ratio": -0.18588166224044558,
+        "free_cash_flow": 29788815.0,
+        "revenue_growth": -1.3605079061607936,
+        "net_income_growth": -1.5507567196976346
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 16.479999542236328,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 54,
+        "rating": "Sell",
+        "strengths": [
+            "High Net Margin",
+            "Strong Liquidity",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

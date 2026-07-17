@@ -1,0 +1,38 @@
+{
+    "symbol": "1060",
+    "company_name": "الأول",
+    "indicators": {
+        "sma20": 32.67000036239624,
+        "sma50": 33.407200202941894,
+        "sma200": 32.941015014648436,
+        "ema20": 32.547511530340934,
+        "ema50": 33.21491827378203,
+        "rsi": 38.31802040843158,
+        "macd": -0.45349705481718416,
+        "macd_signal": -0.44271993661457976,
+        "macd_histogram": -0.010777118202604408,
+        "stochastic_k": 30.00006357831457,
+        "stochastic_d": 17.91180281680305,
+        "upper_band": 34.14303906574,
+        "middle_band": 32.67000036239624,
+        "lower_band": 31.196961659052477,
+        "atr": 0.41028228140895645,
+        "adx": 24.632441116774405,
+        "obv": 122104326.0,
+        "current_price": 32.18000030517578,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

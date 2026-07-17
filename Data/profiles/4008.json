@@ -1,0 +1,29 @@
+{
+    "symbol": "4008",
+    "name": "ساكو",
+    "name_en": "Saudi Company for Hardware",
+    "price": 22.93,
+    "change": -0.17,
+    "change_percent": -0.74,
+    "open": 23.46,
+    "high": 23.46,
+    "low": 22.9,
+    "previous_close": 23.1,
+    "volume": 59091,
+    "value": 1360704.29,
+    "bid": 22.93,
+    "ask": 23.03,
+    "bid_size": 264,
+    "ask_size": 1000,
+    "liquidity": {
+        "inflow_value": 384784.27,
+        "inflow_volume": 16703,
+        "inflow_trades": 109,
+        "outflow_value": 975920.01,
+        "outflow_volume": 42388,
+        "outflow_trades": 209,
+        "net_value": -591135.74
+    },
+    "updated_at": "2026-07-16T12:19:15+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,39 @@
+{
+    "symbol": "2284",
+    "company_name": "المطاحن الحديثة",
+    "indicators": {
+        "sma20": 28.80999975204468,
+        "sma50": 28.691199951171875,
+        "sma200": 28.86909962654114,
+        "ema20": 28.75491022966274,
+        "ema50": 28.662094382883083,
+        "rsi": 47.1574038453867,
+        "macd": -0.03326744157963191,
+        "macd_signal": -0.008475831712824577,
+        "macd_histogram": -0.02479160986680733,
+        "stochastic_k": 34.7825726399158,
+        "stochastic_d": 42.753630700017744,
+        "upper_band": 29.212292912167772,
+        "middle_band": 28.80999975204468,
+        "lower_band": 28.407706591921585,
+        "atr": 0.34848023437439596,
+        "adx": 20.98544186100968,
+        "obv": 15792118.0,
+        "current_price": 28.63999938964844,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 40,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

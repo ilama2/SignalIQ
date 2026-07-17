@@ -1,0 +1,32 @@
+{
+    "symbol": "1810",
+    "company_name": "سيرا",
+    "generated_at": "2026-07-17T13:30:41.645655",
+    "risk_score": 57.4,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 56.17,
+    "fundamental_safety_score": 61.08,
+    "metrics": {
+        "observations": 1247,
+        "annualized_volatility": 28.4886,
+        "downside_volatility": 19.4356,
+        "max_drawdown": 46.172,
+        "value_at_risk_95": 2.6499,
+        "conditional_var_95": 3.99,
+        "sharpe_ratio": 0.0963,
+        "debt_to_equity": 0.8661,
+        "current_ratio": 0.9468,
+        "interest_coverage": null
+    },
+    "volatility": 28.4886,
+    "max_drawdown": 46.172,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "سيرا received a safety score of 57.4/100 and a medium investment risk classification. Annualized volatility was 28.5%. Maximum drawdown was 46.2%. Main risk: Large historical maximum drawdown."
+}

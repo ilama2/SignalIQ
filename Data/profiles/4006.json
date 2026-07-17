@@ -1,0 +1,29 @@
+{
+    "symbol": "4006",
+    "name": "أسواق المزرعة",
+    "name_en": "Saudi Marketing Co.",
+    "price": 12.94,
+    "change": -0.08,
+    "change_percent": -0.61,
+    "open": 13.05,
+    "high": 13.21,
+    "low": 12.94,
+    "previous_close": 13.02,
+    "volume": 59279,
+    "value": 771230.59,
+    "bid": 12.94,
+    "ask": 13.04,
+    "bid_size": 1944,
+    "ask_size": 4,
+    "liquidity": {
+        "inflow_value": 340528.23,
+        "inflow_volume": 26118,
+        "inflow_trades": 92,
+        "outflow_value": 430702.36,
+        "outflow_volume": 33161,
+        "outflow_trades": 186,
+        "net_value": -90174.13
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

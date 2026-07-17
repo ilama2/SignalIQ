@@ -1,0 +1,39 @@
+{
+    "symbol": "1301",
+    "company_name": "أسلاك",
+    "indicators": {
+        "sma20": 16.714999961853028,
+        "sma50": 16.4907999420166,
+        "sma200": 19.118337788581847,
+        "ema20": 16.67030623473766,
+        "ema50": 16.731610804822807,
+        "rsi": 44.73809516320831,
+        "macd": -0.004846043781757459,
+        "macd_signal": 0.060318516892264334,
+        "macd_histogram": -0.0651645606740218,
+        "stochastic_k": 9.396049616610556,
+        "stochastic_d": 12.800655719157731,
+        "upper_band": 17.410974226902,
+        "middle_band": 16.714999961853028,
+        "lower_band": 16.019025696804057,
+        "atr": 0.4240176201225364,
+        "adx": 23.937094890009355,
+        "obv": 32620382.0,
+        "current_price": 16.440000534057617,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

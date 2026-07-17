@@ -1,0 +1,31 @@
+{
+    "symbol": "4018",
+    "company_name": "4018",
+    "generated_at": "2026-07-17T13:46:13.808172",
+    "final_score": 50.0,
+    "recommendation": "Hold",
+    "confidence": 0.25,
+    "component_scores": {
+        "fundamental": 50.0,
+        "technical": 50.0,
+        "news": 50.0,
+        "risk": 50.0
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [],
+    "risks": [
+        "Historical price data was unavailable"
+    ],
+    "summary": "4018 received a final investment score of 50.0/100, resulting in a Hold recommendation. The recommendation has low confidence based on the available agent reports. Main risk: Historical price data was unavailable.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "missing",
+        "technical": "missing",
+        "risk": "available"
+    }
+}

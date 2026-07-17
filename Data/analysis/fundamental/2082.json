@@ -1,0 +1,48 @@
+{
+    "symbol": "2082",
+    "company_name": "أكوا",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.06381533808959398,
+        "roa": 0.02643836571025935,
+        "gross_margin": 0.5077989468133882,
+        "operating_margin": 0.28663326544368173,
+        "net_margin": 0.24984484388684913,
+        "current_ratio": 2.2725802763962624,
+        "quick_ratio": 2.166083882835393,
+        "operating_cash_flow_ratio": 0.6219847374446512,
+        "debt_ratio": 0.5482146236474786,
+        "debt_to_equity": 1.323247508455022,
+        "equity_multiplier": 2.4137398956105134,
+        "asset_turnover": 0.10581913678487948,
+        "cash_conversion_ratio": 2.419012808919003,
+        "free_cash_flow": 113521000.0,
+        "revenue_growth": 0.17725110039258107,
+        "net_income_growth": 0.05416329692206912
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 8777.199359393506,
+        "lynch_value": 4378.102179696753,
+        "pe_value": 37.050000000000004,
+        "intrinsic_value": 4397.450513030087,
+        "current_price": 183.6999969482422,
+        "margin_of_safety": 0.9582257955140323,
+        "upside": 22.93821767057011,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 56,
+        "rating": "Hold",
+        "strengths": [
+            "High Net Margin",
+            "Strong Liquidity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "High Debt"
+        ]
+    }
+}

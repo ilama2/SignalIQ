@@ -1,0 +1,29 @@
+{
+    "symbol": "2050",
+    "name": "مجموعة صافولا",
+    "name_en": "Savola Group Company SJSC",
+    "price": 26.92,
+    "change": 0.26,
+    "change_percent": 0.98,
+    "open": 26.66,
+    "high": 26.98,
+    "low": 26.58,
+    "previous_close": 26.66,
+    "volume": 511078,
+    "value": 13707641.36,
+    "bid": 26.82,
+    "ask": 26.92,
+    "bid_size": 10,
+    "ask_size": 11784,
+    "liquidity": {
+        "inflow_value": 6644381.82,
+        "inflow_volume": 247633,
+        "inflow_trades": 762,
+        "outflow_value": 7063259.44,
+        "outflow_volume": 263445,
+        "outflow_trades": 1071,
+        "net_value": -418877.6200000001
+    },
+    "updated_at": "2026-07-16T13:00:00+00:00",
+    "is_delayed": true
+}

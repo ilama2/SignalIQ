@@ -1,0 +1,40 @@
+{
+    "symbol": "2290",
+    "company_name": "ينساب",
+    "indicators": {
+        "sma20": 30.157000160217287,
+        "sma50": 31.782400131225586,
+        "sma200": 30.67022946357727,
+        "ema20": 30.68881563555799,
+        "ema50": 31.347903182764473,
+        "rsi": 57.491643835485796,
+        "macd": -0.024330883725117047,
+        "macd_signal": -0.3720764070925116,
+        "macd_histogram": 0.34774552336739456,
+        "stochastic_k": 90.60400837440851,
+        "stochastic_d": 86.80087652654485,
+        "upper_band": 31.821753626632965,
+        "middle_band": 30.157000160217287,
+        "lower_band": 28.492246693801608,
+        "atr": 0.6797901101209033,
+        "adx": 27.241848343422266,
+        "obv": 24632513.0,
+        "current_price": 31.5,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 75,
+        "rating": "Buy",
+        "strengths": [
+            "Price Above SMA200",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Short-Term Downtrend"
+        ]
+    }
+}

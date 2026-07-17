@@ -1,0 +1,35 @@
+{
+    "symbol": "4145",
+    "company_name": "4145",
+    "generated_at": "2026-07-17T13:30:41.881423",
+    "risk_score": 36.24,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 26.56,
+    "fundamental_safety_score": 65.28,
+    "metrics": {
+        "observations": 1045,
+        "annualized_volatility": 41.5341,
+        "downside_volatility": 33.0564,
+        "max_drawdown": 67.7125,
+        "value_at_risk_95": 4.1359,
+        "conditional_var_95": 6.1194,
+        "sharpe_ratio": -0.3001,
+        "debt_to_equity": 0.6657,
+        "current_ratio": 0.9533,
+        "interest_coverage": null
+    },
+    "volatility": 41.5341,
+    "max_drawdown": 67.7125,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown",
+        "Elevated one-day Value at Risk",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4145 received a safety score of 36.2/100 and a high investment risk classification. Annualized volatility was 41.5%. Maximum drawdown was 67.7%. Main risk: High historical price volatility."
+}

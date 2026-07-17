@@ -1,0 +1,38 @@
+{
+    "symbol": "4250",
+    "company_name": "4250",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 15.318632314247528,
+        "ema50": 15.181232295575969,
+        "rsi": 63.591060637516065,
+        "macd": 0.20163057800446893,
+        "macd_signal": 0.15735124238421144,
+        "macd_histogram": 0.04427933562025749,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 158019969.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 55,
+        "rating": "Hold",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200"
+        ]
+    }
+}

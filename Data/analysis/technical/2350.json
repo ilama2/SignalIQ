@@ -1,0 +1,38 @@
+{
+    "symbol": "2350",
+    "company_name": "كيان السعودية",
+    "indicators": {
+        "sma20": 5.207999968528748,
+        "sma50": 5.544400024414062,
+        "sma200": 5.329900012016297,
+        "ema20": 5.239918466460828,
+        "ema50": 5.38443109169684,
+        "rsi": 34.69409442536623,
+        "macd": -0.11375762397216782,
+        "macd_signal": -0.11756464922215223,
+        "macd_histogram": 0.0038070252499844137,
+        "stochastic_k": 13.79309210850842,
+        "stochastic_d": 11.170972965775562,
+        "upper_band": 5.360394220278246,
+        "middle_band": 5.207999968528748,
+        "lower_band": 5.05560571677925,
+        "atr": 0.10951626717290827,
+        "adx": 23.006856087494107,
+        "obv": 237052847.0,
+        "current_price": 5.079999923706055,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend"
+        ]
+    }
+}

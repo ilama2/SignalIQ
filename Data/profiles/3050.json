@@ -1,0 +1,29 @@
+{
+    "symbol": "3050",
+    "name": "أسمنت الجنوب",
+    "name_en": "Southern Province Cement Co.",
+    "price": 19.25,
+    "change": 0.07,
+    "change_percent": 0.37,
+    "open": 19.18,
+    "high": 19.25,
+    "low": 19.16,
+    "previous_close": 19.18,
+    "volume": 25764,
+    "value": 495240.72,
+    "bid": 19.2,
+    "ask": 19.25,
+    "bid_size": 17,
+    "ask_size": 7916,
+    "liquidity": {
+        "inflow_value": 302595.64,
+        "inflow_volume": 15736,
+        "inflow_trades": 96,
+        "outflow_value": 192645.08,
+        "outflow_volume": 10028,
+        "outflow_trades": 71,
+        "net_value": 109950.56000000003
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

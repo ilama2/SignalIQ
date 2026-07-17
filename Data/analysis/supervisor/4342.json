@@ -1,0 +1,39 @@
+{
+    "symbol": "4342",
+    "company_name": "4342",
+    "generated_at": "2026-07-17T13:46:13.856422",
+    "final_score": 58.03,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 75.0,
+        "technical": 30.0,
+        "news": 50.0,
+        "risk": 85.18
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "High Net Margin",
+        "Strong Liquidity",
+        "Low Debt",
+        "Strong Revenue Growth",
+        "Positive Free Cash Flow",
+        "Oversold",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "No major risk signal was identified"
+    ],
+    "summary": "4342 received a final investment score of 58.0/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: High Net Margin. Main risk: No major risk signal was identified.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

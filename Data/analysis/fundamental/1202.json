@@ -1,0 +1,46 @@
+{
+    "symbol": "1202",
+    "company_name": "مبكو",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.01437815844525623,
+        "roa": 0.008773550776618263,
+        "gross_margin": 0.12599228094903556,
+        "operating_margin": 0.03445155371319148,
+        "net_margin": 0.02207399544987087,
+        "current_ratio": 1.6666264029337075,
+        "quick_ratio": 1.3720841084482363,
+        "operating_cash_flow_ratio": 0.16822864304191212,
+        "debt_ratio": 0.3925848311221596,
+        "debt_to_equity": 0.6433708596206794,
+        "equity_multiplier": 1.6388072299728853,
+        "asset_turnover": 0.3974609307382813,
+        "cash_conversion_ratio": 5.257526396541933,
+        "free_cash_flow": -118906669.0,
+        "revenue_growth": -0.004439024209318646,
+        "net_income_growth": -1.3027446776755112
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 164.29500000000002,
+        "lynch_value": 81.0,
+        "pe_value": 4.050000000000001,
+        "intrinsic_value": 83.11500000000001,
+        "current_price": 16.809999465942383,
+        "margin_of_safety": 0.7977501117013489,
+        "upside": 3.9443785033065444,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 33,
+        "rating": "Strong Sell",
+        "strengths": [],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

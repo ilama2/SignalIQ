@@ -1,0 +1,49 @@
+{
+    "symbol": "3002",
+    "company_name": "أسمنت نجران",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.01805719766995024,
+        "roa": 0.015089476993126252,
+        "gross_margin": 0.2132719786873335,
+        "operating_margin": 0.12689561637200292,
+        "net_margin": 0.07119593121821265,
+        "current_ratio": 3.7910001852766797,
+        "quick_ratio": 0.4020581151185771,
+        "operating_cash_flow_ratio": 0.6449172430830039,
+        "debt_ratio": 0.16435112086980697,
+        "debt_to_equity": 0.19667485348735958,
+        "equity_multiplier": 1.1966748534873595,
+        "asset_turnover": 0.2119429682979722,
+        "cash_conversion_ratio": 2.2734447286779513,
+        "free_cash_flow": 70622000.0,
+        "revenue_growth": -0.03438695615569546,
+        "net_income_growth": -0.4630054509053179
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 133.87,
+        "lynch_value": 66.0,
+        "pe_value": 3.3,
+        "intrinsic_value": 67.72333333333334,
+        "current_price": 5.690000057220459,
+        "margin_of_safety": 0.9159816893652538,
+        "upside": 10.90216742570929,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 49,
+        "rating": "Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

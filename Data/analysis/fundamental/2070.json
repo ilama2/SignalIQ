@@ -1,0 +1,46 @@
+{
+    "symbol": "2070",
+    "company_name": "الدوائية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.11546892673767385,
+        "roa": 0.04221005272507521,
+        "gross_margin": 0.48781193769771214,
+        "operating_margin": 0.14523489917156449,
+        "net_margin": 0.10802238926215393,
+        "current_ratio": 1.2775906964890311,
+        "quick_ratio": 0.9490552230628484,
+        "operating_cash_flow_ratio": 0.14643760246083434,
+        "debt_ratio": 0.596552092827636,
+        "debt_to_equity": 1.6319152774002503,
+        "equity_multiplier": 2.735578832126846,
+        "asset_turnover": 0.39075281535050876,
+        "cash_conversion_ratio": 1.4772649609737312,
+        "free_cash_flow": 172770000.0,
+        "revenue_growth": 0.014691438763376932,
+        "net_income_growth": 6.514285714285714
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 937.09,
+        "lynch_value": 462.0,
+        "pe_value": 23.1,
+        "intrinsic_value": 474.06333333333333,
+        "current_price": 29.399999618530273,
+        "margin_of_safety": 0.9379829707313433,
+        "upside": 15.124603383822496,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 47,
+        "rating": "Sell",
+        "strengths": [
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "High Debt"
+        ]
+    }
+}

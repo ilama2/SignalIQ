@@ -1,0 +1,38 @@
+{
+    "symbol": "4081",
+    "company_name": "4081",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 9.830709291346169,
+        "ema50": 9.940273508656121,
+        "rsi": 26.367643724419636,
+        "macd": -0.058020630700495346,
+        "macd_signal": -0.03571024101098225,
+        "macd_histogram": -0.0223103896895131,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 38767396.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Oversold",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

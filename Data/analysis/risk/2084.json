@@ -1,0 +1,33 @@
+{
+    "symbol": "2084",
+    "company_name": "مياهنا",
+    "generated_at": "2026-07-17T13:30:41.690784",
+    "risk_score": 33.18,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 28.86,
+    "fundamental_safety_score": 46.12,
+    "metrics": {
+        "observations": 528,
+        "annualized_volatility": 44.1207,
+        "downside_volatility": 25.074,
+        "max_drawdown": 68.1651,
+        "value_at_risk_95": 3.9765,
+        "conditional_var_95": 5.3932,
+        "sharpe_ratio": -0.0199,
+        "debt_to_equity": 2.5398,
+        "current_ratio": 1.5639,
+        "interest_coverage": null
+    },
+    "volatility": 44.1207,
+    "max_drawdown": 68.1651,
+    "strengths": [
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio"
+    ],
+    "summary": "مياهنا received a safety score of 33.2/100 and a high investment risk classification. Annualized volatility was 44.1%. Maximum drawdown was 68.2%. Main risk: High historical price volatility."
+}

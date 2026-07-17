@@ -1,0 +1,29 @@
+{
+    "symbol": "1323",
+    "name": "يو سي آي سي",
+    "name_en": "United Carton Industries Co.",
+    "price": 25.08,
+    "change": -0.14,
+    "change_percent": -0.56,
+    "open": 25.12,
+    "high": 25.3,
+    "low": 25.06,
+    "previous_close": 25.22,
+    "volume": 34009,
+    "value": 855753.52,
+    "bid": 25.06,
+    "ask": 25.08,
+    "bid_size": 8,
+    "ask_size": 1094,
+    "liquidity": {
+        "inflow_value": 421269.42,
+        "inflow_volume": 16735,
+        "inflow_trades": 136,
+        "outflow_value": 434484.1,
+        "outflow_volume": 17274,
+        "outflow_trades": 201,
+        "net_value": -13214.679999999993
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

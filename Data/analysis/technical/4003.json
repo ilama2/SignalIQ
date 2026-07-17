@@ -1,0 +1,40 @@
+{
+    "symbol": "4003",
+    "company_name": "إكسترا",
+    "indicators": {
+        "sma20": 71.80500030517578,
+        "sma50": 75.35900039672852,
+        "sma200": 81.52185199737549,
+        "ema20": 71.39695075226278,
+        "ema50": 74.46975588004814,
+        "rsi": 32.275056631461325,
+        "macd": -2.004918942923112,
+        "macd_signal": -1.7538095452183897,
+        "macd_histogram": -0.2511093977047223,
+        "stochastic_k": 19.424447005872988,
+        "stochastic_d": 14.6282818303237,
+        "upper_band": 76.68904672676763,
+        "middle_band": 71.80500030517578,
+        "lower_band": 66.92095388358393,
+        "atr": 1.162942119963035,
+        "adx": 59.3062935072246,
+        "obv": 54949672.0,
+        "current_price": 68.8499984741211,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "symbol": "4005",
+    "company_name": "رعاية",
+    "indicators": {
+        "sma20": 108.40499954223633,
+        "sma50": 104.6499998474121,
+        "sma200": 133.14339824676514,
+        "ema20": 108.64474631121294,
+        "ema50": 109.27739794004042,
+        "rsi": 51.99060125472005,
+        "macd": 1.0894263667987332,
+        "macd_signal": 1.0967896712260232,
+        "macd_histogram": -0.007363304427290052,
+        "stochastic_k": 50.42731141370779,
+        "stochastic_d": 44.586881582347075,
+        "upper_band": 114.92066539332507,
+        "middle_band": 108.40499954223633,
+        "lower_band": 101.88933369114758,
+        "atr": 3.0544602006663166,
+        "adx": 18.354649933112178,
+        "obv": 23797631.0,
+        "current_price": 109.1999969482422,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

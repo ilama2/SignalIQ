@@ -1,0 +1,39 @@
+{
+    "symbol": "3007",
+    "company_name": "الواحة",
+    "indicators": {
+        "sma20": 2.7324999809265136,
+        "sma50": 2.622999973297119,
+        "sma200": 2.4934699833393097,
+        "ema20": 2.742445203734516,
+        "ema50": 2.6514554576334137,
+        "rsi": 57.98709702079077,
+        "macd": 0.06074845813253704,
+        "macd_signal": 0.05964154703381333,
+        "macd_histogram": 0.0011069110987237119,
+        "stochastic_k": 62.85712534068298,
+        "stochastic_d": 73.33330154420243,
+        "upper_band": 2.9169856847065425,
+        "middle_band": 2.7324999809265136,
+        "lower_band": 2.5480142771464847,
+        "atr": 0.08131290033972714,
+        "adx": 44.77242450516371,
+        "obv": 365481512.0,
+        "current_price": 2.7899999618530273,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 90,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": []
+    }
+}

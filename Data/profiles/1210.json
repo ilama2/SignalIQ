@@ -1,0 +1,29 @@
+{
+    "symbol": "1210",
+    "name": "بي سي آي",
+    "name_en": "Basic Chemical Industries Company SJSC",
+    "price": 23.31,
+    "change": -0.02,
+    "change_percent": -0.09,
+    "open": 23.32,
+    "high": 23.66,
+    "low": 23.31,
+    "previous_close": 23.33,
+    "volume": 14878,
+    "value": 348518.98,
+    "bid": 23.31,
+    "ask": 23.43,
+    "bid_size": 2268,
+    "ask_size": 1,
+    "liquidity": {
+        "inflow_value": 152454.51,
+        "inflow_volume": 6501,
+        "inflow_trades": 135,
+        "outflow_value": 196064.47,
+        "outflow_volume": 8377,
+        "outflow_trades": 136,
+        "net_value": -43609.95999999999
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,44 @@
+{
+    "symbol": "2230",
+    "company_name": "الكيميائية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.1407211688168893,
+        "roa": 0.05377986562972634,
+        "gross_margin": 0.12427038397691854,
+        "operating_margin": 0.06960989577474533,
+        "net_margin": 0.04873330723123927,
+        "current_ratio": 1.3581528982226314,
+        "quick_ratio": 0.8883213970246362,
+        "operating_cash_flow_ratio": 0.14939817071666875,
+        "debt_ratio": 0.615540151499356,
+        "debt_to_equity": 1.6106312010723276,
+        "equity_multiplier": 2.6166143624410054,
+        "asset_turnover": 1.1035546053655085,
+        "cash_conversion_ratio": 1.463264721846128,
+        "free_cash_flow": 447456000.0,
+        "revenue_growth": 0.07927333119591222,
+        "net_income_growth": 0.15134201571894068
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 637.5866495672979,
+        "lynch_value": 317.09332478364894,
+        "pe_value": 6.0,
+        "intrinsic_value": 320.22665811698226,
+        "current_price": 8.460000038146973,
+        "margin_of_safety": 0.9735812124827645,
+        "upside": 36.851850670573135,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 37,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "High Debt"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "symbol": "2170",
+    "company_name": "اللجين",
+    "indicators": {
+        "sma20": 27.467000198364257,
+        "sma50": 28.156399993896486,
+        "sma200": 27.903917226791382,
+        "ema20": 27.540048436963023,
+        "ema50": 27.796918954385518,
+        "rsi": 50.73266348246313,
+        "macd": -0.18014827697155056,
+        "macd_signal": -0.29058407387935054,
+        "macd_histogram": 0.11043579690779998,
+        "stochastic_k": 69.69703975570519,
+        "stochastic_d": 65.79128964411912,
+        "upper_band": 28.6777696240573,
+        "middle_band": 27.467000198364257,
+        "lower_band": 26.256230772671213,
+        "atr": 0.63036056438707,
+        "adx": 17.652204841688658,
+        "obv": 76931485.0,
+        "current_price": 27.700000762939453,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 55,
+        "rating": "Hold",
+        "strengths": [
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend"
+        ]
+    }
+}

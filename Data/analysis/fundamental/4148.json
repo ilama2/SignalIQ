@@ -1,0 +1,47 @@
+{
+    "symbol": "4148",
+    "company_name": "4148",
+    "sector": "Basic Materials",
+    "ratios": {
+        "roe": 0.0881857283650797,
+        "roa": 0.06348708227496098,
+        "gross_margin": 0.25111335784715405,
+        "operating_margin": 0.09810966865171176,
+        "net_margin": 0.07323152324871043,
+        "current_ratio": 3.0924622563266735,
+        "quick_ratio": 1.4784503281728014,
+        "operating_cash_flow_ratio": 0.2147273230796931,
+        "debt_ratio": 0.28007531998679985,
+        "debt_to_equity": 0.38903419727417116,
+        "equity_multiplier": 1.389034197274171,
+        "asset_turnover": 0.866936524853441,
+        "cash_conversion_ratio": 0.740370722370992,
+        "free_cash_flow": 6871332.0,
+        "revenue_growth": 0.0025895409961792164,
+        "net_income_growth": -0.13683593850508743
+    },
+    "valuation": {
+        "dcf_value": 0.4044269691428571,
+        "graham_value": 85.19000000000001,
+        "lynch_value": 42.00000000000001,
+        "pe_value": 2.1,
+        "intrinsic_value": 32.42360674228572,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 48,
+        "rating": "Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Net Income Declining"
+        ]
+    }
+}

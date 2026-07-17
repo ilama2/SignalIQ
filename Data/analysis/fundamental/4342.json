@@ -1,0 +1,50 @@
+{
+    "symbol": "4342",
+    "company_name": "4342",
+    "sector": "Real Estate",
+    "ratios": {
+        "roe": 0.03210762462893652,
+        "roa": 0.024157679581659187,
+        "gross_margin": 0.874549200979375,
+        "operating_margin": 0.6260374742346979,
+        "net_margin": 0.31339721314832597,
+        "current_ratio": 2.9099041232716174,
+        "quick_ratio": 2.9099041232716174,
+        "operating_cash_flow_ratio": 4.6854345464487634,
+        "debt_ratio": 0.24760302698046877,
+        "debt_to_equity": 0.3290856234931202,
+        "equity_multiplier": 1.32908562349312,
+        "asset_turnover": 0.0770832622886973,
+        "cash_conversion_ratio": 2.4498823200105395,
+        "free_cash_flow": 136642157.0,
+        "revenue_growth": 0.2599209903254202,
+        "net_income_growth": -0.7215070367709705
+    },
+    "valuation": {
+        "dcf_value": 26.857090523857902,
+        "graham_value": null,
+        "lynch_value": null,
+        "pe_value": null,
+        "intrinsic_value": 26.857090523857902,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 75,
+        "rating": "Buy",
+        "strengths": [
+            "High Net Margin",
+            "Strong Liquidity",
+            "Low Debt",
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Net Income Declining"
+        ]
+    }
+}

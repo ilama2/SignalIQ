@@ -1,0 +1,45 @@
+{
+    "symbol": "2223",
+    "company_name": "لوبريف",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.1866503173196149,
+        "roa": 0.11244677014708274,
+        "gross_margin": 0.14546715527087237,
+        "operating_margin": 0.1098843627114942,
+        "net_margin": 0.10555072559452226,
+        "current_ratio": 1.3594321411990846,
+        "quick_ratio": 1.0098786146156582,
+        "operating_cash_flow_ratio": 0.8240017810067575,
+        "debt_ratio": 0.3975538227747453,
+        "debt_to_equity": 0.6598993201447436,
+        "equity_multiplier": 1.6598993201447436,
+        "asset_turnover": 1.0653339379120133,
+        "cash_conversion_ratio": 1.7742317158006116,
+        "free_cash_flow": 1073099000.0,
+        "revenue_growth": -0.19255949717881507,
+        "net_income_growth": -0.12007164402671527
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 3091.18,
+        "lynch_value": 1524.0,
+        "pe_value": 76.2,
+        "intrinsic_value": 1563.7933333333333,
+        "current_price": 132.5,
+        "margin_of_safety": 0.9152701337346367,
+        "upside": 10.802213836477987,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 67,
+        "rating": "Hold",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

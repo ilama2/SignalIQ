@@ -1,0 +1,29 @@
+{
+    "symbol": "3030",
+    "name": "أسمنت السعودية",
+    "name_en": "Saudi Cement Co.",
+    "price": 30.0,
+    "change": -0.04,
+    "change_percent": -0.13,
+    "open": 30.04,
+    "high": 30.16,
+    "low": 29.92,
+    "previous_close": 30.04,
+    "volume": 93323,
+    "value": 2800353.44,
+    "bid": 30.0,
+    "ask": 30.06,
+    "bid_size": 2529,
+    "ask_size": 2350,
+    "liquidity": {
+        "inflow_value": 671069.43,
+        "inflow_volume": 22356,
+        "inflow_trades": 206,
+        "outflow_value": 2129284.03,
+        "outflow_volume": 70967,
+        "outflow_trades": 453,
+        "net_value": -1458214.5999999996
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

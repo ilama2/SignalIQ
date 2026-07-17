@@ -1,0 +1,33 @@
+{
+    "symbol": "4349",
+    "company_name": "4349",
+    "generated_at": "2026-07-17T13:30:42.009306",
+    "risk_score": 84.84,
+    "risk_level": "very low",
+    "higher_is_riskier": false,
+    "market_safety_score": 94.79,
+    "fundamental_safety_score": 55.0,
+    "metrics": {
+        "observations": 860,
+        "annualized_volatility": 9.1952,
+        "downside_volatility": 5.9619,
+        "max_drawdown": 17.4455,
+        "value_at_risk_95": 0.8249,
+        "conditional_var_95": 1.235,
+        "sharpe_ratio": 0.4799,
+        "debt_to_equity": 0.0097,
+        "current_ratio": 0.0,
+        "interest_coverage": null
+    },
+    "volatility": 9.1952,
+    "max_drawdown": 17.4455,
+    "strengths": [
+        "Relatively low historical volatility",
+        "Controlled historical drawdown",
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "Weak short-term liquidity"
+    ],
+    "summary": "4349 received a safety score of 84.8/100 and a very low investment risk classification. Annualized volatility was 9.2%. Maximum drawdown was 17.4%. Main risk: Weak short-term liquidity."
+}

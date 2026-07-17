@@ -1,0 +1,38 @@
+{
+    "symbol": "4230",
+    "company_name": "4230",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 24.830614200065934,
+        "ema50": 24.191889528354977,
+        "rsi": 68.01158256968509,
+        "macd": 0.7927249367959455,
+        "macd_signal": 0.5712585895342591,
+        "macd_histogram": 0.22146634726168635,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 86909023.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 55,
+        "rating": "Hold",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "symbol": "2130",
+    "company_name": "صدق",
+    "indicators": {
+        "sma20": 16.497500085830687,
+        "sma50": 15.144200077056885,
+        "sma200": 15.069048619270324,
+        "ema20": 16.452105632816394,
+        "ema50": 15.338954471268295,
+        "rsi": 61.55288757728307,
+        "macd": 0.4167168378545796,
+        "macd_signal": 0.5102791979555947,
+        "macd_histogram": -0.09356236010101515,
+        "stochastic_k": 75.42372847110225,
+        "stochastic_d": 56.82559515672711,
+        "upper_band": 17.491599990620916,
+        "middle_band": 16.497500085830687,
+        "lower_band": 15.50340018104046,
+        "atr": 0.6796206289023041,
+        "adx": 36.569975327534536,
+        "obv": 46251314.0,
+        "current_price": 17.219999313354492,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 85,
+        "rating": "Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "symbol": "7030",
+    "company_name": "7030",
+    "generated_at": "2026-07-17T13:46:13.873097",
+    "final_score": 45.49,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 34.0,
+        "technical": 45.0,
+        "news": 50.0,
+        "risk": 67.26
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Positive Free Cash Flow",
+        "Healthy RSI",
+        "Bullish MACD",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "No major risk signal was identified"
+    ],
+    "summary": "7030 received a final investment score of 45.5/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Positive Free Cash Flow. Main risk: No major risk signal was identified.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

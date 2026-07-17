@@ -1,0 +1,33 @@
+{
+    "symbol": "4005",
+    "company_name": "رعاية",
+    "generated_at": "2026-07-17T13:30:41.820844",
+    "risk_score": 55.44,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 40.59,
+    "fundamental_safety_score": 100.0,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 36.2126,
+        "downside_volatility": 22.9326,
+        "max_drawdown": 55.2252,
+        "value_at_risk_95": 3.396,
+        "conditional_var_95": 4.7639,
+        "sharpe_ratio": 0.442,
+        "debt_to_equity": 0.4984,
+        "current_ratio": 4.2975,
+        "interest_coverage": null
+    },
+    "volatility": 36.2126,
+    "max_drawdown": 55.2252,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "رعاية received a safety score of 55.4/100 and a medium investment risk classification. Annualized volatility was 36.2%. Maximum drawdown was 55.2%. Main risk: High historical price volatility."
+}

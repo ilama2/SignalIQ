@@ -1,0 +1,29 @@
+{
+    "symbol": "2380",
+    "name": "بترو رابغ",
+    "name_en": "Rabigh Refining and Petrochemic",
+    "price": 14.56,
+    "change": 0.53,
+    "change_percent": 3.78,
+    "open": 13.9,
+    "high": 14.79,
+    "low": 13.75,
+    "previous_close": 14.03,
+    "volume": 9261944,
+    "value": 133477150.29,
+    "bid": 14.56,
+    "ask": 14.57,
+    "bid_size": 216231,
+    "ask_size": 500,
+    "liquidity": {
+        "inflow_value": 61919820.67,
+        "inflow_volume": 4297207,
+        "inflow_trades": 4861,
+        "outflow_value": 71557330.0,
+        "outflow_volume": 4964737,
+        "outflow_trades": 4671,
+        "net_value": -9637509.329999998
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

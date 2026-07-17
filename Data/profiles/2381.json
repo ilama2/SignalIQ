@@ -1,0 +1,29 @@
+{
+    "symbol": "2381",
+    "name": "الحفر العربية",
+    "name_en": "ARABIAN DRILLING",
+    "price": 89.35,
+    "change": -0.15,
+    "change_percent": -0.17,
+    "open": 89.4,
+    "high": 90.15,
+    "low": 88.55,
+    "previous_close": 89.5,
+    "volume": 69725,
+    "value": 6219901.75,
+    "bid": 89.35,
+    "ask": 89.4,
+    "bid_size": 3160,
+    "ask_size": 249,
+    "liquidity": {
+        "inflow_value": 2779722.5,
+        "inflow_volume": 31154,
+        "inflow_trades": 495,
+        "outflow_value": 3440179.27,
+        "outflow_volume": 38571,
+        "outflow_trades": 957,
+        "net_value": -660456.77
+    },
+    "updated_at": "2026-07-16T12:19:23+00:00",
+    "is_delayed": true
+}

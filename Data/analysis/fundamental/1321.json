@@ -1,0 +1,48 @@
+{
+    "symbol": "1321",
+    "company_name": "أنابيب الشرق",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.3665764649118074,
+        "roa": 0.2910123207854506,
+        "gross_margin": 0.2814412625574805,
+        "operating_margin": 0.2676036402517573,
+        "net_margin": 0.24948962371277536,
+        "current_ratio": 4.816648890778821,
+        "quick_ratio": 4.075664384712129,
+        "operating_cash_flow_ratio": 2.7560226653162383,
+        "debt_ratio": 0.2061347395680089,
+        "debt_to_equity": 0.2596596045226091,
+        "equity_multiplier": 1.2596596045226092,
+        "asset_turnover": 1.166430557130016,
+        "cash_conversion_ratio": 1.6974958772928725,
+        "free_cash_flow": 930663559.0,
+        "revenue_growth": 0.25364642815331795,
+        "net_income_growth": 0.5002011678901556
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": null,
+        "lynch_value": null,
+        "pe_value": null,
+        "intrinsic_value": 0.0,
+        "current_price": 223.0,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 98,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Excellent Return on Equity",
+            "High Net Margin",
+            "Strong Liquidity",
+            "Low Debt",
+            "Strong Revenue Growth",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

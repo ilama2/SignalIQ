@@ -1,0 +1,32 @@
+{
+    "symbol": "2380",
+    "company_name": "بترو رابغ",
+    "generated_at": "2026-07-17T13:30:41.770817",
+    "risk_score": 27.6,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 35.14,
+    "fundamental_safety_score": 5.0,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 37.7714,
+        "downside_volatility": 24.8278,
+        "max_drawdown": 72.7944,
+        "value_at_risk_95": 3.3698,
+        "conditional_var_95": 5.163,
+        "sharpe_ratio": 0.0276,
+        "debt_to_equity": 3.4935,
+        "current_ratio": 0.4037,
+        "interest_coverage": null
+    },
+    "volatility": 37.7714,
+    "max_drawdown": 72.7944,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "بترو رابغ received a safety score of 27.6/100 and a high investment risk classification. Annualized volatility was 37.8%. Maximum drawdown was 72.8%. Main risk: High historical price volatility."
+}

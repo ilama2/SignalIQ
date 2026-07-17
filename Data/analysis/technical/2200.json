@@ -1,0 +1,37 @@
+{
+    "symbol": "2200",
+    "company_name": "أنابيب",
+    "indicators": {
+        "sma20": 6.940965390205383,
+        "sma50": 7.030540943145752,
+        "sma200": 5.763600056171417,
+        "ema20": 7.013401340988307,
+        "ema50": 6.909134801573758,
+        "rsi": 46.790417154846935,
+        "macd": -0.004910746532183374,
+        "macd_signal": -0.011434138445867596,
+        "macd_histogram": 0.006523391913684222,
+        "stochastic_k": 37.254913877130285,
+        "stochastic_d": 41.83007299816042,
+        "upper_band": 7.41521870059864,
+        "middle_band": 6.940965390205383,
+        "lower_band": 6.466712079812126,
+        "atr": 0.21130793989176852,
+        "adx": 19.842015913759433,
+        "obv": 942767207.0,
+        "current_price": 6.920000076293945,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 75,
+        "rating": "Buy",
+        "strengths": [
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": []
+    }
+}

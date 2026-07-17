@@ -1,0 +1,48 @@
+{
+    "symbol": "4090",
+    "company_name": "4090",
+    "sector": "Consumer Cyclical",
+    "ratios": {
+        "roe": 0.05325348477111579,
+        "roa": 0.03625426141252873,
+        "gross_margin": 0.37255653378479425,
+        "operating_margin": 0.29131787387585134,
+        "net_margin": 0.2673881171435692,
+        "current_ratio": 0.4066033987973778,
+        "quick_ratio": 0.3878325301285221,
+        "operating_cash_flow_ratio": 0.40124679114529394,
+        "debt_ratio": 0.3114544184380779,
+        "debt_to_equity": 0.4574919604749447,
+        "equity_multiplier": 1.4688889718413207,
+        "asset_turnover": 0.1355866588232216,
+        "cash_conversion_ratio": 1.277337404216795,
+        "free_cash_flow": 424253726.0,
+        "revenue_growth": 0.037297085947364944,
+        "net_income_growth": 0.09314028792879171
+    },
+    "valuation": {
+        "dcf_value": 12.879813665452192,
+        "graham_value": 550.2000112356051,
+        "lynch_value": 272.0005613678025,
+        "pe_value": 10.939214999999999,
+        "intrinsic_value": 211.50490031721495,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 48,
+        "rating": "Sell",
+        "strengths": [
+            "High Net Margin",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity"
+        ]
+    }
+}

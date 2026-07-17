@@ -1,0 +1,29 @@
+{
+    "symbol": "2285",
+    "name": "المطاحن العربية",
+    "name_en": "ARABIAN MILLS",
+    "price": 47.14,
+    "change": -0.64,
+    "change_percent": -1.34,
+    "open": 47.48,
+    "high": 47.5,
+    "low": 46.82,
+    "previous_close": 47.78,
+    "volume": 59386,
+    "value": 2794726.84,
+    "bid": 47.14,
+    "ask": 47.16,
+    "bid_size": 1,
+    "ask_size": 1,
+    "liquidity": {
+        "inflow_value": 827063.44,
+        "inflow_volume": 17567,
+        "inflow_trades": 231,
+        "outflow_value": 1967663.4,
+        "outflow_volume": 41819,
+        "outflow_trades": 265,
+        "net_value": -1140599.96
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,48 @@
+{
+    "symbol": "4001",
+    "company_name": "أسواق ع العثيم",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.20388612245509946,
+        "roa": 0.03251924253886251,
+        "gross_margin": 0.22218084237907704,
+        "operating_margin": 0.02225915087604323,
+        "net_margin": 0.022554066014159345,
+        "current_ratio": 0.5736402666354167,
+        "quick_ratio": 0.12688589313474902,
+        "operating_cash_flow_ratio": 0.19491274079101475,
+        "debt_ratio": 0.8338162117957555,
+        "debt_to_equity": 5.227783336591306,
+        "equity_multiplier": 6.269706996140606,
+        "asset_turnover": 1.4418350340221167,
+        "cash_conversion_ratio": 2.9620124358564035,
+        "free_cash_flow": 429999862.0,
+        "revenue_growth": 0.03027810014642411,
+        "net_income_growth": -0.5105935636523448
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 171.93736081997503,
+        "lynch_value": 84.77868040998752,
+        "pe_value": 4.2,
+        "intrinsic_value": 86.97201374332086,
+        "current_price": 5.340000152587891,
+        "margin_of_safety": 0.9386009369824672,
+        "upside": 15.28689349403336,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 28,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Net Income Declining"
+        ]
+    }
+}

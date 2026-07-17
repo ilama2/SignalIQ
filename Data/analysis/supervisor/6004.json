@@ -1,0 +1,35 @@
+{
+    "symbol": "6004",
+    "company_name": "6004",
+    "generated_at": "2026-07-17T13:46:13.862388",
+    "final_score": 49.09,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 47.0,
+        "technical": 45.0,
+        "news": 50.0,
+        "risk": 60.96
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "6004 received a final investment score of 49.1/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Short-Term Uptrend. Main risk: Large historical maximum drawdown.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

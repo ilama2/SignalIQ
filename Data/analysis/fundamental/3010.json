@@ -1,0 +1,47 @@
+{
+    "symbol": "3010",
+    "company_name": "أسمنت العربية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.06401751359957543,
+        "roa": 0.054008294920016076,
+        "gross_margin": 0.24077032646425012,
+        "operating_margin": 0.1729591159472001,
+        "net_margin": 0.15535224567147965,
+        "current_ratio": 4.685399684793845,
+        "quick_ratio": 1.751050687183311,
+        "operating_cash_flow_ratio": 1.0740903929908996,
+        "debt_ratio": 0.12462508558718371,
+        "debt_to_equity": 0.1477215328356715,
+        "equity_multiplier": 1.1853274333948622,
+        "asset_turnover": 0.347650558165901,
+        "cash_conversion_ratio": 1.5363694209617307,
+        "free_cash_flow": 158544000.0,
+        "revenue_growth": 0.23820342598690922,
+        "net_income_growth": 0.030718876681012135
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 7874.738057568004,
+        "lynch_value": 3930.356528784002,
+        "pe_value": 24.75,
+        "intrinsic_value": 3943.281528784002,
+        "current_price": 23.399999618530273,
+        "margin_of_safety": 0.9940658562043512,
+        "upside": 167.5163073960629,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 69,
+        "rating": "Hold",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt",
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity"
+        ]
+    }
+}

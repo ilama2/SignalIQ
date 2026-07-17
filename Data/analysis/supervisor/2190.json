@@ -1,0 +1,42 @@
+{
+    "symbol": "2190",
+    "company_name": "سيسكو القابضة",
+    "generated_at": "2026-07-17T13:46:13.768086",
+    "final_score": 58.64,
+    "recommendation": "Hold",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 44.0,
+        "technical": 90.0,
+        "news": 50.0,
+        "risk": 41.63
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Strong Revenue Growth",
+        "Positive Free Cash Flow",
+        "Bullish Trend",
+        "Price Above SMA200",
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Bullish MACD",
+        "Positive Stochastic",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio"
+    ],
+    "summary": "سيسكو القابضة received a final investment score of 58.6/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Strong Revenue Growth. Main risk: Large historical maximum drawdown.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

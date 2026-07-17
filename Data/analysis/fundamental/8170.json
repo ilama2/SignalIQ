@@ -1,0 +1,48 @@
+{
+    "symbol": "8170",
+    "company_name": "8170",
+    "sector": "Financial Services",
+    "ratios": {
+        "roe": -0.5437103106197938,
+        "roa": -0.20350152765174534,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": -0.20502162236514118,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.625716997311,
+        "debt_to_equity": 1.6717750814640169,
+        "equity_multiplier": 2.6717750814640167,
+        "asset_turnover": 0.9925856858615206,
+        "cash_conversion_ratio": 0.9672399404362554,
+        "free_cash_flow": -237249000.0,
+        "revenue_growth": -0.17510289731439566,
+        "net_income_growth": -5.975047828387675
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": null,
+        "margin_of_safety": 0.0,
+        "upside": null,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 9,
+        "rating": "Strong Sell",
+        "strengths": [],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Revenue Declining",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

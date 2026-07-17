@@ -1,0 +1,45 @@
+{
+    "symbol": "1835",
+    "company_name": "تمكين",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.2704153812876576,
+        "roa": 0.1599479008448592,
+        "gross_margin": 0.17759515829157915,
+        "operating_margin": 0.09521057657147823,
+        "net_margin": 0.09377826972018569,
+        "current_ratio": 3.090026545155582,
+        "quick_ratio": 3.090026545155582,
+        "operating_cash_flow_ratio": 0.6139800119408505,
+        "debt_ratio": 0.40312395798969314,
+        "debt_to_equity": 0.6815401654549204,
+        "equity_multiplier": 1.6906466409330738,
+        "asset_turnover": 1.705596630457243,
+        "cash_conversion_ratio": 1.0457788887398207,
+        "free_cash_flow": 93241491.0,
+        "revenue_growth": 0.4053020991472503,
+        "net_income_growth": 0.1121968951657551
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 29131.20571877257,
+        "lynch_value": 14550.345359386285,
+        "pe_value": 53.849999999999994,
+        "intrinsic_value": 14578.467026052951,
+        "current_price": 47.599998474121094,
+        "margin_of_safety": 0.9967349105781111,
+        "upside": 305.2703254912685,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 69,
+        "rating": "Hold",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Strong Liquidity",
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

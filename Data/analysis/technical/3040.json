@@ -1,0 +1,39 @@
+{
+    "symbol": "3040",
+    "company_name": "أسمنت القصيم",
+    "indicators": {
+        "sma20": 44.93600063323974,
+        "sma50": 44.74585899353028,
+        "sma200": 41.77120859146118,
+        "ema20": 44.98291666085736,
+        "ema50": 44.458855816958284,
+        "rsi": 61.693866751190036,
+        "macd": 0.21964392710841452,
+        "macd_signal": 0.17921378185977221,
+        "macd_histogram": 0.0404301452486423,
+        "stochastic_k": 87.77791670816917,
+        "stochastic_d": 80.09273824389241,
+        "upper_band": 45.65317329853467,
+        "middle_band": 44.93600063323974,
+        "lower_band": 44.21882796794482,
+        "atr": 0.4581437803503792,
+        "adx": 16.082634928343914,
+        "obv": 8329264.0,
+        "current_price": 45.58000183105469,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 90,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": []
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "symbol": "2001",
+    "company_name": "كيمانول",
+    "indicators": {
+        "sma20": 22.825892400741576,
+        "sma50": 14.45235689163208,
+        "sma200": 9.942039217948913,
+        "ema20": 27.2825565874734,
+        "ema50": 18.17560007928388,
+        "rsi": 99.8886923067417,
+        "macd": 8.623468216708783,
+        "macd_signal": 6.678857328409164,
+        "macd_histogram": 1.9446108882996196,
+        "stochastic_k": 99.99998769972079,
+        "stochastic_d": 99.99999589990693,
+        "upper_band": 53.683531792334705,
+        "middle_band": 22.825892400741576,
+        "lower_band": -8.031746990851556,
+        "atr": 1.2308930090035732,
+        "adx": 58.871860691909816,
+        "obv": 151827338.0,
+        "current_price": 39.88309097290039,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 80,
+        "rating": "Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Bullish MACD",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Overbought"
+        ]
+    }
+}

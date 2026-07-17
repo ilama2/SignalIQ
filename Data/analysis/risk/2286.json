@@ -1,0 +1,33 @@
+{
+    "symbol": "2286",
+    "company_name": "المطاحن الرابعة",
+    "generated_at": "2026-07-17T13:30:41.745573",
+    "risk_score": 82.8,
+    "risk_level": "very low",
+    "higher_is_riskier": false,
+    "market_safety_score": 77.63,
+    "fundamental_safety_score": 98.32,
+    "metrics": {
+        "observations": 432,
+        "annualized_volatility": 19.2248,
+        "downside_volatility": 14.1604,
+        "max_drawdown": 31.9243,
+        "value_at_risk_95": 1.8307,
+        "conditional_var_95": 2.9335,
+        "sharpe_ratio": -0.3325,
+        "debt_to_equity": 0.5842,
+        "current_ratio": 3.6968,
+        "interest_coverage": null
+    },
+    "volatility": 19.2248,
+    "max_drawdown": 31.9243,
+    "strengths": [
+        "Relatively low historical volatility",
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "No major risk signal was identified"
+    ],
+    "summary": "المطاحن الرابعة received a safety score of 82.8/100 and a very low investment risk classification. Annualized volatility was 19.2%. Maximum drawdown was 31.9%. Main risk: No major risk signal was identified."
+}

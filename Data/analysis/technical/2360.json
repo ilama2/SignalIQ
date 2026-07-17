@@ -1,0 +1,39 @@
+{
+    "symbol": "2360",
+    "company_name": "الفخارية",
+    "indicators": {
+        "sma20": 17.841000080108643,
+        "sma50": 17.022954139709473,
+        "sma200": 20.497738523483278,
+        "ema20": 17.64565432376505,
+        "ema50": 17.47409767294546,
+        "rsi": 53.71767991720227,
+        "macd": 0.2788047040339414,
+        "macd_signal": 0.30976402496498123,
+        "macd_histogram": -0.030959320931039813,
+        "stochastic_k": 31.43715857604439,
+        "stochastic_d": 36.027967592587295,
+        "upper_band": 19.29422964579662,
+        "middle_band": 17.841000080108643,
+        "lower_band": 16.387770514420666,
+        "atr": 0.8473243046732825,
+        "adx": 29.875116347101233,
+        "obv": 23834676.0,
+        "current_price": 17.950000762939453,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 55,
+        "rating": "Hold",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

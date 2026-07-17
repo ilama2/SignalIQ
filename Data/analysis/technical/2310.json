@@ -1,0 +1,38 @@
+{
+    "symbol": "2310",
+    "company_name": "سبكيم العالمية",
+    "indicators": {
+        "sma20": 14.190999984741211,
+        "sma50": 14.491599998474122,
+        "sma200": 15.711176404953003,
+        "ema20": 14.167152713809601,
+        "ema50": 14.494201853547796,
+        "rsi": 35.8582120961708,
+        "macd": -0.15173753819084723,
+        "macd_signal": -0.12910139070081925,
+        "macd_histogram": -0.022636147490027986,
+        "stochastic_k": 2.1053117662353045,
+        "stochastic_d": 2.45308207315176,
+        "upper_band": 14.691075861145988,
+        "middle_band": 14.190999984741211,
+        "lower_band": 13.690924108336434,
+        "atr": 0.23584404752042656,
+        "adx": 16.782156612894674,
+        "obv": 93625004.0,
+        "current_price": 13.8100004196167,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 20,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

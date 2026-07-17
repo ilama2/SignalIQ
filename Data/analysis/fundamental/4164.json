@@ -1,0 +1,45 @@
+{
+    "symbol": "4164",
+    "company_name": "4164",
+    "sector": "Healthcare",
+    "ratios": {
+        "roe": 0.3027978651940593,
+        "roa": 0.12415964465782559,
+        "gross_margin": 0.3726116291016362,
+        "operating_margin": 0.08966799324985227,
+        "net_margin": 0.08133928998648075,
+        "current_ratio": 1.5361772338380322,
+        "quick_ratio": 0.4754947212692535,
+        "operating_cash_flow_ratio": 0.5279163224062238,
+        "debt_ratio": 0.5899586525213669,
+        "debt_to_equity": 1.4387784455130082,
+        "equity_multiplier": 2.4387784455130084,
+        "asset_turnover": 1.5264412152904447,
+        "cash_conversion_ratio": 1.3647271793031726,
+        "free_cash_flow": 716112030.0,
+        "revenue_growth": 0.08117555129519169,
+        "net_income_growth": 0.012201349768871769
+    },
+    "valuation": {
+        "dcf_value": 100.51290295392265,
+        "graham_value": 10428.550455525496,
+        "lynch_value": 5187.117727762748,
+        "pe_value": 95.85,
+        "intrinsic_value": 3953.0077715605416,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 47,
+        "rating": "Sell",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "High Debt"
+        ]
+    }
+}

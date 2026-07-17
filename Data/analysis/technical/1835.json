@@ -1,0 +1,39 @@
+{
+    "symbol": "1835",
+    "company_name": "تمكين",
+    "indicators": {
+        "sma20": 46.22000026702881,
+        "sma50": 45.61520004272461,
+        "sma200": 49.808332233428956,
+        "ema20": 46.20977059149411,
+        "ema50": 45.9725752577742,
+        "rsi": 61.81447589581625,
+        "macd": 0.331553789985918,
+        "macd_signal": 0.11139649681340577,
+        "macd_histogram": 0.22015729317251223,
+        "stochastic_k": 86.48647534053934,
+        "stochastic_d": 90.53487721537239,
+        "upper_band": 48.39476390220828,
+        "middle_band": 46.22000026702881,
+        "lower_band": 44.045236631849335,
+        "atr": 0.9091683237122815,
+        "adx": 27.47285726877028,
+        "obv": 27154657.0,
+        "current_price": 47.599998474121094,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 65,
+        "rating": "Hold",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200"
+        ]
+    }
+}

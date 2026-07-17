@@ -1,0 +1,29 @@
+{
+    "symbol": "1321",
+    "name": "أنابيب الشرق",
+    "name_en": "EAST PIPES",
+    "price": 223.0,
+    "change": -0.4,
+    "change_percent": -0.18,
+    "open": 223.5,
+    "high": 223.9,
+    "low": 218.4,
+    "previous_close": 223.4,
+    "volume": 118398,
+    "value": 26288126.8,
+    "bid": 222.4,
+    "ask": 223.1,
+    "bid_size": 4,
+    "ask_size": 91,
+    "liquidity": {
+        "inflow_value": 10062260.18,
+        "inflow_volume": 45289,
+        "inflow_trades": 842,
+        "outflow_value": 16225866.63,
+        "outflow_volume": 73109,
+        "outflow_trades": 1578,
+        "net_value": -6163606.450000001
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

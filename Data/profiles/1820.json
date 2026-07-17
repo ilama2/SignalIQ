@@ -1,0 +1,29 @@
+{
+    "symbol": "1820",
+    "name": "بان",
+    "name_en": "BAAN",
+    "price": 2.02,
+    "change": 0.0,
+    "change_percent": 0.0,
+    "open": 2.04,
+    "high": 2.05,
+    "low": 2.02,
+    "previous_close": 2.02,
+    "volume": 1750333,
+    "value": 3552399.59,
+    "bid": 2.02,
+    "ask": 2.03,
+    "bid_size": 323521,
+    "ask_size": 3040,
+    "liquidity": {
+        "inflow_value": 1460797.6,
+        "inflow_volume": 718389,
+        "inflow_trades": 521,
+        "outflow_value": 2091601.94,
+        "outflow_volume": 1031944,
+        "outflow_trades": 461,
+        "net_value": -630804.3399999999
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

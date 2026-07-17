@@ -1,0 +1,49 @@
+{
+    "symbol": "2282",
+    "company_name": "نقي",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.009920779510145993,
+        "roa": -0.009040862411316143,
+        "gross_margin": 0.35878304734480665,
+        "operating_margin": 0.0414046826488679,
+        "net_margin": -0.01437730749244028,
+        "current_ratio": 6.078329341294724,
+        "quick_ratio": 5.117005136546679,
+        "operating_cash_flow_ratio": 2.6809083134432585,
+        "debt_ratio": 0.0886943508753479,
+        "debt_to_equity": 0.09732667734534797,
+        "equity_multiplier": 1.097326677345348,
+        "asset_turnover": 0.6288286187152852,
+        "cash_conversion_ratio": -18.729873534424673,
+        "free_cash_flow": 3973730.0,
+        "revenue_growth": -0.14769319940186232,
+        "net_income_growth": -1.0890435469967394
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 55.70000076293945,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 51,
+        "rating": "Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "symbol": "2082",
+    "company_name": "أكوا",
+    "generated_at": "2026-07-17T13:21:19.482523",
+    "article_count": 1,
+    "articles": [
+        {
+            "title": "ACWA Congratulates Gibson on Appointment to Lead DWR",
+            "description": "ACWA issues a statement in response to Gov. Gavin Newsom’s appointment of Thomas Gibson as the new Director of the California Department of Water Resources",
+            "content": "SACRAMENTO, Calif., June 30, 2026 (GLOBE NEWSWIRE) -- ACWA Interim Executive Director Marwan Khalifa issued the following statement in response to Gov. Gavin Newsoms appointment of Thomas Gibson as t… [+1133 chars]",
+            "url": "https://www.globenewswire.com/news-release/2026/06/30/3320224/0/en/ACWA-Congratulates-Gibson-on-Appointment-to-Lead-DWR.html",
+            "image_url": "https://ml.globenewswire.com/Resource/Download/ea42f143-5d1a-49fb-a7d6-731378727510",
+            "source": {
+                "name": "GlobeNewswire",
+                "url": null
+            },
+            "author": "Association of California Water Agencies",
+            "published_at": "2026-06-30T21:30:00Z",
+            "language": "en",
+            "sentiment": {
+                "label": "neutral",
+                "confidence": 0.9175,
+                "score": 0.0
+            },
+            "relevance_score": 1.0,
+            "impact_score": null
+        }
+    ],
+    "score": {
+        "score": 50,
+        "rating": "Neutral",
+        "positive_articles": 0,
+        "neutral_articles": 1,
+        "negative_articles": 0,
+        "average_sentiment": 0.0,
+        "confidence": 0.1835,
+        "strengths": [],
+        "risks": []
+    },
+    "summary": {
+        "summary": "Limited recent coverage for أكوا does not show a clear directional signal.",
+        "key_events": [
+            "ACWA Congratulates Gibson on Appointment to Lead DWR"
+        ],
+        "opportunities": [],
+        "risks": [],
+        "expected_impact": "Neutral"
+    }
+}

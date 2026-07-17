@@ -1,0 +1,29 @@
+{
+    "symbol": "2080",
+    "name": "الغاز",
+    "name_en": "National Gas & Indstrlztn Cmpy SJSC",
+    "price": 69.15,
+    "change": 0.1,
+    "change_percent": 0.14,
+    "open": 68.75,
+    "high": 69.2,
+    "low": 67.75,
+    "previous_close": 69.05,
+    "volume": 163976,
+    "value": 11195203.2,
+    "bid": 68.8,
+    "ask": 69.15,
+    "bid_size": 10,
+    "ask_size": 4882,
+    "liquidity": {
+        "inflow_value": 4226830.21,
+        "inflow_volume": 61906,
+        "inflow_trades": 626,
+        "outflow_value": 6968372.89,
+        "outflow_volume": 102070,
+        "outflow_trades": 635,
+        "net_value": -2741542.6799999997
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

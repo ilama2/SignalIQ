@@ -1,0 +1,30 @@
+{
+    "symbol": "1030",
+    "company_name": "الإستثمار",
+    "generated_at": "2026-07-17T13:30:41.585877",
+    "risk_score": 56.76,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 74.01,
+    "fundamental_safety_score": 5.0,
+    "metrics": {
+        "observations": 1247,
+        "annualized_volatility": 21.243,
+        "downside_volatility": 14.2856,
+        "max_drawdown": 34.1363,
+        "value_at_risk_95": 2.0463,
+        "conditional_var_95": 2.8489,
+        "sharpe_ratio": 0.5814,
+        "debt_to_equity": 6.6992,
+        "current_ratio": 0.0,
+        "interest_coverage": null
+    },
+    "volatility": 21.243,
+    "max_drawdown": 34.1363,
+    "strengths": [],
+    "risks": [
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "الإستثمار received a safety score of 56.8/100 and a medium investment risk classification. Annualized volatility was 21.2%. Maximum drawdown was 34.1%. Main risk: High debt-to-equity ratio."
+}

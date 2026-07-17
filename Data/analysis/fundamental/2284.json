@@ -1,0 +1,47 @@
+{
+    "symbol": "2284",
+    "company_name": "المطاحن الحديثة",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.6929181821906161,
+        "roa": 0.17559385073733327,
+        "gross_margin": 0.3737156393481045,
+        "operating_margin": 0.2468664414813663,
+        "net_margin": 0.21381693842291627,
+        "current_ratio": 0.8892138005991035,
+        "quick_ratio": 0.505549763714317,
+        "operating_cash_flow_ratio": 1.1524572318486923,
+        "debt_ratio": 0.7465879013562544,
+        "debt_to_equity": 2.9461415037086702,
+        "equity_multiplier": 3.9461415037086702,
+        "asset_turnover": 0.8212345197367846,
+        "cash_conversion_ratio": 1.173788952894573,
+        "free_cash_flow": 123073852.0,
+        "revenue_growth": 0.03117282052908503,
+        "net_income_growth": 0.07243678539055558
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 1744.1996932054933,
+        "lynch_value": 860.3698466027466,
+        "pe_value": 41.4,
+        "intrinsic_value": 881.9898466027466,
+        "current_price": 28.63999938964844,
+        "margin_of_safety": 0.9675279715520942,
+        "upside": 29.795735523707116,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 52,
+        "rating": "Sell",
+        "strengths": [
+            "Excellent Return on Equity",
+            "High Net Margin",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Weak Liquidity",
+            "High Debt"
+        ]
+    }
+}

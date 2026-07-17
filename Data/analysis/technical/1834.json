@@ -1,0 +1,39 @@
+{
+    "symbol": "1834",
+    "company_name": "سماسكو",
+    "indicators": {
+        "sma20": 6.277500009536743,
+        "sma50": 6.175600004196167,
+        "sma200": 5.651701710224152,
+        "ema20": 6.276261346068346,
+        "ema50": 6.142716467934455,
+        "rsi": 59.53094933905068,
+        "macd": 0.03705283976795215,
+        "macd_signal": 0.031726958339578934,
+        "macd_histogram": 0.005325881428373216,
+        "stochastic_k": 93.02320423608994,
+        "stochastic_d": 84.7438295807478,
+        "upper_band": 6.446836927538299,
+        "middle_band": 6.277500009536743,
+        "lower_band": 6.108163091535187,
+        "atr": 0.1467196820172497,
+        "adx": 18.198180855024454,
+        "obv": 571720474.0,
+        "current_price": 6.449999809265137,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 85,
+        "rating": "Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": []
+    }
+}

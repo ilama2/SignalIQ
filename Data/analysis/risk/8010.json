@@ -1,0 +1,31 @@
+{
+    "symbol": "8010",
+    "company_name": "8010",
+    "generated_at": "2026-07-17T13:30:42.075066",
+    "risk_score": 41.12,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 53.16,
+    "fundamental_safety_score": 5.0,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 32.6413,
+        "downside_volatility": 18.6921,
+        "max_drawdown": 45.491,
+        "value_at_risk_95": 2.9622,
+        "conditional_var_95": 4.0195,
+        "sharpe_ratio": 0.5962,
+        "debt_to_equity": 3.0623,
+        "current_ratio": 0.0,
+        "interest_coverage": null
+    },
+    "volatility": 32.6413,
+    "max_drawdown": 45.491,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "8010 received a safety score of 41.1/100 and a high investment risk classification. Annualized volatility was 32.6%. Maximum drawdown was 45.5%. Main risk: Large historical maximum drawdown."
+}

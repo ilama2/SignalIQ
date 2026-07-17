@@ -1,0 +1,38 @@
+{
+    "symbol": "1324",
+    "company_name": "صالح الراشد",
+    "indicators": {
+        "sma20": 42.66599998474121,
+        "sma50": 45.50819999694824,
+        "sma200": 0.0,
+        "ema20": 42.64781638502533,
+        "ema50": 45.4974287941306,
+        "rsi": 31.800939761883214,
+        "macd": -1.3366155051082416,
+        "macd_signal": -1.3956418482324198,
+        "macd_histogram": 0.059026343124178204,
+        "stochastic_k": 20.19702998670494,
+        "stochastic_d": 27.515821549931854,
+        "upper_band": 45.24049452440759,
+        "middle_band": 42.66599998474121,
+        "lower_band": 40.09150544507484,
+        "atr": 1.3284655743317886,
+        "adx": 25.044968630199826,
+        "obv": 6924237.0,
+        "current_price": 40.81999969482422,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 60,
+        "rating": "Hold",
+        "strengths": [
+            "Price Above SMA200",
+            "Bullish MACD",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Short-Term Downtrend"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "symbol": "1301",
+    "company_name": "أسلاك",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.014571174419782321,
+        "roa": 0.010104722111114742,
+        "gross_margin": 0.06391133196167652,
+        "operating_margin": 0.009762942847324192,
+        "net_margin": 0.006725941729649298,
+        "current_ratio": 2.5087915745301124,
+        "quick_ratio": 1.5525347206660778,
+        "operating_cash_flow_ratio": 0.2103302574812733,
+        "debt_ratio": 0.3065265832384637,
+        "debt_to_equity": 0.44201634241427395,
+        "equity_multiplier": 1.442016342414274,
+        "asset_turnover": 1.5023505283388205,
+        "cash_conversion_ratio": 5.7655668312027,
+        "free_cash_flow": 18329347.0,
+        "revenue_growth": 0.08944172645026709,
+        "net_income_growth": -0.6807320084664953
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 323.5202152209615,
+        "lynch_value": 160.99510761048077,
+        "pe_value": 2.6999999999999997,
+        "intrinsic_value": 162.40510761048077,
+        "current_price": 16.440000534057617,
+        "margin_of_safety": 0.8987716533307067,
+        "upside": 8.878655859775508,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 49,
+        "rating": "Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Net Income Declining"
+        ]
+    }
+}

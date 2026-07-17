@@ -1,0 +1,47 @@
+{
+    "symbol": "4323",
+    "company_name": "4323",
+    "sector": "Real Estate",
+    "ratios": {
+        "roe": 0.17615645762897836,
+        "roa": 0.07939344342446765,
+        "gross_margin": 0.2873297552774395,
+        "operating_margin": 0.25046267218660917,
+        "net_margin": 0.25876986804476665,
+        "current_ratio": 1.5196437794913762,
+        "quick_ratio": 0.766059868905971,
+        "operating_cash_flow_ratio": 0.16000770933992658,
+        "debt_ratio": 0.5502196030725366,
+        "debt_to_equity": 1.2208153723360247,
+        "equity_multiplier": 2.218778403238901,
+        "asset_turnover": 0.3068110055639583,
+        "cash_conversion_ratio": 0.8879986678278542,
+        "free_cash_flow": 119026441.0,
+        "revenue_growth": 0.21694982513176875,
+        "net_income_growth": 0.2687737452210318
+    },
+    "valuation": {
+        "dcf_value": 74.33336033571668,
+        "graham_value": 11759.97803962869,
+        "lynch_value": 5868.492769814345,
+        "pe_value": 40.575,
+        "intrinsic_value": 4435.844792444688,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 61,
+        "rating": "Hold",
+        "strengths": [
+            "High Net Margin",
+            "Strong Revenue Growth",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "High Debt"
+        ]
+    }
+}

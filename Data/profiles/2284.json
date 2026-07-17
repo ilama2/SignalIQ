@@ -1,0 +1,29 @@
+{
+    "symbol": "2284",
+    "name": "المطاحن الحديثة",
+    "name_en": "MODERN MILLS",
+    "price": 28.64,
+    "change": -0.16,
+    "change_percent": -0.56,
+    "open": 28.52,
+    "high": 28.64,
+    "low": 28.44,
+    "previous_close": 28.8,
+    "volume": 40891,
+    "value": 1167303.44,
+    "bid": 28.46,
+    "ask": 28.64,
+    "bid_size": 513,
+    "ask_size": 2792,
+    "liquidity": {
+        "inflow_value": 509566.38,
+        "inflow_volume": 17844,
+        "inflow_trades": 190,
+        "outflow_value": 657737.06,
+        "outflow_volume": 23047,
+        "outflow_trades": 202,
+        "net_value": -148170.68000000005
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

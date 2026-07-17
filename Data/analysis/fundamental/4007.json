@@ -1,0 +1,46 @@
+{
+    "symbol": "4007",
+    "company_name": "الحمادي",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.12061847701091985,
+        "roa": 0.08843071396551144,
+        "gross_margin": 0.2940601354466485,
+        "operating_margin": 0.19207009169200065,
+        "net_margin": 0.19591229010349034,
+        "current_ratio": 2.9718806924659504,
+        "quick_ratio": 2.672693303331136,
+        "operating_cash_flow_ratio": 0.7617732004194139,
+        "debt_ratio": 0.26685598958851364,
+        "debt_to_equity": 0.3639885013024076,
+        "equity_multiplier": 1.3639885013024076,
+        "asset_turnover": 0.45137910397963327,
+        "cash_conversion_ratio": 0.8844793640071975,
+        "free_cash_flow": 115894190.0,
+        "revenue_growth": 0.06989483475570149,
+        "net_income_growth": -0.2861296844463898
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 2123.6590096221853,
+        "lynch_value": 1055.4120048110926,
+        "pe_value": 22.65,
+        "intrinsic_value": 1067.240338144426,
+        "current_price": 26.899999618530273,
+        "margin_of_safety": 0.9747948061396364,
+        "upside": 38.674362575427295,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 64,
+        "rating": "Hold",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Net Income Declining"
+        ]
+    }
+}

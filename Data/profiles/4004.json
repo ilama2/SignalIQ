@@ -1,0 +1,29 @@
+{
+    "symbol": "4004",
+    "name": "دله الصحية",
+    "name_en": "Dallah Healthcare Company SJSC",
+    "price": 106.5,
+    "change": -0.9,
+    "change_percent": -0.84,
+    "open": 107.4,
+    "high": 108.4,
+    "low": 106.5,
+    "previous_close": 107.4,
+    "volume": 46482,
+    "value": 4978778.1,
+    "bid": 106.5,
+    "ask": 107.1,
+    "bid_size": 1190,
+    "ask_size": 15,
+    "liquidity": {
+        "inflow_value": 1891327.11,
+        "inflow_volume": 17631,
+        "inflow_trades": 191,
+        "outflow_value": 3087451.01,
+        "outflow_volume": 28851,
+        "outflow_trades": 371,
+        "net_value": -1196123.8999999997
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

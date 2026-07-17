@@ -1,0 +1,34 @@
+{
+    "symbol": "1213",
+    "company_name": "نسيج",
+    "generated_at": "2026-07-17T13:30:41.623849",
+    "risk_score": 7.59,
+    "risk_level": "very high",
+    "higher_is_riskier": false,
+    "market_safety_score": 5.86,
+    "fundamental_safety_score": 12.78,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 70.1861,
+        "downside_volatility": 46.1173,
+        "max_drawdown": 88.4735,
+        "value_at_risk_95": 4.0418,
+        "conditional_var_95": 6.8087,
+        "sharpe_ratio": -0.0971,
+        "debt_to_equity": 14.3014,
+        "current_ratio": 0.7592,
+        "interest_coverage": null
+    },
+    "volatility": 70.1861,
+    "max_drawdown": 88.4735,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown",
+        "Elevated one-day Value at Risk",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "نسيج received a safety score of 7.6/100 and a very high investment risk classification. Annualized volatility was 70.2%. Maximum drawdown was 88.5%. Main risk: High historical price volatility."
+}

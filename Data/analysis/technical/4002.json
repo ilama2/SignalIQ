@@ -1,0 +1,39 @@
+{
+    "symbol": "4002",
+    "company_name": "المواساة",
+    "indicators": {
+        "sma20": 62.65750026702881,
+        "sma50": 64.45600044250489,
+        "sma200": 67.43074182510377,
+        "ema20": 62.70162868397075,
+        "ema50": 64.22778718725408,
+        "rsi": 32.997377945866006,
+        "macd": -1.0039508266358652,
+        "macd_signal": -0.8817661432648748,
+        "macd_histogram": -0.12218468337099042,
+        "stochastic_k": 21.917882666231897,
+        "stochastic_d": 13.242045401497592,
+        "upper_band": 64.56414043725596,
+        "middle_band": 62.65750026702881,
+        "lower_band": 60.75086009680167,
+        "atr": 0.9797498519090827,
+        "adx": 22.248486352388372,
+        "obv": 13350567.0,
+        "current_price": 60.900001525878906,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

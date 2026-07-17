@@ -1,0 +1,40 @@
+{
+    "symbol": "3092",
+    "company_name": "أسمنت الرياض",
+    "indicators": {
+        "sma20": 22.77550001144409,
+        "sma50": 22.75240001678467,
+        "sma200": 23.57883635520935,
+        "ema20": 22.680488388488296,
+        "ema50": 22.79553664041573,
+        "rsi": 45.861480078262545,
+        "macd": -0.06046786011752303,
+        "macd_signal": -0.03954198812200609,
+        "macd_histogram": -0.02092587199551694,
+        "stochastic_k": 27.142903853385132,
+        "stochastic_d": 23.40657891640147,
+        "upper_band": 23.18246308925636,
+        "middle_band": 22.77550001144409,
+        "lower_band": 22.368536933631823,
+        "atr": 0.23202356983092046,
+        "adx": 16.98079229292608,
+        "obv": 11347556.0,
+        "current_price": 22.600000381469727,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

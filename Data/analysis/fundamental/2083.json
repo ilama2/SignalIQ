@@ -1,0 +1,47 @@
+{
+    "symbol": "2083",
+    "company_name": "مرافق",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.0801151418523663,
+        "roa": 0.02028754700287547,
+        "gross_margin": 0.1176969082673685,
+        "operating_margin": 0.18060389137326832,
+        "net_margin": 0.0647066784534714,
+        "current_ratio": 1.1212477559753096,
+        "quick_ratio": 1.0033713466830911,
+        "operating_cash_flow_ratio": 0.524330002334648,
+        "debt_ratio": 0.7467701294187217,
+        "debt_to_equity": 2.948981207092761,
+        "equity_multiplier": 3.948981207092761,
+        "asset_turnover": 0.31353095982918716,
+        "cash_conversion_ratio": 3.65292327135826,
+        "free_cash_flow": 1222450000.0,
+        "revenue_growth": 0.009066990546561852,
+        "net_income_growth": 25.20265858208955
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 1095.3,
+        "lynch_value": 540.0,
+        "pe_value": 27.0,
+        "intrinsic_value": 554.1,
+        "current_price": 36.65999984741211,
+        "margin_of_safety": 0.9338386575574588,
+        "upside": 14.114566347689575,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 34,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "High Debt"
+        ]
+    }
+}

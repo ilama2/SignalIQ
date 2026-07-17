@@ -1,0 +1,33 @@
+{
+    "symbol": "4338",
+    "company_name": "4338",
+    "generated_at": "2026-07-17T13:30:41.990600",
+    "risk_score": 68.21,
+    "risk_level": "low",
+    "higher_is_riskier": false,
+    "market_safety_score": 72.47,
+    "fundamental_safety_score": 55.43,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 16.4982,
+        "downside_volatility": 11.024,
+        "max_drawdown": 45.181,
+        "value_at_risk_95": 1.6148,
+        "conditional_var_95": 2.3012,
+        "sharpe_ratio": -0.3858,
+        "debt_to_equity": 0.7256,
+        "current_ratio": 0.6648,
+        "interest_coverage": null
+    },
+    "volatility": 16.4982,
+    "max_drawdown": 45.181,
+    "strengths": [
+        "Relatively low historical volatility",
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4338 received a safety score of 68.2/100 and a low investment risk classification. Annualized volatility was 16.5%. Maximum drawdown was 45.2%. Main risk: Large historical maximum drawdown."
+}

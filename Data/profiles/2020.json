@@ -1,0 +1,29 @@
+{
+    "symbol": "2020",
+    "name": "سابك للمغذيات الزراعية",
+    "name_en": "Saudi Arabian Fertilizer Co.",
+    "price": 124.0,
+    "change": -0.4,
+    "change_percent": -0.32,
+    "open": 124.4,
+    "high": 124.4,
+    "low": 123.0,
+    "previous_close": 124.4,
+    "volume": 382983,
+    "value": 47367297.7,
+    "bid": 123.9,
+    "ask": 124.0,
+    "bid_size": 11,
+    "ask_size": 1579,
+    "liquidity": {
+        "inflow_value": 25642305.99,
+        "inflow_volume": 207220,
+        "inflow_trades": 1414,
+        "outflow_value": 21724991.72,
+        "outflow_volume": 175763,
+        "outflow_trades": 1373,
+        "net_value": 3917314.2699999996
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

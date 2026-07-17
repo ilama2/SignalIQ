@@ -1,0 +1,32 @@
+{
+    "symbol": "4160",
+    "company_name": "4160",
+    "generated_at": "2026-07-17T13:30:41.891794",
+    "risk_score": 14.91,
+    "risk_level": "very high",
+    "higher_is_riskier": false,
+    "market_safety_score": 15.37,
+    "fundamental_safety_score": 13.54,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 133.6263,
+        "downside_volatility": 29.597,
+        "max_drawdown": 66.8625,
+        "value_at_risk_95": 3.4164,
+        "conditional_var_95": 5.3436,
+        "sharpe_ratio": 0.4558,
+        "debt_to_equity": 4.5065,
+        "current_ratio": 0.7848,
+        "interest_coverage": null
+    },
+    "volatility": 133.6263,
+    "max_drawdown": 66.8625,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4160 received a safety score of 14.9/100 and a very high investment risk classification. Annualized volatility was 133.6%. Maximum drawdown was 66.9%. Main risk: High historical price volatility."
+}

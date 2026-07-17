@@ -1,0 +1,31 @@
+{
+    "symbol": "6004",
+    "company_name": "6004",
+    "generated_at": "2026-07-17T13:30:42.019661",
+    "risk_score": 60.96,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 54.64,
+    "fundamental_safety_score": 79.91,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 27.3911,
+        "downside_volatility": 17.8392,
+        "max_drawdown": 50.9998,
+        "value_at_risk_95": 2.5523,
+        "conditional_var_95": 3.69,
+        "sharpe_ratio": 0.1617,
+        "debt_to_equity": 1.1917,
+        "current_ratio": 1.7913,
+        "interest_coverage": null
+    },
+    "volatility": 27.3911,
+    "max_drawdown": 50.9998,
+    "strengths": [
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "6004 received a safety score of 61.0/100 and a medium investment risk classification. Annualized volatility was 27.4%. Maximum drawdown was 51.0%. Main risk: Large historical maximum drawdown."
+}

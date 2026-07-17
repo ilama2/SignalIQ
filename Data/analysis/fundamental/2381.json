@@ -1,0 +1,47 @@
+{
+    "symbol": "2381",
+    "company_name": "الحفر العربية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.013096277395991751,
+        "roa": -0.0074583521035318815,
+        "gross_margin": 0.10895327460797102,
+        "operating_margin": 0.04472491981243095,
+        "net_margin": -0.021917610249157008,
+        "current_ratio": 1.4144470748120106,
+        "quick_ratio": 1.1605613239141612,
+        "operating_cash_flow_ratio": 0.9859028374565209,
+        "debt_ratio": 0.43049831047297565,
+        "debt_to_equity": 0.7559210418330943,
+        "equity_multiplier": 1.7559210418330942,
+        "asset_turnover": 0.3402903883564926,
+        "cash_conversion_ratio": -14.608712631443442,
+        "free_cash_flow": 353393009.0,
+        "revenue_growth": -0.051257113641743096,
+        "net_income_growth": -1.2341586438589247
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 89.3499984741211,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 33,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

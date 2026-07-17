@@ -1,0 +1,47 @@
+{
+    "symbol": "3004",
+    "company_name": "أسمنت الشمالية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.02478292851651396,
+        "roa": 0.015149991649347092,
+        "gross_margin": 0.3072362246801318,
+        "operating_margin": 0.18529370185684826,
+        "net_margin": 0.08201983616004743,
+        "current_ratio": 0.9064356789762895,
+        "quick_ratio": 0.16533760737421194,
+        "operating_cash_flow_ratio": 0.14791908210636667,
+        "debt_ratio": 0.38815653083646856,
+        "debt_to_equity": 0.6349611128236377,
+        "equity_multiplier": 1.635837767447351,
+        "asset_turnover": 0.18471131324603624,
+        "cash_conversion_ratio": 2.6717201179493797,
+        "free_cash_flow": 19087621.0,
+        "revenue_growth": 0.09798512535987013,
+        "net_income_growth": -0.4438272751939119
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 610.1427772311947,
+        "lynch_value": 303.75388861559736,
+        "pe_value": 4.65,
+        "intrinsic_value": 306.1822219489307,
+        "current_price": 6.579999923706055,
+        "margin_of_safety": 0.9785095297766715,
+        "upside": 45.53225311535864,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "Net Income Declining"
+        ]
+    }
+}

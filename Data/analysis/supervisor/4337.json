@@ -1,0 +1,35 @@
+{
+    "symbol": "4337",
+    "company_name": "4337",
+    "generated_at": "2026-07-17T13:46:13.854174",
+    "final_score": 44.95,
+    "recommendation": "Sell",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 40.0,
+        "technical": 35.0,
+        "news": 50.0,
+        "risk": 69.66
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Positive Free Cash Flow",
+        "Healthy RSI",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Weak short-term liquidity"
+    ],
+    "summary": "4337 received a final investment score of 44.9/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Positive Free Cash Flow. Main risk: Weak short-term liquidity.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

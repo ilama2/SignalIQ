@@ -1,0 +1,48 @@
+{
+    "symbol": "1832",
+    "company_name": "صدر",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.020629277647657502,
+        "roa": -0.011653694294057017,
+        "gross_margin": 0.2622218877369833,
+        "operating_margin": 0.015568819038739903,
+        "net_margin": -0.02356000653333897,
+        "current_ratio": 2.1576763330844386,
+        "quick_ratio": 1.0688111876339288,
+        "operating_cash_flow_ratio": 0.6479663048521894,
+        "debt_ratio": 0.4350895609095493,
+        "debt_to_equity": 0.7701921062214341,
+        "equity_multiplier": 1.770192106221434,
+        "asset_turnover": 0.49463883966102756,
+        "cash_conversion_ratio": -10.342642181493833,
+        "free_cash_flow": -33129432.0,
+        "revenue_growth": 0.28244626644866994,
+        "net_income_growth": -0.09969445212665902
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 2.609999895095825,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 39,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Strong Revenue Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

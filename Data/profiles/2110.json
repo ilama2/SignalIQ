@@ -1,0 +1,29 @@
+{
+    "symbol": "2110",
+    "name": "الكابلات السعودية",
+    "name_en": "Saudi Cable Co",
+    "price": 154.5,
+    "change": -4.9,
+    "change_percent": -3.07,
+    "open": 159.5,
+    "high": 159.5,
+    "low": 153.7,
+    "previous_close": 159.4,
+    "volume": 46838,
+    "value": 7282342.2,
+    "bid": 154.5,
+    "ask": 156.2,
+    "bid_size": 28,
+    "ask_size": 5,
+    "liquidity": {
+        "inflow_value": 2883814.3,
+        "inflow_volume": 18553,
+        "inflow_trades": 432,
+        "outflow_value": 4398527.9,
+        "outflow_volume": 28285,
+        "outflow_trades": 430,
+        "net_value": -1514713.6000000006
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

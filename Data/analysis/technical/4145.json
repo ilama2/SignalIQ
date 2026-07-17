@@ -1,0 +1,38 @@
+{
+    "symbol": "4145",
+    "company_name": "4145",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 24.7690763495965,
+        "ema50": 24.605169303071506,
+        "rsi": 61.59990479747957,
+        "macd": 0.27750421034266637,
+        "macd_signal": 0.2273495081022726,
+        "macd_histogram": 0.050154702240393756,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 8911996.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 55,
+        "rating": "Hold",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200"
+        ]
+    }
+}

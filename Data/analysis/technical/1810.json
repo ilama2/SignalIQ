@@ -1,0 +1,40 @@
+{
+    "symbol": "1810",
+    "company_name": "سيرا",
+    "indicators": {
+        "sma20": 21.140499973297118,
+        "sma50": 21.860673446655273,
+        "sma200": 26.647762393951417,
+        "ema20": 21.325090281180707,
+        "ema50": 21.909448662825575,
+        "rsi": 56.170411473437596,
+        "macd": -0.1137674314903272,
+        "macd_signal": -0.2344305758842832,
+        "macd_histogram": 0.120663144393956,
+        "stochastic_k": 91.58876838720258,
+        "stochastic_d": 75.78992700305658,
+        "upper_band": 21.542667821506004,
+        "middle_band": 21.140499973297118,
+        "lower_band": 20.73833212508823,
+        "atr": 0.39209604674059484,
+        "adx": 13.310648758877264,
+        "obv": 200957513.0,
+        "current_price": 21.739999771118164,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 40,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend"
+        ]
+    }
+}

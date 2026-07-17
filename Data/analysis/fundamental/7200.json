@@ -1,0 +1,48 @@
+{
+    "symbol": "7200",
+    "company_name": "7200",
+    "sector": "Technology",
+    "ratios": {
+        "roe": 0.2779106863035984,
+        "roa": 0.03213615949720309,
+        "gross_margin": 0.23440850483122555,
+        "operating_margin": 0.0603626402326403,
+        "net_margin": 0.07551951612130865,
+        "current_ratio": 0.9025454520630645,
+        "quick_ratio": 0.8996089921453857,
+        "operating_cash_flow_ratio": 0.09208742834017823,
+        "debt_ratio": 0.88436515369511,
+        "debt_to_equity": 7.647912216386213,
+        "equity_multiplier": 8.647912216386214,
+        "asset_turnover": 0.4255344995270106,
+        "cash_conversion_ratio": 2.505299362054286,
+        "free_cash_flow": 234620509.0,
+        "revenue_growth": 0.04897499697264804,
+        "net_income_growth": -0.21068094937887777
+    },
+    "valuation": {
+        "dcf_value": 124.73678414099771,
+        "graham_value": 3161.5998062494746,
+        "lynch_value": 1567.1999031247374,
+        "pe_value": 48.0,
+        "intrinsic_value": 1225.3841233788023,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 26,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Net Income Declining"
+        ]
+    }
+}

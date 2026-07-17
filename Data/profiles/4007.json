@@ -1,0 +1,29 @@
+{
+    "symbol": "4007",
+    "name": "الحمادي",
+    "name_en": "Al Hammadi Holding Co",
+    "price": 26.9,
+    "change": -0.06,
+    "change_percent": -0.22,
+    "open": 26.9,
+    "high": 27.06,
+    "low": 26.7,
+    "previous_close": 26.96,
+    "volume": 54019,
+    "value": 1454915.12,
+    "bid": 26.9,
+    "ask": 26.98,
+    "bid_size": 2473,
+    "ask_size": 193,
+    "liquidity": {
+        "inflow_value": 584901.6,
+        "inflow_volume": 21686,
+        "inflow_trades": 165,
+        "outflow_value": 870013.52,
+        "outflow_volume": 32333,
+        "outflow_trades": 267,
+        "net_value": -285111.92000000004
+    },
+    "updated_at": "2026-07-16T12:19:34+00:00",
+    "is_delayed": true
+}

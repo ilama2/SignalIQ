@@ -1,0 +1,33 @@
+{
+    "symbol": "4342",
+    "company_name": "4342",
+    "generated_at": "2026-07-17T13:30:41.996766",
+    "risk_score": 85.18,
+    "risk_level": "very low",
+    "higher_is_riskier": false,
+    "market_safety_score": 80.24,
+    "fundamental_safety_score": 100.0,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 19.8167,
+        "downside_volatility": 13.7679,
+        "max_drawdown": 27.4194,
+        "value_at_risk_95": 1.9662,
+        "conditional_var_95": 2.8612,
+        "sharpe_ratio": 0.0466,
+        "debt_to_equity": 0.3291,
+        "current_ratio": 2.9099,
+        "interest_coverage": null
+    },
+    "volatility": 19.8167,
+    "max_drawdown": 27.4194,
+    "strengths": [
+        "Relatively low historical volatility",
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "No major risk signal was identified"
+    ],
+    "summary": "4342 received a safety score of 85.2/100 and a very low investment risk classification. Annualized volatility was 19.8%. Maximum drawdown was 27.4%. Main risk: No major risk signal was identified."
+}

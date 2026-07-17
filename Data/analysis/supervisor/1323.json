@@ -1,0 +1,36 @@
+{
+    "symbol": "1323",
+    "company_name": "يو سي آي سي",
+    "generated_at": "2026-07-17T13:46:13.738015",
+    "final_score": 47.47,
+    "recommendation": "Hold",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 48.0,
+        "technical": 40.0,
+        "news": 50.0,
+        "risk": 57.78
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Positive Free Cash Flow",
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "يو سي آي سي received a final investment score of 47.5/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Positive Free Cash Flow. Main risk: Large historical maximum drawdown.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

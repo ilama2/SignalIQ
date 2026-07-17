@@ -1,0 +1,38 @@
+{
+    "symbol": "4012",
+    "company_name": "الأصيل",
+    "indicators": {
+        "sma20": 3.676500070095062,
+        "sma50": 3.677800054550171,
+        "sma200": 3.5308800625801084,
+        "ema20": 3.6686442078091055,
+        "ema50": 3.6733720629302575,
+        "rsi": 42.91823699950669,
+        "macd": -0.011272377395804778,
+        "macd_signal": -0.008400959000716723,
+        "macd_histogram": -0.002871418395088055,
+        "stochastic_k": 33.33342163647803,
+        "stochastic_d": 44.44451803039843,
+        "upper_band": 3.7345603281924644,
+        "middle_band": 3.676500070095062,
+        "lower_band": 3.6184398119976597,
+        "atr": 0.05088408422513219,
+        "adx": 14.243009371661504,
+        "obv": 279005216.0,
+        "current_price": 3.640000104904175,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 55,
+        "rating": "Hold",
+        "strengths": [
+            "Price Above SMA200",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

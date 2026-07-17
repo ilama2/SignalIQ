@@ -1,0 +1,36 @@
+{
+    "symbol": "4210",
+    "company_name": "4210",
+    "generated_at": "2026-07-17T13:46:13.831166",
+    "final_score": 26.7,
+    "recommendation": "Strong Sell",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 6.0,
+        "technical": 30.0,
+        "news": 50.0,
+        "risk": 37.33
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Oversold",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4210 received a final investment score of 26.7/100, resulting in a Strong Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Oversold. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

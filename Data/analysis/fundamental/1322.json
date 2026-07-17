@@ -1,0 +1,48 @@
+{
+    "symbol": "1322",
+    "company_name": "أماك",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.21167118510699443,
+        "roa": 0.18124198851445245,
+        "gross_margin": 0.42435843834892556,
+        "operating_margin": 0.3581420075236904,
+        "net_margin": 0.27346507770255635,
+        "current_ratio": 3.2208483151581055,
+        "quick_ratio": 2.2294230860585023,
+        "operating_cash_flow_ratio": 3.1010532308680876,
+        "debt_ratio": 0.14375691512834296,
+        "debt_to_equity": 0.16789264365258005,
+        "equity_multiplier": 1.16789264365258,
+        "asset_turnover": 0.6627610005530085,
+        "cash_conversion_ratio": 1.6748068641676588,
+        "free_cash_flow": 243341204.0,
+        "revenue_growth": 0.3143980730082618,
+        "net_income_growth": 0.5772903930418937
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 19959.782828723797,
+        "lynch_value": 9966.418914361899,
+        "pe_value": 47.55,
+        "intrinsic_value": 9991.250581028566,
+        "current_price": 68.0,
+        "margin_of_safety": 0.9931940451849822,
+        "upside": 145.93015560336127,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 98,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Excellent Return on Equity",
+            "High Net Margin",
+            "Strong Liquidity",
+            "Low Debt",
+            "Strong Revenue Growth",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

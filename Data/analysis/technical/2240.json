@@ -1,0 +1,40 @@
+{
+    "symbol": "2240",
+    "company_name": "صناعات",
+    "indicators": {
+        "sma20": 33.399999904632566,
+        "sma50": 34.13039981842041,
+        "sma200": 36.33460000038147,
+        "ema20": 33.06329936990412,
+        "ema50": 34.20190583255197,
+        "rsi": 30.6687957802627,
+        "macd": -0.8816762449219553,
+        "macd_signal": -0.6305523648928079,
+        "macd_histogram": -0.25112388002914743,
+        "stochastic_k": 12.707206772877509,
+        "stochastic_d": 4.235735590959184,
+        "upper_band": 35.76423393390638,
+        "middle_band": 33.399999904632566,
+        "lower_band": 31.03576587535875,
+        "atr": 0.7422634937694095,
+        "adx": 32.13380325076345,
+        "obv": 120478174.0,
+        "current_price": 31.34000015258789,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 30,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

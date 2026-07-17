@@ -1,0 +1,37 @@
+{
+    "symbol": "4191",
+    "company_name": "4191",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 42.95890561152191,
+        "ema50": 42.948501754605815,
+        "rsi": 35.61922287933032,
+        "macd": -0.35959307812353103,
+        "macd_signal": -0.07408955898018516,
+        "macd_histogram": -0.2855035191433459,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 70941782.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

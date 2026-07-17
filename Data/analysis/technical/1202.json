@@ -1,0 +1,39 @@
+{
+    "symbol": "1202",
+    "company_name": "مبكو",
+    "indicators": {
+        "sma20": 17.574000072479247,
+        "sma50": 18.249600067138672,
+        "sma200": 20.612100028991698,
+        "ema20": 17.533647040326308,
+        "ema50": 17.90921123166282,
+        "rsi": 31.49716366945414,
+        "macd": -0.3505910330836386,
+        "macd_signal": -0.2673407075710391,
+        "macd_histogram": -0.08325032551259948,
+        "stochastic_k": 4.166647744560652,
+        "stochastic_d": 2.859695411385831,
+        "upper_band": 18.460056794166796,
+        "middle_band": 17.574000072479247,
+        "lower_band": 16.6879433507917,
+        "atr": 0.412048539364356,
+        "adx": 19.063549872179664,
+        "obv": 108664291.0,
+        "current_price": 16.809999465942383,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "symbol": "1150",
+    "name": "الإنماء",
+    "name_en": "Alinma Bank SJSC",
+    "price": 24.2,
+    "change": 0.2,
+    "change_percent": 0.83,
+    "open": 24.0,
+    "high": 24.2,
+    "low": 24.0,
+    "previous_close": 24.0,
+    "volume": 2420438,
+    "value": 58322737.85,
+    "bid": 24.18,
+    "ask": 24.2,
+    "bid_size": 2597,
+    "ask_size": 53850,
+    "liquidity": {
+        "inflow_value": 36357538.5,
+        "inflow_volume": 1507958,
+        "inflow_trades": 3183,
+        "outflow_value": 21965199.63,
+        "outflow_volume": 912480,
+        "outflow_trades": 2157,
+        "net_value": 14392338.870000001
+    },
+    "updated_at": "2026-07-16T12:19:36+00:00",
+    "is_delayed": true
+}

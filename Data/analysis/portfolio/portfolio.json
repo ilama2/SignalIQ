@@ -1,0 +1,2253 @@
+{
+    "generated_at": "2026-07-17T13:46:14.026268",
+    "portfolio_value_sar": 100000,
+    "number_of_positions": 10,
+    "invested_weight": 1.0,
+    "cash_weight": 0.0,
+    "cash_allocation_sar": 0.0,
+    "settings": {
+        "maximum_positions": 10,
+        "maximum_weight_per_company": 0.2,
+        "minimum_supervisor_score": 55
+    },
+    "portfolio_score": 75.46,
+    "portfolio_risk_level": "low",
+    "positions": [
+        {
+            "symbol": "1321",
+            "company_name": "أنابيب الشرق",
+            "recommendation": "Buy",
+            "supervisor_score": 77.79,
+            "portfolio_score": 80.46,
+            "confidence": 1.0,
+            "risk_score": 63.28,
+            "risk_level": "medium",
+            "fundamental_score": 98.0,
+            "technical_score": 80.0,
+            "reason": "Buy recommendation with a 77.8/100 supervisor score, medium risk, and a 80.5/100 portfolio score.",
+            "weight": 0.106728,
+            "weight_percent": 10.67,
+            "allocation_sar": 10672.79
+        },
+        {
+            "symbol": "2222",
+            "company_name": "أرامكو السعودية",
+            "recommendation": "Buy",
+            "supervisor_score": 69.55,
+            "portfolio_score": 78.27,
+            "confidence": 1.0,
+            "risk_score": 86.35,
+            "risk_level": "very low",
+            "fundamental_score": 82.0,
+            "technical_score": 65.0,
+            "reason": "Buy recommendation with a 69.5/100 supervisor score, very low risk, and a 78.3/100 portfolio score.",
+            "weight": 0.103823,
+            "weight_percent": 10.38,
+            "allocation_sar": 10382.29
+        },
+        {
+            "symbol": "2286",
+            "company_name": "المطاحن الرابعة",
+            "recommendation": "Buy",
+            "supervisor_score": 74.22,
+            "portfolio_score": 77.01,
+            "confidence": 0.75,
+            "risk_score": 82.8,
+            "risk_level": "very low",
+            "fundamental_score": 88.0,
+            "technical_score": 70.0,
+            "reason": "Buy recommendation with a 74.2/100 supervisor score, very low risk, and a 77.0/100 portfolio score.",
+            "weight": 0.102152,
+            "weight_percent": 10.22,
+            "allocation_sar": 10215.15
+        },
+        {
+            "symbol": "3010",
+            "company_name": "أسمنت العربية",
+            "recommendation": "Buy",
+            "supervisor_score": 72.79,
+            "portfolio_score": 75.42,
+            "confidence": 0.75,
+            "risk_score": 77.57,
+            "risk_level": "low",
+            "fundamental_score": 69.0,
+            "technical_score": 90.0,
+            "reason": "Buy recommendation with a 72.8/100 supervisor score, low risk, and a 75.4/100 portfolio score.",
+            "weight": 0.100042,
+            "weight_percent": 10.0,
+            "allocation_sar": 10004.24
+        },
+        {
+            "symbol": "2223",
+            "company_name": "لوبريف",
+            "recommendation": "Buy",
+            "supervisor_score": 69.89,
+            "portfolio_score": 74.73,
+            "confidence": 1.0,
+            "risk_score": 62.9,
+            "risk_level": "medium",
+            "fundamental_score": 67.0,
+            "technical_score": 90.0,
+            "reason": "Buy recommendation with a 69.9/100 supervisor score, medium risk, and a 74.7/100 portfolio score.",
+            "weight": 0.099127,
+            "weight_percent": 9.91,
+            "allocation_sar": 9912.72
+        },
+        {
+            "symbol": "2285",
+            "company_name": "المطاحن العربية",
+            "recommendation": "Buy",
+            "supervisor_score": 72.81,
+            "portfolio_score": 74.43,
+            "confidence": 0.75,
+            "risk_score": 72.07,
+            "risk_level": "low",
+            "fundamental_score": 80.0,
+            "technical_score": 80.0,
+            "reason": "Buy recommendation with a 72.8/100 supervisor score, low risk, and a 74.4/100 portfolio score.",
+            "weight": 0.098729,
+            "weight_percent": 9.87,
+            "allocation_sar": 9872.92
+        },
+        {
+            "symbol": "3040",
+            "company_name": "أسمنت القصيم",
+            "recommendation": "Buy",
+            "supervisor_score": 70.99,
+            "portfolio_score": 74.04,
+            "confidence": 0.75,
+            "risk_score": 77.24,
+            "risk_level": "low",
+            "fundamental_score": 64.0,
+            "technical_score": 90.0,
+            "reason": "Buy recommendation with a 71.0/100 supervisor score, low risk, and a 74.0/100 portfolio score.",
+            "weight": 0.098212,
+            "weight_percent": 9.82,
+            "allocation_sar": 9821.19
+        },
+        {
+            "symbol": "1833",
+            "company_name": "الموارد",
+            "recommendation": "Buy",
+            "supervisor_score": 67.83,
+            "portfolio_score": 73.96,
+            "confidence": 1.0,
+            "risk_score": 67.2,
+            "risk_level": "low",
+            "fundamental_score": 55.0,
+            "technical_score": 95.0,
+            "reason": "Buy recommendation with a 67.8/100 supervisor score, low risk, and a 74.0/100 portfolio score.",
+            "weight": 0.098106,
+            "weight_percent": 9.81,
+            "allocation_sar": 9810.58
+        },
+        {
+            "symbol": "2020",
+            "company_name": "سابك للمغذيات الزراعية",
+            "recommendation": "Buy",
+            "supervisor_score": 67.52,
+            "portfolio_score": 73.71,
+            "confidence": 1.0,
+            "risk_score": 71.13,
+            "risk_level": "low",
+            "fundamental_score": 91.0,
+            "technical_score": 50.0,
+            "reason": "Buy recommendation with a 67.5/100 supervisor score, low risk, and a 73.7/100 portfolio score.",
+            "weight": 0.097774,
+            "weight_percent": 9.78,
+            "allocation_sar": 9777.42
+        },
+        {
+            "symbol": "1834",
+            "company_name": "سماسكو",
+            "recommendation": "Buy",
+            "supervisor_score": 66.81,
+            "portfolio_score": 71.85,
+            "confidence": 1.0,
+            "risk_score": 59.41,
+            "risk_level": "medium",
+            "fundamental_score": 64.0,
+            "technical_score": 85.0,
+            "reason": "Buy recommendation with a 66.8/100 supervisor score, medium risk, and a 71.8/100 portfolio score.",
+            "weight": 0.095307,
+            "weight_percent": 9.53,
+            "allocation_sar": 9530.69
+        }
+    ],
+    "excluded_companies": [
+        {
+            "symbol": "1010",
+            "company_name": "الرياض",
+            "supervisor_score": 45.84,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "1020",
+            "company_name": "الجزيرة",
+            "supervisor_score": 45.38,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "1030",
+            "company_name": "الإستثمار",
+            "supervisor_score": 50.56,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "1050",
+            "company_name": "بي اس اف",
+            "supervisor_score": 44.21,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1060",
+            "company_name": "الأول",
+            "supervisor_score": 34.97,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1080",
+            "company_name": "العربي",
+            "supervisor_score": 33.6,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1111",
+            "company_name": "مجموعة تداول",
+            "supervisor_score": 42.24,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1120",
+            "company_name": "الراجحي",
+            "supervisor_score": 33.24,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1140",
+            "company_name": "البلاد",
+            "supervisor_score": 34.96,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1150",
+            "company_name": "الإنماء",
+            "supervisor_score": 42.71,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1180",
+            "company_name": "الأهلي",
+            "supervisor_score": 35.35,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1182",
+            "company_name": "أملاك",
+            "supervisor_score": 36.92,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1183",
+            "company_name": "سهل",
+            "supervisor_score": 47.28,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "1201",
+            "company_name": "تكوين",
+            "supervisor_score": 24.79,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1202",
+            "company_name": "مبكو",
+            "supervisor_score": 37.27,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1210",
+            "company_name": "بي سي آي",
+            "supervisor_score": 42.21,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1211",
+            "company_name": "معادن",
+            "supervisor_score": 49.17,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "1213",
+            "company_name": "نسيج",
+            "supervisor_score": 29.39,
+            "risk_level": "very high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation",
+                "Risk level exceeds portfolio limit"
+            ]
+        },
+        {
+            "symbol": "1214",
+            "company_name": "شاكر",
+            "supervisor_score": 31.43,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1301",
+            "company_name": "أسلاك",
+            "supervisor_score": 45.28,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "1302",
+            "company_name": "بوان",
+            "supervisor_score": 41.33,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1304",
+            "company_name": "اليمامة للحديد",
+            "supervisor_score": 45.47,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "1320",
+            "company_name": "أنابيب السعودية",
+            "supervisor_score": 53.91,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "1323",
+            "company_name": "يو سي آي سي",
+            "supervisor_score": 47.47,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "1324",
+            "company_name": "صالح الراشد",
+            "supervisor_score": 52.08,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "1810",
+            "company_name": "سيرا",
+            "supervisor_score": 42.16,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1820",
+            "company_name": "بان",
+            "supervisor_score": 40.21,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1830",
+            "company_name": "لجام للرياضة",
+            "supervisor_score": 38.7,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "1832",
+            "company_name": "صدر",
+            "supervisor_score": 40.28,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2001",
+            "company_name": "كيمانول",
+            "supervisor_score": 39.95,
+            "risk_level": "very high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation",
+                "Risk level exceeds portfolio limit"
+            ]
+        },
+        {
+            "symbol": "2010",
+            "company_name": "سابك",
+            "supervisor_score": 46.54,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "2030",
+            "company_name": "المصافي",
+            "supervisor_score": 48.3,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "2040",
+            "company_name": "الخزف السعودي",
+            "supervisor_score": 42.14,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2050",
+            "company_name": "مجموعة صافولا",
+            "supervisor_score": 48.47,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "2060",
+            "company_name": "التصنيع",
+            "supervisor_score": 35.66,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2080",
+            "company_name": "الغاز",
+            "supervisor_score": 50.37,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "2081",
+            "company_name": "الخريف",
+            "supervisor_score": 41.97,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2082",
+            "company_name": "أكوا",
+            "supervisor_score": 46.93,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "2083",
+            "company_name": "مرافق",
+            "supervisor_score": 43.05,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2084",
+            "company_name": "مياهنا",
+            "supervisor_score": 38.93,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2090",
+            "company_name": "جبسكو",
+            "supervisor_score": 34.73,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2100",
+            "company_name": "وفرة",
+            "supervisor_score": 40.85,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2110",
+            "company_name": "الكابلات السعودية",
+            "supervisor_score": 44.74,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2120",
+            "company_name": "متطورة",
+            "supervisor_score": 49.1,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "2140",
+            "company_name": "أيان",
+            "supervisor_score": 47.77,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "2150",
+            "company_name": "زجاج",
+            "supervisor_score": 50.15,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "2160",
+            "company_name": "أميانتيت",
+            "supervisor_score": 24.2,
+            "risk_level": "very high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation",
+                "Risk level exceeds portfolio limit"
+            ]
+        },
+        {
+            "symbol": "2170",
+            "company_name": "اللجين",
+            "supervisor_score": 50.04,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "2180",
+            "company_name": "فيبكو",
+            "supervisor_score": 46.51,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "2210",
+            "company_name": "نماء للكيماويات",
+            "supervisor_score": 30.32,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2220",
+            "company_name": "معدنية",
+            "supervisor_score": 44.18,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2240",
+            "company_name": "صناعات",
+            "supervisor_score": 33.53,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2250",
+            "company_name": "المجموعة السعودية",
+            "supervisor_score": 45.53,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "2281",
+            "company_name": "تنمية",
+            "supervisor_score": 35.63,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2284",
+            "company_name": "المطاحن الحديثة",
+            "supervisor_score": 46.65,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "2287",
+            "company_name": "إنتاج",
+            "supervisor_score": 30.45,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2300",
+            "company_name": "صناعة الورق",
+            "supervisor_score": 54.64,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "2310",
+            "company_name": "سبكيم العالمية",
+            "supervisor_score": 36.71,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2320",
+            "company_name": "البابطين",
+            "supervisor_score": 54.73,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "2330",
+            "company_name": "المتقدمة",
+            "supervisor_score": 33.07,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2350",
+            "company_name": "كيان السعودية",
+            "supervisor_score": 34.32,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2360",
+            "company_name": "الفخارية",
+            "supervisor_score": 39.78,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2380",
+            "company_name": "بترو رابغ",
+            "supervisor_score": 40.69,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2381",
+            "company_name": "الحفر العربية",
+            "supervisor_score": 38.22,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "2382",
+            "company_name": "أديس",
+            "supervisor_score": 50.65,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "3002",
+            "company_name": "أسمنت نجران",
+            "supervisor_score": 42.05,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "3004",
+            "company_name": "أسمنت الشمالية",
+            "supervisor_score": 42.26,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "3008",
+            "company_name": "الكثيري",
+            "supervisor_score": 33.11,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "3020",
+            "company_name": "أسمنت اليمامة",
+            "supervisor_score": 52.63,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "3050",
+            "company_name": "أسمنت الجنوب",
+            "supervisor_score": 41.1,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "3090",
+            "company_name": "أسمنت تبوك",
+            "supervisor_score": 41.57,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "3091",
+            "company_name": "أسمنت الجوف",
+            "supervisor_score": 35.38,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4001",
+            "company_name": "أسواق ع العثيم",
+            "supervisor_score": 32.43,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4003",
+            "company_name": "إكسترا",
+            "supervisor_score": 40.78,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4004",
+            "company_name": "دله الصحية",
+            "supervisor_score": 48.22,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4006",
+            "company_name": "أسواق المزرعة",
+            "supervisor_score": 36.02,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4007",
+            "company_name": "الحمادي",
+            "supervisor_score": 53.45,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4008",
+            "company_name": "ساكو",
+            "supervisor_score": 36.5,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4009",
+            "company_name": "السعودي الألماني الصحية",
+            "supervisor_score": 44.32,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4011",
+            "company_name": "لازوردي",
+            "supervisor_score": 33.96,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4013",
+            "company_name": "سليمان الحبيب",
+            "supervisor_score": 53.42,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4014",
+            "company_name": "دار المعدات",
+            "supervisor_score": 37.61,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4015",
+            "company_name": "4015",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4016",
+            "company_name": "4016",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4017",
+            "company_name": "4017",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4018",
+            "company_name": "4018",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4019",
+            "company_name": "4019",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4020",
+            "company_name": "4020",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4021",
+            "company_name": "4021",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4030",
+            "company_name": "4030",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4031",
+            "company_name": "4031",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4040",
+            "company_name": "4040",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4050",
+            "company_name": "4050",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4051",
+            "company_name": "4051",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4061",
+            "company_name": "4061",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4070",
+            "company_name": "4070",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4071",
+            "company_name": "4071",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4072",
+            "company_name": "4072",
+            "supervisor_score": 50.0,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4080",
+            "company_name": "4080",
+            "supervisor_score": 40.37,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4081",
+            "company_name": "4081",
+            "supervisor_score": 32.07,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4082",
+            "company_name": "4082",
+            "supervisor_score": 48.78,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4083",
+            "company_name": "4083",
+            "supervisor_score": 48.49,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4084",
+            "company_name": "4084",
+            "supervisor_score": 52.13,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4090",
+            "company_name": "4090",
+            "supervisor_score": 43.64,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4110",
+            "company_name": "4110",
+            "supervisor_score": 27.86,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4130",
+            "company_name": "4130",
+            "supervisor_score": 44.11,
+            "risk_level": "very high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation",
+                "Risk level exceeds portfolio limit"
+            ]
+        },
+        {
+            "symbol": "4140",
+            "company_name": "4140",
+            "supervisor_score": 44.11,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4141",
+            "company_name": "4141",
+            "supervisor_score": 47.72,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4142",
+            "company_name": "4142",
+            "supervisor_score": 48.61,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4144",
+            "company_name": "4144",
+            "supervisor_score": 53.94,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4145",
+            "company_name": "4145",
+            "supervisor_score": 46.29,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4146",
+            "company_name": "4146",
+            "supervisor_score": 48.69,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4147",
+            "company_name": "4147",
+            "supervisor_score": 50.46,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4148",
+            "company_name": "4148",
+            "supervisor_score": 48.45,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4160",
+            "company_name": "4160",
+            "supervisor_score": 30.29,
+            "risk_level": "very high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation",
+                "Risk level exceeds portfolio limit"
+            ]
+        },
+        {
+            "symbol": "4161",
+            "company_name": "4161",
+            "supervisor_score": 35.81,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4162",
+            "company_name": "4162",
+            "supervisor_score": 43.7,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4163",
+            "company_name": "4163",
+            "supervisor_score": 39.73,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4164",
+            "company_name": "4164",
+            "supervisor_score": 44.66,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4170",
+            "company_name": "4170",
+            "supervisor_score": 39.71,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4180",
+            "company_name": "4180",
+            "supervisor_score": 39.63,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4190",
+            "company_name": "4190",
+            "supervisor_score": 48.93,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4191",
+            "company_name": "4191",
+            "supervisor_score": 51.33,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4192",
+            "company_name": "4192",
+            "supervisor_score": 48.26,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4193",
+            "company_name": "4193",
+            "supervisor_score": 38.55,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4200",
+            "company_name": "4200",
+            "supervisor_score": 37.67,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4210",
+            "company_name": "4210",
+            "supervisor_score": 26.7,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4220",
+            "company_name": "4220",
+            "supervisor_score": 37.22,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4230",
+            "company_name": "4230",
+            "supervisor_score": 39.32,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4240",
+            "company_name": "4240",
+            "supervisor_score": 36.52,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4260",
+            "company_name": "4260",
+            "supervisor_score": 39.96,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4261",
+            "company_name": "4261",
+            "supervisor_score": 37.04,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4262",
+            "company_name": "4262",
+            "supervisor_score": 36.81,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4264",
+            "company_name": "4264",
+            "supervisor_score": 30.16,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4265",
+            "company_name": "4265",
+            "supervisor_score": 37.95,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4270",
+            "company_name": "4270",
+            "supervisor_score": 32.88,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4280",
+            "company_name": "4280",
+            "supervisor_score": 52.6,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4290",
+            "company_name": "4290",
+            "supervisor_score": 32.28,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4291",
+            "company_name": "4291",
+            "supervisor_score": 39.32,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4292",
+            "company_name": "4292",
+            "supervisor_score": 44.02,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4300",
+            "company_name": "4300",
+            "supervisor_score": 53.09,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4310",
+            "company_name": "4310",
+            "supervisor_score": 47.23,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4320",
+            "company_name": "4320",
+            "supervisor_score": 40.87,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4321",
+            "company_name": "4321",
+            "supervisor_score": 44.64,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4322",
+            "company_name": "4322",
+            "supervisor_score": 41.9,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4323",
+            "company_name": "4323",
+            "supervisor_score": 45.58,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4324",
+            "company_name": "4324",
+            "supervisor_score": 46.47,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4326",
+            "company_name": "4326",
+            "supervisor_score": 46.27,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4327",
+            "company_name": "4327",
+            "supervisor_score": 53.66,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4330",
+            "company_name": "4330",
+            "supervisor_score": 40.23,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4332",
+            "company_name": "4332",
+            "supervisor_score": 44.55,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4335",
+            "company_name": "4335",
+            "supervisor_score": 42.17,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4336",
+            "company_name": "4336",
+            "supervisor_score": 45.27,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4337",
+            "company_name": "4337",
+            "supervisor_score": 44.95,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4338",
+            "company_name": "4338",
+            "supervisor_score": 49.48,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4339",
+            "company_name": "4339",
+            "supervisor_score": 52.28,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4344",
+            "company_name": "4344",
+            "supervisor_score": 53.2,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4346",
+            "company_name": "4346",
+            "supervisor_score": 36.31,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4348",
+            "company_name": "4348",
+            "supervisor_score": 43.38,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "4349",
+            "company_name": "4349",
+            "supervisor_score": 51.48,
+            "risk_level": "very low",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "4350",
+            "company_name": "4350",
+            "supervisor_score": 45.29,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "5110",
+            "company_name": "5110",
+            "supervisor_score": 42.05,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "6001",
+            "company_name": "6001",
+            "supervisor_score": 43.49,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "6002",
+            "company_name": "6002",
+            "supervisor_score": 36.71,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "6004",
+            "company_name": "6004",
+            "supervisor_score": 49.09,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "6010",
+            "company_name": "6010",
+            "supervisor_score": 48.9,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "6012",
+            "company_name": "6012",
+            "supervisor_score": 27.77,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "6013",
+            "company_name": "6013",
+            "supervisor_score": 31.9,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "6014",
+            "company_name": "6014",
+            "supervisor_score": 42.9,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "6015",
+            "company_name": "6015",
+            "supervisor_score": 50.25,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "6016",
+            "company_name": "6016",
+            "supervisor_score": 34.87,
+            "risk_level": "very high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation",
+                "Risk level exceeds portfolio limit"
+            ]
+        },
+        {
+            "symbol": "6017",
+            "company_name": "6017",
+            "supervisor_score": 35.41,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "6018",
+            "company_name": "6018",
+            "supervisor_score": 43.48,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "6020",
+            "company_name": "6020",
+            "supervisor_score": 43.14,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "6040",
+            "company_name": "6040",
+            "supervisor_score": 28.46,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "6050",
+            "company_name": "6050",
+            "supervisor_score": 34.27,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "6060",
+            "company_name": "6060",
+            "supervisor_score": 49.69,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "6070",
+            "company_name": "6070",
+            "supervisor_score": 46.16,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "6090",
+            "company_name": "6090",
+            "supervisor_score": 38.83,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "7010",
+            "company_name": "7010",
+            "supervisor_score": 52.78,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "7020",
+            "company_name": "7020",
+            "supervisor_score": 48.1,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "7030",
+            "company_name": "7030",
+            "supervisor_score": 45.49,
+            "risk_level": "low",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "7040",
+            "company_name": "7040",
+            "supervisor_score": 45.66,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "7200",
+            "company_name": "7200",
+            "supervisor_score": 39.23,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "7201",
+            "company_name": "7201",
+            "supervisor_score": 34.87,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "7202",
+            "company_name": "7202",
+            "supervisor_score": 42.07,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "7203",
+            "company_name": "7203",
+            "supervisor_score": 49.79,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "7204",
+            "company_name": "7204",
+            "supervisor_score": 39.22,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "7205",
+            "company_name": "7205",
+            "supervisor_score": 46.27,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "7211",
+            "company_name": "7211",
+            "supervisor_score": 52.88,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum"
+            ]
+        },
+        {
+            "symbol": "8010",
+            "company_name": "8010",
+            "supervisor_score": 33.32,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8012",
+            "company_name": "8012",
+            "supervisor_score": 30.87,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8020",
+            "company_name": "8020",
+            "supervisor_score": 33.33,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8030",
+            "company_name": "8030",
+            "supervisor_score": 34.44,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8040",
+            "company_name": "8040",
+            "supervisor_score": 30.61,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8050",
+            "company_name": "8050",
+            "supervisor_score": 29.37,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8060",
+            "company_name": "8060",
+            "supervisor_score": 30.18,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8070",
+            "company_name": "8070",
+            "supervisor_score": 34.28,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8100",
+            "company_name": "8100",
+            "supervisor_score": 30.11,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8120",
+            "company_name": "8120",
+            "supervisor_score": 36.64,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8150",
+            "company_name": "8150",
+            "supervisor_score": 36.36,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8160",
+            "company_name": "8160",
+            "supervisor_score": 35.91,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8170",
+            "company_name": "8170",
+            "supervisor_score": 35.56,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8180",
+            "company_name": "8180",
+            "supervisor_score": 37.49,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8190",
+            "company_name": "8190",
+            "supervisor_score": 30.21,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8200",
+            "company_name": "8200",
+            "supervisor_score": 38.98,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8210",
+            "company_name": "8210",
+            "supervisor_score": 30.89,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8230",
+            "company_name": "8230",
+            "supervisor_score": 28.83,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8240",
+            "company_name": "8240",
+            "supervisor_score": 32.51,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8250",
+            "company_name": "8250",
+            "supervisor_score": 37.25,
+            "risk_level": "medium",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8260",
+            "company_name": "8260",
+            "supervisor_score": 36.39,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8280",
+            "company_name": "8280",
+            "supervisor_score": 36.92,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8300",
+            "company_name": "8300",
+            "supervisor_score": 29.8,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8310",
+            "company_name": "8310",
+            "supervisor_score": 37.77,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        },
+        {
+            "symbol": "8311",
+            "company_name": "8311",
+            "supervisor_score": 33.77,
+            "risk_level": "high",
+            "reasons": [
+                "Supervisor score below minimum",
+                "Negative investment recommendation"
+            ]
+        }
+    ],
+    "summary": "The portfolio allocates SAR 100,000.00 across 10 companies. The highest-ranked company is أنابيب الشرق with a 10.7% allocation. Cash represents 0.0% of the portfolio. 215 companies were excluded."
+}

@@ -1,0 +1,36 @@
+{
+    "symbol": "1214",
+    "company_name": "شاكر",
+    "generated_at": "2026-07-17T13:46:13.728849",
+    "final_score": 31.43,
+    "recommendation": "Sell",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 17.0,
+        "technical": 30.0,
+        "news": 50.0,
+        "risk": 43.23
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Positive Stochastic",
+        "Strong Trend",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "شاكر received a final investment score of 31.4/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Positive Stochastic. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

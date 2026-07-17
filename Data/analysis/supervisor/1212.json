@@ -1,0 +1,40 @@
+{
+    "symbol": "1212",
+    "company_name": "أسترا الصناعية",
+    "generated_at": "2026-07-17T13:46:13.724347",
+    "final_score": 58.44,
+    "recommendation": "Hold",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 85.0,
+        "technical": 30.0,
+        "news": 50.0,
+        "risk": 64.59
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Excellent Return on Equity",
+        "High Net Margin",
+        "Low Debt",
+        "Positive Free Cash Flow",
+        "Positive Stochastic",
+        "Strong Trend",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "أسترا الصناعية received a final investment score of 58.4/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Excellent Return on Equity. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "symbol": "2190",
+    "company_name": "سيسكو القابضة",
+    "generated_at": "2026-07-17T13:30:41.715261",
+    "risk_score": 41.63,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 40.89,
+    "fundamental_safety_score": 43.86,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 33.5519,
+        "downside_volatility": 21.3288,
+        "max_drawdown": 59.5567,
+        "value_at_risk_95": 3.1629,
+        "conditional_var_95": 4.5303,
+        "sharpe_ratio": 0.0605,
+        "debt_to_equity": 2.6508,
+        "current_ratio": 1.5626,
+        "interest_coverage": null
+    },
+    "volatility": 33.5519,
+    "max_drawdown": 59.5567,
+    "strengths": [
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio"
+    ],
+    "summary": "سيسكو القابضة received a safety score of 41.6/100 and a high investment risk classification. Annualized volatility was 33.6%. Maximum drawdown was 59.6%. Main risk: Large historical maximum drawdown."
+}

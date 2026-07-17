@@ -1,0 +1,32 @@
+{
+    "symbol": "1301",
+    "company_name": "أسلاك",
+    "generated_at": "2026-07-17T13:30:41.627959",
+    "risk_score": 60.9,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 47.87,
+    "fundamental_safety_score": 100.0,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 27.1645,
+        "downside_volatility": 18.5874,
+        "max_drawdown": 64.437,
+        "value_at_risk_95": 2.6866,
+        "conditional_var_95": 3.8126,
+        "sharpe_ratio": -0.5764,
+        "debt_to_equity": 0.442,
+        "current_ratio": 2.5088,
+        "interest_coverage": null
+    },
+    "volatility": 27.1645,
+    "max_drawdown": 64.437,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "أسلاك received a safety score of 60.9/100 and a medium investment risk classification. Annualized volatility was 27.2%. Maximum drawdown was 64.4%. Main risk: Large historical maximum drawdown."
+}

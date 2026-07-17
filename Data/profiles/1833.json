@@ -1,0 +1,29 @@
+{
+    "symbol": "1833",
+    "name": "الموارد",
+    "name_en": "ALMAWARID",
+    "price": 109.9,
+    "change": 0.5,
+    "change_percent": 0.46,
+    "open": 109.4,
+    "high": 110.9,
+    "low": 109.0,
+    "previous_close": 109.4,
+    "volume": 85969,
+    "value": 9441697.0,
+    "bid": 109.5,
+    "ask": 109.9,
+    "bid_size": 1,
+    "ask_size": 8508,
+    "liquidity": {
+        "inflow_value": 5643940.99,
+        "inflow_volume": 51415,
+        "inflow_trades": 386,
+        "outflow_value": 3797756.0,
+        "outflow_volume": 34554,
+        "outflow_trades": 481,
+        "net_value": 1846184.9900000002
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

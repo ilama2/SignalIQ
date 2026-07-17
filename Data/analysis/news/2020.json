@@ -1,0 +1,25 @@
+{
+    "symbol": "2020",
+    "company_name": "سابك للمغذيات الزراعية",
+    "generated_at": "2026-07-17T13:21:09.211110",
+    "article_count": 0,
+    "articles": [],
+    "score": {
+        "score": 50,
+        "rating": "Neutral",
+        "positive_articles": 0,
+        "neutral_articles": 0,
+        "negative_articles": 0,
+        "average_sentiment": 0.0,
+        "confidence": 0.0,
+        "strengths": [],
+        "risks": []
+    },
+    "summary": {
+        "summary": "No relevant recent news articles were found for سابك للمغذيات الزراعية.",
+        "key_events": [],
+        "opportunities": [],
+        "risks": [],
+        "expected_impact": "Unknown"
+    }
+}

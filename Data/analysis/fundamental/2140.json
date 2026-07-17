@@ -1,0 +1,49 @@
+{
+    "symbol": "2140",
+    "company_name": "أيان",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.3777468471778916,
+        "roa": 0.3454795439198908,
+        "gross_margin": -0.14388016425973743,
+        "operating_margin": -2.516903076715487,
+        "net_margin": 41.41650133851331,
+        "current_ratio": 8.819853487878238,
+        "quick_ratio": 8.761497017294655,
+        "operating_cash_flow_ratio": -2.830924443547007,
+        "debt_ratio": 0.08542044360943464,
+        "debt_to_equity": 0.0933985928425415,
+        "equity_multiplier": 1.0933985928425416,
+        "asset_turnover": 0.008341591702692388,
+        "cash_conversion_ratio": -0.6606654910282573,
+        "free_cash_flow": -242628801.0,
+        "revenue_growth": -0.6247274650310788,
+        "net_income_growth": -3.188041711331968
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 2172.345,
+        "lynch_value": 1071.0,
+        "pe_value": 53.55,
+        "intrinsic_value": 1098.965,
+        "current_price": 10.789999961853027,
+        "margin_of_safety": 0.9901816709705468,
+        "upside": 100.85032473450245,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 54,
+        "rating": "Sell",
+        "strengths": [
+            "Excellent Return on Equity",
+            "High Net Margin",
+            "Strong Liquidity",
+            "Low Debt"
+        ],
+        "weaknesses": [
+            "Revenue Declining",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

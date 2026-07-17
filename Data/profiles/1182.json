@@ -1,0 +1,29 @@
+{
+    "symbol": "1182",
+    "name": "أملاك",
+    "name_en": "AMLAK",
+    "price": 8.6,
+    "change": 0.0,
+    "change_percent": 0.0,
+    "open": 8.6,
+    "high": 8.68,
+    "low": 8.57,
+    "previous_close": 8.6,
+    "volume": 530068,
+    "value": 4563907.75,
+    "bid": 8.59,
+    "ask": 8.6,
+    "bid_size": 256,
+    "ask_size": 2227,
+    "liquidity": {
+        "inflow_value": 1739316.36,
+        "inflow_volume": 201768,
+        "inflow_trades": 285,
+        "outflow_value": 2824591.52,
+        "outflow_volume": 328300,
+        "outflow_trades": 357,
+        "net_value": -1085275.16
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

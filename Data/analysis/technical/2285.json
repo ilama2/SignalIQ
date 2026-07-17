@@ -1,0 +1,40 @@
+{
+    "symbol": "2285",
+    "company_name": "المطاحن العربية",
+    "indicators": {
+        "sma20": 47.778000068664554,
+        "sma50": 46.6517301940918,
+        "sma200": 40.90083578109741,
+        "ema20": 47.397136992556945,
+        "ema50": 46.18098190241903,
+        "rsi": 49.2452945206789,
+        "macd": 0.10102032691798257,
+        "macd_signal": 0.2642223640631794,
+        "macd_histogram": -0.16320203714519682,
+        "stochastic_k": 51.35129562169221,
+        "stochastic_d": 48.999993168428254,
+        "upper_band": 49.60459846260886,
+        "middle_band": 47.778000068664554,
+        "lower_band": 45.951401674720245,
+        "atr": 0.9667930694167888,
+        "adx": 20.922691897634216,
+        "obv": 6031835.0,
+        "current_price": 47.13999938964844,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 80,
+        "rating": "Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

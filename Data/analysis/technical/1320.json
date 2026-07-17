@@ -1,0 +1,37 @@
+{
+    "symbol": "1320",
+    "company_name": "أنابيب السعودية",
+    "indicators": {
+        "sma20": 51.49038848876953,
+        "sma50": 53.08654312133789,
+        "sma200": 46.33683292388916,
+        "ema20": 51.445025439231955,
+        "ema50": 51.86735483830915,
+        "rsi": 38.42685095561955,
+        "macd": -0.9437702334547851,
+        "macd_signal": -0.7856981969490291,
+        "macd_histogram": -0.15807203650575596,
+        "stochastic_k": 12.45904673877901,
+        "stochastic_d": 16.69596369839655,
+        "upper_band": 55.15082079077266,
+        "middle_band": 51.49038848876953,
+        "lower_band": 47.8299561867664,
+        "atr": 1.600788597078442,
+        "adx": 18.241284474505793,
+        "obv": 110584919.0,
+        "current_price": 49.36000061035156,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Price Above SMA200",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

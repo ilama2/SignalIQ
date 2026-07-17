@@ -1,0 +1,47 @@
+{
+    "symbol": "3007",
+    "company_name": "الواحة",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.010983745640367484,
+        "roa": 0.0062843537856254695,
+        "gross_margin": 0.10561694340063539,
+        "operating_margin": 0.05023170924836622,
+        "net_margin": 0.0067247436359683535,
+        "current_ratio": 1.4446526822930081,
+        "quick_ratio": 0.9872342243762027,
+        "operating_cash_flow_ratio": 0.4084490093932906,
+        "debt_ratio": 0.42784966154631265,
+        "debt_to_equity": 0.7477923769172862,
+        "equity_multiplier": 1.747792376917286,
+        "asset_turnover": 0.9345120239249881,
+        "cash_conversion_ratio": 26.899272403514786,
+        "free_cash_flow": 67788041.0,
+        "revenue_growth": -0.12731358035008739,
+        "net_income_growth": -0.7353276489388065
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 8.519,
+        "lynch_value": 4.2,
+        "pe_value": 0.21,
+        "intrinsic_value": 4.309666666666667,
+        "current_price": 2.7899999618530273,
+        "margin_of_safety": 0.35261815410634373,
+        "upside": 0.5446834141905601,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

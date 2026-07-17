@@ -1,0 +1,45 @@
+{
+    "symbol": "4145",
+    "company_name": "4145",
+    "sector": "Industrials",
+    "ratios": {
+        "roe": 0.11084217123137656,
+        "roa": 0.06560792374714242,
+        "gross_margin": 0.33843477014996826,
+        "operating_margin": 0.18346361163378483,
+        "net_margin": 0.17807040614486208,
+        "current_ratio": 0.9532594582667844,
+        "quick_ratio": 0.686471183036621,
+        "operating_cash_flow_ratio": 0.11868459489266496,
+        "debt_ratio": 0.3940587819292161,
+        "debt_to_equity": 0.6657478012894483,
+        "equity_multiplier": 1.6894631761030898,
+        "asset_turnover": 0.3684381092149007,
+        "cash_conversion_ratio": 0.5471319556054736,
+        "free_cash_flow": -11813291.0,
+        "revenue_growth": 0.08424887221645976,
+        "net_income_growth": 46.91862006383901
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": null,
+        "lynch_value": null,
+        "pe_value": null,
+        "intrinsic_value": 0.0,
+        "current_price": null,
+        "margin_of_safety": 0.0,
+        "upside": null,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 41,
+        "rating": "Sell",
+        "strengths": [
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Weak Liquidity",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

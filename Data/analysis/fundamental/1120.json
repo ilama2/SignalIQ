@@ -1,0 +1,49 @@
+{
+    "symbol": "1120",
+    "company_name": "الراجحي",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.173657875796234,
+        "roa": 0.023763545840787683,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.6362216333617897,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.8630147725077474,
+        "debt_to_equity": 6.306689800359266,
+        "equity_multiplier": 7.307742580156877,
+        "asset_turnover": 0.03735104968880311,
+        "cash_conversion_ratio": -0.902440061320389,
+        "free_cash_flow": -25896451000.0,
+        "revenue_growth": 0.22105352150561053,
+        "net_income_growth": 0.2570477156561492
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 17275.32467743762,
+        "lynch_value": 8621.08733871881,
+        "pe_value": 58.5,
+        "intrinsic_value": 8651.637338718809,
+        "current_price": 64.44999694824219,
+        "margin_of_safety": 0.9925505433913869,
+        "upside": 133.23797902840357,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 23,
+        "rating": "Strong Sell",
+        "strengths": [
+            "High Net Margin",
+            "Strong Revenue Growth",
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "symbol": "2282",
+    "name": "نقي",
+    "name_en": "NAQI",
+    "price": 55.7,
+    "change": -0.25,
+    "change_percent": -0.45,
+    "open": 55.9,
+    "high": 56.6,
+    "low": 55.4,
+    "previous_close": 55.95,
+    "volume": 20942,
+    "value": 1168685.3,
+    "bid": 55.6,
+    "ask": 55.7,
+    "bid_size": 1,
+    "ask_size": 1352,
+    "liquidity": {
+        "inflow_value": 574356.1,
+        "inflow_volume": 10282,
+        "inflow_trades": 100,
+        "outflow_value": 594329.2,
+        "outflow_volume": 10660,
+        "outflow_trades": 146,
+        "net_value": -19973.099999999977
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

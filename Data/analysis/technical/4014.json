@@ -1,0 +1,38 @@
+{
+    "symbol": "4014",
+    "company_name": "دار المعدات",
+    "indicators": {
+        "sma20": 29.346000003814698,
+        "sma50": 29.485306091308594,
+        "sma200": 31.40432538986206,
+        "ema20": 29.220070984007037,
+        "ema50": 29.49781734911898,
+        "rsi": 38.36158906070674,
+        "macd": -0.2813312394754952,
+        "macd_signal": -0.18070143351980023,
+        "macd_histogram": -0.10062980595569498,
+        "stochastic_k": 13.414713571953591,
+        "stochastic_d": 14.334833128908555,
+        "upper_band": 30.28502902356586,
+        "middle_band": 29.346000003814698,
+        "lower_band": 28.406970984063538,
+        "atr": 0.4863743202075604,
+        "adx": 14.354140683301768,
+        "obv": 61925515.0,
+        "current_price": 28.540000915527344,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 20,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "symbol": "1050",
+    "company_name": "بي اس اف",
+    "indicators": {
+        "sma20": 19.48400001525879,
+        "sma50": 19.254330596923825,
+        "sma200": 18.13156849384308,
+        "ema20": 19.430044008991345,
+        "ema50": 19.305994793226887,
+        "rsi": 50.93869839649531,
+        "macd": 0.04079651521593419,
+        "macd_signal": 0.06187545663572463,
+        "macd_histogram": -0.021078941419790435,
+        "stochastic_k": 53.39794858310016,
+        "stochastic_d": 33.65953827746868,
+        "upper_band": 20.055292928760924,
+        "middle_band": 19.48400001525879,
+        "lower_band": 18.912707101756656,
+        "atr": 0.38870556807585116,
+        "adx": 21.2295594231003,
+        "obv": 449173019.0,
+        "current_price": 19.459999084472656,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 80,
+        "rating": "Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

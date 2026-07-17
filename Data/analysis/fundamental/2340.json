@@ -1,0 +1,48 @@
+{
+    "symbol": "2340",
+    "company_name": "ارتيكس",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.020156063412461813,
+        "roa": 0.014141556194741925,
+        "gross_margin": 0.07620455971999106,
+        "operating_margin": -0.012984456950753747,
+        "net_margin": 0.03779907869400087,
+        "current_ratio": 2.167933680683708,
+        "quick_ratio": 1.496745387701496,
+        "operating_cash_flow_ratio": 0.0358103217704324,
+        "debt_ratio": 0.29839691881507585,
+        "debt_to_equity": 0.42530730952765905,
+        "equity_multiplier": 1.425307309527659,
+        "asset_turnover": 0.37412436184552683,
+        "cash_conversion_ratio": 0.7009100290834037,
+        "free_cash_flow": -21163000.0,
+        "revenue_growth": 0.0032267934140683924,
+        "net_income_growth": -1.1651086240947992
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 158.21,
+        "lynch_value": 78.0,
+        "pe_value": 3.9000000000000004,
+        "intrinsic_value": 80.03666666666668,
+        "current_price": 12.5,
+        "margin_of_safety": 0.8438215817750198,
+        "upside": 5.402933333333334,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 34,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

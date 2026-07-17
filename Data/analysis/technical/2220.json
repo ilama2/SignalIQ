@@ -1,0 +1,39 @@
+{
+    "symbol": "2220",
+    "company_name": "معدنية",
+    "indicators": {
+        "sma20": 12.373499965667724,
+        "sma50": 12.076199989318848,
+        "sma200": 13.454050011634827,
+        "ema20": 12.312715926692029,
+        "ema50": 12.256229651386075,
+        "rsi": 47.22511254395177,
+        "macd": 0.04072315651653291,
+        "macd_signal": 0.08664862614962872,
+        "macd_histogram": -0.04592546963309581,
+        "stochastic_k": 9.482812484584711,
+        "stochastic_d": 18.545547236430437,
+        "upper_band": 12.871908420948698,
+        "middle_band": 12.373499965667724,
+        "lower_band": 11.875091510386751,
+        "atr": 0.2987710410857249,
+        "adx": 31.14739829181227,
+        "obv": 63268744.0,
+        "current_price": 12.18000030517578,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 55,
+        "rating": "Hold",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

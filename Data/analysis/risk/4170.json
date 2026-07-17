@@ -1,0 +1,33 @@
+{
+    "symbol": "4170",
+    "company_name": "4170",
+    "generated_at": "2026-07-17T13:30:41.903578",
+    "risk_score": 48.74,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 31.65,
+    "fundamental_safety_score": 100.0,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 41.0551,
+        "downside_volatility": 26.6953,
+        "max_drawdown": 71.252,
+        "value_at_risk_95": 3.3674,
+        "conditional_var_95": 5.5676,
+        "sharpe_ratio": 0.1411,
+        "debt_to_equity": 0.0625,
+        "current_ratio": 8.7115,
+        "interest_coverage": null
+    },
+    "volatility": 41.0551,
+    "max_drawdown": 71.252,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "4170 received a safety score of 48.7/100 and a medium investment risk classification. Annualized volatility was 41.1%. Maximum drawdown was 71.3%. Main risk: High historical price volatility."
+}

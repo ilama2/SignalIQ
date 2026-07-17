@@ -1,0 +1,29 @@
+{
+    "symbol": "1201",
+    "name": "تكوين",
+    "name_en": "Takween Advanced Industries Co.",
+    "price": 4.65,
+    "change": -0.03,
+    "change_percent": -0.64,
+    "open": 4.69,
+    "high": 4.73,
+    "low": 4.63,
+    "previous_close": 4.68,
+    "volume": 263339,
+    "value": 1226692.75,
+    "bid": 4.64,
+    "ask": 4.65,
+    "bid_size": 500,
+    "ask_size": 49122,
+    "liquidity": {
+        "inflow_value": 764785.56,
+        "inflow_volume": 164148,
+        "inflow_trades": 258,
+        "outflow_value": 461907.18,
+        "outflow_volume": 99191,
+        "outflow_trades": 243,
+        "net_value": 302878.38000000006
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

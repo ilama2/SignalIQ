@@ -1,0 +1,39 @@
+{
+    "symbol": "8190",
+    "company_name": "8190",
+    "generated_at": "2026-07-17T13:46:13.889444",
+    "final_score": 30.21,
+    "recommendation": "Sell",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 8.0,
+        "technical": 45.0,
+        "news": 50.0,
+        "risk": 26.05
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Strong Earnings Growth",
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "8190 received a final investment score of 30.2/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Strong Earnings Growth. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

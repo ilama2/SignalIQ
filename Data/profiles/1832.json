@@ -1,0 +1,29 @@
+{
+    "symbol": "1832",
+    "name": "صدر",
+    "name_en": "Sadr Logistics Co",
+    "price": 2.61,
+    "change": 0.0,
+    "change_percent": 0.0,
+    "open": 2.62,
+    "high": 2.64,
+    "low": 2.6,
+    "previous_close": 2.61,
+    "volume": 1278768,
+    "value": 3348111.83,
+    "bid": 2.6,
+    "ask": 2.61,
+    "bid_size": 173591,
+    "ask_size": 304,
+    "liquidity": {
+        "inflow_value": 1603261.95,
+        "inflow_volume": 611582,
+        "inflow_trades": 293,
+        "outflow_value": 1744849.8,
+        "outflow_volume": 667186,
+        "outflow_trades": 358,
+        "net_value": -141587.8500000001
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

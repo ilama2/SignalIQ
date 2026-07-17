@@ -1,0 +1,39 @@
+{
+    "symbol": "3060",
+    "company_name": "أسمنت ينبع",
+    "indicators": {
+        "sma20": 15.340499973297119,
+        "sma50": 15.425913105010986,
+        "sma200": 14.557528686523437,
+        "ema20": 15.315433109243752,
+        "ema50": 15.209445246757776,
+        "rsi": 42.858867640400454,
+        "macd": -0.04639393844234441,
+        "macd_signal": -0.01297286100700386,
+        "macd_histogram": -0.03342107743534055,
+        "stochastic_k": 17.64703407420705,
+        "stochastic_d": 19.71024650953717,
+        "upper_band": 15.641861875809662,
+        "middle_band": 15.340499973297119,
+        "lower_band": 15.039138070784576,
+        "atr": 0.19186088637263068,
+        "adx": 25.208357061053707,
+        "obv": 4572647.0,
+        "current_price": 15.15999984741211,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 70,
+        "rating": "Hold",
+        "strengths": [
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish MACD"
+        ]
+    }
+}

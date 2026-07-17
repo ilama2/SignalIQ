@@ -1,0 +1,47 @@
+{
+    "symbol": "8012",
+    "company_name": "8012",
+    "sector": "Financial Services",
+    "ratios": {
+        "roe": 0.03956515176191592,
+        "roa": 0.013059210429274711,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.09259104324990122,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.6699314965892519,
+        "debt_to_equity": 2.029674112090505,
+        "equity_multiplier": 3.029674112090505,
+        "asset_turnover": 0.1410418326751993,
+        "cash_conversion_ratio": -2.251022815692377,
+        "free_cash_flow": -94785000.0,
+        "revenue_growth": -0.0740537504599712,
+        "net_income_growth": 0.07090826008655216
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 365.09999999999997,
+        "lynch_value": 180.0,
+        "pe_value": 9.0,
+        "intrinsic_value": 184.69999999999996,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 0,
+        "rating": "Strong Sell",
+        "strengths": [],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Revenue Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

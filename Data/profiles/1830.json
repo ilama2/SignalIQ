@@ -1,0 +1,29 @@
+{
+    "symbol": "1830",
+    "name": "لجام للرياضة",
+    "name_en": "Leejam Sports",
+    "price": 71.5,
+    "change": -1.25,
+    "change_percent": -1.72,
+    "open": 72.75,
+    "high": 73.0,
+    "low": 71.45,
+    "previous_close": 72.75,
+    "volume": 68058,
+    "value": 4901613.5,
+    "bid": 71.5,
+    "ask": 71.85,
+    "bid_size": 307,
+    "ask_size": 3,
+    "liquidity": {
+        "inflow_value": 2077596.89,
+        "inflow_volume": 28848,
+        "inflow_trades": 424,
+        "outflow_value": 2824016.6,
+        "outflow_volume": 39210,
+        "outflow_trades": 630,
+        "net_value": -746419.7100000002
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

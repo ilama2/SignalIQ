@@ -1,0 +1,38 @@
+{
+    "symbol": "6050",
+    "company_name": "6050",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 65.70871861378656,
+        "ema50": 56.42776584112358,
+        "rsi": 57.365152864351046,
+        "macd": 6.213433221428581,
+        "macd_signal": 7.289576604780935,
+        "macd_histogram": -1.0761433833523544,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 16350125.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

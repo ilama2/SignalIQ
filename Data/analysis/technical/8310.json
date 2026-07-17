@@ -1,0 +1,38 @@
+{
+    "symbol": "8310",
+    "company_name": "8310",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 7.418896478472503,
+        "ema50": 7.073639114907653,
+        "rsi": 47.436205400754496,
+        "macd": 0.13721826363981826,
+        "macd_signal": 0.18642752770203783,
+        "macd_histogram": -0.049209264062219565,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 72931226.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "symbol": "2283",
+    "company_name": "المطاحن الأولى",
+    "generated_at": "2026-07-17T13:30:41.740845",
+    "risk_score": 54.17,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 56.57,
+    "fundamental_safety_score": 46.95,
+    "metrics": {
+        "observations": 766,
+        "annualized_volatility": 26.9203,
+        "downside_volatility": 15.8845,
+        "max_drawdown": 50.0492,
+        "value_at_risk_95": 2.5888,
+        "conditional_var_95": 3.4392,
+        "sharpe_ratio": -0.0684,
+        "debt_to_equity": 1.4308,
+        "current_ratio": 0.8523,
+        "interest_coverage": null
+    },
+    "volatility": 26.9203,
+    "max_drawdown": 50.0492,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "المطاحن الأولى received a safety score of 54.2/100 and a medium investment risk classification. Annualized volatility was 26.9%. Maximum drawdown was 50.0%. Main risk: Large historical maximum drawdown."
+}

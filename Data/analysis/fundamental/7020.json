@@ -1,0 +1,45 @@
+{
+    "symbol": "7020",
+    "company_name": "7020",
+    "sector": "Communication Services",
+    "ratios": {
+        "roe": 0.170527894560701,
+        "roa": 0.08164872902503788,
+        "gross_margin": 0.5468720765330708,
+        "operating_margin": 0.19789666935736994,
+        "net_margin": 0.17648279515449397,
+        "current_ratio": 0.927882469678538,
+        "quick_ratio": 0.9161082788855568,
+        "operating_cash_flow_ratio": 0.592125975984847,
+        "debt_ratio": 0.5212001576904812,
+        "debt_to_equity": 1.0885554079893638,
+        "equity_multiplier": 2.088555407989364,
+        "asset_turnover": 0.46264412887138456,
+        "cash_conversion_ratio": 1.9198023437993574,
+        "free_cash_flow": 3427773000.0,
+        "revenue_growth": 0.0788324048069346,
+        "net_income_growth": 0.1157362703292855
+    },
+    "valuation": {
+        "dcf_value": 80.70621621781419,
+        "graham_value": 7133.166432624113,
+        "lynch_value": 3547.4582163120567,
+        "pe_value": 67.5,
+        "intrinsic_value": 2707.207716288496,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 49,
+        "rating": "Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Weak Liquidity",
+            "High Debt"
+        ]
+    }
+}

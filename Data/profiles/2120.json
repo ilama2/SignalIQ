@@ -1,0 +1,29 @@
+{
+    "symbol": "2120",
+    "name": "متطورة",
+    "name_en": "Saudi Advanced Industries Co.",
+    "price": 16.48,
+    "change": -0.13,
+    "change_percent": -0.78,
+    "open": 16.91,
+    "high": 16.91,
+    "low": 16.42,
+    "previous_close": 16.61,
+    "volume": 154117,
+    "value": 2547477.16,
+    "bid": 16.48,
+    "ask": 16.49,
+    "bid_size": 149,
+    "ask_size": 36,
+    "liquidity": {
+        "inflow_value": 971490.82,
+        "inflow_volume": 58697,
+        "inflow_trades": 200,
+        "outflow_value": 1575986.34,
+        "outflow_volume": 95420,
+        "outflow_trades": 248,
+        "net_value": -604495.5200000001
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

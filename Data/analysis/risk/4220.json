@@ -1,0 +1,31 @@
+{
+    "symbol": "4220",
+    "company_name": "4220",
+    "generated_at": "2026-07-17T13:30:41.924620",
+    "risk_score": 52.14,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 46.75,
+    "fundamental_safety_score": 68.31,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 29.5517,
+        "downside_volatility": 17.2787,
+        "max_drawdown": 71.7775,
+        "value_at_risk_95": 2.6457,
+        "conditional_var_95": 3.7482,
+        "sharpe_ratio": -0.5646,
+        "debt_to_equity": 0.6779,
+        "current_ratio": 1.0624,
+        "interest_coverage": null
+    },
+    "volatility": 29.5517,
+    "max_drawdown": 71.7775,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "4220 received a safety score of 52.1/100 and a medium investment risk classification. Annualized volatility was 29.6%. Maximum drawdown was 71.8%. Main risk: Large historical maximum drawdown."
+}

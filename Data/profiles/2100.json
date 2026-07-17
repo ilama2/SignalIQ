@@ -1,0 +1,29 @@
+{
+    "symbol": "2100",
+    "name": "وفرة",
+    "name_en": "Wafrah for Industry and Develop",
+    "price": 22.03,
+    "change": -0.27,
+    "change_percent": -1.21,
+    "open": 22.1,
+    "high": 22.4,
+    "low": 21.89,
+    "previous_close": 22.3,
+    "volume": 139789,
+    "value": 3082906.39,
+    "bid": 22.03,
+    "ask": 22.05,
+    "bid_size": 186,
+    "ask_size": 100,
+    "liquidity": {
+        "inflow_value": 1488282.95,
+        "inflow_volume": 67519,
+        "inflow_trades": 349,
+        "outflow_value": 1594623.45,
+        "outflow_volume": 72270,
+        "outflow_trades": 388,
+        "net_value": -106340.5
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,29 @@
+{
+    "symbol": "3008",
+    "name": "الكثيري",
+    "name_en": "Al Kathiri Holding Company SJSC",
+    "price": 1.39,
+    "change": -0.02,
+    "change_percent": -1.42,
+    "open": 1.42,
+    "high": 1.42,
+    "low": 1.38,
+    "previous_close": 1.41,
+    "volume": 2483807,
+    "value": 3478733.71,
+    "bid": 1.39,
+    "ask": 1.4,
+    "bid_size": 227646,
+    "ask_size": 58698,
+    "liquidity": {
+        "inflow_value": 1352722.58,
+        "inflow_volume": 964816,
+        "inflow_trades": 545,
+        "outflow_value": 2126011.07,
+        "outflow_volume": 1518991,
+        "outflow_trades": 1256,
+        "net_value": -773288.4899999998
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

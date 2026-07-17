@@ -1,0 +1,38 @@
+{
+    "symbol": "1210",
+    "company_name": "بي سي آي",
+    "indicators": {
+        "sma20": 23.818499755859374,
+        "sma50": 24.31699981689453,
+        "sma200": 25.64099987030029,
+        "ema20": 23.81883028674288,
+        "ema50": 24.23046273676243,
+        "rsi": 33.30420344711703,
+        "macd": -0.25331551816189446,
+        "macd_signal": -0.22072137408726045,
+        "macd_histogram": -0.03259414407463401,
+        "stochastic_k": 0.0,
+        "stochastic_d": 1.5476529091503093,
+        "upper_band": 24.352738271007397,
+        "middle_band": 23.818499755859374,
+        "lower_band": 23.284261240711352,
+        "atr": 0.33954309623002776,
+        "adx": 9.174179148967994,
+        "obv": 25371673.0,
+        "current_price": 23.309999465942383,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 20,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

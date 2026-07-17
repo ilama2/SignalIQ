@@ -1,0 +1,29 @@
+{
+    "symbol": "1212",
+    "name": "أسترا الصناعية",
+    "name_en": "Astra Industrial Group Company SJSC",
+    "price": 127.4,
+    "change": 2.0,
+    "change_percent": 1.59,
+    "open": 126.0,
+    "high": 128.8,
+    "low": 125.0,
+    "previous_close": 125.4,
+    "volume": 90481,
+    "value": 11476012.0,
+    "bid": 127.4,
+    "ask": 128.0,
+    "bid_size": 569,
+    "ask_size": 50,
+    "liquidity": {
+        "inflow_value": 6345652.88,
+        "inflow_volume": 49971,
+        "inflow_trades": 712,
+        "outflow_value": 5130359.09,
+        "outflow_volume": 40510,
+        "outflow_trades": 522,
+        "net_value": 1215293.79
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

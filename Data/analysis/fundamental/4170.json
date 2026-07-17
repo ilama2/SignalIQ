@@ -1,0 +1,49 @@
+{
+    "symbol": "4170",
+    "company_name": "4170",
+    "sector": "Consumer Cyclical",
+    "ratios": {
+        "roe": -0.023664552549768483,
+        "roa": -0.022271485918678655,
+        "gross_margin": -0.48795830037544147,
+        "operating_margin": -1.480800510415265,
+        "net_margin": -1.2302576157368328,
+        "current_ratio": 8.711543797389929,
+        "quick_ratio": 8.711543797389929,
+        "operating_cash_flow_ratio": -0.16354781677841124,
+        "debt_ratio": 0.05886722887154091,
+        "debt_to_equity": 0.062549334883915,
+        "equity_multiplier": 1.062549334883915,
+        "asset_turnover": 0.01810310753926095,
+        "cash_conversion_ratio": 0.4094116380916689,
+        "free_cash_flow": -5854041.0,
+        "revenue_growth": -0.06438514464973866,
+        "net_income_growth": -2.803678145033876
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": null,
+        "margin_of_safety": 0.0,
+        "upside": null,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 34,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

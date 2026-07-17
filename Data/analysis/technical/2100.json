@@ -1,0 +1,39 @@
+{
+    "symbol": "2100",
+    "company_name": "وفرة",
+    "indicators": {
+        "sma20": 22.384499931335448,
+        "sma50": 20.89659999847412,
+        "sma200": 22.039549980163574,
+        "ema20": 22.311184098665212,
+        "ema50": 21.472143649152223,
+        "rsi": 50.1150435819678,
+        "macd": 0.6194815825273743,
+        "macd_signal": 0.7930541677299319,
+        "macd_histogram": -0.17357258520255758,
+        "stochastic_k": 18.693697757318148,
+        "stochastic_d": 30.55030162141117,
+        "upper_band": 25.48569012025814,
+        "middle_band": 22.384499931335448,
+        "lower_band": 19.283309742412754,
+        "atr": 1.0912351368989417,
+        "adx": 34.410084408142616,
+        "obv": 81077537.0,
+        "current_price": 22.030000686645508,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 55,
+        "rating": "Hold",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

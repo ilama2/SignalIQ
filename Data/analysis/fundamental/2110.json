@@ -1,0 +1,49 @@
+{
+    "symbol": "2110",
+    "company_name": "الكابلات السعودية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.9420296616297568,
+        "roa": 0.23218577161452045,
+        "gross_margin": -0.20070919257207345,
+        "operating_margin": -0.6261734379809172,
+        "net_margin": 1.2947894223863754,
+        "current_ratio": 0.24752806616381925,
+        "quick_ratio": 0.22351515505460492,
+        "operating_cash_flow_ratio": -0.10656494413721534,
+        "debt_ratio": 1.2464739498890385,
+        "debt_to_equity": -5.0572238991187355,
+        "equity_multiplier": -4.0572238991187355,
+        "asset_turnover": 0.17932319155541757,
+        "cash_conversion_ratio": -0.4699021914077009,
+        "free_cash_flow": -99231000.0,
+        "revenue_growth": 2.538011297896958,
+        "net_income_growth": 3.141371672340949
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 1536261.647487239,
+        "lynch_value": 768002.2187436194,
+        "pe_value": 453.90000000000003,
+        "intrinsic_value": 768239.2554102861,
+        "current_price": 154.5,
+        "margin_of_safety": 0.9997988907766533,
+        "upside": 4971.422365115121,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 34,
+        "rating": "Strong Sell",
+        "strengths": [
+            "High Net Margin",
+            "Low Debt",
+            "Strong Revenue Growth",
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Weak Liquidity",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

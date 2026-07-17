@@ -1,0 +1,48 @@
+{
+    "symbol": "1210",
+    "company_name": "بي سي آي",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.02943941111611416,
+        "roa": 0.014125599218584209,
+        "gross_margin": 0.20336618287049874,
+        "operating_margin": 0.09479666329761685,
+        "net_margin": 0.02380214135848749,
+        "current_ratio": 2.1743870696160577,
+        "quick_ratio": 1.5977885070030389,
+        "operating_cash_flow_ratio": 0.4531128812066645,
+        "debt_ratio": 0.4639550784665257,
+        "debt_to_equity": 0.9669369832053067,
+        "equity_multiplier": 2.08411768311977,
+        "asset_turnover": 0.5934591768797823,
+        "cash_conversion_ratio": 4.89595707107812,
+        "free_cash_flow": 60448547.0,
+        "revenue_growth": -0.033887370827065444,
+        "net_income_growth": 1.0428801407527648
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 383.355,
+        "lynch_value": 189.0,
+        "pe_value": 9.45,
+        "intrinsic_value": 193.93500000000003,
+        "current_price": 23.309999465942383,
+        "margin_of_safety": 0.8798050920878522,
+        "upside": 7.319820010436005,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 46,
+        "rating": "Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining"
+        ]
+    }
+}

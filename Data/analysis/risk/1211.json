@@ -1,0 +1,34 @@
+{
+    "symbol": "1211",
+    "company_name": "معادن",
+    "generated_at": "2026-07-17T13:30:41.618656",
+    "risk_score": 47.78,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 37.27,
+    "fundamental_safety_score": 79.3,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 44.6095,
+        "downside_volatility": 30.9685,
+        "max_drawdown": 45.648,
+        "value_at_risk_95": 3.1301,
+        "conditional_var_95": 5.0396,
+        "sharpe_ratio": 0.6309,
+        "debt_to_equity": 0.8433,
+        "current_ratio": 1.5389,
+        "interest_coverage": null
+    },
+    "volatility": 44.6095,
+    "max_drawdown": 45.648,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "معادن received a safety score of 47.8/100 and a medium investment risk classification. Annualized volatility was 44.6%. Maximum drawdown was 45.6%. Main risk: High historical price volatility."
+}

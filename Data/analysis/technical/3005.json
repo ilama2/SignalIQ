@@ -1,0 +1,39 @@
+{
+    "symbol": "3005",
+    "company_name": "أسمنت ام القرى",
+    "indicators": {
+        "sma20": 13.851500177383423,
+        "sma50": 13.799599990844726,
+        "sma200": 13.143999977111816,
+        "ema20": 13.890935299022315,
+        "ema50": 13.67681139096376,
+        "rsi": 56.426216414715256,
+        "macd": 0.0928169721067249,
+        "macd_signal": 0.07388128246481068,
+        "macd_histogram": 0.018935689641914222,
+        "stochastic_k": 67.69228286290263,
+        "stochastic_d": 76.92312206744985,
+        "upper_band": 14.181061985019982,
+        "middle_band": 13.851500177383423,
+        "lower_band": 13.521938369746865,
+        "atr": 0.24086388017129295,
+        "adx": 28.151666095714308,
+        "obv": 13009367.0,
+        "current_price": 13.989999771118164,
+        "trend": "Bullish"
+    },
+    "score": {
+        "score": 90,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Bullish Trend",
+            "Price Above SMA200",
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": []
+    }
+}

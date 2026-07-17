@@ -1,0 +1,29 @@
+{
+    "symbol": "1831",
+    "name": "مهارة",
+    "name_en": "Maharah for Human Resources Company",
+    "price": 5.51,
+    "change": 0.09,
+    "change_percent": 1.66,
+    "open": 5.4,
+    "high": 5.57,
+    "low": 5.4,
+    "previous_close": 5.42,
+    "volume": 6831575,
+    "value": 37731756.95,
+    "bid": 5.5,
+    "ask": 5.51,
+    "bid_size": 1,
+    "ask_size": 23996,
+    "liquidity": {
+        "inflow_value": 24088546.36,
+        "inflow_volume": 4358882,
+        "inflow_trades": 1705,
+        "outflow_value": 13646610.98,
+        "outflow_volume": 2473310,
+        "outflow_trades": 1903,
+        "net_value": 10441935.379999999
+    },
+    "updated_at": "2026-07-16T12:19:52+00:00",
+    "is_delayed": true
+}

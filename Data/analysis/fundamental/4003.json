@@ -1,0 +1,46 @@
+{
+    "symbol": "4003",
+    "company_name": "إكسترا",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.30383886945496297,
+        "roa": 0.08389505092088374,
+        "gross_margin": 0.0,
+        "operating_margin": 0.09917735624550521,
+        "net_margin": 0.06674648457618503,
+        "current_ratio": 1.8239137598864328,
+        "quick_ratio": 1.1025337152707362,
+        "operating_cash_flow_ratio": 0.04870863753126479,
+        "debt_ratio": 0.6492059880231434,
+        "debt_to_equity": 2.351199639062884,
+        "equity_multiplier": 3.6216542706612658,
+        "asset_turnover": 1.256920891843003,
+        "cash_conversion_ratio": 0.18557269387245925,
+        "free_cash_flow": 14249000.0,
+        "revenue_growth": 0.09805270453607032,
+        "net_income_growth": -0.058521107417194705
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 12230.930903379933,
+        "lynch_value": 6089.072951689966,
+        "pe_value": 93.15,
+        "intrinsic_value": 6137.717951689967,
+        "current_price": 68.8499984741211,
+        "margin_of_safety": 0.9887824759925367,
+        "upside": 88.14623221083983,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 34,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "High Debt",
+            "Net Income Declining"
+        ]
+    }
+}

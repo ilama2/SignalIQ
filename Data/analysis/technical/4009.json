@@ -1,0 +1,39 @@
+{
+    "symbol": "4009",
+    "company_name": "السعودي الألماني الصحية",
+    "indicators": {
+        "sma20": 31.83606195449829,
+        "sma50": 32.41582176208496,
+        "sma200": 36.81581896781921,
+        "ema20": 32.02074370140635,
+        "ema50": 32.585797674389106,
+        "rsi": 47.52183608346088,
+        "macd": -0.09716813217770692,
+        "macd_signal": -0.17881409320336808,
+        "macd_histogram": 0.08164596102566116,
+        "stochastic_k": 29.281539788738783,
+        "stochastic_d": 29.568992475354815,
+        "upper_band": 32.739834748725386,
+        "middle_band": 31.83606195449829,
+        "lower_band": 30.932289160271196,
+        "atr": 0.7241870183560914,
+        "adx": 24.464669723161204,
+        "obv": 40106244.0,
+        "current_price": 31.86000061035156,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 40,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend"
+        ]
+    }
+}

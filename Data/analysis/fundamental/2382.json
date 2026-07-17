@@ -1,0 +1,45 @@
+{
+    "symbol": "2382",
+    "company_name": "أديس",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.12064842688885208,
+        "roa": 0.026041754047829744,
+        "gross_margin": 0.37869734288997736,
+        "operating_margin": 0.2926262517082254,
+        "net_margin": 0.12229346898373873,
+        "current_ratio": 1.0787283630704367,
+        "quick_ratio": 0.8984600632412872,
+        "operating_cash_flow_ratio": 0.5671021639783412,
+        "debt_ratio": 0.7831065479436347,
+        "debt_to_equity": 3.6280418332125643,
+        "equity_multiplier": 4.6328840471829364,
+        "asset_turnover": 0.21294476527845077,
+        "cash_conversion_ratio": 3.643844374682158,
+        "free_cash_flow": 1142592000.0,
+        "revenue_growth": 0.07903456383926367,
+        "net_income_growth": 0.01933711984328933
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 1176.0015448211022,
+        "lynch_value": 584.8557724105511,
+        "pe_value": 11.1,
+        "intrinsic_value": 590.6524390772178,
+        "current_price": 18.510000228881836,
+        "margin_of_safety": 0.9686617729746445,
+        "upside": 30.909909874317613,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 42,
+        "rating": "Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "High Debt"
+        ]
+    }
+}

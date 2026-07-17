@@ -1,0 +1,45 @@
+{
+    "symbol": "2288",
+    "company_name": "نفوذ",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.30616333401443163,
+        "roa": 0.20573482963028097,
+        "gross_margin": 0.621516037764983,
+        "operating_margin": 0.13501189335386857,
+        "net_margin": 0.13208011581469128,
+        "current_ratio": 2.2092539913175293,
+        "quick_ratio": 1.782532493367927,
+        "operating_cash_flow_ratio": 1.328625937176148,
+        "debt_ratio": 0.3280226376794575,
+        "debt_to_equity": 0.4881453692825238,
+        "equity_multiplier": 1.4881453692825237,
+        "asset_turnover": 1.5576517961184062,
+        "cash_conversion_ratio": 1.064217312783657,
+        "free_cash_flow": 44930208.0,
+        "revenue_growth": 0.1768054251818975,
+        "net_income_growth": 0.09888395124465528
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 2126.76510218277,
+        "lynch_value": 1060.8325510913849,
+        "pe_value": 9.0,
+        "intrinsic_value": 1065.5325510913851,
+        "current_price": 6.909999847412109,
+        "margin_of_safety": 0.9935149800535569,
+        "upside": 153.20153033584245,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 86,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Strong Liquidity",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

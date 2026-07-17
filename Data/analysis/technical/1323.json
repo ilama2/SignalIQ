@@ -1,0 +1,39 @@
+{
+    "symbol": "1323",
+    "company_name": "يو سي آي سي",
+    "indicators": {
+        "sma20": 25.704999923706055,
+        "sma50": 25.21859992980957,
+        "sma200": 25.61372868537903,
+        "ema20": 25.617172716648085,
+        "ema50": 25.348393071361404,
+        "rsi": 42.79440791611115,
+        "macd": 0.06710999534507778,
+        "macd_signal": 0.1985928192693382,
+        "macd_histogram": -0.13148282392426042,
+        "stochastic_k": 17.117084608121356,
+        "stochastic_d": 24.023979904672625,
+        "upper_band": 26.674525663077496,
+        "middle_band": 25.704999923706055,
+        "lower_band": 24.735474184334613,
+        "atr": 0.5008247620803064,
+        "adx": 21.897895480350236,
+        "obv": 1962749.0,
+        "current_price": 25.079999923706055,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 40,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

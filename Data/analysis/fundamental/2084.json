@@ -1,0 +1,47 @@
+{
+    "symbol": "2084",
+    "company_name": "مياهنا",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.152550974221537,
+        "roa": 0.042985184164891374,
+        "gross_margin": 0.16245050650788556,
+        "operating_margin": 0.11998935748787352,
+        "net_margin": 0.10350103600226408,
+        "current_ratio": 1.563915404974477,
+        "quick_ratio": 1.5446365178816812,
+        "operating_cash_flow_ratio": 0.47711432524737313,
+        "debt_ratio": 0.7156581258361189,
+        "debt_to_equity": 2.539813343292097,
+        "equity_multiplier": 3.5489198705384335,
+        "asset_turnover": 0.4153116318946901,
+        "cash_conversion_ratio": 2.1945466620560166,
+        "free_cash_flow": 123355037.0,
+        "revenue_growth": 0.8168637733664196,
+        "net_income_growth": 0.7780652623440512
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 7355.598960297776,
+        "lynch_value": 3675.886980148888,
+        "pe_value": 6.75,
+        "intrinsic_value": 3679.4119801488882,
+        "current_price": 14.0,
+        "margin_of_safety": 0.9961950441876222,
+        "upside": 261.8151414392063,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 47,
+        "rating": "Sell",
+        "strengths": [
+            "Strong Revenue Growth",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "High Debt"
+        ]
+    }
+}

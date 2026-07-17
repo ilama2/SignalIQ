@@ -1,0 +1,48 @@
+{
+    "symbol": "3092",
+    "company_name": "أسمنت الرياض",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.12095666964036259,
+        "roa": 0.10956194257314865,
+        "gross_margin": 0.3273359787838968,
+        "operating_margin": 0.27715071709641964,
+        "net_margin": 0.2638646465911845,
+        "current_ratio": 4.70446006361186,
+        "quick_ratio": 2.3132949299400822,
+        "operating_cash_flow_ratio": 1.7189395389225512,
+        "debt_ratio": 0.09420503310064325,
+        "debt_to_equity": 0.10400260162972445,
+        "equity_multiplier": 1.1040026016297244,
+        "asset_turnover": 0.41522024260755597,
+        "cash_conversion_ratio": 1.1697471871084852,
+        "free_cash_flow": 111668936.0,
+        "revenue_growth": -0.002242825137931976,
+        "net_income_growth": -0.33053961773233276
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 1052.705,
+        "lynch_value": 519.0,
+        "pe_value": 25.95,
+        "intrinsic_value": 532.5516666666666,
+        "current_price": 22.600000381469727,
+        "margin_of_safety": 0.9575628022668166,
+        "upside": 22.564232640602885,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 78,
+        "rating": "Buy",
+        "strengths": [
+            "High Net Margin",
+            "Strong Liquidity",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "symbol": "1835",
+    "name": "تمكين",
+    "name_en": "TAMKEEN",
+    "price": 47.6,
+    "change": -0.16,
+    "change_percent": -0.34,
+    "open": 47.5,
+    "high": 48.1,
+    "low": 47.18,
+    "previous_close": 47.76,
+    "volume": 95901,
+    "value": 4582512.42,
+    "bid": 47.56,
+    "ask": 47.7,
+    "bid_size": 7,
+    "ask_size": 42,
+    "liquidity": {
+        "inflow_value": 2775080.6,
+        "inflow_volume": 57945,
+        "inflow_trades": 259,
+        "outflow_value": 1807431.82,
+        "outflow_volume": 37956,
+        "outflow_trades": 275,
+        "net_value": 967648.78
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,48 @@
+{
+    "symbol": "7201",
+    "company_name": "7201",
+    "sector": "Technology",
+    "ratios": {
+        "roe": -0.18641624339341464,
+        "roa": -0.09754226828311215,
+        "gross_margin": 0.5202360172934932,
+        "operating_margin": -0.25221014685825444,
+        "net_margin": -0.3703527210209622,
+        "current_ratio": 0.4604025273299843,
+        "quick_ratio": 0.45790325146389405,
+        "operating_cash_flow_ratio": 0.052721675048755745,
+        "debt_ratio": 0.47675016668339354,
+        "debt_to_equity": 0.9111329547140495,
+        "equity_multiplier": 1.9111329547140494,
+        "asset_turnover": 0.2633766751172086,
+        "cash_conversion_ratio": -0.13417458483000105,
+        "free_cash_flow": -11674696.0,
+        "revenue_growth": 0.28265100194381354,
+        "net_income_growth": -0.16874029930979936
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": null,
+        "margin_of_safety": 0.0,
+        "upside": null,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 24,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Revenue Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "symbol": "7201",
+    "company_name": "7201",
+    "generated_at": "2026-07-17T13:30:42.063332",
+    "risk_score": 39.81,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 37.48,
+    "fundamental_safety_score": 46.78,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 35.5784,
+        "downside_volatility": 25.3556,
+        "max_drawdown": 84.2439,
+        "value_at_risk_95": 2.9168,
+        "conditional_var_95": 5.1565,
+        "sharpe_ratio": -0.6773,
+        "debt_to_equity": 0.9111,
+        "current_ratio": 0.4604,
+        "interest_coverage": null
+    },
+    "volatility": 35.5784,
+    "max_drawdown": 84.2439,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "7201 received a safety score of 39.8/100 and a high investment risk classification. Annualized volatility was 35.6%. Maximum drawdown was 84.2%. Main risk: High historical price volatility."
+}

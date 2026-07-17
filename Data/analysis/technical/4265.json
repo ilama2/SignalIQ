@@ -1,0 +1,38 @@
+{
+    "symbol": "4265",
+    "company_name": "4265",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 23.42458642871754,
+        "ema50": 23.95865082620334,
+        "rsi": 40.615619053728324,
+        "macd": -0.30849691022915593,
+        "macd_signal": -0.2949382807897556,
+        "macd_histogram": -0.013558629439400338,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 19869601.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

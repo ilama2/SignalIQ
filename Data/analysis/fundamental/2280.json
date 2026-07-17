@@ -1,0 +1,42 @@
+{
+    "symbol": "2280",
+    "company_name": "المراعي",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.1196490265731595,
+        "roa": 0.06145318057958864,
+        "gross_margin": 0.3010172366253044,
+        "operating_margin": 0.1402812778100362,
+        "net_margin": 0.11131234093497738,
+        "current_ratio": 1.4692399463467245,
+        "quick_ratio": 0.5045455725878945,
+        "operating_cash_flow_ratio": 0.8546086342725785,
+        "debt_ratio": 0.48639406540882907,
+        "debt_to_equity": 0.9470067441303073,
+        "equity_multiplier": 1.9469948576249982,
+        "asset_turnover": 0.5520787727884211,
+        "cash_conversion_ratio": 2.22417880756144,
+        "free_cash_flow": 36254000.0,
+        "revenue_growth": 0.0517344731374114,
+        "net_income_growth": 0.06181877134581298
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 2566.2460783606407,
+        "lynch_value": 1272.6680391803204,
+        "pe_value": 36.9,
+        "intrinsic_value": 1291.9380391803204,
+        "current_price": 46.58000183105469,
+        "margin_of_safety": 0.9639456379343024,
+        "upside": 26.735894984851434,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 54,
+        "rating": "Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

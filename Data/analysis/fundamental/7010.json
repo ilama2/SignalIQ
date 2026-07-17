@@ -1,0 +1,44 @@
+{
+    "symbol": "7010",
+    "company_name": "7010",
+    "sector": "Communication Services",
+    "ratios": {
+        "roe": 0.17776519842316785,
+        "roa": 0.09416017048214298,
+        "gross_margin": 0.4844555500334592,
+        "operating_margin": 0.18159129540563368,
+        "net_margin": 0.19054590687903641,
+        "current_ratio": 1.4441632133364615,
+        "quick_ratio": 1.3962896827002003,
+        "operating_cash_flow_ratio": 0.45511553590975934,
+        "debt_ratio": 0.4514340406831948,
+        "debt_to_equity": 0.8522633445341886,
+        "equity_multiplier": 1.8879022575355273,
+        "asset_turnover": 0.4941600269688204,
+        "cash_conversion_ratio": 1.2330136235224773,
+        "free_cash_flow": 6488492000.0,
+        "revenue_growth": 0.025367972316648876,
+        "net_income_growth": -0.3993989627299214
+    },
+    "valuation": {
+        "dcf_value": 19.13371101184016,
+        "graham_value": 1807.2450000000001,
+        "lynch_value": 891.0000000000001,
+        "pe_value": 44.550000000000004,
+        "intrinsic_value": 690.4821777529601,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 59,
+        "rating": "Hold",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Net Income Declining"
+        ]
+    }
+}

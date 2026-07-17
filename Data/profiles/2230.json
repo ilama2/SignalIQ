@@ -1,0 +1,29 @@
+{
+    "symbol": "2230",
+    "name": "الكيميائية",
+    "name_en": "Saudi Chemical Co.",
+    "price": 8.46,
+    "change": 0.01,
+    "change_percent": 0.12,
+    "open": 8.45,
+    "high": 8.51,
+    "low": 8.36,
+    "previous_close": 8.45,
+    "volume": 3181353,
+    "value": 26791200.81,
+    "bid": 8.44,
+    "ask": 8.46,
+    "bid_size": 200,
+    "ask_size": 29146,
+    "liquidity": {
+        "inflow_value": 11288780.59,
+        "inflow_volume": 1338972,
+        "inflow_trades": 988,
+        "outflow_value": 15502420.13,
+        "outflow_volume": 1842381,
+        "outflow_trades": 1269,
+        "net_value": -4213639.540000001
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,37 @@
+{
+    "symbol": "4170",
+    "company_name": "4170",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 16.790228465732536,
+        "ema50": 16.529480113254895,
+        "rsi": 36.1514789312033,
+        "macd": -0.11458397445041513,
+        "macd_signal": 0.010690307825189633,
+        "macd_histogram": -0.12527428227560475,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 438863918.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

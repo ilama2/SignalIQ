@@ -1,0 +1,40 @@
+{
+    "symbol": "2140",
+    "company_name": "أيان",
+    "indicators": {
+        "sma20": 10.909500122070312,
+        "sma50": 10.915000076293945,
+        "sma200": 11.881650013923645,
+        "ema20": 10.880848664038021,
+        "ema50": 10.92030354923291,
+        "rsi": 45.22061096440544,
+        "macd": -0.04724692118154117,
+        "macd_signal": -0.014786363612737679,
+        "macd_histogram": -0.03246055756880349,
+        "stochastic_k": 15.277744664054904,
+        "stochastic_d": 9.722189108499366,
+        "upper_band": 11.245921094021675,
+        "middle_band": 10.909500122070312,
+        "lower_band": 10.57307915011895,
+        "atr": 0.16677229081411202,
+        "adx": 14.489253931187422,
+        "obv": 124106321.0,
+        "current_price": 10.789999961853027,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

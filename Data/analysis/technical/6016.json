@@ -1,0 +1,37 @@
+{
+    "symbol": "6016",
+    "company_name": "6016",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 7.548855084844287,
+        "ema50": 7.6340587881670805,
+        "rsi": 38.09549796351683,
+        "macd": -0.03646358831716867,
+        "macd_signal": -0.03212535382310559,
+        "macd_histogram": -0.0043382344940630785,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 92194188.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

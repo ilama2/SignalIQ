@@ -1,0 +1,46 @@
+{
+    "symbol": "2081",
+    "company_name": "الخريف",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.27928554088387203,
+        "roa": 0.08317553868641515,
+        "gross_margin": 0.186300356115534,
+        "operating_margin": 0.12116043514995138,
+        "net_margin": 0.10337489207526973,
+        "current_ratio": 1.4222367361087496,
+        "quick_ratio": 1.338433939563889,
+        "operating_cash_flow_ratio": -0.17868410935865534,
+        "debt_ratio": 0.7021845870603095,
+        "debt_to_equity": 2.3577845757852245,
+        "equity_multiplier": 3.3577845757852245,
+        "asset_turnover": 0.8046009724087843,
+        "cash_conversion_ratio": -0.9399459827125927,
+        "free_cash_flow": -296839552.0,
+        "revenue_growth": 0.2672986938360884,
+        "net_income_growth": 0.11192154628734256
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 39141.20403883612,
+        "lynch_value": 19539.53451941806,
+        "pe_value": 109.64999999999999,
+        "intrinsic_value": 19596.796186084724,
+        "current_price": 107.8000030517578,
+        "margin_of_safety": 0.9944991006678784,
+        "upside": 180.78845669119096,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 43,
+        "rating": "Sell",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Strong Revenue Growth"
+        ],
+        "weaknesses": [
+            "High Debt",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

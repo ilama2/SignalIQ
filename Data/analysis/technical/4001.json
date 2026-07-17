@@ -1,0 +1,40 @@
+{
+    "symbol": "4001",
+    "company_name": "أسواق ع العثيم",
+    "indicators": {
+        "sma20": 5.684000015258789,
+        "sma50": 5.8101777172088624,
+        "sma200": 6.264849910736084,
+        "ema20": 5.611834685682636,
+        "ema50": 5.780456991631822,
+        "rsi": 12.727135731632927,
+        "macd": -0.14559391083709627,
+        "macd_signal": -0.10695837897686902,
+        "macd_histogram": -0.03863553186022725,
+        "stochastic_k": 3.448273027127105,
+        "stochastic_d": 6.237152732664753,
+        "upper_band": 6.138021973234549,
+        "middle_band": 5.684000015258789,
+        "lower_band": 5.229978057283029,
+        "atr": 0.06452103385619995,
+        "adx": 40.17798423090641,
+        "obv": -3155682.0,
+        "current_price": 5.340000152587891,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 20,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Oversold",
+            "Strong Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD",
+            "Weak Volume Trend"
+        ]
+    }
+}

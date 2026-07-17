@@ -1,0 +1,32 @@
+{
+    "symbol": "1201",
+    "company_name": "تكوين",
+    "generated_at": "2026-07-17T13:30:41.612044",
+    "risk_score": 29.94,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 37.23,
+    "fundamental_safety_score": 8.09,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 35.3912,
+        "downside_volatility": 25.4491,
+        "max_drawdown": 90.4135,
+        "value_at_risk_95": 3.0937,
+        "conditional_var_95": 4.8788,
+        "sharpe_ratio": -1.1633,
+        "debt_to_equity": 4.8438,
+        "current_ratio": 0.603,
+        "interest_coverage": null
+    },
+    "volatility": 35.3912,
+    "max_drawdown": 90.4135,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "تكوين received a safety score of 29.9/100 and a high investment risk classification. Annualized volatility was 35.4%. Maximum drawdown was 90.4%. Main risk: High historical price volatility."
+}

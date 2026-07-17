@@ -1,0 +1,29 @@
+{
+    "symbol": "2190",
+    "name": "سيسكو القابضة",
+    "name_en": "Saudi Industrial Services Company SJSC",
+    "price": 36.2,
+    "change": 0.44,
+    "change_percent": 1.23,
+    "open": 35.76,
+    "high": 36.3,
+    "low": 35.6,
+    "previous_close": 35.76,
+    "volume": 116564,
+    "value": 4203947.96,
+    "bid": 36.08,
+    "ask": 36.2,
+    "bid_size": 16,
+    "ask_size": 500,
+    "liquidity": {
+        "inflow_value": 1707066.65,
+        "inflow_volume": 47293,
+        "inflow_trades": 414,
+        "outflow_value": 2496881.33,
+        "outflow_volume": 69271,
+        "outflow_trades": 448,
+        "net_value": -789814.6800000002
+    },
+    "updated_at": "2026-07-16T12:19:59+00:00",
+    "is_delayed": true
+}

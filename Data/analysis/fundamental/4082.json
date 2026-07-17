@@ -1,0 +1,46 @@
+{
+    "symbol": "4082",
+    "company_name": "4082",
+    "sector": "Financial Services",
+    "ratios": {
+        "roe": 0.001218596274893392,
+        "roa": 0.0007015889145356926,
+        "gross_margin": 0.5169661422580729,
+        "operating_margin": -0.1818844985331093,
+        "net_margin": 0.004625801100544478,
+        "current_ratio": 1.4135690855867729,
+        "quick_ratio": 1.4135690855867729,
+        "operating_cash_flow_ratio": 0.022050806178809997,
+        "debt_ratio": 0.42053935446918106,
+        "debt_to_equity": 0.7304386944901544,
+        "equity_multiplier": 1.7369092493427607,
+        "asset_turnover": 0.15166862977595652,
+        "cash_conversion_ratio": 9.629529179995666,
+        "free_cash_flow": 3978283.0,
+        "revenue_growth": 0.12963486537793814,
+        "net_income_growth": -0.9691078484828645
+    },
+    "valuation": {
+        "dcf_value": 1.2378425012465186,
+        "graham_value": 36.41676230582268,
+        "lynch_value": 18.14888115291134,
+        "pe_value": 0.21,
+        "intrinsic_value": 14.003371489995134,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 43,
+        "rating": "Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Net Income Declining"
+        ]
+    }
+}

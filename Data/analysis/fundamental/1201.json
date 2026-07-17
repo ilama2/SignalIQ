@@ -1,0 +1,49 @@
+{
+    "symbol": "1201",
+    "company_name": "تكوين",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -1.0585578505035262,
+        "roa": -0.1811431122938458,
+        "gross_margin": 0.11752836068979847,
+        "operating_margin": 0.010428423020984833,
+        "net_margin": -0.3358071888634947,
+        "current_ratio": 0.6030334564591029,
+        "quick_ratio": 0.45379189869936687,
+        "operating_cash_flow_ratio": -0.015251657822861394,
+        "debt_ratio": 0.8288774560524197,
+        "debt_to_equity": 4.843765391346265,
+        "equity_multiplier": 5.843765391346265,
+        "asset_turnover": 0.5394259512635994,
+        "cash_conversion_ratio": 0.048314606741573035,
+        "free_cash_flow": -51161000.0,
+        "revenue_growth": -0.10437151555300825,
+        "net_income_growth": 1.6640733170699544
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 4.650000095367432,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 8,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Revenue Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

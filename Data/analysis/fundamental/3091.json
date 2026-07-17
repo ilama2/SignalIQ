@@ -1,0 +1,48 @@
+{
+    "symbol": "3091",
+    "company_name": "أسمنت الجوف",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.22697130975311874,
+        "roa": -0.11373534676421965,
+        "gross_margin": -0.3863715602134082,
+        "operating_margin": -0.5639159256221348,
+        "net_margin": -0.8454977004117054,
+        "current_ratio": 0.19089191829502314,
+        "quick_ratio": 0.040840113742128044,
+        "operating_cash_flow_ratio": 0.0995917848152006,
+        "debt_ratio": 0.4988998966964949,
+        "debt_to_equity": 0.9956092473489723,
+        "equity_multiplier": 1.9956092473489724,
+        "asset_turnover": 0.13451881265772517,
+        "cash_conversion_ratio": -0.362729490289378,
+        "free_cash_flow": 72692625.0,
+        "revenue_growth": -0.04753416619582614,
+        "net_income_growth": 6.448770201843543
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 4.980000019073486,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 24,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "Revenue Declining"
+        ]
+    }
+}

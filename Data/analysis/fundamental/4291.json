@@ -1,0 +1,46 @@
+{
+    "symbol": "4291",
+    "company_name": "4291",
+    "sector": "Consumer Defensive",
+    "ratios": {
+        "roe": 0.0,
+        "roa": 0.0,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.0,
+        "current_ratio": 0.872972504391989,
+        "quick_ratio": 0.8650380123343164,
+        "operating_cash_flow_ratio": 0.7860194192005584,
+        "debt_ratio": 0.47164359051065946,
+        "debt_to_equity": 0.8926618132001194,
+        "equity_multiplier": 1.8926618132001194,
+        "asset_turnover": 0.0,
+        "cash_conversion_ratio": 0.0,
+        "free_cash_flow": 129964432.0,
+        "revenue_growth": null,
+        "net_income_growth": null
+    },
+    "valuation": {
+        "dcf_value": null,
+        "graham_value": null,
+        "lynch_value": null,
+        "pe_value": 56.1,
+        "intrinsic_value": 56.1,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity"
+        ]
+    }
+}

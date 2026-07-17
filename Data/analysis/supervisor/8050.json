@@ -1,0 +1,38 @@
+{
+    "symbol": "8050",
+    "company_name": "8050",
+    "generated_at": "2026-07-17T13:46:13.883803",
+    "final_score": 29.37,
+    "recommendation": "Strong Sell",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 6.0,
+        "technical": 45.0,
+        "news": 50.0,
+        "risk": 25.15
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Short-Term Uptrend",
+        "Healthy RSI",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "8050 received a final investment score of 29.4/100, resulting in a Strong Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Short-Term Uptrend. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

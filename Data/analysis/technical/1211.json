@@ -1,0 +1,39 @@
+{
+    "symbol": "1211",
+    "company_name": "معادن",
+    "indicators": {
+        "sma20": 59.40500030517578,
+        "sma50": 61.26600044250488,
+        "sma200": 65.09500009536742,
+        "ema20": 58.947216491244156,
+        "ema50": 61.2146274427044,
+        "rsi": 31.259358571490765,
+        "macd": -1.4112772921900714,
+        "macd_signal": -1.1792615865951912,
+        "macd_histogram": -0.23201570559488016,
+        "stochastic_k": 0.0,
+        "stochastic_d": 1.7730493575753152,
+        "upper_band": 63.46208014719254,
+        "middle_band": 59.40500030517578,
+        "lower_band": 55.34792046315903,
+        "atr": 1.2671333531701825,
+        "adx": 26.972970720666233,
+        "obv": 369264145.0,
+        "current_price": 56.150001525878906,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

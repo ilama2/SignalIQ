@@ -1,0 +1,29 @@
+{
+    "symbol": "2360",
+    "name": "الفخارية",
+    "name_en": "Saudi vitrified clay pipes co",
+    "price": 17.95,
+    "change": -0.37,
+    "change_percent": -2.02,
+    "open": 18.35,
+    "high": 18.83,
+    "low": 17.95,
+    "previous_close": 18.32,
+    "volume": 146351,
+    "value": 2690384.36,
+    "bid": 17.9,
+    "ask": 17.95,
+    "bid_size": 501,
+    "ask_size": 1191,
+    "liquidity": {
+        "inflow_value": 1200336.18,
+        "inflow_volume": 64916,
+        "inflow_trades": 384,
+        "outflow_value": 1490048.18,
+        "outflow_volume": 81435,
+        "outflow_trades": 539,
+        "net_value": -289712.0
+    },
+    "updated_at": "2026-07-16T13:00:00+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,48 @@
+{
+    "symbol": "2310",
+    "company_name": "سبكيم العالمية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.06311884447325823,
+        "roa": -0.042352972562333696,
+        "gross_margin": 0.03769787629408258,
+        "operating_margin": -0.07758012155223976,
+        "net_margin": -0.1263569703837749,
+        "current_ratio": 1.383032896082045,
+        "quick_ratio": 1.0480206452765486,
+        "operating_cash_flow_ratio": 0.4178362097661705,
+        "debt_ratio": 0.29452114938991586,
+        "debt_to_equity": 0.4389263255387199,
+        "equity_multiplier": 1.490304945664959,
+        "asset_turnover": 0.33518509057077006,
+        "cash_conversion_ratio": -1.3916886220029077,
+        "free_cash_flow": 643805000.0,
+        "revenue_growth": -0.035527474183467904,
+        "net_income_growth": -3.0191979612286133
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 13.8100004196167,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 36,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

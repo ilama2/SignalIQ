@@ -1,0 +1,29 @@
+{
+    "symbol": "1140",
+    "name": "البلاد",
+    "name_en": "Bank Albilad SJSC",
+    "price": 24.24,
+    "change": 0.18,
+    "change_percent": 0.75,
+    "open": 24.0,
+    "high": 24.24,
+    "low": 23.9,
+    "previous_close": 24.06,
+    "volume": 1179210,
+    "value": 28381949.77,
+    "bid": 24.19,
+    "ask": 24.24,
+    "bid_size": 5236,
+    "ask_size": 4853,
+    "liquidity": {
+        "inflow_value": 13951634.59,
+        "inflow_volume": 579141,
+        "inflow_trades": 1265,
+        "outflow_value": 14430315.25,
+        "outflow_volume": 600069,
+        "outflow_trades": 1413,
+        "net_value": -478680.66000000015
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,46 @@
+{
+    "symbol": "4013",
+    "company_name": "سليمان الحبيب",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.30391756192642844,
+        "roa": 0.10348958516558457,
+        "gross_margin": 0.30692624357360226,
+        "operating_margin": 0.1925505647686043,
+        "net_margin": 0.17520159089951431,
+        "current_ratio": 1.1501731516169769,
+        "quick_ratio": 0.9322525368396647,
+        "operating_cash_flow_ratio": 0.7209475798779936,
+        "debt_ratio": 0.6367722862278967,
+        "debt_to_equity": 1.87000730965397,
+        "equity_multiplier": 2.936697073818169,
+        "asset_turnover": 0.5906886155214214,
+        "cash_conversion_ratio": 1.416591817624386,
+        "free_cash_flow": 418641571.0,
+        "revenue_growth": 0.22378269609207715,
+        "net_income_growth": 0.03722187856488697
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 30761.29590383299,
+        "lynch_value": 15351.492951916496,
+        "pe_value": 102.9,
+        "intrinsic_value": 15405.229618583164,
+        "current_price": 215.1000061035156,
+        "margin_of_safety": 0.986037208699308,
+        "upside": 70.61891762648062,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 58,
+        "rating": "Hold",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "High Debt"
+        ]
+    }
+}

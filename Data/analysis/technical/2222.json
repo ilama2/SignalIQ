@@ -1,0 +1,38 @@
+{
+    "symbol": "2222",
+    "company_name": "أرامكو السعودية",
+    "indicators": {
+        "sma20": 26.413000106811523,
+        "sma50": 26.905686836242676,
+        "sma200": 25.463198137283324,
+        "ema20": 26.56952686497135,
+        "ema50": 26.67223648747521,
+        "rsi": 51.69443256357074,
+        "macd": -0.03128122868057304,
+        "macd_signal": -0.11021166146833541,
+        "macd_histogram": 0.07893043278776238,
+        "stochastic_k": 76.4706212343906,
+        "stochastic_d": 81.04576263368575,
+        "upper_band": 26.94999532047637,
+        "middle_band": 26.413000106811523,
+        "lower_band": 25.87600489314668,
+        "atr": 0.28440935978697396,
+        "adx": 20.750741880251116,
+        "obv": 2243786505.0,
+        "current_price": 26.68000030517578,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 65,
+        "rating": "Hold",
+        "strengths": [
+            "Price Above SMA200",
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Short-Term Downtrend"
+        ]
+    }
+}

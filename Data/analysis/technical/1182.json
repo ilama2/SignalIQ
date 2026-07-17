@@ -1,0 +1,40 @@
+{
+    "symbol": "1182",
+    "company_name": "أملاك",
+    "indicators": {
+        "sma20": 8.76050000190735,
+        "sma50": 9.237594833374024,
+        "sma200": 10.367325382232666,
+        "ema20": 8.779518244324501,
+        "ema50": 9.12280876186837,
+        "rsi": 33.880142243712896,
+        "macd": -0.19732008874420437,
+        "macd_signal": -0.2040391845392601,
+        "macd_histogram": 0.006719095795055724,
+        "stochastic_k": 28.787966361298075,
+        "stochastic_d": 27.777841998285236,
+        "upper_band": 9.10941112776478,
+        "middle_band": 8.76050000190735,
+        "lower_band": 8.411588876049919,
+        "atr": 0.14745575494667915,
+        "adx": 33.646083378324995,
+        "obv": 35541080.0,
+        "current_price": 8.600000381469727,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 40,
+        "rating": "Sell",
+        "strengths": [
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Strong Trend",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend"
+        ]
+    }
+}

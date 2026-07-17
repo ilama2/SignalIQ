@@ -1,0 +1,47 @@
+{
+    "symbol": "1050",
+    "company_name": "بي اس اف",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.10567466224161429,
+        "roa": 0.017324656179738978,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.5105326184592353,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.8360566685311194,
+        "debt_to_equity": 5.099668654042313,
+        "equity_multiplier": 6.099668654042313,
+        "asset_turnover": 0.03393447461207086,
+        "cash_conversion_ratio": -2.266410307132694,
+        "free_cash_flow": -12730907000.0,
+        "revenue_growth": 0.08981904924829558,
+        "net_income_growth": 0.17811077335719447
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 3555.6155403828457,
+        "lynch_value": 1769.4352701914227,
+        "pe_value": 29.55,
+        "intrinsic_value": 1784.8669368580895,
+        "current_price": 19.459999084472656,
+        "margin_of_safety": 0.9890972269794363,
+        "upside": 90.71978524306581,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 13,
+        "rating": "Strong Sell",
+        "strengths": [
+            "High Net Margin"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

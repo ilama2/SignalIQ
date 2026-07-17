@@ -1,0 +1,45 @@
+{
+    "symbol": "4250",
+    "company_name": "4250",
+    "sector": "Consumer Cyclical",
+    "ratios": {
+        "roe": 0.15084908988528592,
+        "roa": 0.08904043679017894,
+        "gross_margin": 0.3049179769492449,
+        "operating_margin": 0.22815308698743578,
+        "net_margin": 1.1319725033434145,
+        "current_ratio": 1.366398780783612,
+        "quick_ratio": 1.366398780783612,
+        "operating_cash_flow_ratio": -0.003947350355375948,
+        "debt_ratio": 0.4096924784410277,
+        "debt_to_equity": 0.694086189753427,
+        "equity_multiplier": 1.6941638577173335,
+        "asset_turnover": 0.07865954033970568,
+        "cash_conversion_ratio": -0.0021627129070706293,
+        "free_cash_flow": -532076000.0,
+        "revenue_growth": 0.11174006453156761,
+        "net_income_growth": 10.958758558648608
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 4553.901619981644,
+        "lynch_value": 2268.323309990822,
+        "pe_value": 30.449999999999996,
+        "intrinsic_value": 2284.2249766574887,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 62,
+        "rating": "Hold",
+        "strengths": [
+            "High Net Margin",
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Negative Free Cash Flow"
+        ]
+    }
+}

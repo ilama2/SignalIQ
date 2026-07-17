@@ -1,0 +1,38 @@
+{
+    "symbol": "2160",
+    "company_name": "أميانتيت",
+    "indicators": {
+        "sma20": 13.613499927520753,
+        "sma50": 13.619599952697754,
+        "sma200": 15.776899971961974,
+        "ema20": 13.522720159378833,
+        "ema50": 13.773611830338528,
+        "rsi": 33.08827346364383,
+        "macd": -0.16961982191263303,
+        "macd_signal": -0.0711914682638762,
+        "macd_histogram": -0.09842835364875682,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.9804307726800139,
+        "upper_band": 14.445900634078068,
+        "middle_band": 13.613499927520753,
+        "lower_band": 12.781099220963437,
+        "atr": 0.351961168281436,
+        "adx": 22.531100324709435,
+        "obv": 122500674.0,
+        "current_price": 12.899999618530272,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 20,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "symbol": "4013",
+    "company_name": "سليمان الحبيب",
+    "indicators": {
+        "sma20": 214.69000015258788,
+        "sma50": 216.5760006713867,
+        "sma200": 243.46066635131837,
+        "ema20": 215.14819128635938,
+        "ema50": 219.39993311243828,
+        "rsi": 48.48288058468905,
+        "macd": -0.9193745528345971,
+        "macd_signal": -1.1013230603765851,
+        "macd_histogram": 0.181948507541988,
+        "stochastic_k": 56.81826063434999,
+        "stochastic_d": 43.181797164173275,
+        "upper_band": 218.78384900484056,
+        "middle_band": 214.69000015258788,
+        "lower_band": 210.5961513003352,
+        "atr": 3.105548689404419,
+        "adx": 11.02834827681559,
+        "obv": 13099190.0,
+        "current_price": 215.1000061035156,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend"
+        ]
+    }
+}

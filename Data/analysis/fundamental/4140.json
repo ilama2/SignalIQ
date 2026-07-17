@@ -1,0 +1,49 @@
+{
+    "symbol": "4140",
+    "company_name": "4140",
+    "sector": "Industrials",
+    "ratios": {
+        "roe": -0.24918763483952966,
+        "roa": -0.22306392436107575,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.0,
+        "current_ratio": 8.365090053567172,
+        "quick_ratio": 8.365090053567172,
+        "operating_cash_flow_ratio": -0.8689446705656634,
+        "debt_ratio": 0.1048355007473661,
+        "debt_to_equity": 0.11711311254511597,
+        "equity_multiplier": 1.117113112545116,
+        "asset_turnover": 0.0,
+        "cash_conversion_ratio": 0.4018152011814876,
+        "free_cash_flow": -10015047.0,
+        "revenue_growth": -1.0,
+        "net_income_growth": 0.27381030805452866
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": null,
+        "margin_of_safety": 0.0,
+        "upside": null,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 39,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt",
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

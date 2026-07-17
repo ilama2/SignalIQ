@@ -1,0 +1,47 @@
+{
+    "symbol": "6002",
+    "company_name": "6002",
+    "sector": "Consumer Cyclical",
+    "ratios": {
+        "roe": -0.09123425266132769,
+        "roa": -0.04909420469963558,
+        "gross_margin": 0.2388754032927452,
+        "operating_margin": -0.005840022265854822,
+        "net_margin": -0.07156938611086516,
+        "current_ratio": 1.1643618831456632,
+        "quick_ratio": 0.6848329594333287,
+        "operating_cash_flow_ratio": 0.5380865550665331,
+        "debt_ratio": 0.46188845452728083,
+        "debt_to_equity": 0.8583507609403214,
+        "equity_multiplier": 1.8583507609403214,
+        "asset_turnover": 0.6859665475345254,
+        "cash_conversion_ratio": -1.8541761599197277,
+        "free_cash_flow": 129606140.0,
+        "revenue_growth": -0.03752510571751424,
+        "net_income_growth": -0.33508778929357774
+    },
+    "valuation": {
+        "dcf_value": 29.48456670200547,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 29.48456670200547,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 33,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

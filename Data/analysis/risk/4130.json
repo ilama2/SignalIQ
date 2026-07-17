@@ -1,0 +1,35 @@
+{
+    "symbol": "4130",
+    "company_name": "4130",
+    "generated_at": "2026-07-17T13:30:41.866393",
+    "risk_score": 20.75,
+    "risk_level": "very high",
+    "higher_is_riskier": false,
+    "market_safety_score": 9.34,
+    "fundamental_safety_score": 55.0,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 55.7943,
+        "downside_volatility": 37.8662,
+        "max_drawdown": 66.9363,
+        "value_at_risk_95": 6.6667,
+        "conditional_var_95": 7.3516,
+        "sharpe_ratio": 0.0696,
+        "debt_to_equity": 0.123,
+        "current_ratio": 0.2105,
+        "interest_coverage": null
+    },
+    "volatility": 55.7943,
+    "max_drawdown": 66.9363,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown",
+        "Elevated one-day Value at Risk",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4130 received a safety score of 20.8/100 and a very high investment risk classification. Annualized volatility was 55.8%. Maximum drawdown was 66.9%. Main risk: High historical price volatility."
+}

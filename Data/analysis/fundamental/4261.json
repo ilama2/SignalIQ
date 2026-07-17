@@ -1,0 +1,45 @@
+{
+    "symbol": "4261",
+    "company_name": "4261",
+    "sector": "Industrials",
+    "ratios": {
+        "roe": 0.19707944759189483,
+        "roa": 0.056625041525128525,
+        "gross_margin": 0.31390197215294374,
+        "operating_margin": 0.18741094501018318,
+        "net_margin": 0.12040842579107085,
+        "current_ratio": 0.5140656592965445,
+        "quick_ratio": 0.48104051589742164,
+        "operating_cash_flow_ratio": -0.2527083933436505,
+        "debt_ratio": 0.7126791138445564,
+        "debt_to_equity": 2.480429193229585,
+        "equity_multiplier": 3.480429193229585,
+        "asset_turnover": 0.4702747432591024,
+        "cash_conversion_ratio": -1.665345159604955,
+        "free_cash_flow": -310707440.0,
+        "revenue_growth": 0.14922739292201137,
+        "net_income_growth": -0.01339165045752746
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 8350.603525048235,
+        "lynch_value": 4163.444262524117,
+        "pe_value": 41.85,
+        "intrinsic_value": 4185.299262524118,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [],
+        "weaknesses": [
+            "Weak Liquidity",
+            "High Debt",
+            "Net Income Declining",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

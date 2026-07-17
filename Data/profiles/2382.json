@@ -1,0 +1,29 @@
+{
+    "symbol": "2382",
+    "name": "أديس",
+    "name_en": "ADES",
+    "price": 18.51,
+    "change": -0.25,
+    "change_percent": -1.33,
+    "open": 19.08,
+    "high": 19.33,
+    "low": 18.5,
+    "previous_close": 18.76,
+    "volume": 2091609,
+    "value": 39156659.53,
+    "bid": 18.51,
+    "ask": 18.54,
+    "bid_size": 16130,
+    "ask_size": 100,
+    "liquidity": {
+        "inflow_value": 19163612.69,
+        "inflow_volume": 1021660,
+        "inflow_trades": 1907,
+        "outflow_value": 19993046.82,
+        "outflow_volume": 1069949,
+        "outflow_trades": 2395,
+        "net_value": -829434.129999999
+    },
+    "updated_at": "2026-07-16T13:00:00+00:00",
+    "is_delayed": true
+}

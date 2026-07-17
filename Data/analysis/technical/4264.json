@@ -1,0 +1,37 @@
+{
+    "symbol": "4264",
+    "company_name": "4264",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 53.916515345974624,
+        "ema50": 53.92213990888018,
+        "rsi": 35.62125325505579,
+        "macd": -0.73945869153156,
+        "macd_signal": -0.10163315398768386,
+        "macd_histogram": -0.6378255375438762,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 56298681.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

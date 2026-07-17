@@ -1,0 +1,40 @@
+{
+    "symbol": "2084",
+    "company_name": "مياهنا",
+    "indicators": {
+        "sma20": 14.79700002670288,
+        "sma50": 15.073765792846679,
+        "sma200": 17.723777842521667,
+        "ema20": 14.706415276231253,
+        "ema50": 15.120909736219755,
+        "rsi": 28.90538963433565,
+        "macd": -0.29997045199866434,
+        "macd_signal": -0.20948223121204557,
+        "macd_histogram": -0.09048822078661878,
+        "stochastic_k": 2.8571409108682118,
+        "stochastic_d": 1.2212037102813385,
+        "upper_band": 15.585393288841042,
+        "middle_band": 14.79700002670288,
+        "lower_band": 14.00860676456472,
+        "atr": 0.2939894510965795,
+        "adx": 20.5521039977879,
+        "obv": 181387136.0,
+        "current_price": 14.0,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Oversold",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

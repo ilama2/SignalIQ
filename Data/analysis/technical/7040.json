@@ -1,0 +1,37 @@
+{
+    "symbol": "7040",
+    "company_name": "7040",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 89.77384866607795,
+        "ema50": 91.57623490533547,
+        "rsi": 33.14435171039004,
+        "macd": -1.7631080053755142,
+        "macd_signal": -1.5121877607704899,
+        "macd_histogram": -0.25092024460502427,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 284561521.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 25,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "symbol": "4143",
+    "company_name": "4143",
+    "sector": "Basic Materials",
+    "ratios": {
+        "roe": 0.16018746882969762,
+        "roa": 0.11115825431905085,
+        "gross_margin": 0.21688984272576395,
+        "operating_margin": 0.13701231015874138,
+        "net_margin": 0.10831114573773676,
+        "current_ratio": 3.2598743286071192,
+        "quick_ratio": 2.5717180073864117,
+        "operating_cash_flow_ratio": 0.8196839873992714,
+        "debt_ratio": 0.30607396988569624,
+        "debt_to_equity": 0.44107578704790706,
+        "equity_multiplier": 1.4410757870479072,
+        "asset_turnover": 1.026286385966298,
+        "cash_conversion_ratio": 1.956078786356612,
+        "free_cash_flow": 146998313.0,
+        "revenue_growth": 0.10404423930918034,
+        "net_income_growth": 0.022238515197094515
+    },
+    "valuation": {
+        "dcf_value": 73.65421453507975,
+        "graham_value": 4408.60189884741,
+        "lynch_value": 2195.3334494237047,
+        "pe_value": 31.65,
+        "intrinsic_value": 1677.3098907015485,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 79,
+        "rating": "Buy",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

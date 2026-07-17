@@ -1,0 +1,49 @@
+{
+    "symbol": "1020",
+    "company_name": "الجزيرة",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.06914148441762734,
+        "roa": 0.00907369781295137,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.33737559708469395,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.8687662278387811,
+        "debt_to_equity": 6.619989759735886,
+        "equity_multiplier": 7.619989759735886,
+        "asset_turnover": 0.026894944066371024,
+        "cash_conversion_ratio": -0.5057879411030166,
+        "free_cash_flow": -1103839000.0,
+        "revenue_growth": 0.18083312936195547,
+        "net_income_growth": 0.22307088648316672
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 3625.1625872391096,
+        "lynch_value": 1808.3312936195548,
+        "pe_value": 15.0,
+        "intrinsic_value": 1816.1646269528883,
+        "current_price": 11.800000190734863,
+        "margin_of_safety": 0.9935027915335337,
+        "upside": 152.91225403359792,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 13,
+        "rating": "Strong Sell",
+        "strengths": [
+            "High Net Margin",
+            "Strong Earnings Growth"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "symbol": "8200",
+    "company_name": "8200",
+    "sector": "Financial Services",
+    "ratios": {
+        "roe": 0.06390003568469647,
+        "roa": 0.030203373640165825,
+        "gross_margin": -0.0,
+        "operating_margin": -0.0,
+        "net_margin": -1.3797904897133881,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.52733400980871,
+        "debt_to_equity": 1.115658881222437,
+        "equity_multiplier": 2.115658881222437,
+        "asset_turnover": -0.021889825930340855,
+        "cash_conversion_ratio": 1.8523995603195262,
+        "free_cash_flow": 257172901.0,
+        "revenue_growth": -3.277005141366548,
+        "net_income_growth": -0.7050526680219859
+    },
+    "valuation": {
+        "dcf_value": 22.61739013379782,
+        "graham_value": 511.14,
+        "lynch_value": 252.0,
+        "pe_value": 12.6,
+        "intrinsic_value": 199.58934753344946,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 16,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

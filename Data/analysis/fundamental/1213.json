@@ -1,0 +1,49 @@
+{
+    "symbol": "1213",
+    "company_name": "نسيج",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -2.2660226515656228,
+        "roa": -0.1480925137368618,
+        "gross_margin": -0.1354049513336388,
+        "operating_margin": -0.5477291345579761,
+        "net_margin": -0.4722650338095833,
+        "current_ratio": 0.7592171226668146,
+        "quick_ratio": 0.4905377656917698,
+        "operating_cash_flow_ratio": 0.1256913998187099,
+        "debt_ratio": 0.9346464989506866,
+        "debt_to_equity": 14.301399067288475,
+        "equity_multiplier": 15.301399067288475,
+        "asset_turnover": 0.3135792471067687,
+        "cash_conversion_ratio": -0.3995237115220651,
+        "free_cash_flow": 8362000.0,
+        "revenue_growth": -0.6339559350461234,
+        "net_income_growth": -0.20146029957270978
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 24.479999542236328,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 5,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

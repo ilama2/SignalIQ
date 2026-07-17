@@ -1,0 +1,29 @@
+{
+    "symbol": "2281",
+    "name": "تنمية",
+    "name_en": "TANMIAH",
+    "price": 60.95,
+    "change": 0.95,
+    "change_percent": 1.58,
+    "open": 60.0,
+    "high": 62.95,
+    "low": 60.0,
+    "previous_close": 60.0,
+    "volume": 411758,
+    "value": 25526280.2,
+    "bid": 60.95,
+    "ask": 61.0,
+    "bid_size": 2019,
+    "ask_size": 1282,
+    "liquidity": {
+        "inflow_value": 12475801.17,
+        "inflow_volume": 201185,
+        "inflow_trades": 1555,
+        "outflow_value": 13050478.97,
+        "outflow_volume": 210573,
+        "outflow_trades": 1586,
+        "net_value": -574677.8000000007
+    },
+    "updated_at": "2026-07-16T12:19:18+00:00",
+    "is_delayed": true
+}

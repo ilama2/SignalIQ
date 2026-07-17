@@ -1,0 +1,46 @@
+{
+    "symbol": "6001",
+    "company_name": "6001",
+    "sector": "Consumer Defensive",
+    "ratios": {
+        "roe": 0.12686758607082727,
+        "roa": 0.059031207373148695,
+        "gross_margin": 0.28585890090493377,
+        "operating_margin": 0.07379180455836866,
+        "net_margin": 0.04713930484847259,
+        "current_ratio": 1.0439420503540877,
+        "quick_ratio": 0.4837859620926408,
+        "operating_cash_flow_ratio": 0.38594068172560403,
+        "debt_ratio": 0.5347022103802549,
+        "debt_to_equity": 1.1491612947854943,
+        "equity_multiplier": 2.149161294785494,
+        "asset_turnover": 1.252271486881322,
+        "cash_conversion_ratio": 2.8962438909375843,
+        "free_cash_flow": 108046563.0,
+        "revenue_growth": -0.06727179628595484,
+        "net_income_growth": -0.04611207338593796
+    },
+    "valuation": {
+        "dcf_value": 44.96482955364669,
+        "graham_value": 736.285,
+        "lynch_value": 363.0,
+        "pe_value": 18.15,
+        "intrinsic_value": 290.59995738841167,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 37,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "High Debt",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

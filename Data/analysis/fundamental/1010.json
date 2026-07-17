@@ -1,0 +1,47 @@
+{
+    "symbol": "1010",
+    "company_name": "الرياض",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.13792726603038413,
+        "roa": 0.020041050910532213,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.5672267060154917,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.8546984110732874,
+        "debt_to_equity": 5.8822371963487665,
+        "equity_multiplier": 6.8822371963487665,
+        "asset_turnover": 0.03533164200132859,
+        "cash_conversion_ratio": -2.294517955180079,
+        "free_cash_flow": -25865856000.0,
+        "revenue_growth": 0.06385311903474168,
+        "net_income_growth": 0.11682786781312897
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 3172.1251743645016,
+        "lynch_value": 1575.5757121822508,
+        "pe_value": 37.012499999999996,
+        "intrinsic_value": 1594.9044621822507,
+        "current_price": 20.700000762939453,
+        "margin_of_safety": 0.9870211656849863,
+        "upside": 76.0485219033282,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 13,
+        "rating": "Strong Sell",
+        "strengths": [
+            "High Net Margin"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

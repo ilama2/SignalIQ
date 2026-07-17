@@ -1,0 +1,47 @@
+{
+    "symbol": "3005",
+    "company_name": "أسمنت ام القرى",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.05328657322318348,
+        "roa": 0.039548011089126624,
+        "gross_margin": 0.27581285069461453,
+        "operating_margin": 0.21572239168017276,
+        "net_margin": 0.1640347836788821,
+        "current_ratio": 1.8311098844739657,
+        "quick_ratio": 0.1128028831347772,
+        "operating_cash_flow_ratio": 0.27845971680843173,
+        "debt_ratio": 0.25782408781504446,
+        "debt_to_equity": 0.34738945791977266,
+        "equity_multiplier": 1.3473894579197727,
+        "asset_turnover": 0.24109527383257098,
+        "cash_conversion_ratio": 1.6594559818241894,
+        "free_cash_flow": 62046763.0,
+        "revenue_growth": 0.05070621391708105,
+        "net_income_growth": -0.04073956922649809
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 848.7781510235454,
+        "lynch_value": 420.8615755117727,
+        "pe_value": 12.45,
+        "intrinsic_value": 427.36324217843935,
+        "current_price": 13.989999771118164,
+        "margin_of_safety": 0.9672643821686544,
+        "upside": 29.547766202306516,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 51,
+        "rating": "Sell",
+        "strengths": [
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Net Income Declining"
+        ]
+    }
+}

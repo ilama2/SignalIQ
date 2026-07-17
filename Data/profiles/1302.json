@@ -1,0 +1,29 @@
+{
+    "symbol": "1302",
+    "name": "بوان",
+    "name_en": "Bawan Company",
+    "price": 38.5,
+    "change": 0.3,
+    "change_percent": 0.79,
+    "open": 38.2,
+    "high": 38.62,
+    "low": 38.06,
+    "previous_close": 38.2,
+    "volume": 78495,
+    "value": 3011108.32,
+    "bid": 38.38,
+    "ask": 38.5,
+    "bid_size": 1,
+    "ask_size": 139,
+    "liquidity": {
+        "inflow_value": 1378204.76,
+        "inflow_volume": 35901,
+        "inflow_trades": 275,
+        "outflow_value": 1632903.56,
+        "outflow_volume": 42594,
+        "outflow_trades": 297,
+        "net_value": -254698.80000000005
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

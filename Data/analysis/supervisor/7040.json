@@ -1,0 +1,38 @@
+{
+    "symbol": "7040",
+    "company_name": "7040",
+    "generated_at": "2026-07-17T13:46:13.873710",
+    "final_score": 45.66,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 69.0,
+        "technical": 25.0,
+        "news": 50.0,
+        "risk": 26.73
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Excellent Return on Equity",
+        "Strong Revenue Growth",
+        "Positive Free Cash Flow",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "7040 received a final investment score of 45.7/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Excellent Return on Equity. Main risk: High historical price volatility.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

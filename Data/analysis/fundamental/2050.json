@@ -1,0 +1,47 @@
+{
+    "symbol": "2050",
+    "company_name": "مجموعة صافولا",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.1585311311927951,
+        "roa": 0.04269822934540257,
+        "gross_margin": 0.1951184256249163,
+        "operating_margin": 0.044420292386200814,
+        "net_margin": 0.033528630918391214,
+        "current_ratio": 0.9298000222975159,
+        "quick_ratio": 0.4393637496039257,
+        "operating_cash_flow_ratio": 0.11197523299227634,
+        "debt_ratio": 0.6842749381556776,
+        "debt_to_equity": 2.5405943444439267,
+        "equity_multiplier": 3.7128268226388306,
+        "asset_turnover": 1.273485620374127,
+        "cash_conversion_ratio": 1.2220702557686898,
+        "free_cash_flow": 210154000.0,
+        "revenue_growth": 0.13171635473258336,
+        "net_income_growth": -0.9123281853521853
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 7717.055116382869,
+        "lynch_value": 3846.117558191434,
+        "pe_value": 43.8,
+        "intrinsic_value": 3868.9908915247674,
+        "current_price": 26.920000076293945,
+        "margin_of_safety": 0.9930421133491775,
+        "upside": 142.72180091232036,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 26,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt",
+            "Net Income Declining"
+        ]
+    }
+}

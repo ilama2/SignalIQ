@@ -1,0 +1,29 @@
+{
+    "symbol": "4011",
+    "name": "لازوردي",
+    "name_en": "L'azurde Company for Jewelry SJSC",
+    "price": 11.1,
+    "change": 0.18,
+    "change_percent": 1.65,
+    "open": 10.97,
+    "high": 11.37,
+    "low": 10.93,
+    "previous_close": 10.92,
+    "volume": 538075,
+    "value": 6003771.58,
+    "bid": 11.1,
+    "ask": 11.11,
+    "bid_size": 2045,
+    "ask_size": 100,
+    "liquidity": {
+        "inflow_value": 2485622.42,
+        "inflow_volume": 222888,
+        "inflow_trades": 572,
+        "outflow_value": 3518149.16,
+        "outflow_volume": 315187,
+        "outflow_trades": 713,
+        "net_value": -1032526.7400000002
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

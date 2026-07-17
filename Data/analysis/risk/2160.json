@@ -1,0 +1,31 @@
+{
+    "symbol": "2160",
+    "company_name": "أميانتيت",
+    "generated_at": "2026-07-17T13:30:41.708693",
+    "risk_score": 21.98,
+    "risk_level": "very high",
+    "higher_is_riskier": false,
+    "market_safety_score": 10.23,
+    "fundamental_safety_score": 57.2,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 52.3435,
+        "downside_volatility": 50.1848,
+        "max_drawdown": 86.1412,
+        "value_at_risk_95": 3.8602,
+        "conditional_var_95": 6.7943,
+        "sharpe_ratio": -0.3921,
+        "debt_to_equity": 1.2067,
+        "current_ratio": 1.0447,
+        "interest_coverage": null
+    },
+    "volatility": 52.3435,
+    "max_drawdown": 86.1412,
+    "strengths": [],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "أميانتيت received a safety score of 22.0/100 and a very high investment risk classification. Annualized volatility was 52.3%. Maximum drawdown was 86.1%. Main risk: High historical price volatility."
+}

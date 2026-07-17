@@ -1,0 +1,47 @@
+{
+    "symbol": "1830",
+    "company_name": "لجام للرياضة",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.2540446027439768,
+        "roa": 0.07601605661761204,
+        "gross_margin": 0.3810726620716825,
+        "operating_margin": 0.26554872467837626,
+        "net_margin": 0.18885262693748367,
+        "current_ratio": 0.3486541888252598,
+        "quick_ratio": 0.3252556746008223,
+        "operating_cash_flow_ratio": 0.8227572692190657,
+        "debt_ratio": 0.7000752511593624,
+        "debt_to_equity": 2.3396417413010626,
+        "equity_multiplier": 3.3419860756775637,
+        "asset_turnover": 0.40251521967325254,
+        "cash_conversion_ratio": 2.535322987947262,
+        "free_cash_flow": 399152594.0,
+        "revenue_growth": 0.07524041821811132,
+        "net_income_growth": -0.3328566088342711
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 8852.853931519025,
+        "lynch_value": 4401.564465759512,
+        "pe_value": 87.75,
+        "intrinsic_value": 4447.389465759512,
+        "current_price": 71.5,
+        "margin_of_safety": 0.9839231529978476,
+        "upside": 61.2012512693638,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 42,
+        "rating": "Sell",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Weak Liquidity",
+            "High Debt",
+            "Net Income Declining"
+        ]
+    }
+}

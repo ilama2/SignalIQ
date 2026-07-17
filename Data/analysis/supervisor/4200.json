@@ -1,0 +1,38 @@
+{
+    "symbol": "4200",
+    "company_name": "4200",
+    "generated_at": "2026-07-17T13:46:13.830658",
+    "final_score": 37.67,
+    "recommendation": "Sell",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 35.0,
+        "technical": 25.0,
+        "news": 50.0,
+        "risk": 52.79
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Excellent Return on Equity",
+        "Strong Revenue Growth",
+        "Strong Earnings Growth",
+        "Positive Free Cash Flow",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "4200 received a final investment score of 37.7/100, resulting in a Sell recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Excellent Return on Equity. Main risk: High debt-to-equity ratio.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

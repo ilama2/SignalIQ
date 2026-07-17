@@ -1,0 +1,32 @@
+{
+    "symbol": "3091",
+    "company_name": "أسمنت الجوف",
+    "generated_at": "2026-07-17T13:30:41.807819",
+    "risk_score": 53.22,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 55.93,
+    "fundamental_safety_score": 45.09,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 21.014,
+        "downside_volatility": 14.5728,
+        "max_drawdown": 74.7024,
+        "value_at_risk_95": 2.0543,
+        "conditional_var_95": 3.0873,
+        "sharpe_ratio": -1.1629,
+        "debt_to_equity": 0.9956,
+        "current_ratio": 0.1909,
+        "interest_coverage": null
+    },
+    "volatility": 21.014,
+    "max_drawdown": 74.7024,
+    "strengths": [
+        "Manageable financial leverage"
+    ],
+    "risks": [
+        "Large historical maximum drawdown",
+        "Weak short-term liquidity"
+    ],
+    "summary": "أسمنت الجوف received a safety score of 53.2/100 and a medium investment risk classification. Annualized volatility was 21.0%. Maximum drawdown was 74.7%. Main risk: Large historical maximum drawdown."
+}

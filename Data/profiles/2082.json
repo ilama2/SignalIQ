@@ -1,0 +1,29 @@
+{
+    "symbol": "2082",
+    "name": "أكوا",
+    "name_en": "ACWA",
+    "price": 183.7,
+    "change": -2.3,
+    "change_percent": -1.24,
+    "open": 186.0,
+    "high": 186.0,
+    "low": 183.5,
+    "previous_close": 186.0,
+    "volume": 178786,
+    "value": 32902078.3,
+    "bid": 183.6,
+    "ask": 183.7,
+    "bid_size": 1179,
+    "ask_size": 719,
+    "liquidity": {
+        "inflow_value": 12274366.83,
+        "inflow_volume": 66662,
+        "inflow_trades": 1043,
+        "outflow_value": 20627711.27,
+        "outflow_volume": 112124,
+        "outflow_trades": 1261,
+        "net_value": -8353344.4399999995
+    },
+    "updated_at": "2026-07-16T12:19:24+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,45 @@
+{
+    "symbol": "4165",
+    "company_name": "4165",
+    "sector": "Consumer Cyclical",
+    "ratios": {
+        "roe": 0.37245017111649775,
+        "roa": 0.24020295019689167,
+        "gross_margin": 0.6554150106659012,
+        "operating_margin": 0.22058352623591654,
+        "net_margin": 0.1971953608061683,
+        "current_ratio": 3.101198064662775,
+        "quick_ratio": 1.6293063443498776,
+        "operating_cash_flow_ratio": 2.479481491346554,
+        "debt_ratio": 0.3550735942023257,
+        "debt_to_equity": 0.5505645155948523,
+        "equity_multiplier": 1.5505645155948524,
+        "asset_turnover": 1.2180963548782333,
+        "cash_conversion_ratio": 2.0153871933736824,
+        "free_cash_flow": 403940630.0,
+        "revenue_growth": 0.19168441562033595,
+        "net_income_growth": 0.3863885408864911
+    },
+    "valuation": {
+        "dcf_value": 458.1595090016778,
+        "graham_value": 33427.03831793846,
+        "lynch_value": 16676.544158969227,
+        "pe_value": 130.5,
+        "intrinsic_value": 12673.060496477341,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 93,
+        "rating": "Strong Buy",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Strong Liquidity",
+            "Strong Earnings Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

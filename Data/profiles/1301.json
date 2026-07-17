@@ -1,0 +1,29 @@
+{
+    "symbol": "1301",
+    "name": "أسلاك",
+    "name_en": "United Wire Factories Co.",
+    "price": 16.44,
+    "change": 0.08,
+    "change_percent": 0.49,
+    "open": 17.0,
+    "high": 17.0,
+    "low": 16.4,
+    "previous_close": 16.36,
+    "volume": 37577,
+    "value": 622694.88,
+    "bid": 16.44,
+    "ask": 16.5,
+    "bid_size": 465,
+    "ask_size": 50,
+    "liquidity": {
+        "inflow_value": 263483.71,
+        "inflow_volume": 15792,
+        "inflow_trades": 144,
+        "outflow_value": 359211.17,
+        "outflow_volume": 21785,
+        "outflow_trades": 131,
+        "net_value": -95727.45999999996
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

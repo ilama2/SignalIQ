@@ -1,0 +1,34 @@
+{
+    "symbol": "7040",
+    "company_name": "7040",
+    "generated_at": "2026-07-17T13:30:42.059280",
+    "risk_score": 26.73,
+    "risk_level": "high",
+    "higher_is_riskier": false,
+    "market_safety_score": 7.07,
+    "fundamental_safety_score": 85.73,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 75.711,
+        "downside_volatility": 45.0362,
+        "max_drawdown": 61.171,
+        "value_at_risk_95": 3.7067,
+        "conditional_var_95": 6.595,
+        "sharpe_ratio": 0.653,
+        "debt_to_equity": 0.777,
+        "current_ratio": 1.709,
+        "interest_coverage": null
+    },
+    "volatility": 75.711,
+    "max_drawdown": 61.171,
+    "strengths": [
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "High historical price volatility",
+        "High downside volatility",
+        "Large historical maximum drawdown"
+    ],
+    "summary": "7040 received a safety score of 26.7/100 and a high investment risk classification. Annualized volatility was 75.7%. Maximum drawdown was 61.2%. Main risk: High historical price volatility."
+}

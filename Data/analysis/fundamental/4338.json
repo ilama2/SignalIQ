@@ -1,0 +1,47 @@
+{
+    "symbol": "4338",
+    "company_name": "4338",
+    "sector": "Real Estate",
+    "ratios": {
+        "roe": 0.015956574374194555,
+        "roa": 0.009247086868402392,
+        "gross_margin": 0.5773123554380704,
+        "operating_margin": 0.36104516686577026,
+        "net_margin": 0.09347024883715019,
+        "current_ratio": 0.6647650036927226,
+        "quick_ratio": 0.6647650036927226,
+        "operating_cash_flow_ratio": 1.4295439219925716,
+        "debt_ratio": 0.42048420597361713,
+        "debt_to_equity": 0.7255785093485723,
+        "equity_multiplier": 1.7255785093485723,
+        "asset_turnover": 0.09893080400923351,
+        "cash_conversion_ratio": 7.263718931854028,
+        "free_cash_flow": 112096000.0,
+        "revenue_growth": 0.048324780039116,
+        "net_income_growth": -0.31078041832221304
+    },
+    "valuation": {
+        "dcf_value": 12.967153223048658,
+        "graham_value": null,
+        "lynch_value": null,
+        "pe_value": null,
+        "intrinsic_value": 12.967153223048658,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "Net Income Declining"
+        ]
+    }
+}

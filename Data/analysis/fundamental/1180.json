@@ -1,0 +1,47 @@
+{
+    "symbol": "1180",
+    "company_name": "الأهلي",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.12304930254039494,
+        "roa": 0.020671592354749115,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.6124119357027769,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.8315521215172808,
+        "debt_to_equity": 4.949880339294693,
+        "equity_multiplier": 5.952579773668256,
+        "asset_turnover": 0.03375439169229664,
+        "cash_conversion_ratio": 0.3151290960293531,
+        "free_cash_flow": 5735806000.0,
+        "revenue_growth": 0.09202921387326109,
+        "net_income_growth": 0.18026163833851705
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 7451.809638184844,
+        "lynch_value": 3708.7773190924217,
+        "pe_value": 60.45,
+        "intrinsic_value": 3740.345652425755,
+        "current_price": 38.13999938964844,
+        "margin_of_safety": 0.9898030816042594,
+        "upside": 97.06884405564308,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 18,
+        "rating": "Strong Sell",
+        "strengths": [
+            "High Net Margin",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Assets",
+            "Weak Liquidity",
+            "High Debt"
+        ]
+    }
+}

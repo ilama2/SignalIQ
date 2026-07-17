@@ -1,0 +1,44 @@
+{
+    "symbol": "2285",
+    "company_name": "المطاحن العربية",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.1908849219946866,
+        "roa": 0.10160725538267958,
+        "gross_margin": 0.47191404004064624,
+        "operating_margin": 0.3058030147566385,
+        "net_margin": 0.23759425864995143,
+        "current_ratio": 2.4933717710629306,
+        "quick_ratio": 1.8872501190811046,
+        "operating_cash_flow_ratio": 2.8434535392506737,
+        "debt_ratio": 0.4677041312592103,
+        "debt_to_equity": 0.8786544452535787,
+        "equity_multiplier": 1.8786544452535787,
+        "asset_turnover": 0.4276502974441733,
+        "cash_conversion_ratio": 1.8145612177201031,
+        "free_cash_flow": 372057960.0,
+        "revenue_growth": 0.02435023244823189,
+        "net_income_growth": 0.10953758558662802
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 2811.27,
+        "lynch_value": 1386.0,
+        "pe_value": 69.3,
+        "intrinsic_value": 1422.1899999999998,
+        "current_price": 47.13999938964844,
+        "margin_of_safety": 0.9668539369636627,
+        "upside": 29.169495511540063,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 80,
+        "rating": "Buy",
+        "strengths": [
+            "High Net Margin",
+            "Strong Liquidity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": []
+    }
+}

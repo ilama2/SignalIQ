@@ -1,0 +1,46 @@
+{
+    "symbol": "8010",
+    "company_name": "8010",
+    "sector": "Financial Services",
+    "ratios": {
+        "roe": 0.2059008866075595,
+        "roa": 0.05068564898471698,
+        "gross_margin": 0.0,
+        "operating_margin": 0.0,
+        "net_margin": 0.056130198834037255,
+        "current_ratio": 0.0,
+        "quick_ratio": 0.0,
+        "operating_cash_flow_ratio": 0.0,
+        "debt_ratio": 0.7538347220363252,
+        "debt_to_equity": 3.0623113392440504,
+        "equity_multiplier": 4.06231133924405,
+        "asset_turnover": 0.9030014152378397,
+        "cash_conversion_ratio": 0.12378321732839942,
+        "free_cash_flow": -343332000.0,
+        "revenue_growth": 0.1819020924113464,
+        "net_income_growth": 0.0793415033878819
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 26802.08258446792,
+        "lynch_value": 13369.803792233959,
+        "pe_value": 110.25,
+        "intrinsic_value": 13427.37879223396,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 19,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Excellent Return on Equity"
+        ],
+        "weaknesses": [
+            "Weak Liquidity",
+            "High Debt",
+            "Negative Free Cash Flow"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "symbol": "8020",
+    "company_name": "8020",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 10.110923188150833,
+        "ema50": 9.632891311185444,
+        "rsi": 74.75999299583829,
+        "macd": 0.36756204447932106,
+        "macd_signal": 0.35013707494313673,
+        "macd_histogram": 0.01742496953618433,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 40440655.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Bullish MACD",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Overbought"
+        ]
+    }
+}

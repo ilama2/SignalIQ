@@ -1,0 +1,29 @@
+{
+    "symbol": "4014",
+    "name": "دار المعدات",
+    "name_en": "Scientific and Medical Equipment House Co",
+    "price": 28.54,
+    "change": 0.04,
+    "change_percent": 0.14,
+    "open": 28.5,
+    "high": 28.76,
+    "low": 28.32,
+    "previous_close": 28.5,
+    "volume": 38200,
+    "value": 1085953.08,
+    "bid": 28.52,
+    "ask": 28.54,
+    "bid_size": 1000,
+    "ask_size": 3257,
+    "liquidity": {
+        "inflow_value": 586847.92,
+        "inflow_volume": 20677,
+        "inflow_trades": 118,
+        "outflow_value": 499105.16,
+        "outflow_volume": 17523,
+        "outflow_trades": 118,
+        "net_value": 87742.76000000007
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

@@ -1,0 +1,40 @@
+{
+    "symbol": "2150",
+    "company_name": "زجاج",
+    "indicators": {
+        "sma20": 36.00300006866455,
+        "sma50": 36.62040016174316,
+        "sma200": 36.92076162338257,
+        "ema20": 36.067273429037456,
+        "ema50": 36.36091073828326,
+        "rsi": 43.934545298697536,
+        "macd": -0.17781918645513173,
+        "macd_signal": -0.19609181201520387,
+        "macd_histogram": 0.018272625560072142,
+        "stochastic_k": 40.908854460175306,
+        "stochastic_d": 33.04468458106978,
+        "upper_band": 36.30373909055824,
+        "middle_band": 36.00300006866455,
+        "lower_band": 35.70226104677086,
+        "atr": 0.41702952518341513,
+        "adx": 7.96850176261853,
+        "obv": 113888391.0,
+        "current_price": 35.91999816894531,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Bullish MACD",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend"
+        ]
+    }
+}

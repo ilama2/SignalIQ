@@ -1,0 +1,38 @@
+{
+    "symbol": "8050",
+    "company_name": "8050",
+    "indicators": {
+        "sma20": 0.0,
+        "sma50": 0.0,
+        "sma200": 0.0,
+        "ema20": 9.085048335156904,
+        "ema50": 8.638542699115757,
+        "rsi": 53.21149094446037,
+        "macd": 0.284526686729178,
+        "macd_signal": 0.3462558975732293,
+        "macd_histogram": -0.06172921084405125,
+        "stochastic_k": 0.0,
+        "stochastic_d": 0.0,
+        "upper_band": 0.0,
+        "middle_band": 0.0,
+        "lower_band": 0.0,
+        "atr": 0.0,
+        "adx": 0.0,
+        "obv": 51883012.0,
+        "current_price": NaN,
+        "trend": "Sideways"
+    },
+    "score": {
+        "score": 45,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

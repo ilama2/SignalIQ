@@ -1,0 +1,39 @@
+{
+    "symbol": "3002",
+    "company_name": "أسمنت نجران",
+    "indicators": {
+        "sma20": 5.764000010490418,
+        "sma50": 5.804600019454956,
+        "sma200": 6.454750013351441,
+        "ema20": 5.747739854678066,
+        "ema50": 5.824041575648424,
+        "rsi": 34.292714821134695,
+        "macd": -0.028423288353798704,
+        "macd_signal": -0.02303925658230947,
+        "macd_histogram": -0.0053840317714892345,
+        "stochastic_k": 5.555673292925868,
+        "stochastic_d": 1.851891097641918,
+        "upper_band": 5.856606839823664,
+        "middle_band": 5.764000010490418,
+        "lower_band": 5.671393181157171,
+        "atr": 0.047839731556589105,
+        "adx": 17.486339332611436,
+        "obv": -32283920.0,
+        "current_price": 5.690000057220459,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 15,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Stochastic"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD",
+            "Weak Volume Trend"
+        ]
+    }
+}

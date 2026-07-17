@@ -1,0 +1,39 @@
+{
+    "symbol": "4006",
+    "company_name": "أسواق المزرعة",
+    "indicators": {
+        "sma20": 13.067000007629394,
+        "sma50": 12.978000011444092,
+        "sma200": 13.979650015830993,
+        "ema20": 13.074317171474718,
+        "ema50": 13.059135717010546,
+        "rsi": 46.808850366228334,
+        "macd": 0.025962640988320018,
+        "macd_signal": 0.04420869385138974,
+        "macd_histogram": -0.01824605286306972,
+        "stochastic_k": 23.478225534928622,
+        "stochastic_d": 28.98551686124398,
+        "upper_band": 13.444099488527065,
+        "middle_band": 13.067000007629394,
+        "lower_band": 12.689900526731723,
+        "atr": 0.2847870893256014,
+        "adx": 22.257985511177306,
+        "obv": 24890085.0,
+        "current_price": 12.9399995803833,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 40,
+        "rating": "Sell",
+        "strengths": [
+            "Short-Term Uptrend",
+            "Healthy RSI",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Bearish MACD"
+        ]
+    }
+}

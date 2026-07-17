@@ -1,0 +1,48 @@
+{
+    "symbol": "3090",
+    "company_name": "أسمنت تبوك",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.031860653675040713,
+        "roa": 0.02630068431448589,
+        "gross_margin": 0.2222589803944335,
+        "operating_margin": 0.09694010373436451,
+        "net_margin": 0.1299118056327754,
+        "current_ratio": 1.5305493802214067,
+        "quick_ratio": 0.43537458401929574,
+        "operating_cash_flow_ratio": 0.3280990934733676,
+        "debt_ratio": 0.17450895443838435,
+        "debt_to_equity": 0.2114001785684528,
+        "equity_multiplier": 1.2114001785684527,
+        "asset_turnover": 0.20245030223681612,
+        "cash_conversion_ratio": 1.9779644138268002,
+        "free_cash_flow": 60856481.0,
+        "revenue_growth": -0.16403062323462514,
+        "net_income_growth": -0.5313114610938456
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 251.91899999999998,
+        "lynch_value": 124.19999999999999,
+        "pe_value": 6.21,
+        "intrinsic_value": 127.44299999999998,
+        "current_price": 7.739999771118164,
+        "margin_of_safety": 0.9392669682044665,
+        "upside": 15.465504362875304,
+        "recommendation": "Strong Buy"
+    },
+    "score": {
+        "score": 41,
+        "rating": "Sell",
+        "strengths": [
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

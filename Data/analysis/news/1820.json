@@ -1,0 +1,49 @@
+{
+    "symbol": "1820",
+    "company_name": "بان",
+    "generated_at": "2026-07-17T13:20:58.040381",
+    "article_count": 1,
+    "articles": [
+        {
+            "title": "Helle Kristoffersen and Roeland Baan nominated as members of the Supervisory Board",
+            "description": "Helle Kristoffersen and Roeland Baan nominated as members of the Supervisory BoardRotterdam, the Netherlands, 17 June 2026Vopak announces an Extraordinary General Meeting (EGM) on 29 July 2026. At this EGM, it will be proposed to appoint Mrs. H. Kristoffersen…",
+            "content": "Helle Kristoffersen and Roeland Baan nominated as members of the Supervisory Board Rotterdam, the Netherlands, 17 June 2026 Vopak announces an Extraordinary General Meeting (EGM) on 29 July 2026. A… [+1524 chars]",
+            "url": "https://www.globenewswire.com/news-release/2026/06/17/3313219/0/en/Helle-Kristoffersen-and-Roeland-Baan-nominated-as-members-of-the-Supervisory-Board.html",
+            "image_url": "https://ml-eu.globenewswire.com/Resource/Download/0eb05610-06f6-4087-b41b-62cabd00ecab",
+            "source": {
+                "name": "GlobeNewswire",
+                "url": null
+            },
+            "author": "Koninklijke Vopak N.V.",
+            "published_at": "2026-06-17T09:00:00Z",
+            "language": "en",
+            "sentiment": {
+                "label": "neutral",
+                "confidence": 0.9241,
+                "score": 0.0
+            },
+            "relevance_score": 1.0,
+            "impact_score": null
+        }
+    ],
+    "score": {
+        "score": 50,
+        "rating": "Neutral",
+        "positive_articles": 0,
+        "neutral_articles": 1,
+        "negative_articles": 0,
+        "average_sentiment": 0.0,
+        "confidence": 0.1848,
+        "strengths": [],
+        "risks": []
+    },
+    "summary": {
+        "summary": "Limited recent coverage for بان does not show a clear directional signal.",
+        "key_events": [
+            "Helle Kristoffersen and Roeland Baan nominated as members of the Supervisory Board"
+        ],
+        "opportunities": [],
+        "risks": [],
+        "expected_impact": "Neutral"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "symbol": "4334",
+    "company_name": "4334",
+    "generated_at": "2026-07-17T13:30:41.982707",
+    "risk_score": 99.11,
+    "risk_level": "very low",
+    "higher_is_riskier": false,
+    "market_safety_score": 98.88,
+    "fundamental_safety_score": 99.81,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 10.9784,
+        "downside_volatility": 8.1766,
+        "max_drawdown": 11.5246,
+        "value_at_risk_95": 1.028,
+        "conditional_var_95": 1.6144,
+        "sharpe_ratio": 0.6508,
+        "debt_to_equity": 0.4368,
+        "current_ratio": 1.9937,
+        "interest_coverage": null
+    },
+    "volatility": 10.9784,
+    "max_drawdown": 11.5246,
+    "strengths": [
+        "Relatively low historical volatility",
+        "Controlled historical drawdown",
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "No major risk signal was identified"
+    ],
+    "summary": "4334 received a safety score of 99.1/100 and a very low investment risk classification. Annualized volatility was 11.0%. Maximum drawdown was 11.5%. Main risk: No major risk signal was identified."
+}

@@ -1,0 +1,33 @@
+{
+    "symbol": "4339",
+    "company_name": "4339",
+    "generated_at": "2026-07-17T13:30:41.992688",
+    "risk_score": 74.22,
+    "risk_level": "low",
+    "higher_is_riskier": false,
+    "market_safety_score": 67.45,
+    "fundamental_safety_score": 94.5,
+    "metrics": {
+        "observations": 1245,
+        "annualized_volatility": 14.2468,
+        "downside_volatility": 10.261,
+        "max_drawdown": 55.0101,
+        "value_at_risk_95": 1.455,
+        "conditional_var_95": 2.1475,
+        "sharpe_ratio": -0.861,
+        "debt_to_equity": 0.7748,
+        "current_ratio": 2.2937,
+        "interest_coverage": null
+    },
+    "volatility": 14.2468,
+    "max_drawdown": 55.0101,
+    "strengths": [
+        "Relatively low historical volatility",
+        "Manageable financial leverage",
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "4339 received a safety score of 74.2/100 and a low investment risk classification. Annualized volatility was 14.2%. Maximum drawdown was 55.0%. Main risk: Large historical maximum drawdown."
+}

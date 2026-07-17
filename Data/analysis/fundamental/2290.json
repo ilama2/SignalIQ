@@ -1,0 +1,49 @@
+{
+    "symbol": "2290",
+    "company_name": "ينساب",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": 0.007358744125531627,
+        "roa": 0.0059653275236160545,
+        "gross_margin": 0.11540952090876776,
+        "operating_margin": 0.015393934871072403,
+        "net_margin": 0.014121699995733032,
+        "current_ratio": 3.7012405441190115,
+        "quick_ratio": 3.2170713263673956,
+        "operating_cash_flow_ratio": 0.8565383674742995,
+        "debt_ratio": 0.18935521851901682,
+        "debt_to_equity": 0.2335859341166423,
+        "equity_multiplier": 1.2335859341166422,
+        "asset_turnover": 0.4224227625157395,
+        "cash_conversion_ratio": 15.40859440188121,
+        "free_cash_flow": 839761000.0,
+        "revenue_growth": -0.09079905034268111,
+        "net_income_growth": -0.8118210756208158
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 85.19000000000001,
+        "lynch_value": 42.00000000000001,
+        "pe_value": 2.1,
+        "intrinsic_value": 43.09666666666667,
+        "current_price": 31.5,
+        "margin_of_safety": 0.2690850027070927,
+        "upside": 0.3681481481481483,
+        "recommendation": "Buy"
+    },
+    "score": {
+        "score": 47,
+        "rating": "Sell",
+        "strengths": [
+            "Strong Liquidity",
+            "Low Debt",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

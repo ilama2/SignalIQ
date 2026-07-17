@@ -1,0 +1,29 @@
+{
+    "symbol": "1020",
+    "name": "الجزيرة",
+    "name_en": "Bank Aljazira SJSC",
+    "price": 11.8,
+    "change": 0.14,
+    "change_percent": 1.2,
+    "open": 11.66,
+    "high": 11.8,
+    "low": 11.65,
+    "previous_close": 11.66,
+    "volume": 1567616,
+    "value": 18413929.68,
+    "bid": 11.78,
+    "ask": 11.8,
+    "bid_size": 5101,
+    "ask_size": 6298,
+    "liquidity": {
+        "inflow_value": 11382444.99,
+        "inflow_volume": 967889,
+        "inflow_trades": 1020,
+        "outflow_value": 7031484.76,
+        "outflow_volume": 599727,
+        "outflow_trades": 751,
+        "net_value": 4350960.23
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

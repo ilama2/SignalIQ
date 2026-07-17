@@ -1,0 +1,29 @@
+{
+    "symbol": "3010",
+    "name": "أسمنت العربية",
+    "name_en": "Arabian Cement",
+    "price": 23.4,
+    "change": 0.16,
+    "change_percent": 0.69,
+    "open": 23.23,
+    "high": 23.5,
+    "low": 23.23,
+    "previous_close": 23.24,
+    "volume": 257169,
+    "value": 6029242.28,
+    "bid": 23.4,
+    "ask": 23.44,
+    "bid_size": 2995,
+    "ask_size": 893,
+    "liquidity": {
+        "inflow_value": 4716741.64,
+        "inflow_volume": 200971,
+        "inflow_trades": 325,
+        "outflow_value": 1312500.61,
+        "outflow_volume": 56198,
+        "outflow_trades": 246,
+        "net_value": 3404241.0299999993
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

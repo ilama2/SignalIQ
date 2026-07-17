@@ -1,0 +1,31 @@
+{
+    "symbol": "2360",
+    "company_name": "الفخارية",
+    "generated_at": "2026-07-17T13:30:41.766709",
+    "risk_score": 48.88,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 41.01,
+    "fundamental_safety_score": 72.49,
+    "metrics": {
+        "observations": 1246,
+        "annualized_volatility": 33.0832,
+        "downside_volatility": 21.1993,
+        "max_drawdown": 86.8545,
+        "value_at_risk_95": 3.162,
+        "conditional_var_95": 4.4669,
+        "sharpe_ratio": -0.9302,
+        "debt_to_equity": 1.2098,
+        "current_ratio": 1.5562,
+        "interest_coverage": null
+    },
+    "volatility": 33.0832,
+    "max_drawdown": 86.8545,
+    "strengths": [
+        "Healthy short-term liquidity"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "الفخارية received a safety score of 48.9/100 and a medium investment risk classification. Annualized volatility was 33.1%. Maximum drawdown was 86.9%. Main risk: Large historical maximum drawdown."
+}

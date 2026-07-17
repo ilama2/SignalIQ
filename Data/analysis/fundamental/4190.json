@@ -1,0 +1,45 @@
+{
+    "symbol": "4190",
+    "company_name": "4190",
+    "sector": "Consumer Cyclical",
+    "ratios": {
+        "roe": 0.5954345507902394,
+        "roa": 0.23758726167497127,
+        "gross_margin": 0.12461222475403542,
+        "operating_margin": 0.09153321561091171,
+        "net_margin": 0.09231657506062611,
+        "current_ratio": 1.3732602945498482,
+        "quick_ratio": 0.44291327869030905,
+        "operating_cash_flow_ratio": 0.7933394289695109,
+        "debt_ratio": 0.600985093391618,
+        "debt_to_equity": 1.506172033771816,
+        "equity_multiplier": 2.506172033771816,
+        "asset_turnover": 2.573614343024999,
+        "cash_conversion_ratio": 1.3893224500377432,
+        "free_cash_flow": 1373911000.0,
+        "revenue_growth": 0.0702393377016842,
+        "net_income_growth": 0.07724894887340791
+    },
+    "valuation": {
+        "dcf_value": 19.964242803217385,
+        "graham_value": 1229.559476009305,
+        "lynch_value": 611.0822380046525,
+        "pe_value": 13.05,
+        "intrinsic_value": 468.4139892042937,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 41,
+        "rating": "Sell",
+        "strengths": [
+            "Excellent Return on Equity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "High Debt"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "symbol": "4263",
+    "company_name": "4263",
+    "sector": "Industrials",
+    "ratios": {
+        "roe": 0.43021364892238534,
+        "roa": 0.18713177762452124,
+        "gross_margin": 0.5632574937223065,
+        "operating_margin": 0.42837107753902703,
+        "net_margin": 0.4084978606088631,
+        "current_ratio": 3.9804071710490607,
+        "quick_ratio": 3.9804071710490607,
+        "operating_cash_flow_ratio": 1.8559935795538256,
+        "debt_ratio": 0.5650259398016412,
+        "debt_to_equity": 1.2989876673196916,
+        "equity_multiplier": 2.298987667319692,
+        "asset_turnover": 0.458097326007051,
+        "cash_conversion_ratio": 1.3718752238891516,
+        "free_cash_flow": 813605000.0,
+        "revenue_growth": 0.04557831081234084,
+        "net_income_growth": 0.055115015080846944
+    },
+    "valuation": {
+        "dcf_value": 159.89608660486851,
+        "graham_value": 8022.977405672242,
+        "lynch_value": 3974.428702836121,
+        "pe_value": 130.8,
+        "intrinsic_value": 3072.025548778308,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 71,
+        "rating": "Buy",
+        "strengths": [
+            "Excellent Return on Equity",
+            "High Net Margin",
+            "Strong Liquidity",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "High Debt"
+        ]
+    }
+}

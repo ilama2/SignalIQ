@@ -1,0 +1,38 @@
+{
+    "symbol": "2080",
+    "company_name": "الغاز",
+    "generated_at": "2026-07-17T13:46:13.757459",
+    "final_score": 50.37,
+    "recommendation": "Hold",
+    "confidence": 1.0,
+    "component_scores": {
+        "fundamental": 54.0,
+        "technical": 40.0,
+        "news": 50.0,
+        "risk": 63.13
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Low Debt",
+        "Positive Free Cash Flow",
+        "Oversold",
+        "Bullish MACD",
+        "Positive Stochastic",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "Large historical maximum drawdown"
+    ],
+    "summary": "الغاز received a final investment score of 50.4/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Low Debt. Main risk: Large historical maximum drawdown.",
+    "agent_status": {
+        "news": "available",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

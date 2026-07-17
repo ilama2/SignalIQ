@@ -1,0 +1,47 @@
+{
+    "symbol": "2010",
+    "company_name": "سابك",
+    "sector": "Unknown",
+    "ratios": {
+        "roe": -0.20027582797374932,
+        "roa": -0.10552621885098422,
+        "gross_margin": 0.1801926577023922,
+        "operating_margin": 0.04212914811724783,
+        "net_margin": -0.22123307149644025,
+        "current_ratio": 1.8006208008332394,
+        "quick_ratio": 1.5364619122708627,
+        "operating_cash_flow_ratio": 0.3281365052882227,
+        "debt_ratio": 0.36625259434717333,
+        "debt_to_equity": 0.6951025288226722,
+        "equity_multiplier": 1.897877419985672,
+        "asset_turnover": 0.4769911575027886,
+        "cash_conversion_ratio": -0.6190641993936902,
+        "free_cash_flow": 7184194000.0,
+        "revenue_growth": -0.010288042215492543,
+        "net_income_growth": -17.755623830873645
+    },
+    "valuation": {
+        "dcf_value": 0.0,
+        "graham_value": 0.0,
+        "lynch_value": 0.0,
+        "pe_value": 0.0,
+        "intrinsic_value": 0.0,
+        "current_price": 52.400001525878906,
+        "margin_of_safety": 0.0,
+        "upside": -1.0,
+        "recommendation": "Sell"
+    },
+    "score": {
+        "score": 33,
+        "rating": "Strong Sell",
+        "strengths": [
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Low Return on Equity",
+            "Low Return on Assets",
+            "Revenue Declining",
+            "Net Income Declining"
+        ]
+    }
+}

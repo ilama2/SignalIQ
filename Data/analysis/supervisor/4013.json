@@ -1,0 +1,39 @@
+{
+    "symbol": "4013",
+    "company_name": "سليمان الحبيب",
+    "generated_at": "2026-07-17T13:46:13.805876",
+    "final_score": 53.42,
+    "recommendation": "Hold",
+    "confidence": 0.75,
+    "component_scores": {
+        "fundamental": 58.0,
+        "technical": 45.0,
+        "news": 50.0,
+        "risk": 64.15
+    },
+    "weights": {
+        "fundamental": 0.35,
+        "technical": 0.3,
+        "news": 0.2,
+        "risk": 0.15
+    },
+    "strengths": [
+        "Excellent Return on Equity",
+        "Strong Revenue Growth",
+        "Positive Free Cash Flow",
+        "Healthy RSI",
+        "Bullish MACD",
+        "Positive Stochastic",
+        "Positive Volume Trend"
+    ],
+    "risks": [
+        "No major risk signal was identified"
+    ],
+    "summary": "سليمان الحبيب received a final investment score of 53.4/100, resulting in a Hold recommendation. The recommendation has high confidence based on the available agent reports. Main strength: Excellent Return on Equity. Main risk: No major risk signal was identified.",
+    "agent_status": {
+        "news": "missing",
+        "fundamental": "available",
+        "technical": "available",
+        "risk": "available"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "symbol": "1080",
+    "company_name": "العربي",
+    "indicators": {
+        "sma20": 21.15600004196167,
+        "sma50": 21.122800178527832,
+        "sma200": 21.642744722366334,
+        "ema20": 21.02464552408706,
+        "ema50": 21.16200371764198,
+        "rsi": 43.87472774852825,
+        "macd": -0.12833744149888915,
+        "macd_signal": -0.07738656366301759,
+        "macd_histogram": -0.05095087783587156,
+        "stochastic_k": 25.373142826234865,
+        "stochastic_d": 12.881982226116415,
+        "upper_band": 21.94045896702785,
+        "middle_band": 21.15600004196167,
+        "lower_band": 20.371541116895486,
+        "atr": 0.3236926155774256,
+        "adx": 15.148956010309027,
+        "obv": 154855609.0,
+        "current_price": 20.790000915527344,
+        "trend": "Bearish"
+    },
+    "score": {
+        "score": 35,
+        "rating": "Sell",
+        "strengths": [
+            "Healthy RSI",
+            "Positive Stochastic",
+            "Positive Volume Trend"
+        ],
+        "weaknesses": [
+            "Bearish Trend",
+            "Price Below SMA200",
+            "Short-Term Downtrend",
+            "Bearish MACD"
+        ]
+    }
+}

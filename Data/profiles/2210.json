@@ -1,0 +1,29 @@
+{
+    "symbol": "2210",
+    "name": "نماء للكيماويات",
+    "name_en": "Nama Chemicals Company SJSC",
+    "price": 0.0,
+    "change": 0.0,
+    "change_percent": 0.0,
+    "open": 0.0,
+    "high": 0.0,
+    "low": 0.0,
+    "previous_close": 18.74,
+    "volume": 0,
+    "value": 0.0,
+    "bid": 0.0,
+    "ask": 0.0,
+    "bid_size": 0,
+    "ask_size": 0,
+    "liquidity": {
+        "inflow_value": 0.0,
+        "inflow_volume": 0,
+        "inflow_trades": 0,
+        "outflow_value": 0.0,
+        "outflow_volume": 0,
+        "outflow_trades": 0,
+        "net_value": 0.0
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

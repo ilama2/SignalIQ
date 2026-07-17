@@ -1,0 +1,45 @@
+{
+    "symbol": "4260",
+    "company_name": "4260",
+    "sector": "Industrials",
+    "ratios": {
+        "roe": 0.11752711318315755,
+        "roa": 0.06538665773077187,
+        "gross_margin": 0.2835612955502409,
+        "operating_margin": 0.16904536988997043,
+        "net_margin": 0.14294419559344246,
+        "current_ratio": 0.6848968531939756,
+        "quick_ratio": 0.6279278836472951,
+        "operating_cash_flow_ratio": 0.09527305245099515,
+        "debt_ratio": 0.436150018645864,
+        "debt_to_equity": 0.7839436115130459,
+        "equity_multiplier": 1.7974173518253962,
+        "asset_turnover": 0.45742786168626687,
+        "cash_conversion_ratio": 0.34756931690994225,
+        "free_cash_flow": 88595000.0,
+        "revenue_growth": 0.2271796320939414,
+        "net_income_growth": 0.09894639820744672
+    },
+    "valuation": {
+        "dcf_value": 27.503477387125947,
+        "graham_value": 15112.947571037706,
+        "lynch_value": 7542.363785518854,
+        "pe_value": 49.8,
+        "intrinsic_value": 5683.153708485922,
+        "current_price": null,
+        "margin_of_safety": null,
+        "upside": null,
+        "recommendation": "Strong Sell"
+    },
+    "score": {
+        "score": 43,
+        "rating": "Sell",
+        "strengths": [
+            "Strong Revenue Growth",
+            "Positive Free Cash Flow"
+        ],
+        "weaknesses": [
+            "Weak Liquidity"
+        ]
+    }
+}

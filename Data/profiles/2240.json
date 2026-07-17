@@ -1,0 +1,29 @@
+{
+    "symbol": "2240",
+    "name": "صناعات",
+    "name_en": "Zamil Industrial Investment Co.",
+    "price": 31.34,
+    "change": 0.18,
+    "change_percent": 0.58,
+    "open": 31.16,
+    "high": 31.34,
+    "low": 30.88,
+    "previous_close": 31.16,
+    "volume": 172616,
+    "value": 5365026.46,
+    "bid": 30.94,
+    "ask": 31.34,
+    "bid_size": 189,
+    "ask_size": 4303,
+    "liquidity": {
+        "inflow_value": 2467521.41,
+        "inflow_volume": 79277,
+        "inflow_trades": 541,
+        "outflow_value": 2897505.06,
+        "outflow_volume": 93339,
+        "outflow_trades": 510,
+        "net_value": -429983.6499999999
+    },
+    "updated_at": "2026-07-16T12:20:00+00:00",
+    "is_delayed": true
+}

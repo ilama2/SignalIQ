@@ -1,0 +1,31 @@
+{
+    "symbol": "1120",
+    "company_name": "الراجحي",
+    "generated_at": "2026-07-17T13:30:41.598242",
+    "risk_score": 51.3,
+    "risk_level": "medium",
+    "higher_is_riskier": false,
+    "market_safety_score": 66.73,
+    "fundamental_safety_score": 5.0,
+    "metrics": {
+        "observations": 1247,
+        "annualized_volatility": 22.3342,
+        "downside_volatility": 14.975,
+        "max_drawdown": 42.8315,
+        "value_at_risk_95": 2.0471,
+        "conditional_var_95": 3.0765,
+        "sharpe_ratio": 0.5154,
+        "debt_to_equity": 6.3067,
+        "current_ratio": 0.0,
+        "interest_coverage": null
+    },
+    "volatility": 22.3342,
+    "max_drawdown": 42.8315,
+    "strengths": [],
+    "risks": [
+        "Large historical maximum drawdown",
+        "High debt-to-equity ratio",
+        "Weak short-term liquidity"
+    ],
+    "summary": "الراجحي received a safety score of 51.3/100 and a medium investment risk classification. Annualized volatility was 22.3%. Maximum drawdown was 42.8%. Main risk: Large historical maximum drawdown."
+}
