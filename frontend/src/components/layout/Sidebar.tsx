@@ -3,9 +3,7 @@ import {
   LayoutDashboard,
   Building2,
   TrendingUp,
-  Briefcase,
   Newspaper,
-  Star,
   Settings,
   Activity,
 } from "lucide-react";
@@ -16,9 +14,7 @@ const navItems = [
   { to: "/", label: "Dashboard", icon: LayoutDashboard },
   { to: "/companies", label: "Companies", icon: Building2 },
   { to: "/recommendations", label: "Recommendations", icon: TrendingUp },
-  { to: "/portfolio", label: "Portfolio", icon: Briefcase },
   { to: "/news", label: "News", icon: Newspaper },
-  { to: "/watchlist", label: "Watchlist", icon: Star },
   { to: "/settings", label: "Settings", icon: Settings },
 ];
 
